@@ -1,0 +1,45 @@
+node_1,node_2,edge,chunk_id,count
+all about steve,mary horowitz,Mary Horowitz is the creator of the crossword puzzle titled 'All About Steve' in the movie.,a6bde4f968aa42959f5cc7942a0470cb,4
+mary horowitz,sandra bullock,Sandra Bullock portrays the character Mary Horowitz in the movie.,a6bde4f968aa42959f5cc7942a0470cb,4
+steve miller,thomas haden church,Thomas Haden Church portrays the character Steve Miller in the movie.,a6bde4f968aa42959f5cc7942a0470cb,4
+mary horowitz,steve miller,Mary Horowitz and Steve Miller go on a blind date in the movie.,a6bde4f968aa42959f5cc7942a0470cb,4
+sacramento herald,mary horowitz,Mary Horowitz works for the Sacramento Herald as a crossword puzzle writer in the movie.,a6bde4f968aa42959f5cc7942a0470cb,4
+ccn,steve miller,"Steve Miller is a cameraman for CCN, the television news network, in the movie.",a6bde4f968aa42959f5cc7942a0470cb,4
+hartman hughes,ccn news reporter,Hartman Hughes is a CCN news reporter who helps Mary Horowitz pursue Steve Miller in the movie.,a6bde4f968aa42959f5cc7942a0470cb,4
+norm,mary horowitz,Mary Horowitz hitches a ride with a truck driver named Norm in the movie.,a6bde4f968aa42959f5cc7942a0470cb,4
+all about steve,fired,Creating a crossword titled 'All About Steve' gets Mary Horowitz fired from her job at the Sacramento Herald in the movie.,a6bde4f968aa42959f5cc7942a0470cb,4
+steve miller,mary horowitz's affection,Mary Horowitz is obsessed with winning Steve Miller's affection in the movie.,a6bde4f968aa42959f5cc7942a0470cb,4
+mary,steve,has a crush on but tries to move on and finds happiness in other relationships,f5343e476dff4407ab3591f13872f3ec,4
+mary,deaf children,rescues along with Steve and Hartman,f5343e476dff4407ab3591f13872f3ec,4
+mary,hartman,"[{'type': 'collaborates with', 'description': 'both travel together to cover a news story'}, {'type': 'gets into trouble with', 'description': 'accidentally falls into the mine shaft while making a beeline for Steve, causing Hartman to feel guilty'}, {'type': 'shares credit with', 'description': 'lets Hartman take the credit for rescuing Mary and the deaf children'}]",f5343e476dff4407ab3591f13872f3ec,4
+mary,elizabeth,"[{'type': 'travels with', 'description': 'meets and travels with a pair of protesters: Elizabeth, a ditzy but sweet and likeable girl'}, {'type': 'grows close to', 'description': 'gradually grows close to the two'}]",f5343e476dff4407ab3591f13872f3ec,4
+mary,howard,"[{'type': 'travels with', 'description': 'meets and travels with a pair of protesters: Elizabeth, a ditzy but sweet and likeable girl'}, {'type': 'grows close to', 'description': 'gradually grows close to the two'}]",f5343e476dff4407ab3591f13872f3ec,4
+mary,news anchor,"[{'type': 'annoyed by', 'description': 'annoys some bus passengers so much, the driver abandons her'}, {'type': 'accidentally falls into sinkhole while making a beeline for', 'description': 'accidentally falls into the mine shaft while making a beeline for Steve during a news story'}]",f5343e476dff4407ab3591f13872f3ec,4
+deaf children,news anchor,"[{'type': 'rescued by', 'description': 'initially appears that the children are rescued'}, {'type': 'stuck with one left behind and Mary', 'description': 'not all the children have been rescued, and Mary is trapped with one left behind during a breaking news story'}]",f5343e476dff4407ab3591f13872f3ec,4
+steve,news anchor,"[{'type': 'covers a news story with', 'description': 'initially covers a breaking news story: an old mine collapsed with numerous deaf children stuck inside'}, {'type': 'rescues Mary and the deaf children along with Hartman', 'description': 'rescues Mary and the deaf children during the breaking news story'}]",f5343e476dff4407ab3591f13872f3ec,4
+hartman,news anchor,"[{'type': 'feels guilty about getting Mary into trouble with', 'description': 'feels guilty by Elizabeth and Howard for getting Mary into this predicament during a breaking news story'}]",f5343e476dff4407ab3591f13872f3ec,4
+elizabeth,news anchor,"[{'type': 'travels with', 'description': 'meets and travels with a pair of protesters: Elizabeth, a ditzy but sweet and likeable girl during a news story'}]",f5343e476dff4407ab3591f13872f3ec,4
+howard,news anchor,"[{'type': 'travels with', 'description': 'meets and travels with a pair of protesters: Elizabeth, a ditzy but sweet and likeable girl during a news story'}]",f5343e476dff4407ab3591f13872f3ec,4
+kim barker,all about steve,author of the spec script All About Steve,f5343e476dff4407ab3591f13872f3ec,4
+fox 2000 pictures,all about steve,acquired the Kim Barker penned spec script All About Steve to be developed as a movie production company,f5343e476dff4407ab3591f13872f3ec,4
+competitive tv reporter,hartman,"[{'type': 'feels left behind by', 'description': 'despair that Hartman got popularity by jumping into the sinkhole to save Mary'}, {'type': 'jumps into sinkhole to gain popularity', 'description': 'also jumps into it after the end credits'}]",f5343e476dff4407ab3591f13872f3ec,4
+all about steve,kim barker,"In October 2006, it was announced that Fox 2000 Pictures had acquired the Kim Barker penned spec script All About Steve to be developed as a starring vehicle for Sandra Bullock.",6e3a7b843a8f478391f2c1644547ac12,4
+all about steve,sandra bullock,"In October 2006, it was announced that Fox 2000 Pictures had acquired the Kim Barker penned spec script All About Steve to be developed as a starring vehicle for Sandra Bullock.",6e3a7b843a8f478391f2c1644547ac12,4
+all about steve,bradley cooper,"In June 2007, it was announced Bradley Cooper had been signed on to co-star.",6e3a7b843a8f478391f2c1644547ac12,4
+all about steve,the final destination,"All About Steve opened at #3 behind the previous two weeks' #1 openers, The Final Destination and Inglourious Basterds with $11.2 million.",6e3a7b843a8f478391f2c1644547ac12,4
+all about steve,cinemascore,"Audiences polled by CinemaScore gave the film an average grade of ""C+"" on an A+ to F scale.",6e3a7b843a8f478391f2c1644547ac12,4
+all about steve,rotten tomatoes,"All About Steve is an oddly creepy, sour film, featuring a heroine so desperate and peculiar that audiences may be more likely to pity than root for her.",6e3a7b843a8f478391f2c1644547ac12,4
+mayfield senior school,all about steve,"Parts of the film were shot at Mayfield Senior School in Pasadena, California.",6e3a7b843a8f478391f2c1644547ac12,4
+the walt disney company's golden oak ranch,all about steve,"Scenes featuring the collapsed mine and sink hole were filmed at The Walt Disney Company's Golden Oak Ranch near Santa Clarita, California.",6e3a7b843a8f478391f2c1644547ac12,4
+all about steve,"september 4, 2009","All About Steve was not released until September 4, 2009.",6e3a7b843a8f478391f2c1644547ac12,4
+cinemascore,film,by CinemaScore gave the film an average grade of 'C+' on an A+ to F scale.,5d5ad341f61c460dbf2cad5b1273358e,4
+film,top ten worst chick flicks,Time named it one of the top ten worst chick flicks.,5d5ad341f61c460dbf2cad5b1273358e,4
+rating,c+,is an average grade given to the film by CinemaScore on an A+ to F scale.,5d5ad341f61c460dbf2cad5b1273358e,4
+film critic,roger ebert,gave the film one and a half stars out of four.,5d5ad341f61c460dbf2cad5b1273358e,4
+all about steve,worst picture,"The film was nominated for five Golden Raspberry Awards in 2010, including Worst Picture...",bc08859e461a487faddb35f00cc07cf2,4
+phil traill,worst director,... Including Worst Director (Phil Traill)...,bc08859e461a487faddb35f00cc07cf2,4
+sandra bullock,worst actress,"... Sandra Bullock, Worst Actress (Sandra Bullock),...",bc08859e461a487faddb35f00cc07cf2,4
+kim barker,worst screenplay,... Worst Screenplay (Kim Barker) and Worst Screen Couple (Sandra Bullock and Bradley Cooper).,bc08859e461a487faddb35f00cc07cf2,4
+all about steve,worst screen couple,... Ultimately won Worst Actress and Worst Screen Couple.,bc08859e461a487faddb35f00cc07cf2,4
+sandra bullock,all about steve,"Sandra Bullock accepted the Razzie for Worst Actress in person, giving out a copy of All About Steve to each member of the audience, promising to attend next year if they all watched to consider if it was 'truly the worst performance'.",bc08859e461a487faddb35f00cc07cf2,4
+audience member,all about steve,"When an audience member thanked her for the copies, Bullock replied 'You say that now'.",bc08859e461a487faddb35f00cc07cf2,4

@@ -1,0 +1,65 @@
+node_1,node_2,edge,chunk_id,count
+firestarter,horror,The movie 'Firestarter' falls under the genre of horror.,4b25bb7f86a94aa1b9c87a30b6f8dd84,4
+firestarter,science fiction,The movie 'Firestarter' also falls under the genre of science fiction.,4b25bb7f86a94aa1b9c87a30b6f8dd84,4
+2022,year,The movie 'Firestarter' was released in 2022.,4b25bb7f86a94aa1b9c87a30b6f8dd84,4
+keith thomas,director,Keith Thomas directed the movie 'Firestarter'.,4b25bb7f86a94aa1b9c87a30b6f8dd84,4
+stephen king's novel of the same name,novel,The movie 'Firestarter' is based on Stephen King's novel of the same name.,4b25bb7f86a94aa1b9c87a30b6f8dd84,4
+american,nationality,The movie 'Firestarter' is an American production.,4b25bb7f86a94aa1b9c87a30b6f8dd84,4
+zac efron,actor (1),Zac Efron is one of the actors in the movie 'Firestarter'.,4b25bb7f86a94aa1b9c87a30b6f8dd84,4
+ryan kiera armstrong,actor (2),Ryan Kiera Armstrong is one of the actors in the movie 'Firestarter'.,4b25bb7f86a94aa1b9c87a30b6f8dd84,4
+sydney lemmon,actor (3),Sydney Lemmon is one of the actors in the movie 'Firestarter'.,4b25bb7f86a94aa1b9c87a30b6f8dd84,4
+kurtwood smith,actor (4),Kurtwood Smith is one of the actors in the movie 'Firestarter'.,4b25bb7f86a94aa1b9c87a30b6f8dd84,4
+john beasley,actor (5),"John Beasley, who passed away recently, also acted in the movie 'Firestarter'.",4b25bb7f86a94aa1b9c87a30b6f8dd84,4
+michael greyeyes,actor (6),Michael Greyeyes is one of the actors in the movie 'Firestarter'.,4b25bb7f86a94aa1b9c87a30b6f8dd84,4
+gloria reuben,actor (7),Gloria Reuben is one of the actors in the movie 'Firestarter'.,4b25bb7f86a94aa1b9c87a30b6f8dd84,4
+blumhouse productions,production house (1),The production house responsible for making the movie 'Firestarter' is Blumhouse Productions.,4b25bb7f86a94aa1b9c87a30b6f8dd84,4
+weed road pictures,production house (2),Weed Road Pictures is also one of the production houses responsible for making the movie 'Firestarter'.,4b25bb7f86a94aa1b9c87a30b6f8dd84,4
+boulderlight pictures,production house (3),Another production house involved in making the movie 'Firestarter' is BoulderLight Pictures.,4b25bb7f86a94aa1b9c87a30b6f8dd84,4
+night platform,production house (4),The fourth production house involved in making the movie 'Firestarter' is Night Platform.,4b25bb7f86a94aa1b9c87a30b6f8dd84,4
+universal pictures,distribution company,Universal Pictures distributed the movie 'Firestarter' simultaneously in theaters and through streaming on Peacock.,4b25bb7f86a94aa1b9c87a30b6f8dd84,4
+charlie,powers becoming more unstable,"In the present day, Charlie is sitting at the kitchen table after having a nightmare. Her parents join her and Charlie explains that she has been repressing something bad, her powers becoming more unstable.",d8593176063d41a2b5b47ef9bc24be24,4
+charlie,ruckus at her school,"After exploding a bathroom stall due to anger at being bullied, Charlie unintentionally causes a ruckus at her school",d8593176063d41a2b5b47ef9bc24be24,4
+charlie,"supernatural powers: andy gains telepathy, and vicky gains telekinesis","Injected with the experimental chemical drug Lot-6, which secretly gives them supernatural powers: Andy gains telepathy, and Vicky gains telekinesis. Charlie is sitting at the kitchen table after having a nightmare.",d8593176063d41a2b5b47ef9bc24be24,4
+charlie,flames throughout the house,Charlie's powers overwhelm him and she sends a concussive burst of flames throughout the house. Andy and Charlie escape into their truck.,d8593176063d41a2b5b47ef9bc24be24,4
+charlie,department of scientific intelligence (dsi),"Captain Jane Hollister, leader of the Department of Scientific Intelligence (DSI), is monitoring thermal signatures caused by Charlie's outbursts.",d8593176063d41a2b5b47ef9bc24be24,4
+charlie,doctor joseph wanless,"Doctor Joseph Wanless, creator of Lot-6 and the resulting superhumans, implores Hollister to terminate Charlie before her powers become uncontrollable.",d8593176063d41a2b5b47ef9bc24be24,4
+charlie,irv manders,"After using the push to convince Irv to take them to Boston, they hitch a ride with him,",d8593176063d41a2b5b47ef9bc24be24,4
+vicky,telekinetic powers,"Meanwhile, in a secret facility, Captain Jane Hollister, leader of the Department of Scientific Intelligence (DSI), is monitoring thermal signatures caused by Charlie's outbursts. She visits Doctor Joseph Wanless, creator of Lot-6 and the resulting superhumans, who implores Hollister to terminate Charlie before her powers become uncontrollable. Vicky, who attempts to counterattack with her repressed telekinetic powers, is killed by John Rainbird.",d8593176063d41a2b5b47ef9bc24be24,4
+vicky,john rainbird,"Rainbird visits the McGee home, confronting Vicky, who attempts to counterattack with her repressed telekinetic powers. Rainbird kills her, holding Charlie at knifepoint as she and Andy enter the home.",d8593176063d41a2b5b47ef9bc24be24,4
+vicky,charlie's supernatural powers,"In the present day, Charlie is sitting at the kitchen table after having a nightmare. Her parents join her and Charlie explains that she has been repressing something bad, her powers becoming more unstable. Vicky gains telekinetic powers.",d8593176063d41a2b5b47ef9bc24be24,4
+andy,telepathy,"Injected with the experimental chemical drug Lot-6, which secretly gives them supernatural powers: Andy gains telepathy, and Vicky gains telekinesis.",d8593176063d41a2b5b47ef9bc24be24,4
+andy,client to stop smoking,"Andy is shown using his power, 'the push', to influence a client to stop smoking, although the strain causes his eyes to bleed.",d8593176063d41a2b5b47ef9bc24be24,4
+truck,road,"On the road, they encounter a man named Irv Manders. After using the push to convince Irv to take them to Boston, they hitch a ride with him.",7932540c545d4be4852f4d21d0f265ac,4
+irv manders,man named irv manders,"After Charlie accidentally stumbles upon his paralyzed wife, Irv flies into a rage before conceding that he occasionally overreacts.",7932540c545d4be4852f4d21d0f265ac,4
+irv manders,boston,"They hitch a ride with him, stopping off at his house.",7932540c545d4be4852f4d21d0f265ac,4
+news report,incident at the mcgee home,"Irv sits up all night watching a news report of the incident at the McGee home, which is being framed as murder by Andy.",7932540c545d4be4852f4d21d0f265ac,4
+andy,protect his daughter,Andy explains to Irv that he is just trying to protect his daughter.,7932540c545d4be4852f4d21d0f265ac,4
+charlie,paralyzed wife,"After Charlie accidentally stumbles upon his paralyzed wife,",7932540c545d4be4852f4d21d0f265ac,4
+irv manders,policemen,"When the police appear due to his prior emergency call, Irv attempts to protect Andy and Charlie.",7932540c545d4be4852f4d21d0f265ac,4
+rainbird,bushes,"Rainbird appears in the bushes,",7932540c545d4be4852f4d21d0f265ac,4
+rainbird,policemen,"Kills the policemen,",7932540c545d4be4852f4d21d0f265ac,4
+charlie,telepathic message from his cell at dsi,Charlie follows a telepathic message to her from his cell at DSI.,7932540c545d4be4852f4d21d0f265ac,4
+dsi,restricted area,"She reaches her father's glass-fronted cell, from inside which Hollister tells her not to try and burn her, lest she burn her father in the process.",7932540c545d4be4852f4d21d0f265ac,4
+charlie,dsi agents,"Relationship: Charlie sets both on fire and mentally unlocks all security doors, killing all DSI agents in the facility.",d660cec29f1e49dc95972ffb96a65299,4
+rainbird,charlie,"Relationship: Rainbird releases Rainbird when his holding cell is unlocked and Charlie spares him from being burned down, realizing that he is just as much of a pawn as her.",d660cec29f1e49dc95972ffb96a65299,4
+hollister,charlie,"Relationship: Hollister tells Charlie not to try and burn her, lest she burn her father in the process.",d660cec29f1e49dc95972ffb96a65299,4
+charlie,hollister,Relationship: Charlie sets both on fire after knowing that Hollister will die soon and apologizes to her.,d660cec29f1e49dc95972ffb96a65299,4
+andy,charlie,"Relationship: Andy tells Charlie that Rainbird, not he, telepathically called for her.",d660cec29f1e49dc95972ffb96a65299,4
+firestarter,director,"As director, with Scott Teems set to write the script.",feef769c4ff34e37a3a4bb3e49bc9713,4
+scott teems,script,Set to write the script.,feef769c4ff34e37a3a4bb3e49bc9713,4
+firestarter,release date (united states and canada),"Released in wide theaters by Universal Pictures and on Peacock in the United States on May 13, 2022.",feef769c4ff34e37a3a4bb3e49bc9713,4
+firestarter,gross (united states and canada),Grossed $9.7 million in the United States and Canada,feef769c4ff34e37a3a4bb3e49bc9713,4
+zac efron,cast,Joined the cast.,feef769c4ff34e37a3a4bb3e49bc9713,4
+michael greyeyes,cast,Joined the cast.,feef769c4ff34e37a3a4bb3e49bc9713,4
+ryan kiera armstrong,cast,Added to the cast.,feef769c4ff34e37a3a4bb3e49bc9713,4
+gloria reuben,cast,Added to the cast.,feef769c4ff34e37a3a4bb3e49bc9713,4
+sydney lemmon,cast,Added to the cast.,feef769c4ff34e37a3a4bb3e49bc9713,4
+firestarter,composer,"The score was composed by John Carpenter (who had been offered to direct the 1984 film), Cody Carpenter, and Daniel Davies.",feef769c4ff34e37a3a4bb3e49bc9713,4
+firestarter,digital release date,"The score was digitally released on May 13, 2022, by Back Lot Music.",feef769c4ff34e37a3a4bb3e49bc9713,4
+firestarter,release format (lp/cd and cassette),Released on LP/CD and Cassette in October by Sacred Bones Records.,feef769c4ff34e37a3a4bb3e49bc9713,4
+firestarter,streaming performance,"In the first week of streaming, the film was watched in two million households.",feef769c4ff34e37a3a4bb3e49bc9713,4
+pointless movie,film version of one of king's cheesier novels,Frank Scheck of The Hollywood Reporter wrote that the film never achieves the deliriously freaky heights one expects from a film version of one of King's cheesier novels.,9cbf9a269747469fb7caed83ca205a89,4
+pointless movie,2022's most pointless movie,"Benjamin Lee of The Guardian also gave it 1/5 stars, writing, 'No one here seems to know what they're doing and, more importantly, why. A strong contender for 2022's most pointless movie.'",9cbf9a269747469fb7caed83ca205a89,4
+thriller,cheesier novels,While it has a few genuine scares... it never achieves the deliriously freaky heights one expects from a film version of one of King's cheesier novels.,9cbf9a269747469fb7caed83ca205a89,4
+audience members,positive score,50% of audience members gave it a positive score,9cbf9a269747469fb7caed83ca205a89,4
+rating,5/5 rating,Jeffrey Anderson gave it a 1/5 rating,9cbf9a269747469fb7caed83ca205a89,4

@@ -1,0 +1,90 @@
+node_1,node_2,edge,chunk_id,count
+ghost rider,johnny blaze,Johnny Blaze sells his soul to Mephistopheles and becomes the Ghost Rider.,b1f5bfe279884be9ad03dbda8676413a,4
+mephistopheles,ghost rider,"Mephistopheles sends his bounty hunter, the Ghost Rider, to retrieve a contract for control of a thousand dark souls.",b1f5bfe279884be9ad03dbda8676413a,4
+san venganza,contract,Mephistopheles wants control of a thousand dark souls from the contract of San Venganza.,b1f5bfe279884be9ad03dbda8676413a,4
+ghost rider,refuses offer,The Ghost Rider refuses Mephistopheles' offer to retrieve the contract of San Venganza for control of a thousand dark souls.,b1f5bfe279884be9ad03dbda8676413a,4
+mephistopheles,offer,Mephistopheles offers Johnny Blaze to cure his father's cancer in exchange for his soul.,b1f5bfe279884be9ad03dbda8676413a,4
+father,cancer,Mephistopheles offers to cure Johnny Blaze's father's cancer in exchange for his soul.,b1f5bfe279884be9ad03dbda8676413a,4
+johnny blaze,father,Johnny Blaze's father dies later from burns sustained in a fire.,b1f5bfe279884be9ad03dbda8676413a,4
+johnny,mephistopheles,exchange for Johnny's soul,07282c3e91aa4d6da114bcd2d22f3ab8,4
+johnny,father,dies later from burns sustained in a stunt accident,07282c3e91aa4d6da114bcd2d22f3ab8,4
+mephistopheles,contract fulfilled,promises to see Johnny again,07282c3e91aa4d6da114bcd2d22f3ab8,4
+ghost rider,gressil,kills,07282c3e91aa4d6da114bcd2d22f3ab8,4
+penance stare,street thug,causes pain,07282c3e91aa4d6da114bcd2d22f3ab8,4
+ghost rider,caretaker,history explained,07282c3e91aa4d6da114bcd2d22f3ab8,4
+johnny,roxanne simpson,former sweetheart,07282c3e91aa4d6da114bcd2d22f3ab8,4
+mephistopheles,blackheart,seeks aid from the Hidden,07282c3e91aa4d6da114bcd2d22f3ab8,4
+johnny,ghost rider,transforms into,07282c3e91aa4d6da114bcd2d22f3ab8,4
+johnny,ghost rider,"Relationship between Johnny and his alter ego, Ghost Rider. Johnny transforms into Ghost Rider to fight against evil forces.",9c2f8b37acae46a9964f14e494ba950f,4
+johnny,devil's bounty hunter,"Johnny reveals himself as the Devil's bounty hunter, indicating his role in tracking down and punishing supernatural entities that have made a deal with the devil.",9c2f8b37acae46a9964f14e494ba950f,4
+blackheart,supernatural entity,Blackheart is identified as a supernatural entity. He has made a deal with the devil and is pursued by Johnny for his crimes.,9c2f8b37acae46a9964f14e494ba950f,4
+roxanne,friend of johnny,"Johnny's friend, Roxanne visits him before leaving town. She becomes a hostage in Blackheart's hands, leading Johnny to take action.",9c2f8b37acae46a9964f14e494ba950f,4
+mack,friend of johnny,"Johnny's friend, Mack is killed by Blackheart, causing Johnny to seek revenge.",9c2f8b37acae46a9964f14e494ba950f,4
+caretaker,mentor figure for johnny,"The Caretaker serves as a mentor figure for Johnny. He reveals the history of Carter Slade, another bounty hunter who preceded Johnny.",9c2f8b37acae46a9964f14e494ba950f,4
+abigor,supernatural entity,"Johnny kills the supernatural entity, Abigor after his brief imprisonment for Blackheart's crimes.",9c2f8b37acae46a9964f14e494ba950f,4
+san venganza,location associated with supernatural entities,San Venganza is identified as a location associated with supernatural entities. Johnny is instructed to retrieve the contract from here.,9c2f8b37acae46a9964f14e494ba950f,4
+water angel wallow,supernatural entity,"Wallow, another supernatural entity, is killed by Johnny in the course of his mission.",9c2f8b37acae46a9964f14e494ba950f,4
+carter slade,predecessor of johnny,The Caretaker reveals that Carter Slade was a Texas Ranger and preceded Johnny as a bounty hunter. Johnny learns about him from the Caretaker.,9c2f8b37acae46a9964f14e494ba950f,4
+spade,object containing information,The Caretaker reveals that the contract is hidden inside a spade. Johnny retrieves it with the help of the Caretaker.,9c2f8b37acae46a9964f14e494ba950f,4
+penance stare,ability of ghost rider,"Johnny tries to use the Penance Stare on Blackheart, an ability associated with his alter ego, Ghost Rider.",9c2f8b37acae46a9964f14e494ba950f,4
+soul,attribute possessed by humans,Blackheart is identified as a supernatural entity that does not have a soul. Johnny's attempts to use the Penance Stare on him prove ineffective.,9c2f8b37acae46a9964f14e494ba950f,4
+ghost rider,legion,"After killing the water angel Wallow, Johnny gives Blackheart the contract. Using the contract to absorb the thousand souls, Blackheart, now calling himself Legion, attempts to finish Johnny off, but is distracted when Roxanne uses Johnny's shotgun to separate them. Johnny shoots Blackheart with the gun, holding it in the shadows to allow him to enhance it with his power. Keeping his own body in shadow, he transforms again and uses his Penance Stare to render Blackheart catatonic by burning all the corrupt souls within him.",541f2737b8934c56914919ddc68fc912,4
+mephistopheles,ghost rider,"Mephistopheles appears and declares the contract is complete, offering to take back the curse of the Ghost Rider. Determined not to let anyone else make another deal, Johnny declines, declaring that he will use his power against the demon and against all harm that comes to the innocent. Infuriated, Mephistopheles vows to make Johnny pay and disappears with Blackheart's body.",541f2737b8934c56914919ddc68fc912,4
+roxanne,ghost rider,"Roxanne tells Johnny that he has his second chance and kisses him. Johnny rides away on his motorcycle, preparing for his new life as the Ghost Rider.",541f2737b8934c56914919ddc68fc912,4
+ghost rider,spider-man,Both Ghost Rider and Spider-Man are superhero films produced by Columbia Pictures. Ghost Rider was acquired by Columbia in turnaround from Dimension Films following their success with Spider-Man.,a160f64f7958428cb264b82eb82e0cb8,4
+ghost rider,dimension films,Dimension Films co-financed the production of Ghost Rider alongside Crystal Sky Entertainment.,a160f64f7958428cb264b82eb82e0cb8,4
+crystal sky entertainment,marvel entertainment,Marvel announced an agreement with Crystal Sky Entertainment to film Ghost Rider.,a160f64f7958428cb264b82eb82e0cb8,4
+ghost rider,jon voight,Jon Voight was attached as a producer for Ghost Rider.,a160f64f7958428cb264b82eb82e0cb8,4
+producer,crystal sky entertainment,Crystal Sky Entertainment acted as a production company for Ghost Rider.,a160f64f7958428cb264b82eb82e0cb8,4
+director,stephen norrington,"Stephen Norrington was set to direct Ghost Rider, but eventually dropped out due to his commitment to Tick Tock.",a160f64f7958428cb264b82eb82e0cb8,4
+ghost rider,jonathan hensleigh,"Jonathan Hensleigh was attached to write the script for Ghost Rider, which was later rewritten by Shane Salerno.",a160f64f7958428cb264b82eb82e0cb8,4
+ghost rider,nicolas cage,"Nicolas Cage entered talks to be cast into the lead role for Ghost Rider, but eventually left the project.",a160f64f7958428cb264b82eb82e0cb8,4
+ghost rider,computer-generated imagery,"Instead of using real actors, the director opted to create a crowd using computer-generated imagery in Ghost Rider.",43bec1c2b4e84190ba387cb40a5d4688,4
+ghost rider,summer 2006 release,Principal photography for Ghost Rider was completed by June 2005 and the movie was set to be released during the summer of 2006.,43bec1c2b4e84190ba387cb40a5d4688,4
+ghost rider,motorcycle district of melbourne,The director chose to film Ghost Rider in the motorcycle district of Melbourne.,43bec1c2b4e84190ba387cb40a5d4688,4
+ghost rider's skull flames,emotion other than rage,Ghost Rider's skull flames become smaller and blue to display any emotion other than rage.,72120cb581f541349c8544ad25a67dda,4
+johnny blaze,deceased father,"Blaze's stunt riding is a form of escape and a way to keep him connected to his deceased father, who taught him to ride.",72120cb581f541349c8544ad25a67dda,4
+hell cycle,grace,"The Hell Cycle transforms from Grace, a heavily customized hardtail chopper.",72120cb581f541349c8544ad25a67dda,4
+crew and cast,last-minute reshoots,"In April 2006, the crew and cast performed last-minute reshoots in Vancouver.",72120cb581f541349c8544ad25a67dda,4
+nicolas cage,hard drinking and smoking bad ass,Nicolas Cage decided to give Johnny Blaze more depth instead of portraying him as a 'hard drinking and smoking bad ass'.,72120cb581f541349c8544ad25a67dda,4
+buell motorcycle,blaze's stunt cycle,Cage rode a Buell motorcycle for Blaze's stunt cycle.,72120cb581f541349c8544ad25a67dda,4
+sony pictures imageworks,computer-generated fire,"The film's visual effects supervisor, Kevin Mack, and the visual effects team at Sony Pictures Imageworks handled the difficult task of creating computer-generated fire on a shot-by-shot basis.",72120cb581f541349c8544ad25a67dda,4
+computer-generated motorcycles,sony pictures imageworks,"Sony enlisted teams of animators, models, effects artists, lighters & 'Flame' artists to pull off such effects as the living morph where the hardtail chopper ('Grace') comes alive to become the 'Hell Cycle'.",72120cb581f541349c8544ad25a67dda,4
+chains,sony pictures imageworks,The department supervisors for these teams at Imageworks,72120cb581f541349c8544ad25a67dda,4
+water,sony pictures imageworks,The department supervisors for these teams at Imageworks,72120cb581f541349c8544ad25a67dda,4
+black goo,sony pictures imageworks,The department supervisors for these teams at Imageworks,72120cb581f541349c8544ad25a67dda,4
+dementors,sony pictures imageworks,The department supervisors for these teams at Imageworks,72120cb581f541349c8544ad25a67dda,4
+buildings,sony pictures imageworks,The department supervisors for these teams at Imageworks,72120cb581f541349c8544ad25a67dda,4
+sony,animators,enlisted teams of,d3f0c55cff5f4b6582a4006bea70a27a,4
+sony,models,enlisted teams of,d3f0c55cff5f4b6582a4006bea70a27a,4
+sony,effects artists,enlisted teams of,d3f0c55cff5f4b6582a4006bea70a27a,4
+sony,lighters,enlisted teams of,d3f0c55cff5f4b6582a4006bea70a27a,4
+sony,flame artists,enlisted teams of,d3f0c55cff5f4b6582a4006bea70a27a,4
+imageworks,department supervisors,included,d3f0c55cff5f4b6582a4006bea70a27a,4
+kevin hudson,animators,led the team that created the digital version of the hell cycle,d3f0c55cff5f4b6582a4006bea70a27a,4
+brian steiner,department supervisors,was one of,d3f0c55cff5f4b6582a4006bea70a27a,4
+jd cowels,department supervisors,was one of,d3f0c55cff5f4b6582a4006bea70a27a,4
+marco marenghi,department supervisors,was one of,d3f0c55cff5f4b6582a4006bea70a27a,4
+joe spadaro,"effects teams, front end automation",set up and led the team that created the fire using a custom pipeline,d3f0c55cff5f4b6582a4006bea70a27a,4
+scott palleiko,front end automation,set up by,d3f0c55cff5f4b6582a4006bea70a27a,4
+patrick witting,"effects teams, fire",led the team that created the fire using a custom pipeline and set it up and tweaked it to look and move believably,d3f0c55cff5f4b6582a4006bea70a27a,4
+daniel kuehn,effects producers,was one of,d3f0c55cff5f4b6582a4006bea70a27a,4
+kee-suk 'ken' hahn,digital effects supervisor,was one of,d3f0c55cff5f4b6582a4006bea70a27a,4
+max tyrie,animation,animated the transformation scene,d3f0c55cff5f4b6582a4006bea70a27a,4
+joe spadaro,finalization,finalized the transformation scene,d3f0c55cff5f4b6582a4006bea70a27a,4
+dane davis,sound designer,manipulated Ghost Rider's voice using a filter,d3f0c55cff5f4b6582a4006bea70a27a,4
+ghost rider,record held by 50 first dates simultaneously,"The four-day record held by 50 First Dates was surpassed by Valentine's Day in 2010, but Ghost Rider held these records until then.",e4b2df4d3169489c918b0d00a0847cfb,4
+ghost rider,total earnings,"The film's total worldwide earnings were $228,738,393, with $115,802,596 coming from North America.",e4b2df4d3169489c918b0d00a0847cfb,4
+ghost rider,rotten tomatoes approval rating,"As of [insert current year], Ghost Rider's Rotten Tomatoes approval rating is 27%, based on reviews from 140 critics, with an average rating of 3.90 out of 10.",e4b2df4d3169489c918b0d00a0847cfb,4
+ghost rider,critical consensus,"The critical consensus stated by Rotten Tomatoes is: 'Ghost Rider is a sour mix of morose, glum histrionics amidst jokey puns and hammy dialogue'.",e4b2df4d3169489c918b0d00a0847cfb,4
+audience grade,cinemascore grade,Audiences polled by CinemaScore gave Ghost Rider a grade 'B'.,e4b2df4d3169489c918b0d00a0847cfb,4
+johnny blaze,disappointment,Michael Ordoña of the Los Angeles Times expressed disappointment in Johnny Blaze.,e4b2df4d3169489c918b0d00a0847cfb,4
+johnny blaze,criticism,"Jeannette Catsoulis of the New York Times also criticized Johnny Blaze, calling him 'more funny than frightening'.",e4b2df4d3169489c918b0d00a0847cfb,4
+ghost rider,conventional,"According to Michael Ordoña of the Los Angeles Times, 'for a comic book with a rebel spirit, the adaptation feels obediently conventional'.",e4b2df4d3169489c918b0d00a0847cfb,4
+eric alt,clumsy and lifeless outing,"Eric Alt of the Chicago Tribune called Ghost Rider a 'clumsy, lifeless outing'.",e4b2df4d3169489c918b0d00a0847cfb,4
+nicolas cage,golden raspberry award nomination,Nicolas Cage was nominated for a Golden Raspberry Award for Worst Actor for his performance in Ghost Rider.,e4b2df4d3169489c918b0d00a0847cfb,4
+ghost rider,saturn award nomination,Ghost Rider was also nominated for Best Horror Film at the Saturn Awards.,e4b2df4d3169489c918b0d00a0847cfb,4
+spirit of vengeance,ghost rider,"Nicolas Cage reprised his role as Johnny Blaze in the movie 'Spirit of Vengeance', which is also known as 'Ghost Rider 2'. The film's title, 'Ghost Rider: Spirit of Vengeance', refers to the superhero persona adopted by Johnny Blaze.",9942e2cba2be48aba42e35a8cbef53a9,4
+nicolas cage,johnny blaze,"In 'Spirit of Vengeance' and its predecessor, Nicolas Cage portrayed Johnny Blaze, who is the human host of the flaming skull-headed superhero, Ghost Rider.",9942e2cba2be48aba42e35a8cbef53a9,4
+ghost rider,marvel cinematic universe,"In the TV series 'Agents of S.H.I.E.L.D.', set in the Marvel Cinematic Universe, a new version of Ghost Rider called Robbie Reyes appeared.",9942e2cba2be48aba42e35a8cbef53a9,4
+craig ferguson,geoff peterson,"According to Craig Ferguson, his robot skeleton sidekick Geoff Peterson was inspired by Nicolas Cage's portrayal of Ghost Rider in the movies 'Ghost Rider' and 'Ghost Rider: Spirit of Vengeance'.",9942e2cba2be48aba42e35a8cbef53a9,4

@@ -1,0 +1,33 @@
+node_1,node_2,edge,chunk_id,node_3,node_4,count
+sharon tate,nightmare,"In August 1968, actress Sharon Tate described to a journalist a nightmare she had, in which she and Jay Sebring, her friend and former lover, had their throats slashed.",92026bcd5f7d4318a13b2ab9007746ff,,,4
+sharon tate,pregnant,"She is initially happy to be reunited with Jay, as well as friend/house-sitter Abigail 'Gibby' Folger and Abigail's boyfriend Wojciech Frykowski. Sharon, who is very pregnant, has stayed behind in Europe filming The Thirteen Chairs.",92026bcd5f7d4318a13b2ab9007746ff,,,4
+sharon tate,roman polanski,"Her husband, Roman Polanski, has stayed behind in Europe to complete the script for his next film The Day of the Dolphin, but has assured Sharon he will be home in time for the birth of their baby.",92026bcd5f7d4318a13b2ab9007746ff,,,4
+sharon tate,affair,"Sharon becomes angry upon finding that a new caretaker, Steven Parent, is living in a trailer on the property without her knowledge and asks what happened to the previous caretaker, William Garretson.",92026bcd5f7d4318a13b2ab9007746ff,,,4
+jay sebring,sharon tate,"Sharon Tate, actress, describes a nightmare she had to a journalist in which Jay Sebring, her friend and former lover, had their throats slashed.",92026bcd5f7d4318a13b2ab9007746ff,,,4
+abigail folger,friend/house-sitter,"Sharon is initially happy to be reunited with Jay, as well as friend/house-sitter Abigail 'Gibby' Folger and Abigail's boyfriend Wojciech Frykowski.",92026bcd5f7d4318a13b2ab9007746ff,,,4
+wojciech frykowski,friend/house-sitter,"Sharon is initially happy to be reunited with Jay, as well as friend/house-sitter Abigail 'Gibby' Folger and Abigail's boyfriend Wojciech Frykowski.",92026bcd5f7d4318a13b2ab9007746ff,,,4
+steven parent,caretaker,"Sharon finds that a new caretaker, Steven Parent, is living in a trailer on the property without her knowledge.",92026bcd5f7d4318a13b2ab9007746ff,,,4
+william garretson,previous caretaker,"Sharon asks what happened to the previous caretaker, William Garretson.",92026bcd5f7d4318a13b2ab9007746ff,,,4
+sharon,charles manson,Sharon remembers Charles Manson's voice from her nightmare and finds a recording of his music left behind by Terry Melcher. She becomes convinced that Manson and his 'family' are plotting to kill her.,9bef18b2e7184424a303fbf467825edb,,,4
+abigail,steven parent,"Sharon asks Steven, who is living on the property without her knowledge, about the previous caretaker, William Garretson. Abigail sees a woman standing outside her bedroom window.",9bef18b2e7184424a303fbf467825edb,,,4
+wojciech,sharon,Sharon finds Sharon's pet dog dead alongside the trail during her walk with Abigail. Sharon tells Jay that she wishes Wojciech and Abigail would leave due to their extended stay at her home.,9bef18b2e7184424a303fbf467825edb,,,4
+steven parent,sharon,"Sharon brings the Manson recording to Steven, who determines that it contains subliminal messages when played in reverse, revealing the phrase 'Helter Skelter'.",9bef18b2e7184424a303fbf467825edb,,,4
+abigail,steven parent,Abigail and Wojciech dismiss Sharon's fears of Manson and his 'family' as paranoia stemming from her pregnancy.,9bef18b2e7184424a303fbf467825edb,,,4
+tex watson,sharon,"In Sharon's nightmare, Tex Watson, Patricia Krenwinkel, and Susan Atkins brutally murder Sharon, Jay, Abigail, and Wojciech.",9bef18b2e7184424a303fbf467825edb,Jay,Abigail,4
+subliminal messages,helter skelter,revealed when played in reverse in the given context.,1c80adc2c7ac475088ae26b681440097,,,4
+sharon,steven's corpse,"found by Sharon in her nightmare, leading her to believe that dreams are premonitions.",1c80adc2c7ac475088ae26b681440097,,,4
+manson's followers,impending murder,arrived and Sharon attempted to thwart it.,1c80adc2c7ac475088ae26b681440097,,,4
+tex,steven,ran to start his car when Steven believed he was going into labor.,1c80adc2c7ac475088ae26b681440097,,,4
+sharon,tex,stabbed tex with a penknife and freed jay.,1c80adc2c7ac475088ae26b681440097,,,4
+sharon,jay,joined by sharon to escape from tex.,1c80adc2c7ac475088ae26b681440097,,,4
+abigail,susan,smashed susan's head on the corner of a table and killed her.,1c80adc2c7ac475088ae26b681440097,,,4
+patricia,wojciech,attempted to kill wojciech but he violently beat her before drowning her in the bathtub.,1c80adc2c7ac475088ae26b681440097,,,4
+tex,group,tracked the group as steven attempted to use a cb radio to call for help.,1c80adc2c7ac475088ae26b681440097,,,4
+steven,tex,beat tex with a shovel before sharon shot him to death.,1c80adc2c7ac475088ae26b681440097,,,4
+the haunting of sharon tate,poorly acted and offensively exploitative take on a real life tragedy,"represents the events it seeks to dramatize, which are portrayed in a poorly acted and offensive manner",2e2f51ef4a0a435eafa141e7fc137268,,,4
+sharon tate,title role,refers to the miscasting of the main character played by actress Maddie Hughes,2e2f51ef4a0a435eafa141e7fc137268,,,4
+manson murders,schlock horror,describes how the film depicts the final days of Tate's life with a senseless and cruel portrayal similar to a snuff film,2e2f51ef4a0a435eafa141e7fc137268,,,4
+manson cult’s crimes,fodder for a sleazy b-thriller,characterizes how the movie turns the Manson cult's heinous acts into cheap and low-quality horror entertainment,2e2f51ef4a0a435eafa141e7fc137268,,,4
+fate,nature of reality,"highlights the film's misguided attempts to explore profound concepts such as destiny and the essence of existence, which are presented in a heavy-handed manner",2e2f51ef4a0a435eafa141e7fc137268,,,4
+reality,appalling,"The reviewer Sheila O'Malley of RogerEbert.com described the film as 'appalling from start to finish', implying that the movie does not accurately represent reality.",54daf4c60af14b18ba9646d7a5e3c95c,,,4
+movie,reality,"The movie opens with a quote from Edgar Allen Poe, which can be interpreted as an attempt to create a fictional world, hence presenting a deviation from reality.",54daf4c60af14b18ba9646d7a5e3c95c,,,4

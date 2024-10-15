@@ -1,0 +1,78 @@
+node_1,node_2,edge,chunk_id,count
+a wednesday!,prakash rathod,"The protagonist of the movie, Prakash Rathod is the Mumbai police commissioner who describes in a voiceover his most challenging case which is depicted throughout the movie.",cb7ed8372f8145a691d74d1a697e6288,4
+mumbai,a wednesday!,"The movie 'A Wednesday!' takes place in Mumbai, which is one of the key locations and plays a significant role in the storyline.",cb7ed8372f8145a691d74d1a697e6288,4
+police commissioner,prakash rathod,Prakash Rathod is the Police Commissioner who faces a challenging case in Mumbai as described by him in the beginning.,cb7ed8372f8145a691d74d1a697e6288,4
+case,most challenging case,"The movie revolves around the most challenging case faced by Prakash Rathod, which involves an anonymous caller threatening to detonate bombs throughout Mumbai if four terrorists are not freed from police custody.",cb7ed8372f8145a691d74d1a697e6288,4
+challenging,most challenging case,"The case that Prakash Rathod describes as the most challenging is depicted throughout the movie and requires a lot of mental, physical, and emotional effort from him.",cb7ed8372f8145a691d74d1a697e6288,4
+anonymous caller,bombs,"The anonymous caller threatens to detonate bombs throughout Mumbai if his demands are not met, which is a significant challenge for Prakash Rathod and his team.",cb7ed8372f8145a691d74d1a697e6288,4
+four terrorists,police custody,"The anonymous caller demands the release of four terrorists who are currently in police custody, which poses a significant challenge for Prakash Rathod and his team.",cb7ed8372f8145a691d74d1a697e6288,4
+bombs,mumbai,"The anonymous caller threatens to detonate bombs throughout Mumbai, which is one of the key locations in the movie and plays a significant role in the storyline.",cb7ed8372f8145a691d74d1a697e6288,4
+retirement,a wednesday!,"In the beginning of the movie, Prakash Rathod describes that he is going to retire the following day, which adds an emotional and personal touch to the storyline.",cb7ed8372f8145a691d74d1a697e6288,4
+an unnamed man,chatrapati shivaji terminus railway station,"carries a travel bag, assumed to contain explosives, in the Chatrapati Shivaji Terminus railway station",439c7fffc05d40578c91343594a86492,4
+an unnamed man,restroom of a police station opposite the mumbai police headquarters,proceeds to hide the bag in the restroom of a police station opposite the Mumbai Police headquarters,439c7fffc05d40578c91343594a86492,4
+an unnamed man,"sim cards, mobile phones, and other gadgets","sets up his base of operations, equipped with SIM cards, mobile phones, and other gadgets",439c7fffc05d40578c91343594a86492,4
+an unnamed man,police station opposite the mumbai police headquarters,opposite the Mumbai Police headquarters,439c7fffc05d40578c91343594a86492,4
+an unnamed man,rathod,calls Rathod and informs him that he has placed five bombs in locations throughout Mumbai and has programmed them to explode simultaneously within four hours unless the Commissioner gives in to his demands and releases four terrorists,439c7fffc05d40578c91343594a86492,4
+an unnamed man,commissioner,unless the Commissioner gives in to his demands,439c7fffc05d40578c91343594a86492,4
+an unnamed man,four terrorists,releases four terrorists,439c7fffc05d40578c91343594a86492,4
+rathod,police team,Alerts his team to trace the location of the caller,439c7fffc05d40578c91343594a86492,4
+anuj,location of the caller,Deputes a young hacker named Anuj to track the location of the caller,439c7fffc05d40578c91343594a86492,4
+police officers arif and jai,four militants,Rounded up by police officers Arif and Jai,439c7fffc05d40578c91343594a86492,4
+arif,one of the militants,"Takes one of them, Ibrahim Khan, captive as he suspects that the caller would not reveal the locations of the bombs even after the militants are released",439c7fffc05d40578c91343594a86492,4
+naina roy,bench on a juhu aviation base runway,"The four terrorists demanded by the caller are rounded up by police officers Arif and Jai. Police depute a young hacker named Anuj to track the location of the caller. The caller asks police officers Arif and Jai to leave the four militants near a bench on a Juhu Aviation Base runway, but Arif leaves only three behind and takes one of them, Ibrahim Khan, captive as he suspects that the caller would not reveal the locations of the bombs even after the militants are released.",439c7fffc05d40578c91343594a86492,4
+explosion,three terrorists,causality,b8d96a3dddf54a81b652854f55deb7de,4
+anonymous caller,explosion,"temporal sequence (phone rings, explosion)",b8d96a3dddf54a81b652854f55deb7de,4
+three terrorists,terrorist organization,membership,b8d96a3dddf54a81b652854f55deb7de,4
+caller,terrorist organization,non-membership,b8d96a3dddf54a81b652854f55deb7de,4
+anonymous caller,three terrorists,relation of perpetrator and victim,b8d96a3dddf54a81b652854f55deb7de,4
+terrorist attacks,major cities in india,spatial association,b8d96a3dddf54a81b652854f55deb7de,4
+caller,terrorist attacks,motivation,b8d96a3dddf54a81b652854f55deb7de,4
+rathod,caller,identification,b8d96a3dddf54a81b652854f55deb7de,4
+rathod,five bombs in mumbai,final demand (Rathod indirectly orders Arif and Jai to kill Ibrahim and make it look like it was done in self-defense),b8d96a3dddf54a81b652854f55deb7de,4
+caller,five bombs in mumbai,denial,b8d96a3dddf54a81b652854f55deb7de,4
+a wednesday!,film,A Wednesday! is a film.,d308373cc70c4ef59fc892e1422828ca,4
+mumbai,location,A Wednesday! was filmed on location around Mumbai.,d308373cc70c4ef59fc892e1422828ca,4
+t-series,label,The soundtrack album of A Wednesday! is released under T-Series label.,d308373cc70c4ef59fc892e1422828ca,4
+sanjoy chowdhury,music composer,Music composition by Sanjoy Chowdhury with lyrics inscribed by Irshad Kamil & Bulleh Shah for A Wednesday!,d308373cc70c4ef59fc892e1422828ca,4
+irshad kamil,lyricist,Music composition by Sanjoy Chowdhury with lyrics inscribed by Irshad Kamil & Bulleh Shah for A Wednesday!,d308373cc70c4ef59fc892e1422828ca,4
+bulleh shah,lyricist,Music composition by Sanjoy Chowdhury with lyrics inscribed by Irshad Kamil & Bulleh Shah for A Wednesday!,d308373cc70c4ef59fc892e1422828ca,4
+casting,process,"From casting to completion, A Wednesday! took about eight months.",d308373cc70c4ef59fc892e1422828ca,4
+completion,process,"From casting to completion, A Wednesday! took about eight months.",d308373cc70c4ef59fc892e1422828ca,4
+nasiruddin shah,actor,Nasiruddin Shah features in the movie A Wednesday!,d308373cc70c4ef59fc892e1422828ca,4
+role,concept,"Initially, Nasiruddin Shah was offered the role played by Aamir Khan in A Wednesday!",d308373cc70c4ef59fc892e1422828ca,4
+aamir khan,actor,Nasiruddin Shah was first offered the role played by Aamir Khan in A Wednesday!,d308373cc70c4ef59fc892e1422828ca,4
+eight months,duration,"From casting to completion, A Wednesday! took about eight months.",d308373cc70c4ef59fc892e1422828ca,4
+mumbai skyline,view,The terrorist's 'workstation' was an actual under-construction 25-storey building; it was chosen from 50 other such buildings for its clear view of the Mumbai skyline.,d308373cc70c4ef59fc892e1422828ca,4
+under-construction,condition,The terrorist's 'workstation' was an actual under-construction 25-storey building;,d308373cc70c4ef59fc892e1422828ca,4
+25 floors,number,Shah walked up the 25 floors every day.,d308373cc70c4ef59fc892e1422828ca,4
+8 days,duration,A Wednesday! was filmed on location around Mumbai in 28 days.,d308373cc70c4ef59fc892e1422828ca,4
+rathod,person,"In a voiceover, Rathod says the man told him his real name, but he does not wish to reveal it since doing so would give away the man's religion.",d308373cc70c4ef59fc892e1422828ca,4
+man,person,"In a voiceover, Rathod says the man told him his real name, but he does not wish to reveal it since doing so would give away the man's religion.",d308373cc70c4ef59fc892e1422828ca,4
+religion,concept,"In a voiceover, Rathod says the man told him his real name, but he does not wish to reveal it since doing so would give away the man's religion.",d308373cc70c4ef59fc892e1422828ca,4
+religious belief,concept,"In a voiceover, Rathod says the man told him his real name, but he does not wish to reveal it since doing so would give away his religious belief.",d308373cc70c4ef59fc892e1422828ca,4
+government authorities,organization,"Rathod admits that he knew the caller was disturbed because of the incompetence of the governing authorities, but he never imagined a common man would go to such lengths to achieve this end.",d308373cc70c4ef59fc892e1422828ca,4
+end,concept,"Rathod admits that he knew the caller was disturbed because of the incompetence of the governing authorities, but he never imagined a common man would go to such lengths to achieve this end.",d308373cc70c4ef59fc892e1422828ca,4
+moral significance,concept,"He also notes that although the incident has ambiguous moral significance, he feels that whatever happened, happened for the best.",d308373cc70c4ef59fc892e1422828ca,4
+best,concept,"He also notes that although the incident has ambiguous moral significance, he feels that whatever happened, happened for the best.",d308373cc70c4ef59fc892e1422828ca,4
+written material,document,"From casting to completion, A Wednesday! took about eight months.",d308373cc70c4ef59fc892e1422828ca,4
+80 pages,number,Aamir Khan initially refused to play the lead in A Wednesday! as he found the story in the 80-page written material too complex.,d308373cc70c4ef59fc892e1422828ca,4
+aamir khan,actor,"Initially, Aamir Khan refused to play the lead in A Wednesday! as he found the story in the 80-page written material too complex.",d308373cc70c4ef59fc892e1422828ca,4
+mumbai train bombings,plot,"The script for the movie 'A Wednesday!' was inspired by the Mumbai train bombings, and some details from the incidents that followed were used in the plot.",020bd50db2934cb5a07d3513fe9645e6,4
+mumbai train bombings,incidents,The incidents that followed the Mumbai train bombings were used as details in the plot of 'A Wednesday!',020bd50db2934cb5a07d3513fe9645e6,4
+a wednesday!,script,Pandey finished writing the script for 'A Wednesday!' and sent it to Anupam Kher and Naseeruddin Shah.,020bd50db2934cb5a07d3513fe9645e6,4
+anupam kher,principal characters,"Pandey's only choice for the principal characters in 'A Wednesday!' were Anupam Kher and Naseeruddin Shah, who both accepted the roles.",020bd50db2934cb5a07d3513fe9645e6,4
+naseeruddin shah,principal characters,"Pandey's only choice for the principal characters in 'A Wednesday!' were Anupam Kher and Naseeruddin Shah, who both accepted the roles.",020bd50db2934cb5a07d3513fe9645e6,4
+anjum rizvi,producer,Pandey approached Anjum Rizvi to produce 'A Wednesday!' after she liked the subject and casting with UTV's involvement.,020bd50db2934cb5a07d3513fe9645e6,4
+utv motion pictures,film's rights,UTV Motion Pictures bought the film's rights from Rizvi and Pandey after hearing about the project.,020bd50db2934cb5a07d3513fe9645e6,4
+mumbai train serial blasts,production,"UTV's own production, Mumbai Meri Jaan (2008), was scheduled for an August release, causing a delay in the release of 'A Wednesday!' due to its similar theme.",020bd50db2934cb5a07d3513fe9645e6,4
+hijack,released alongside, 'A Wednesday!' was released alongside Hijack and Santosh Sivan's Tahaan in September.,020bd50db2934cb5a07d3513fe9645e6,4
+wednesday!,die hard series,received critical acclaim with many comparing it to the movies of the Die Hard series,945501cd009d42c1997d7517881438de,4
+neeraj pandey,anupam kher (from saaransh),"in a Tehelka review, while commending Neeraj Pandey for a tightly scripted film, 'the real Anupam Kher, whom we met in Saaransh'",945501cd009d42c1997d7517881438de,4
+neeraj pandey,naseeruddin shah (from bazaar and mandi and sparsh),both show up,945501cd009d42c1997d7517881438de,4
+movie,intelligent diatribe against terrorism,"refreshingly packaged as a racy thriller, reminiscent of the Die Hard Series. The Times of India's critic Nikhat Kazmi called the movie 'an intelligent diatribe against terrorism'",945501cd009d42c1997d7517881438de,4
+movie,rony d'costa of box office india,"gave it 3 stars out of 5, stating 'it will take just 100 minutes of your time but will give you an exciting & enriching movie going experience. A good watch, any day of the week.'",945501cd009d42c1997d7517881438de,4
+utv,asia media,UTV sold the rights of the film to Asia Media,7f366cfbcd5f4e69807be7203752ec96,4
+asia media,gemini media,"The remake of the film was produced by Gemini Media, which was originally distributed by Asia Media",7f366cfbcd5f4e69807be7203752ec96,4
+utv,gemini media,"UTV sold the rights of the film to Asia Media, which remade it into A Common Man and Gemini Media distributed the remake",7f366cfbcd5f4e69807be7203752ec96,4
+a common man,ben kingsley,"Ben Kingsley starred in the remake of the film, which was produced by Gemini Media and titled A Common Man",7f366cfbcd5f4e69807be7203752ec96,4
+a common man,ben cross,"Ben Cross also appeared in the remake of the film, which was produced by Gemini Media and titled A Common Man",7f366cfbcd5f4e69807be7203752ec96,4

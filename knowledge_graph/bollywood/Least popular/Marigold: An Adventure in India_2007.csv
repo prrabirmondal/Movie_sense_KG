@@ -1,0 +1,38 @@
+node_1,node_2,edge,chunk_id,count
+marigold lexton,india,"Marigold arrives in India for a movie, but due to cancellation of her film, she is stranded. She experiences Bollywood firsthand, which leads to her personal transformation and enamoration with India.",7b3833013a754a8f93e53ca1737986ed,4
+marigold lexton,american actress,"Marigold is an American actress who travels to India for a movie, but due to cancellation of her film, she experiences Bollywood firsthand.",7b3833013a754a8f93e53ca1737986ed,4
+marigold lexton,bollywood firsthand,Marigold's experience in Bollywood firsthand leads to her personal transformation and enamoration with India.,7b3833013a754a8f93e53ca1737986ed,4
+marigold lexton,minor role,"Marigold lands a minor role on the set of another movie, a Bollywood musical.",7b3833013a754a8f93e53ca1737986ed,4
+barry,marigold lexton,Marigold tells her boyfriend Barry that she was hoping she wouldn't have to marry him if this trip was successful.,7b3833013a754a8f93e53ca1737986ed,4
+prem,marigold lexton,"After Marigold rebuffs a crude proposal, Prem offers her help and guidance while showing her the nearby towns and countryside.",7b3833013a754a8f93e53ca1737986ed,4
+prem,marigold lexton,"As Prem shows Marigold around India, she learns more about Bollywood dance and culture.",7b3833013a754a8f93e53ca1737986ed,4
+marigold,prem,Marigold falls in love with Prem while working on a movie. They grow closer and Prem talks to her about the importance of family.,6a1d538743514d6bb19467c4d6779864,4
+prem,father,Prem is estranged from his father for three years.,6a1d538743514d6bb19467c4d6779864,4
+father,prem's sister,Prem's sister asks Prem to come home for her wedding.,6a1d538743514d6bb19467c4d6779864,4
+prem,family,Prem learns that he is a prince and had not seen his family in three years.,6a1d538743514d6bb19467c4d6779864,4
+marigold,family,Marigold is entranced by the generosity and opulence of Prem's family leading up to the wedding.,6a1d538743514d6bb19467c4d6779864,4
+prem,fiancé,"Prem's fiancé offers to buy Marigold a drink and confesses that although she loves Prem, she doesn't believe he has ever really loved her.",6a1d538743514d6bb19467c4d6779864,4
+marigold,betrayal,Marigold feels betrayed when she discovers that Prem has been betrothed to another since childhood.,6a1d538743514d6bb19467c4d6779864,4
+prem,bar,Prem heads to a bar to drown his sorrows.,a2936658ccd4461a8c5439e71a92f1ca,4
+prem,drunken american,Prem finds a drunken American who commiserates with his romantic problems at the bar.,a2936658ccd4461a8c5439e71a92f1ca,4
+barry,marigold,"Barry explains he has come looking for his estranged girlfriend, called Marigold.",a2936658ccd4461a8c5439e71a92f1ca,4
+prem,marigold,Marigold decides to return with Barry to the United States.,a2936658ccd4461a8c5439e71a92f1ca,4
+prem,father's choice,Prem feels duty bound to marry the woman his father has chosen.,a2936658ccd4461a8c5439e71a92f1ca,4
+marigold,veil,"As he follows his bride, whose face is totally hidden behind a long veil,",a2936658ccd4461a8c5439e71a92f1ca,4
+prem,former fiancé,Barry has married Prem's former fiancé as well.,a2936658ccd4461a8c5439e71a92f1ca,4
+carroll,salman khan,"While in India, Carroll had seen a Bollywood film with Salman Khan",6f7ae7ced3e04eb2926ca0bea2196faa,4
+150 bollywood films,carroll,"After seeing 150 such films, Carroll hired Larter and Khan to be in a 'crossover' film",6f7ae7ced3e04eb2926ca0bea2196faa,4
+larter,carroll,Had worked with Carroll before,6f7ae7ced3e04eb2926ca0bea2196faa,4
+larter,her role in the film,Mirrored her life at the time,6f7ae7ced3e04eb2926ca0bea2196faa,4
+composer graeme revell,songs,Augmented the songs with a Western (and in one case an Indian) sound,6f7ae7ced3e04eb2926ca0bea2196faa,4
+carroll,some of the songs,Should be in Hindi,6f7ae7ced3e04eb2926ca0bea2196faa,4
+cgi effects,white taj mahal,Created most of the white Taj Mahal,6f7ae7ced3e04eb2926ca0bea2196faa,4
+cgi effects,black structure,Created all of the mirroring black structure,6f7ae7ced3e04eb2926ca0bea2196faa,4
+shankar-ehsaan-loy,music,Composed the music of the film,6f7ae7ced3e04eb2926ca0bea2196faa,4
+javed akhtar,lyrics,Penned the lyrics,6f7ae7ced3e04eb2926ca0bea2196faa,4
+marigold,bollywood movies,"Marigold attempts the difficult trick of combining Bollywood movies and American rom-coms -- and ends up with an awkward blend that will satisfy fans of neither. Kirk Honeycutt of The Hollywood Reporter gave a negative review, writing ′The film will suffer on two fronts: Bollywood fans will dismiss the mishmash as the work of an American director “slumming” in a genre outside his own culture, and Western audiences unfamiliar with Hindi-language masala movies will find the whole thing puzzling.’",cdf03b2c942f48f1850253d40e1c6540,4
+marigold,american rom-coms,Marigold attempts the difficult trick of combining Bollywood movies and American rom-coms -- and ends up with an awkward blend that will satisfy fans of neither.,cdf03b2c942f48f1850253d40e1c6540,4
+bollywood fans,marigold,Bollywood fans will dismiss the mishmash as the work of an American director ‘slumming’ in a genre outside his own culture.,cdf03b2c942f48f1850253d40e1c6540,4
+western audiences unfamiliar with hindi-language masala movies,marigold,Western audiences unfamiliar with Hindi-language masala movies will find the whole thing puzzling.,cdf03b2c942f48f1850253d40e1c6540,4
+marigold,hindi-language masala movies,Marigold is a Hindi-language masala movie.,cdf03b2c942f48f1850253d40e1c6540,4
+rachel saltz,marigold,"Rachel Saltz rated the film 4 out of 5, stating ‘Mr. Carroll knows his Bollywood stuff and, refreshingly, doesn’t apologize for, or waste time explaining, an industry and a style that most Americans still regard as silly. Instead, he honors them.’",cdf03b2c942f48f1850253d40e1c6540,4

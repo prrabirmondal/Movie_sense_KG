@@ -1,0 +1,382 @@
+node_1,node_2,edge,chunk_id,edge_1,count
+dune,frank herbert,The film 'Dune' is an adaptation of the novel by Frank Herbert.,ed6424f5e4534cf7b9299a018e2f22a7,,4
+denis villeneuve,dune,Denis Villeneuve directed and co-produced the film 'Dune'.,ed6424f5e4534cf7b9299a018e2f22a7,,4
+paul atreides,dune,'Paul Atreides' is a character in the novel and film adaptation 'Dune'.,ed6424f5e4534cf7b9299a018e2f22a7,,4
+house atreides,dune,The noble House Atreides is mentioned in the novel and film adaptation 'Dune'.,ed6424f5e4534cf7b9299a018e2f22a7,,4
+arrakis,dune,'Arrakis' is a planet mentioned in the novel and film adaptation 'Dune'.,ed6424f5e4534cf7b9299a018e2f22a7,,4
+timothée chalamet,paul atreides,Timothée Chalamet plays the character 'Paul Atreides' in the film adaptation of 'Dune'.,ed6424f5e4534cf7b9299a018e2f22a7,,4
+rebecca ferguson,house atreides,Rebecca Ferguson portrays a member of the noble House Atreides in the film adaptation of 'Dune'.,ed6424f5e4534cf7b9299a018e2f22a7,,4
+oscar isaac,house atreides,Oscar Isaac plays a member of the noble House Atreides in the film adaptation of 'Dune'.,ed6424f5e4534cf7b9299a018e2f22a7,,4
+josh brolin,house harkonnen,'Josh Brolin' portrays a member of House Harkonnen in the film adaptation of 'Dune'.,ed6424f5e4534cf7b9299a018e2f22a7,,4
+stellan skarsgård,house corrino,'Stellan Skarsgård' plays a member of House Corrino in the film adaptation of 'Dune'.,ed6424f5e4534cf7b9299a018e2f22a7,,4
+dave bautista,ss murderhaus,'Dave Bautista' portrays a member of the SS MurderHaus in the film adaptation of 'Dune'.,ed6424f5e4534cf7b9299a018e2f22a7,,4
+stephen mckinley henderson,thufir hawat,'Stephen McKinley Henderson' plays the character 'Thufir Hawat' in the film adaptation of 'Dune'.,ed6424f5e4534cf7b9299a018e2f22a7,,4
+zendaya,chani,'Zendaya' portrays the character 'Chani' in the film adaptation of 'Dune'.,ed6424f5e4534cf7b9299a018e2f22a7,,4
+chang chen,dr. yueh,'Chang Chen' plays the character 'Dr. Yueh' in the film adaptation of 'Dune'.,ed6424f5e4534cf7b9299a018e2f22a7,,4
+sharon duncan-brewster,gurney halleck,'Sharon Duncan-Brewster' portrays the character 'Gurney Halleck' in the film adaptation of 'Dune'.,ed6424f5e4534cf7b9299a018e2f22a7,,4
+charlotte rampling,reverend mother mohiam,'Charlotte Rampling' plays the character 'Reverend Mother Mohiam' in the film adaptation of 'Dune'.,ed6424f5e4534cf7b9299a018e2f22a7,,4
+jason momoa,duncan idaho,'Jason Momoa' portrays the character 'Duncan Idaho' in the film adaptation of 'Dune'.,ed6424f5e4534cf7b9299a018e2f22a7,,4
+javier bardem,emperor shaddam iv,'Javier Bardem' plays the character 'Emperor Shaddam IV' in the film adaptation of 'Dune'.,ed6424f5e4534cf7b9299a018e2f22a7,,4
+paramount pictures,dune,Previous production house for the Dune film adaptation.,ed6424f5e4534cf7b9299a018e2f22a7,,4
+duke leto atreides,arrakis,"Duke Leto Atreides is assigned by the Padishah Emperor Shaddam IV to replace Baron Vladimir Harkonnen as the fiefholder of Arrakis, a harsh desert planet and the sole source of 'spice'.",73f52fa140b54097900decc6e679eb25,,4
+arrakis,spice,"'Spice' is the sole source found on Arrakis, a harsh desert planet.",73f52fa140b54097900decc6e679eb25,,4
+spice,spacing guild navigators,Spacing Guild Navigators have the ability to guide starships to traverse space instantaneously and safely with the help of 'spice'.,73f52fa140b54097900decc6e679eb25,,4
+padishah emperor shaddam iv,duke leto atreides,The Padishah Emperor Shaddam IV assigns Duke Leto Atreides to replace Baron Vladimir Harkonnen as the fiefholder of Arrakis.,73f52fa140b54097900decc6e679eb25,,4
+baron vladimir harkonnen,arrakis,Baron Vladimir Harkonnen is the current fiefholder of Arrakis.,73f52fa140b54097900decc6e679eb25,,4
+house atreides,duke leto atreides,Duke Leto Atreides belongs to House Atreides.,73f52fa140b54097900decc6e679eb25,,4
+house harkonnen,baron vladimir harkonnen,Baron Vladimir Harkonnen belongs to House Harkonnen.,73f52fa140b54097900decc6e679eb25,,4
+fremen,arrakis,The mysterious natives of Arrakis are known as the Fremen.,73f52fa140b54097900decc6e679eb25,,4
+bene gesserit,lady jessica,"Leto's concubine Lady Jessica is an acolyte of the Bene Gesserit, a sisterhood with advanced physical and mental abilities. As part of their centuries-long breeding program, they instructed Jessica to bear a daughter whose son would become the Kwisatz Haderach.",10d54027aaff471c8c1289d04e260870,,4
+bene gesserit,daughter,The Bene Gesserit's centuries-long breeding program involved instructing Jessica to bear a daughter whose son would become the Kwisatz Haderach.,10d54027aaff471c8c1289d04e260870,,4
+bene gesserit,messianic superbeing,The Bene Gesserit breeding program aimed to create a messianic superbeing with the clairvoyance necessary to guide humanity to a better future.,10d54027aaff471c8c1289d04e260870,,4
+lady jessica,bene gesserit disciplines,"Jessica, as part of the Bene Gesserit sisterhood, teaches her son Paul Bene Gesserit disciplines.",10d54027aaff471c8c1289d04e260870,,4
+leto's concubine,bene gesserit,Leto's concubine Lady Jessica is also a member of the Bene Gesserit sisterhood.,10d54027aaff471c8c1289d04e260870,,4
+paul,lady jessica,"Paul, Leto's son, was born as a result of Jessica disobeying the Bene Gesserit and bearing him instead of fulfilling their breeding program.",10d54027aaff471c8c1289d04e260870,,4
+paul,duncan idaho,"Paul is trained by Leto's aides, Duncan Idaho and others.",10d54027aaff471c8c1289d04e260870,,4
+jessica,duncan idaho,"Jessica, Paul's mother, confides in Duncan about troubling visions of the future.",10d54027aaff471c8c1289d04e260870,,4
+paul,reverend mother,The Reverend Mother and Imperial Truthsayer Gaius Helen Mohiam subjects Paul to a deadly gom jabbar test.,10d54027aaff471c8c1289d04e260870,,4
+paul,imperial truthsayer gaius helen mohiam,The Reverend Mother and Imperial Truthsayer Gaius Helen Mohiam assess Paul's humanity and impulse control through the gom jabbar test.,10d54027aaff471c8c1289d04e260870,,4
+baron harkonnen,spare paul and jessica,"At a meeting on Giedi Prime, Mohiam insists Baron Harkonnen spare Paul and Jessica in his coup, to which he duplicitously agrees.",10d54027aaff471c8c1289d04e260870,,4
+arrakis,fremen,"The natives of Arrakis, the principal stronghold on the planet, revere Paul and Jessica due to beliefs sown by the Bene Gesserit centuries earlier.",10d54027aaff471c8c1289d04e260870,,4
+house atreides,arrakeen,"House Atreides arrives at Arrakeen, the principal stronghold on Arrakis.",10d54027aaff471c8c1289d04e260870,,4
+paul,emperor shaddam,plan to marry one of Emperor Shaddam's daughters to avert potential civil war arising from the Emperor's betrayal,3ff8e63eacf44fbe9eba669da71563ce,,4
+baron harkonnen,rabban,appoints his nephew Rabban to oversee Arrakis and orders him to restart spice production to recoup the invasion's cost,3ff8e63eacf44fbe9eba669da71563ce,,4
+paul,chani,"encountered Stilgar's Fremen tribe, including Chani, the young woman from Paul's visions",3ff8e63eacf44fbe9eba669da71563ce,,4
+jamis,paul,"Fremen warrior Jamis challenges Paul to a ritual duel to the death, which Paul wins",3ff8e63eacf44fbe9eba669da71563ce,,4
+baron harkonnen's pet,human-spider hybrid,Choreographer Milena Sidorova portrays the Baron's human-spider hybrid pet via motion capture.,3ff8e63eacf44fbe9eba669da71563ce,,4
+duncan,paul and jessica's escape,"Sacrifices himself, enabling Paul and Jessica's escape from Sardaukar soldiers armed with a lasgun",3ff8e63eacf44fbe9eba669da71563ce,,4
+kynes,escape,"Tries to escape but is caught and mortally wounded, lures sandworm to her location to devour herself and the Sardaukar",3ff8e63eacf44fbe9eba669da71563ce,,4
+sandworm,kynes' escape,"Lured by Kynes, who is mortally wounded, in order to devour herself and the Sardaukar",3ff8e63eacf44fbe9eba669da71563ce,,4
+stilgar,paul and jessica,Provides lenience towards Paul and Jessica when they encounter his Fremen tribe,3ff8e63eacf44fbe9eba669da71563ce,,4
+dune,film adaptation,"Following the publication of Frank Herbert's novel Dune in 1965, it was considered as having potential for a possible film adaptation. Since 1971, various producers have held film adaptation rights for the novel.",9a8ecdd7eb694265846acf15e5c2517b,,4
+dune,unfilmable,Attempts to make an adaptation based on the book were considered to be 'unfilmable' due to its breadth of content.,9a8ecdd7eb694265846acf15e5c2517b,,4
+dune,reputation,The book's status among fans meant that deviations without strong justification could potentially harm the film's reputation.,9a8ecdd7eb694265846acf15e5c2517b,,4
+paramount,reverting,"Paramount later cancelled the project in March 2011, as they could not come to key agreements, with their rights reverting to Rubinstein.",c6b2771ae90e4f57864452c79e5dce8f,,4
+rubinstein,rights,with their rights reverting to Rubinstein.,c6b2771ae90e4f57864452c79e5dce8f,,4
+dune,mary parent,"In 2011, Mary Parent and her producer partner Cale Boyter acquired adaptation rights for Dune. ",2cfd7b1a1c034551a2277a707f0e73aa,,4
+dune,legendary pictures,Legendary obtained film and TV rights for Dune in November 2016.,2cfd7b1a1c034551a2277a707f0e73aa,,4
+denis villeneuve,dune,"Canadian filmmaker Denis Villeneuve expressed interest in the project in September 2016, saying that ""a longstanding dream of mine is to adapt Dune, but it's a long process to get the rights, and I don't think I will succeed"". By December, Villeneuve was in talks with the studio to direct the film.",2cfd7b1a1c034551a2277a707f0e73aa,,4
+denis villeneuve,mary parent,Parent hired Villeneuve after hearing him describe his vision for the film.,2cfd7b1a1c034551a2277a707f0e73aa,,4
+blade runner 2049,denis villeneuve,Villeneuve chose to complete Arrival (2016) and Blade Runner 2049 (2017) first.,2cfd7b1a1c034551a2277a707f0e73aa,,4
+dune,denis villeneuve,"He chose to spend more time to develop Dune and co-write it himself, employing his past experience directing science fiction films during development.",2cfd7b1a1c034551a2277a707f0e73aa,,4
+dune,january 2017,"Villeneuve signed on to direct the film by January 2017, approximately one week after earning a nomination Academy Award for Best Director for Arrival.",2cfd7b1a1c034551a2277a707f0e73aa,,4
+villeneuve,dune,"French-Canadian director Denis Villeneuve signed on to adapt Frank Herbert's seminal 1965 novel Dune in early 2017, with Legendary Entertainment and Universal Pictures co-producing and distributing. Villeneuve's previous collaborators on Arrival and Blade Runner 2049 returned for Dune, including film editor Joe Walker, production designer Patrice Vermette, visual effects supervisor Paul Lambert, sound designer and editor Theo Green, and special effects supervisor Gerd Nefzer.",334d55941fbd41fda8ec7676191bef5b,,4
+arrival,blade runner 2049,Some of Villeneuve's previous collaborators on Arrival and Blade Runner 2049 returned for Dune.,334d55941fbd41fda8ec7676191bef5b,,4
+frank herbert's seminal 1965 novel dune,denis villeneuve,"French-Canadian director Denis Villeneuve signed on to adapt Frank Herbert's seminal 1965 novel Dune in early 2017, with Legendary Entertainment and Universal Pictures co-producing and distributing.",334d55941fbd41fda8ec7676191bef5b,,4
+legendary entertainment,universal pictures,"Legendary Entertainment and Universal Pictures co-produced and distributed Dune, with French-Canadian director Denis Villeneuve adapting Frank Herbert's seminal 1965 novel.",334d55941fbd41fda8ec7676191bef5b,,4
+joe walker,patrice vermette,"Film editor Joe Walker and production designer Patrice Vermette returned to work on Dune with French-Canadian director Denis Villeneuve, following their collaborations on Arrival and Blade Runner 2049 respectively.",334d55941fbd41fda8ec7676191bef5b,,4
+paul lambert,gerd nefzer,"Visual effects supervisor Paul Lambert and special effects supervisor Gerd Nefzer both worked on Dune with French-Canadian director Denis Villeneuve, having previously collaborated with him on Blade Runner 2049.",334d55941fbd41fda8ec7676191bef5b,,4
+march 2018,villeneuve,Villeneuve stated that his goal was to adapt the novel into a two-part film series in March 2018.,49681b2e8975449e93dd8002277af78c,,4
+villeneuve,warner bros. pictures,Villeneuve secured a two-movie deal with Warner Bros. Pictures in the same style as the two-part adaptation of Stephen King's It in 2017 and in 2019.,49681b2e8975449e93dd8002277af78c,,4
+it,stephen king's it,The two-part adaptation of Stephen King's It in 2017 and in 2019.,49681b2e8975449e93dd8002277af78c,,4
+villeneuve,too large and complex for one,Villeneuve felt that the novel was too large and complex for one because of its complexity.,49681b2e8975449e93dd8002277af78c,,4
+two-part film series,first film,The production of the first film and new production deals were made to start production for the second.,49681b2e8975449e93dd8002277af78c,,4
+eric roth,co-write the screenplay,Eric Roth was hired to co-write the screenplay in April.,49681b2e8975449e93dd8002277af78c,,4
+legendary ceo joshua grode,planned on making a sequel,Legendary CEO Joshua Grode affirmed that the studio planned on making a sequel.,49681b2e8975449e93dd8002277af78c,,4
+may 2018,villeneuve,Villeneuve completed a first draft of the script by May 2018.,49681b2e8975449e93dd8002277af78c,,4
+july,fourth draft,"The fourth draft of the screenplay, submitted in July, would cover the first half of the events from the novel.",49681b2e8975449e93dd8002277af78c,,4
+september,jon spaihts,"Though later in September, Jon Spaihts was hired as co-writer alongside Roth and Villeneuve.",49681b2e8975449e93dd8002277af78c,,4
+arab and islamic culture,minimized incorporating them,"The team minimized incorporating elements inspired from Arab and Islamic culture as they became integrated into the world, resulting in the need to ""invent more""",49681b2e8975449e93dd8002277af78c,,4
+roth,team,"Roth stated that the team minimized incorporating [specific elements] as he felt Arab culture became integrated into the world, resulting in the need to 'invent more and borrow less' due to potentially overemphasizing them.",6c51c9eda6344f7287c7fc970c8bdae9,,4
+arab culture,world,Roth felt that Arab culture became integrated into the world.,6c51c9eda6344f7287c7fc970c8bdae9,,4
+villeneuve,dune,"When writing his script, Villeneuve chose not to take inspiration from Lynch's Dune. He described his reaction to the film as being 'half-satisfied' and felt he would make the film with a 'different sensibility'. Villeneuve's love for Dune allowed him to focus on his own vision, and he compared his experience of making the film to archaeology, describing the process as 'going back in time and finding those images mixed with emotions, and bringing them back to life'.",91622ac1c1574a5b88bd125691ae1e4a,,4
+lynch,dune,"Villeneuve chose not to take inspiration from Lynch's Dune. He affirmed his respect for Lynch and the film, but felt he would make the film with a 'different sensibility'.",91622ac1c1574a5b88bd125691ae1e4a,,4
+jodorowsky,dune,"Villeneuve chose not to incorporate concepts Jodorowsky envisioned for his Dune film, as he felt it would be 'very presumptuous and arrogant'.",91622ac1c1574a5b88bd125691ae1e4a,,4
+coming-of-age story,youth,"In adapting the book for a contemporary audience, Villeneuve considered his screenplay 'a coming-of-age story, but also a call for action for the youth'",a1345443fa874e5ba5a5e53ddffd9cf4,,4
+social commentary,capitalism and exploitation of natural resources,Villeneuve considered the book's social commentary regarding capitalism and the exploitation of natural resources such as oil,a1345443fa874e5ba5a5e53ddffd9cf4,,4
+paul,jessica,Villeneuve wanted to recreate the experience he had felt when he initially read the book as a teen by focusing on Paul and Jessica's relationship as the main focus of the story and giving them a secret hand gesture language they could use to communicate silently to each other,a1345443fa874e5ba5a5e53ddffd9cf4,,4
+paul,arrakis and fremen culture,"The inclusion of the informative holographic filmbook videos for Paul was adapted from the book, with Villeneuve wanting it to convey Paul's 'appetite for learning' and his desire to learn about the Arrakis and Fremen culture'",a1345443fa874e5ba5a5e53ddffd9cf4,,4
+timothée chalamet,villeneuve's dream list for paul atreides,Chalamet was the ideal choice for the role due to his ability to portray an 'old soul in the body of a teenager.',2a261f48a5bc40b4b0f5341408aa8e18,,4
+timothée chalamet,dune cast,"Chalamet was chosen from individual castings, and Villeneuve admitted that he had no alternate choices in mind.",2a261f48a5bc40b4b0f5341408aa8e18,,4
+rebecca ferguson,lady jessica,"Ferguson entered negotiations to play the role of Lady Jessica, which she initially dismissed due to similarities with her Mission: Impossible character.",2a261f48a5bc40b4b0f5341408aa8e18,,4
+rebecca ferguson,villeneuve's ideas and reading the book,"Ferguson was convinced after hearing Villeneuve's ideas and reading the book, enjoying the 'simplicity of wanting to save something you have created and all of these shades.'",2a261f48a5bc40b4b0f5341408aa8e18,,4
+rebecca ferguson,dune cast,Ferguson was already confirmed for the role of Lady Jessica by January 2019.,2a261f48a5bc40b4b0f5341408aa8e18,,4
+francine maisler,villeneuve,Compiled over 30–50 audition tapes from actors for Villeneuve to decide from when casting secondary roles.,a49be15572c24602819a5d0bf3fe8563,,4
+dave bautista,villeneuve,Bautista was offered the role of Glossu Rabban following a phone call from Villeneuve.,a49be15572c24602819a5d0bf3fe8563,,4
+villeneuve,dave bautista,"Villeneuve contacted Bautista first, as he is an avid fan of Villeneuve and wanted to contact him.",a49be15572c24602819a5d0bf3fe8563,,4
+stellan skarsgård,villeneuve,Villeneuve wanted Stellan Skarsgård to portray Baron Vladimir Harkonnen as he had found Skarsgård intimidating.,a49be15572c24602819a5d0bf3fe8563,,4
+charlotte rampling,villeneuve,"Villeneuve personally contacted Charlotte Rampling in order to portray Gaius Helen Mohiam, who accepted as she enjoyed Villeneuve's work.",a49be15572c24602819a5d0bf3fe8563,,4
+oscar isaac,villeneuve,"Isaac contacted Villeneuve about starring in the film once he heard it was in development. Villeneuve cast him as Duke Leto, with Isaac commenting the role suited him physically.",a49be15572c24602819a5d0bf3fe8563,,4
+zendaya,chalamet,Zendaya auditioned for the role of Chani alongside five other actresses. She was chosen as she was considered to have the best performance with Chalamet.,a49be15572c24602819a5d0bf3fe8563,,4
+javier bardem,stilgar,"In the next month, Javier Bardem was cast as Stilgar in Denis Villeneuve's adaptation of Dune. Villeneuve directly called Bardem and offered him the role, as he wanted to portray Stilgar comparing it to his personal love for Aragorn in The Lord of the Rings.",fe3bb44d623d438a855bf5c0f815b19b,,4
+josh brolin,gurney halleck,Josh Brolin was cast as Gurney Halleck in Denis Villeneuve's adaptation of Dune. Brolin amusingly commented that he pretended to read the script prior to accepting the role.,fe3bb44d623d438a855bf5c0f815b19b,,4
+jason momoa,duncan idaho,Jason Momoa was cast as Duncan Idaho in Denis Villeneuve's adaptation of Dune. He received his casting call while snowboarding down a mountain and later contacted Villeneuve on a Skype call to confirm his involvement.,fe3bb44d623d438a855bf5c0f815b19b,,4
+david dastmalchian,piter de vries,David Dastmalchian was cast as Piter de Vries in Denis Villeneuve's adaptation of Dune. He accepted the role without reading the script due to his confidence in Villeneuve.,fe3bb44d623d438a855bf5c0f815b19b,,4
+stephen mckinley henderson,(unknown),Stephen McKinley Henderson joined Denis Villeneuve's adaptation of Dune in March. Maisler chose Henderson after admiring his work in New York theaters.,fe3bb44d623d438a855bf5c0f815b19b,,4
+chang chen,(unknown),"Denis Villeneuve's adaptation of Dune was negotiating with Chang Chen for a role in March. Maisler curated a list of the 'most talented' Chinese actors for the role of Dr. Yueh, and after initial difficulties contacting Chen, they eventually contacted his manager in China.",fe3bb44d623d438a855bf5c0f815b19b,,4
+benjamin clementine,herald of the change,Denis Villeneuve's adaptation of Dune chose Benjamin Clementine as the Herald of the Change after Maisler enjoyed his performance in the Tiny Desk Concerts.,fe3bb44d623d438a855bf5c0f815b19b,,4
+duncan-brewster,jina jay,"Duncan-Brewster auditioned for the role in London through Jina Jay, a casting director working with Maisler at the time, saying that she 'exudes an intelligence and a power and an inner strength'.",9a0ee9555a6b41e8b9a47d3d9302516f,,4
+maisler,villeneuve,"When Maisler presented a shortlist for potential cast members, Villeneuve selected Duncan-Brewster.",9a0ee9555a6b41e8b9a47d3d9302516f,,4
+duncan-brewster,kynes' gender,"The idea to change Kynes' gender was suggested by Jon Spaihts, which Villeneuve promptly accepted.",9a0ee9555a6b41e8b9a47d3d9302516f,,4
+villeneuve,kynes' nature,"According to Duncan-Brewster, Villeneuve opted for the change as he felt it was not necessary to adhere to all of the elements in the book in order to remain faithful to the character's nature.",9a0ee9555a6b41e8b9a47d3d9302516f,,4
+villeneuve,set design,The set design was done by production designer Patrice Vermette.,9a0ee9555a6b41e8b9a47d3d9302516f,,4
+vermette,realistic settings,Vermette based the set design for Dune by the need 'to ground the story into realistic settings to help the audience believe in the extraordinary elements'.,9a0ee9555a6b41e8b9a47d3d9302516f,,4
+vermette,visual language,"Prior to the creation of any sets or visual effects, Villeneuve and a group of specific people, worked together to define the visual language for the film.",9a0ee9555a6b41e8b9a47d3d9302516f,,4
+visual bible,set design,Vermette created a 'visual bible' to guide the development of set design and keep it consistent with the film's visual effects design.,6f1094f033ec493db9c91ac7de506ba6,,4
+nonspecific,design,"The book gives a lot of clues or cues that will help you navigate it to design things, but it's quite nonspecific,",6f1094f033ec493db9c91ac7de506ba6,,4
+mesopotamian ziggurat architecture,egyptian references,"The team's early mood boards for the visual language of the film consisted of Mesopotamian ziggurat architecture and Egyptian references,",6f1094f033ec493db9c91ac7de506ba6,,4
+world war ii bunkers,brazilian and soviet brutalist architecture,"The team's early mood boards for the visual language of the film consisted of World War II bunkers, Brazilian and Soviet brutalist architecture,",6f1094f033ec493db9c91ac7de506ba6,,4
+minimalist megastructures,dams designed by superstudio,"The team's early mood boards for the visual language of the film consisted of minimalist megastructures and dams designed by Superstudio,",6f1094f033ec493db9c91ac7de506ba6,,4
+glaciers taking over mountains,mesopotamian ziggurat architecture,"Imagery of glaciers taking over mountains was referenced in the team's early mood boards for the visual language of the film along with Mesopotamian ziggurat architecture,",6f1094f033ec493db9c91ac7de506ba6,,4
+ornithopters,villeneuve,The design for the ornithopters was conceived by Villeneuve.,43aefcddf5304c1db44b7dfdda6d525b,,4
+ornithopters,storyboard artist sam hudecki,Villeneuve and storyboard artist Sam Hudecki conceived the design for the ornithopters.,43aefcddf5304c1db44b7dfdda6d525b,,4
+ornithopter,dragonfly,Villeneuve wanted the ornithopter to resemble a dragonfly.,43aefcddf5304c1db44b7dfdda6d525b,,4
+ornithopter,helicopter,Villeneuve wanted the ornithopter to resemble a helicopter.,43aefcddf5304c1db44b7dfdda6d525b,,4
+ornithopter,realistic,Villeneuve wanted the ornithopter to be realistic.,43aefcddf5304c1db44b7dfdda6d525b,,4
+ornithopter,basic laws of science,Villeneuve wanted the ornithopter to adhere to basic laws of science.,43aefcddf5304c1db44b7dfdda6d525b,,4
+dune world,retro-futuristic,Villeneuve perceived the Dune world as retro-futuristic and analog.,43aefcddf5304c1db44b7dfdda6d525b,,4
+cockpits,landscape,Villeneuve wanted the cockpits to be designed so that the actors could see the landscape.,43aefcddf5304c1db44b7dfdda6d525b,,4
+ornithopter models,48- and 75-feet long,"Two functional ornithopter models, 48- and 75-feet long, were created for filming.",43aefcddf5304c1db44b7dfdda6d525b,,4
+ornithopter models,operable doors,The ornithopter models had operable doors.,43aefcddf5304c1db44b7dfdda6d525b,,4
+ornithopter models,interior cockpit areas,The ornithopter models had interior cockpit areas.,43aefcddf5304c1db44b7dfdda6d525b,,4
+ornithopter models,cranes,Cranes were used to make the ornithopter models fly.,43aefcddf5304c1db44b7dfdda6d525b,,4
+caladan,autumn in canada,"Vermette sought to give Caladan 'a feeling of melancholia' and identified forests containing Norwegian pines and dramatic coastal mountain ranges as defining features, while also comparing it to the end of a cycle or the beginning of a new one.",f6e0c7a5f3ed492a8ae15a3e5edaf2b7,,4
+caladan,medieval japanese aesthetics,"The interior sets of Caladan were inspired by medieval Japanese aesthetics, particularly that of Paul's training room, containing intricate screens and diffused lighting.",f6e0c7a5f3ed492a8ae15a3e5edaf2b7,,4
+sandworm,prehistoric,The original design for the sandworm was deemed 'prehistoric'.,f6e0c7a5f3ed492a8ae15a3e5edaf2b7,,4
+sandworm,tree bark and mud flats,The sandworm's skin texture was based on tree bark and mud flats.,f6e0c7a5f3ed492a8ae15a3e5edaf2b7,,4
+sandworm,deity in the world of the fremen,"Vermette spoke of the challenges involved in creating the set designs used for the sandworms, stating 'It was a creature that commanded respect, and it's almost seen as a deity in the world of the Fremen. So that's why the first time you see the depiction of the sand worm on the mural, it's presented with sun coming out of its mouth'.",f6e0c7a5f3ed492a8ae15a3e5edaf2b7,,4
+arrakeen,colonial entity,"Vermette called Arrakeen the biggest residency ever built by humankind and described it as a colonial entity that took over the planet for the exploitation of spice, in reference to Arrakis's climate.",bc865108e60c410cb1b18aac94ad2046,,4
+arrakis,spice,"The design for Arrakeen was influenced by the book's description of Arrakis's climate, which revolves around spice.",bc865108e60c410cb1b18aac94ad2046,,4
+rock bowl,arrakeen,Vermette designed the city in a 'rock bowl' shape to protect its infrastructure from sandworms.,bc865108e60c410cb1b18aac94ad2046,,4
+interiors,arrakeen,"The walls of Arrakeen were thickened to make the interiors cooler, in order to protect them from sandworms and high wind speeds.",bc865108e60c410cb1b18aac94ad2046,,4
+wwii bunkers,design team,The design team was inspired by WWII bunkers while creating Arrakeen's infrastructure.,bc865108e60c410cb1b18aac94ad2046,,4
+bunkers,mayan temples,The design team drew inspiration from both bunkers and Mayan temples while creating Arrakeen's infrastructure.,bc865108e60c410cb1b18aac94ad2046,,4
+brazilian modernism,design team,The design team was also inspired by Brazilian modernism while creating Arrakeen's infrastructure.,bc865108e60c410cb1b18aac94ad2046,,4
+fremen history and culture,murals throughout the residence,Vermette compared the depiction of Fremen history and culture in the mural to that of a church. This was done by envisioning Fremen artists doing so.,bc865108e60c410cb1b18aac94ad2046,,4
+raining season,environmentally controlled sand,Agriculturally controlled sand was placed on the ground while filming took place during Budapest's raining season.,bc865108e60c410cb1b18aac94ad2046,,4
+spokes,circular dome,"The circular dome for the environmental lab had spokes created by a special kind of cloth fabric, which provided proper lighting for the act and gave an illusion of shadows.",bc865108e60c410cb1b18aac94ad2046,,4
+sardaukar soldiers,descent from the air,The practical set was the environmental lab in which Sardaukar soldiers descend from the air.,bc865108e60c410cb1b18aac94ad2046,,4
+arrakis,caladan,"Both Arrakis and Caladan are planets in the fictional universe of Dune, as depicted in the film. They have a relationship as they both appear in the same context.",17e641152e0d41218bb8b5700017feea,,4
+arrakis,giedi prime,"Both Arrakis and Giedi Prime are planets in the fictional universe of Dune, as depicted in the film. They have a relationship as they both appear in the same context.",17e641152e0d41218bb8b5700017feea,,4
+villeneuve,costumes,"Denis Villeneuve, the director of the film, wanted the costumes to have a connection to history and avoid traditional futuristic views in science fiction films. This shows that the costumes are related to Villeneuve's vision for the film.",17e641152e0d41218bb8b5700017feea,,4
+west,costumes,"Jacqueline West, the costume designer for the film, performed psychological studies of characters and associated their houses with historical symbolic analogs to facilitate her costume design process. This demonstrates a connection between West and the costumes.",17e641152e0d41218bb8b5700017feea,,4
+fremen,french resistance,West associated the Fremen with the French Resistance when designing the costumes. This indicates a relationship between the Fremen and the French Resistance.,17e641152e0d41218bb8b5700017feea,,4
+sardaukar,nazis,West associated the Sardaukar with the Nazis when designing the costumes. This implies a connection between the Sardaukar and the Nazis.,17e641152e0d41218bb8b5700017feea,,4
+middle ages,future,West took primary inspiration from the Middle Ages to envision what it would look like in the future. This shows a relationship between the Middle Ages and the future.,17e641152e0d41218bb8b5700017feea,,4
+giotto,costumes,West took inspiration from Giotto when designing the costumes. This indicates a connection between Giotto and the costumes.,17e641152e0d41218bb8b5700017feea,,4
+francisco goya,costumes,West also took inspiration from Francisco Goya when designing the costumes. This implies a relationship between Francisco Goya and the costumes.,17e641152e0d41218bb8b5700017feea,,4
+caravaggio,costumes,West also emulated styles from Caravaggio when designing the costumes. This shows a connection between Caravaggio and the costumes.,17e641152e0d41218bb8b5700017feea,,4
+john berger,costumes,West also took inspiration from British art historian John Berger when designing the costumes. This indicates a connection between John Berger and the costumes.,17e641152e0d41218bb8b5700017feea,,4
+balenciaga,costumes,West also emulated styles from Balenciaga when designing the costumes. This demonstrates a relationship between Balenciaga and the costumes.,17e641152e0d41218bb8b5700017feea,,4
+bedouin,costumes,West also emulated styles from the Bedouin when designing the costumes. This indicates a connection between the Bedouin and the costumes.,17e641152e0d41218bb8b5700017feea,,4
+tuareg people,costumes,West also emulated styles from the Tuareg people when designing the costumes. This shows a relationship between the Tuareg people and the costumes.,17e641152e0d41218bb8b5700017feea,,4
+bene gesserit sorceresses,tarot cards,costumes were based on tarot cards,d78ee9df05534081b19dd53e5cee4a34,,4
+bene gesserit sorceresses,chess pieces,costumes were based on tarot cards and chess pieces,d78ee9df05534081b19dd53e5cee4a34,,4
+harkonnen armor,"medieval drawings of insects, spiders, ants, praying mantises and lizards",designed to resemble a bug's shell,d78ee9df05534081b19dd53e5cee4a34,,4
+atreides' costumes,romanovs,costumes had a simplicity ... that was regal,d78ee9df05534081b19dd53e5cee4a34,,4
+lady jessica's dresses (first half of the film),works of cristóbal balenciaga,inspired by,d78ee9df05534081b19dd53e5cee4a34,,4
+lady jessica's gown (while landing on arrakis),middle eastern clothing and paintings of women in north africa,influenced by,d78ee9df05534081b19dd53e5cee4a34,,4
+stillsuits,atreides-harkonnen feud,"The Atreides-Harkonnen feud is similar to a real Greek and Roman tragedy, which inspired West's idea for the stillsuit's design as a flexible and comfortable suit that accurately represents the book.",8bc203c2fe654f05aa87ece88471db37,,4
+stillsuits,jordanian filming locations,"West dyed the gauze for Fremen cloth in desert colors, which was inspired by the sand and rocks in Jordanian filming locations.",8bc203c2fe654f05aa87ece88471db37,,4
+stillsuits,lawrence of arabia (1962),"West cited Lawrence of Arabia (1962) as an inspiration for costume diversity, which may have contributed to the design of the stillsuit.",8bc203c2fe654f05aa87ece88471db37,,4
+stillsuits,doctor zhivago (1965),"West cited Doctor Zhivago (1965) as further inspirations for costume diversity, which may have influenced the stillsuit's design.",8bc203c2fe654f05aa87ece88471db37,,4
+stillsuits,fahrenheit 451 (1966),"West also cited Fahrenheit 451 (1966) as further inspirations for costume diversity, possibly related to the stillsuit's design.",8bc203c2fe654f05aa87ece88471db37,,4
+stillsuits,acrylic fibers and porous cottons,"The stillsuits used over 250 times in Jordan were designed with 'micro-sandwiches' of acrylic fibers and porous cottons, which absorb moisture and allow actors to remain cool inside the suits.",8bc203c2fe654f05aa87ece88471db37,,4
+stillsuits,archaic items (zippers and buttons),Zippers and buttons were not used in the stillsuit's design as they were deemed 'archaic'.,8bc203c2fe654f05aa87ece88471db37,,4
+wadi rum,arrakis,"Wadi Rum in Jordan served as a double for Arrakis, the desert planet in Dune.",1ac4ca8f7c5f4a2db9266352cece1802,,4
+liwa oasis,arrakis,"Liwa Oasis in the United Arab Emirates was used as a backdrop for Arrakis, especially for the heat shelters of the Fremens.",1ac4ca8f7c5f4a2db9266352cece1802,,4
+rub' al khali desert,arrakis,The rock formations in Rub' al Khali desert functioned as the heat shelters for the Fremen people on Arrakis.,1ac4ca8f7c5f4a2db9266352cece1802,,4
+"stadlandet, norway",caladan,"Stadlandet, Norway stood in for Caladan, another planet featured in the story.",1ac4ca8f7c5f4a2db9266352cece1802,,4
+arrakeen invasion,gurney,"Parts of the Arrakeen invasion, such as shots of Gurney...",da9ce20e412a48ecbf2846e6d095fe2b,,4
+arrakeen invasion,practical explosions,Arrakeen invasion includes practical explosions up to approximately five kilometers high.,da9ce20e412a48ecbf2846e6d095fe2b,,4
+arrakeen invasion,extras,"Parts of the Arrakeen invasion, such as shots of...",da9ce20e412a48ecbf2846e6d095fe2b,,4
+duke leto's death scene,isaac,Duke Leto's death scene was filmed by Isaac...,da9ce20e412a48ecbf2846e6d095fe2b,,4
+duke leto's death scene,christ's crucifixion,Isaac decided to film Duke Leto's death scene nude as he felt it was similar to Christ's crucifixion.,da9ce20e412a48ecbf2846e6d095fe2b,,4
+duke leto's death scene,bull's head,"including the bull's head, identifying it as an 'omen'",da9ce20e412a48ecbf2846e6d095fe2b,,4
+ornithopter interiors,fraser,Ornithopter interiors were filmed on hilltops outside Budapest...,da9ce20e412a48ecbf2846e6d095fe2b,,4
+idaho's combat style,greek and roman warfare techniques,"When working on the action sequence between Idaho and the Sardaukars, Tom Struthers based Idaho's combat style from Greek and Roman warfare techniques,",da9ce20e412a48ecbf2846e6d095fe2b,,4
+sardaukar's combat style,russian soldiers in wwii,and the Sardaukar's combat style from Russian soldiers in WWII wanting to 'mow down the enemy',da9ce20e412a48ecbf2846e6d095fe2b,,4
+paul,sandwalking technique,"Chalamet learned the sandwalking technique, designed by Benjamin Millepied, prior to filming Arrakis scenes in order to convey Paul's natural adeptness at it and 'responsibility to show Jessica in that moment'",da9ce20e412a48ecbf2846e6d095fe2b,,4
+footage,helicopters flying over the uae,"Footage of helicopters flying over the UAE were filmed with six high-resolution cameras, being utilized as reference footage for ornithopters.",da9ce20e412a48ecbf2846e6d095fe2b,,4
+dneg,visual effects supervisor paul lambert,"Contributed to over 28 scenes in the film and worked closely with visual effects supervisor Paul Lambert on creating 1,200 VFX shots out of the 1,700 total.",dfb4df7ded59417f994ce64f9293a361,,4
+visual effects supervisor paul lambert,sandscreens,"Used 'sandscreens' for filming scenes in Arrakis and Arrakeen, which involved using sand-colored backgrounds that matched the establishing desert shots intended for backgrounds. This was a visual effects technique utilized by Paul Lambert while working on Dune.",dfb4df7ded59417f994ce64f9293a361,,4
+visual effects supervisor paul lambert,ornithopter,"Used 'sandscreens' for filming scenes involving the ornithopter, which involved using sand-colored backgrounds that matched the establishing desert shots intended for backgrounds. The VFX team used the helicopter footage and replaced them with the ornithopter models, facilitating capture of sand displacement. This was a visual effects technique utilized by Paul Lambert while working on Dune.",dfb4df7ded59417f994ce64f9293a361,,4
+visual effects supervisor paul lambert,caladan scenes,"Used 'grayscreens' for those with a 'slight blue tint' for interior and exterior scenes, respectively, while working on Dune.",dfb4df7ded59417f994ce64f9293a361,,4
+visual effects supervisor paul lambert,salusa secundus scenes,"Used bluescreens while working on Dune for those with a 'slight blue tint' for interior and exterior scenes, respectively.",dfb4df7ded59417f994ce64f9293a361,,4
+dneg,wylie co.,"Contributed to over 28 scenes in the film and worked with vendors including Wylie Co. On creating 1,200 VFX shots out of the 1,700 total.",dfb4df7ded59417f994ce64f9293a361,,4
+dneg,rodeo fx,"Contributed to over 28 scenes in the film and worked with vendors including Rodeo FX on creating 1,200 VFX shots out of the 1,700 total.",dfb4df7ded59417f994ce64f9293a361,,4
+vehicles,ornithopter,Ornithopters were filmed by encapsulating ornithopter models in black boxes with fans blowing dust while working on Dune.,dfb4df7ded59417f994ce64f9293a361,,4
+backgrounds,sandscreens,Involved using sand-colored backgrounds that matched the establishing desert shots intended for backgrounds while working on Dune as a visual effects technique.,dfb4df7ded59417f994ce64f9293a361,,4
+dneg,approximately 18 tons of sand and dust,Used approximately 18 tons of sand and dust while working on Dune.,dfb4df7ded59417f994ce64f9293a361,,4
+sandworms,cgi,The sandworms were created through CGI.,4df5c05118454e6798aa57b2f7acd45b,,4
+vfx team,sandworms,The VFX team found a lot of difficulty in deciding how the sandworm would move.,4df5c05118454e6798aa57b2f7acd45b,,4
+body movements,sandworms,"The team spent over a year in figuring out the movements of the sandworm, and researched the body movements of various animals, such as worms and snakes.",4df5c05118454e6798aa57b2f7acd45b,,4
+sand ripples,sandworms,The sand ripples created by the worms were inspired by implicit visual cues of the shark from Jaws (1975).,4df5c05118454e6798aa57b2f7acd45b,,4
+vibrating steel plate,approaching sandworm,"Gerd Nefzer designed a vibrating 8x8 foot steel plate and placed it under the sand. This resulted in the formation of various patterns, used to signify an approaching sandworm.",4df5c05118454e6798aa57b2f7acd45b,,4
+rigged explosives,sandworms breaking the surface in the desert,"The team initially considered using rigged explosives to capture the motion of the sandworms breaking the surface in the desert, but rejected the idea as this was impractical to perform in the Middle East.",4df5c05118454e6798aa57b2f7acd45b,,4
+houdini software,sand emulating the motion of water,"Instead, they used the Houdini software to have sand emulate the motion of water.",4df5c05118454e6798aa57b2f7acd45b,,4
+sound design,associated sound,"Villeneuve did not want the associated sound design to appear as a studio production. Sound designers Mark Mangini and Theo Green used a ""fake documentary realism"" approach to capture natural sounds and manipulate them for use in the film, such as recording the sounds of shifting sands in Death Valley using hydrophones.",4df5c05118454e6798aa57b2f7acd45b,,4
+arrakeen space port,digital arrakeen space port,"The Montreal VFX supervisor Brian Connor created a digital Arrakeen space port, while the Vancouver team simulated explosions.",0592934d58a14016a6320978c8c5a3a8,,4
+arrakeen space port,practical and digital effects,The Montreal and Vancouver facilities of DNEG were used for the Arrakeen invasion sequence. It involved combining practical and digital effects.,0592934d58a14016a6320978c8c5a3a8,,4
+explosions,vancouver team,The Vancouver team simulated explosions.,0592934d58a14016a6320978c8c5a3a8,,4
+explosions,practical explosions filmed in budapest backlots,Practical explosions filmed in Budapest backlots were later enhanced by the VFX team.,0592934d58a14016a6320978c8c5a3a8,,4
+holzman shields,lambert,Lambert created the Holtzman shields' visual effects.,0592934d58a14016a6320978c8c5a3a8,,4
+future frames,lambert,"Lambert combined past and future frames after experimenting with various visual filters on an action sequence from Seven Samurai (1954), resulting in a 'shimmering' look Villeneuve approved.",0592934d58a14016a6320978c8c5a3a8,,4
+holtzman shields,blue for bouncing objects and red for penetrations,They also added colors; they used blue for bouncing objects and red for penetrations.,0592934d58a14016a6320978c8c5a3a8,,4
+future vision scene,motion-capture (mo-cap),The scene of Paul's future vision was filmed using motion-capture (mo-cap).,0592934d58a14016a6320978c8c5a3a8,,4
+future vision scene,animation supervisor robyn luckham helped with the scene,"The team did not know much about mo-cap, and Animation supervisor Robyn Luckham helped with the scene.",0592934d58a14016a6320978c8c5a3a8,,4
+future vision scene,many fighters,They also added many fighters to replicate mo-cap.,0592934d58a14016a6320978c8c5a3a8,,4
+future vision scene,explosions in the foreground,They added explosions in the foreground.,0592934d58a14016a6320978c8c5a3a8,,4
+future vision scene,sandworms in the background,They also added sandworms in the background.,0592934d58a14016a6320978c8c5a3a8,,4
+future vision scene,sand displacement throughout,They used more simulations to render the scene in real-time and added sand displacement throughout.,0592934d58a14016a6320978c8c5a3a8,,4
+team,"detailed practical stuffy model for the desert mouse, muad'dib","The team created a detailed practical stuffy model for the desert mouse, Muad'Dib.",12224b8ce22b4fb5bb728235076f5538,,4
+muad'dib,jordan,The animation team used footage of idling animals as reference and animated the mouse so it 'expends effort when absolutely necessary' in Jordan for appropriate desert lighting.,12224b8ce22b4fb5bb728235076f5538,,4
+creosote bush hologram,chalamet's face during plate photography,The creosote bush hologram was created by projecting different 'slices' of light on Chalamet's face during plate photography based on his filming location using a projector.,12224b8ce22b4fb5bb728235076f5538,,4
+hunter-seeker,stick on set,"A stick on set was used as reference for the hunter-seeker, being later replaced with proper models via CGI.",12224b8ce22b4fb5bb728235076f5538,,4
+baron,suspensor device attached to his back,"The levitation was occasionally done practically with a seesaw rig for the Baron. However, the suspensor device attached to his back was inserted using CGI.",12224b8ce22b4fb5bb728235076f5538,,4
+hans zimmer,dune,Hans Zimmer affirmed he would be scoring Dune near the start of the film's production in March 2019.,73ae4e5db4a54d179d789f75f9407cd5,,4
+hans zimmer,blade runner 2049,Zimmer previously worked with Villeneuve on Blade Runner 2049 (2017).,73ae4e5db4a54d179d789f75f9407cd5,,4
+hans zimmer,christopher nolan's then-upcoming film tenet (2020),"Zimmer rejected director Christopher Nolan's request to compose the score for his then-upcoming film Tenet (2020), citing his personal love for the book.",73ae4e5db4a54d179d789f75f9407cd5,,4
+dune,utah desert sounds,Hans Zimmer spent a week in a Utah desert to incorporate its sounds into the score.,73ae4e5db4a54d179d789f75f9407cd5,,4
+house atreides theme,bagpipes,"The House Atreides theme includes bagpipes, which was suggested as Villeneuve's idea of something 'ancient and organic'.",73ae4e5db4a54d179d789f75f9407cd5,,4
+hans zimmer,30 bagpipe players around edinburgh,Hans Zimmer found 30 bagpipe players around Edinburgh during the COVID-19 pandemic and recorded them playing in a church.,73ae4e5db4a54d179d789f75f9407cd5,,4
+dune soundtrack pieces,eclectic set of instruments,"The music was performed using an eclectic set of instruments, including some created specifically for the soundtrack.",73ae4e5db4a54d179d789f75f9407cd5,,4
+steve mazzaro,hans zimmer's pieces on theme,"Additional music was composed by Steve Mazzaro and David Fleming, both of whom worked in collaboration with Zimmer to keep his pieces on theme.",73ae4e5db4a54d179d789f75f9407cd5,,4
+dune,the dune sketchbook (music from the soundtrack),Both are soundtrack albums released for the film 'Dune' by WaterTower Music.,e29b147038834bfdba7917a354f7d932,,4
+villeneuve,zimmer,Villeneuve praised Zimmer's work on the film 'Dune'.,e29b147038834bfdba7917a354f7d932,,4
+zimmer,eclipse,Zimmer supervised a choir via FaceTime for the recording of a cover of Pink Floyd's song 'Eclipse' for the first Dune trailer.,e29b147038834bfdba7917a354f7d932,,4
+dune,paul's dream,Both are related as they are part of the soundtrack albums released for the film 'Dune' by WaterTower Music.,e29b147038834bfdba7917a354f7d932,,4
+dune,ripples in the sand,Both are related as they are part of the soundtrack albums released for the film 'Dune' by WaterTower Music.,e29b147038834bfdba7917a354f7d932,,4
+zimmer,32-person choir,Zimmer supervised a 32-person choir via FaceTime for the recording of a cover of Pink Floyd's song 'Eclipse',e29b147038834bfdba7917a354f7d932,,4
+dune,pink floyd's song 'eclipse',The first Dune trailer featured a cover of Pink Floyd's song 'Eclipse.',e29b147038834bfdba7917a354f7d932,,4
+zimmer,remote control studio,Choir members gathered in groups of four over eight separate sessions at Zimmer's Remote Control studio while he conducted from home.,e29b147038834bfdba7917a354f7d932,,4
+dune,legendary entertainment,Exclusive partnership for game development related to the upcoming Dune films.,3a59a350a3074c40b99d132f2823703e,,4
+dune,funcom,Game developer involved in game development related to the upcoming Dune films due to exclusive partnership with Legendary Entertainment.,3a59a350a3074c40b99d132f2823703e,,4
+trailer,the first ten minutes of the film,"Presented together in select IMAX theaters worldwide on July 21 and 22, 2021.",3a59a350a3074c40b99d132f2823703e,,4
+trailer,july 22,Also debuted on this day along with a behind-the-scenes look at the film.,3a59a350a3074c40b99d132f2823703e,,4
+angela wattercutter,wired,Author of article stating that the trailer is begging you to see it in theaters.,3a59a350a3074c40b99d132f2823703e,,4
+jennifer yuma,variety,"Author of article praising the cast and visuals, and praised its scope regarding the trailer.",3a59a350a3074c40b99d132f2823703e,,4
+aaron couch,the hollywood reporter,Author of article praising the film as an 'ambitious sci-fi adaptation' regarding the trailer.,3a59a350a3074c40b99d132f2823703e,,4
+anthony breznican,vanity fair,"Author of article giving the trailer a positive review and stating, 'It will seem more mysterious to those unfamiliar with the story, but like Chani does herself in those dream missives to Paul, it hints at big, impressive things to come'.",3a59a350a3074c40b99d132f2823703e,,4
+zoe haylock,vulture,"Author of article impressed by the trailer, and advocated watching the film in theaters, praising the visuals as 'transcendental natural settings'.",3a59a350a3074c40b99d132f2823703e,,4
+christian holub,entertainment weekly,Author of article stating that the trailer 'sets the stage cleanly'.,3a59a350a3074c40b99d132f2823703e,,4
+dune,"november 20, 2020","Originally scheduled for release on November 20, 2020.",45d73780a5a242af9221c7131bbe9efa,,4
+dune,"december 18, 2020","Pushed back to December 18, 2020.",45d73780a5a242af9221c7131bbe9efa,,4
+dune,"october 1, 2021","Taking over the release date slot of The Batman on October 1, 2021.",45d73780a5a242af9221c7131bbe9efa,,4
+dune,no time to die,Avoiding competition with No Time to Die.,45d73780a5a242af9221c7131bbe9efa,,4
+dune,hbo max,"Available on HBO Max starting on the evening of October 21, 2021.",45d73780a5a242af9221c7131bbe9efa,,4
+dune,us and canada,"In the US and Canada, the film made $41 million in its opening weekend from 4,125 theaters.",7364d097f2c44bc1b7dd9e446f5ef7a9,,4
+dune,$30–35 million,The film surpassed its projected opening weekend estimates of $30–35 million.,7364d097f2c44bc1b7dd9e446f5ef7a9,,4
+godzilla vs. kong,dune,"For the highest opening weekend for Warner Bros. During the pandemic era, Dune bested the debut of Godzilla vs. Kong ($31.6 million).",7364d097f2c44bc1b7dd9e446f5ef7a9,,4
+villeneuve,dune,Dune had the best opening of Villeneuve's career.,7364d097f2c44bc1b7dd9e446f5ef7a9,,4
+"november 25, 2021",dune,"Dune became the second Warner Bros. Film of the pandemic era to cross $100 million in the US and Canada on November 25, 2021.",7364d097f2c44bc1b7dd9e446f5ef7a9,,4
+dune,russia and cis,The film grossed $8.9 million in Russia and CIS.,7364d097f2c44bc1b7dd9e446f5ef7a9,,4
+france,dune,The film grossed $7.2 million in France.,7364d097f2c44bc1b7dd9e446f5ef7a9,,4
+germany,dune,The film grossed $4.4 million in Germany.,7364d097f2c44bc1b7dd9e446f5ef7a9,,4
+taiwan,dune,The film grossed $3.4 million in Taiwan.,7364d097f2c44bc1b7dd9e446f5ef7a9,,4
+italy,dune,The film grossed $2.5 million in Italy.,7364d097f2c44bc1b7dd9e446f5ef7a9,,4
+spain,dune,The film grossed $2.4 million in Spain.,7364d097f2c44bc1b7dd9e446f5ef7a9,,4
+dune,warner brothers,"In China, Dune opened to a $21.6 million weekend according to estimates by Warner Brothers, ranking second on the country's box office behind The Battle at Lake Changjin.",4319cfc92efd49f79b0537d49b2b873e,,4
+dune,imax,"After its return to IMAX for a week on December 2, the film earned an estimated $1.8 million during the weekend, primarily due to earning around $1 million from IMAX.",4319cfc92efd49f79b0537d49b2b873e,,4
+dune,china,"In China, Dune opened to a $21.6 million weekend according to estimates by Warner Brothers, ranking second on the country's box office behind The Battle at Lake Changjin. It also fell by 78% to about $5 million in China, dropping to the third rank.",4319cfc92efd49f79b0537d49b2b873e,,4
+dune,the battle at lake changjin,"In China, Dune opened to a $21.6 million weekend according to estimates by Warner Brothers, ranking second on the country's box office behind The Battle at Lake Changjin.",4319cfc92efd49f79b0537d49b2b873e,,4
+dune,australia,"Dune debuted atop the box office chart in Australia, earning $3.4 million in the opening weekend.",4319cfc92efd49f79b0537d49b2b873e,,4
+china,the battle at lake changjin,"In China, The Battle at Lake Changjin ranked ahead of Dune with an estimated $25.3 million weekend according to estimates by Universal Pictures.",4319cfc92efd49f79b0537d49b2b873e,,4
+dune,most-watched film overall in the united states,"According to TV Time, it was the most-watched film overall in the United States from the first to the third week of its release consecutively, before dropping to the sixth rank in its fourth week.",31ba6f0b2a594a499bfe63585b5ad915,,4
+dune,streamed in 5.3 million households in the us,"By March 20, the film was streamed in 5.3 million households in the US, including 996,000 since the Oscar nomination announcements on February 8.",31ba6f0b2a594a499bfe63585b5ad915,,4
+dune,ranked seventh on google play,"After its release on PVOD services, Dune debuted at the second position on iTunes and Vudu charts and was ranked seventh on Google Play.",31ba6f0b2a594a499bfe63585b5ad915,,4
+dune,ranked fifth on vudu chart,"After falling out of the charts for two weeks, it rose to the tenth position on iTunes, seventh position on Google Play, and the fifth position on Vudu.",31ba6f0b2a594a499bfe63585b5ad915,,4
+dune,film rose to the third rank on tv time's chart in the final week of its availability.,It was the third rank on TV Time's chart in the final week of its availability.,31ba6f0b2a594a499bfe63585b5ad915,,4
+dune,9.3 million us households watched the film within its first 30 days of release.,"According to Samba TV, 3.9 million US households watched the film within its first 30 days of release.",31ba6f0b2a594a499bfe63585b5ad915,,4
+dune,over 1.9 million us households during its first three days of release.,"According to Samba TV, the film was watched in over 1.9 million US households during its first three days of release,",31ba6f0b2a594a499bfe63585b5ad915,,4
+dune,visually thrilling adaptation,"This visually thrilling adaptation, based on the epic science fiction novel by Frank Herbert, tells the story of Paul Atreides (Timothée Chalamet), a brilliant and young prince, as he leads his tribe in a fight for survival against horrible sandworms and traitorous nobles.",55210cf00b274c24a639f896748b578b,,4
+dune,83% of 514 critics' reviews are positive,The popular review aggregator website Rotten Tomatoes has given the film Dune a positivity rating of 83% based on 514 reviews by film critics.,55210cf00b274c24a639f896748b578b,,4
+dune,source material,"The movie adaptation of Dune, directed by Denis Villeneuve, is largely faithful to Frank Herbert's classic novel of the same name.",55210cf00b274c24a639f896748b578b,,4
+dune,weighted average score of 74 out of 100,"Metacritic, a website that aggregates film reviews from critics around the world, has given Dune a weighted average score of 74 out of 100 based on 68 reviews.",55210cf00b274c24a639f896748b578b,,4
+dune,a- grade,Audiences who saw the movie Dune at its premiere rated it with an average grade of 'A-' on an A+ to F scale.,55210cf00b274c24a639f896748b578b,,4
+dune,frank herbert's novel,"The movie Dune is an adaptation of the popular science fiction novel by Frank Herbert, published in 1965.",55210cf00b274c24a639f896748b578b,,4
+83%,rotten tomatoes,"As of October 2021, over 83% of the reviews on Rotten Tomatoes for the movie Dune have been positive.",55210cf00b274c24a639f896748b578b,,4
+dune,generally favorable reviews,Metacritic's assessment of Dune is that it has received 'generally favorable reviews.',55210cf00b274c24a639f896748b578b,,4
+dune,consensus reads,"According to Rotten Tomatoes, the consensus for the movie Dune is: 'Dune occasionally struggles with its unwieldy source material, but those issues are largely overshadowed by the scope and ambition of this visually thrilling adaptation.'",55210cf00b274c24a639f896748b578b,,4
+timothée chalamet,brilliant and young prince paul atreides,"In the movie Dune, Timothée Chalamet plays the role of a brilliant and young prince named Paul Atreides.",55210cf00b274c24a639f896748b578b,,4
+dune,science fiction novel by frank herbert,"The movie Dune is based on the science fiction novel of the same name, written by Frank Herbert and published in 1965.",55210cf00b274c24a639f896748b578b,,4
+dune,epic,The movie adaptation of Dune is an epic science fiction film directed by Denis Villeneuve.,55210cf00b274c24a639f896748b578b,,4
+villeneuve's style,david lynch's style,"Justin Chang, from the Los Angeles Times, preferred David Lynch's style over Villeneuve's style in terms of having 'feverish, pustular imagery'. However, Chang still praised Villeneuve's production values as being monochromatic.",43a8b50673714ea6be494d8428734d5c,,4
+ending,ending,"Justin Chang deemed the ending to be 'abrupt, unsatisfying'. No other reviewers commented on this aspect.",43a8b50673714ea6be494d8428734d5c,,4
+action sequences,tension regarding anticipation of action sequences,"Justin Chang mentioned that the plot had tension regarding anticipation of action sequences, which he thought were directed well.",43a8b50673714ea6be494d8428734d5c,,4
+women,increased role of women in the story,Justin Chang praised the plot for increasing the role of women in the story.,43a8b50673714ea6be494d8428734d5c,,4
+exposition,little exposition,"Leah Greenblatt mentioned that Dune had little exposition, while Manohla Dargis opined that Villeneuve had attempted to be faithful to the source material but also felt that Villeneuve was trying to satisfy the demands of the contemporary film industry.",43a8b50673714ea6be494d8428734d5c,,4
+performances,highlighted chalamet and isaac's performances,"Leah Greenblatt highlighted Chalamet and Isaac's performances in her review, while Manohla Dargis admired the production values and worldbuilding in hers.",43a8b50673714ea6be494d8428734d5c,,4
+jokes,did not appreciate the jokes,Leah Greenblatt did not appreciate the jokes in her review.,43a8b50673714ea6be494d8428734d5c,,4
+pacing,appropriate to establish worldbuilding,"Manohla Dargis opined that Villeneuve had attempted to be faithful to the source material and felt that the pacing was appropriate to establish the latter, while Justin Chang appreciated the production values and worldbuilding.",43a8b50673714ea6be494d8428734d5c,,4
+dune part i,presumptuous,"Owen Gleiberman's review in Variety labeled the use of 'Part I' in the film's title as presumptuous, comparing it to how other film franchises advertise future installments.",7e0e64fcc1d141689e6312e6b4325b8c,,4
+storytelling,undermined,Owen Gleiberman in his review for Variety stated that the extensive focus on worldbuilding in 'Dune' had undermined the storytelling.,7e0e64fcc1d141689e6312e6b4325b8c,,4
+title,presumptuous,Owen Gleiberman's review in Variety used the term 'presumptuous' to describe the use of 'Part I' in the film's title.,7e0e64fcc1d141689e6312e6b4325b8c,,4
+story,disengages,"Gleiberman mentioned in his review for Variety that as the movie begins to run out of tricks, it turns woozy and amorphous, disengaging him from the story.",7e0e64fcc1d141689e6312e6b4325b8c,,4
+spectacles,disengages,"Gleiberman also mentioned in his review for Variety that the spectacles, including the sandworm and ornithopter sequences, disengaged him from the story.",7e0e64fcc1d141689e6312e6b4325b8c,,4
+story,mood piece,Steve Pond in his review for TheWrap referred to the film's dark tone as a tonal deviation but also allowed it to be 'giant mood piece that can be exhilarating in its dark beauty'.,7e0e64fcc1d141689e6312e6b4325b8c,,4
+production design,positive elements,Pond appreciated the production design and scope as positive elements in his review for TheWrap.,7e0e64fcc1d141689e6312e6b4325b8c,,4
+action sequences,enjoyed,Pond enjoyed the action sequences on Arrakis in his review for TheWrap.,7e0e64fcc1d141689e6312e6b4325b8c,,4
+dune part i,darker tone,Hadadi's review in Vulture noted that the use of 'Part I' in the film's title remained consistent with its darker tone.,7e0e64fcc1d141689e6312e6b4325b8c,,4
+film,flattened,Hadadi criticized the way the film flattened the cultural and religious complexities of the book and opted for a more generic portrayal of people of color without specific representation from Middle Eastern or North African (MENA) actors.,7e0e64fcc1d141689e6312e6b4325b8c,,4
+orientalism,film,"Some commentators perceived the film to have neglected and appropriated Arabian and Islamic elements, reducing them to 'exotic aesthetics' and 'broad abstractions', leading to accusations of Orientalism.",de976d8b5c9c4e0cbb00f5918bd9db15,,4
+film,lack of mena actors,"Serena Rasoul, founder of Muslim Casting, wanted more representation for MENA actors but acknowledged the film's overall diversity. However, she labelled the lack of MENA actors an 'erasure'.",de976d8b5c9c4e0cbb00f5918bd9db15,,4
+film,exclusion of mena actors,"Ali Karjoo-Ravary, an Assistant Professor of Islamic Studies at Bucknell University, felt that the casting of African actors excluded MENA actors and that characters portrayed by African people felt 'ultimately empty' as they had died or were not as developed as Paul and Lady Jessica.",de976d8b5c9c4e0cbb00f5918bd9db15,,4
+dune,nominated for ten academy awards,Dune was nominated for ten Academy Awards in recognition of its artistic and technical merits.,13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,won six academy awards,"In the 94th Academy Awards ceremony, Dune won six prestigious awards in various categories, including Best Original Score, Best Cinematography, and Best Production Design.",13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,nominated for three golden globe awards,"Along with the Academy Awards, Dune also received nominations in three categories at the 79th Golden Globe Awards.",13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,won one golden globe award,"At the same awards ceremony where it was also nominated, Dune took home the award for Best Original Score - Motion Picture.",13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,nominated for eleven british academy film awards,The British Academy of Film and Television Arts (BAFTA) also recognized Dune's excellence by nominating it in eleven different categories.,13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,won five british academy film awards,"At the 75th edition of the BAFTA Awards, Dune walked away with a total of five awards, including Best Cinematography, Best Production Design, and Best Original Score.",13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,nominated for ten critics' choice movie awards,Several critics' organizations also showered Dune with nominations across various categories at their annual awards events.,13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,won three critics' choice movie awards,"At the 28th edition of the Critics' Choice Movie Awards, Dune received three prestigious awards for its outstanding visual effects, cinematography, and editing.",13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,nominated for two aacta international awards,The Australian Academy of Cinema and Television Arts (AACTA) recognized Dune's artistic excellence by nominating it in two different categories at the 7th edition of their awards.,13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,won one aacta international award,"In recognition of its outstanding cinematography, Dune won an award at the 7th edition of the AACTA International Awards.",13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,nominated for ten satellite awards,"The Satellite Awards, presented by the International Press Academy, also recognized Dune's artistic merits by nominating it in ten different categories.",13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,won five satellite awards,"At the 26th edition of the Satellite Awards, Dune received a total of five awards, including Best Motion Picture - Drama and Best Cinematography.",13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,nominated for one grammy award,The Recording Academy also recognized Dune's exceptional musical score by nominating it in the category of Best Score Soundtrack for Visual Media.,13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,won one hollywood music in media awards,The Hollywood Music in Media Awards also recognized Dune's outstanding musical score by presenting it with an award in the category of Best Original Score - Feature Film.,13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,nominated for four people's choice awards,Several popular culture awards shows also recognized Dune's artistic excellence by nominating it in four different categories.,13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,won one people's choice award,"At the 48th edition of the People's Choice Awards, Dune won an award in recognition of its outstanding cinematography.",13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,nominated for one screen actors guild awards,The Screen Actors Guild also recognized Dune's artistic merits by nominating it in the category of Outstanding Performance by a Cast in a Motion Picture.,13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,nominated for three dorian awards,The Society of Queer Entertainment recognized Dune's artistic excellence by nominating it in three different categories at their annual awards event.,13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,won one dorian award,"At the 36th edition of the Dorian Awards, Dune won an award in recognition of its outstanding cinematography.",13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,nominated for one nickelodeon kids' choice award,The Nickelodeon Kids' Choice Awards also recognized Dune's artistic excellence by nominating it in the category of Favorite Movie.,13d35977b72e4ee6a208f15757b8a8a2,,4
+dune,won one movieguide award,"The MovieGuide Awards, presented by the Christian Film & Television Commission, also recognized Dune's artistic excellence by presenting it with an award in recognition of its outstanding cinematography.",13d35977b72e4ee6a208f15757b8a8a2,,4
+kara kennedy,some parts of the movie,"Are very faithful to the source material, according to Kara Kennedy.",a6203657155847908b5e8fa92add6a5e,,4
+frank jacob,the film's orientalization of the fremen,"Is stronger than Lynch's film adaptation, as pointed out by Frank Jacob.",a6203657155847908b5e8fa92add6a5e,,4
+edwardo pérez,paul's nature,"According to Edwardo Pérez, contributes to his initial androgynous nature in the movie.",a6203657155847908b5e8fa92add6a5e,,4
+duke leto,sympathy during paul's concerns,"Is depicted alongside Paul's concerns about being leader, according to Edwardo Pérez.",a6203657155847908b5e8fa92add6a5e,,4
+fremen culture,paul's perspective,"framed Fremen society through Paul's perspective, which constrained the Oriental in 'dominating frameworks'",e695a05da2364723ba4cf4553facf2d4,,4
+arab and oriental elements,eliminated for the story,as part of adjusting the source material for a 'culturally-aware and race-conscious 21st century audience',e695a05da2364723ba4cf4553facf2d4,,4
+fremen lexicon,arabic words from the fremen lexicon in the film,disliked usage of a few,e695a05da2364723ba4cf4553facf2d4,,4
+princess irulan's original historical epigraphs,chani's narration,replacing in the book,e695a05da2364723ba4cf4553facf2d4,,4
+ecology and elements from mena cultures,downplays in favor of the chosen one storytelling trope,[240],e695a05da2364723ba4cf4553facf2d4,,4
+key characters' gender and racial changes,"changes made in the adaptation of dune to film and isaac asimov's foundation to a television series, particularly",[241],e695a05da2364723ba4cf4553facf2d4,,4
+space opera genre,villeneuve cinematographically expresses the story of paul using elements,[242],e695a05da2364723ba4cf4553facf2d4,,4
+ridley scott,blade runner (1982) and alien (1979),follows in the steps of director,e695a05da2364723ba4cf4553facf2d4,,4
+dune: part two,warner bros.,"Following the film’s success, Warner Bros. And Legendary Pictures officially greenlit Dune: Part Two in October 2021.",0c58925ee46147f2817c4a6cd59f9118,,4
+dune: part two,legendary pictures,"Following the film’s success, Warner Bros. And Legendary Pictures officially greenlit Dune: Part Two in October 2021.",0c58925ee46147f2817c4a6cd59f9118,,4
+dune: part two,villeneuve,"Villeneuve intended to make a two-part adaptation of the novel, and by November 2019, Jon Spaihts left his position as showrunner on Dune: Prophecy to focus on writing the sequel film.",0c58925ee46147f2817c4a6cd59f9118,,4
+jon spaihts,dune: prophecy,Spaihts left his position as showrunner on Dune: Prophecy to focus on writing the sequel film.,0c58925ee46147f2817c4a6cd59f9118,,4
+villeneuve,jon spaihts,"Villeneuve intended to make a two-part adaptation of the novel, and by November 2019, Jon Spaihts left his position as showrunner on Dune: Prophecy to focus on writing the sequel film.",0c58925ee46147f2817c4a6cd59f9118,,4
+dune: part two,casting,"Additional casting lasting from March to July 2022, and concluding by January 2023.",0c58925ee46147f2817c4a6cd59f9118,,4
+dune: part two,preliminary filming,"Preliminary filming began in Italy by early July 2022, and concluded that December.",0c58925ee46147f2817c4a6cd59f9118,,4
+dune: part two,film release,"The film was released on March 1, 2024.",0c58925ee46147f2817c4a6cd59f9118,,4
+dune: part two,world premiere,The world premiere took place at Odeon Luxe Leicester Square in London on February 15.,0c58925ee46147f2817c4a6cd59f9118,,4
+dune messiah,villeneuve,Villeneuve expressed interest in making a third film based on Dune Messiah.,a58943521cef4cafa34a933ae6f5c1e1,,4
+success of dune: part two,possibility for the film,"The possibility for the film depended on the success of Dune: Part Two, as expressed by Villeneuve.",a58943521cef4cafa34a933ae6f5c1e1,,4
+villeneuve,dune: part two,Spaihts also reiterated in March 2022 that Villeneuve had plans for a third film as well as the television spin-off series Dune: Prophecy.,a58943521cef4cafa34a933ae6f5c1e1,,4
+villeneuve,dune trilogy,Villeneuve declared his intentions for the film to serve as the conclusion of his Dune trilogy.,a58943521cef4cafa34a933ae6f5c1e1,,4
+script,villeneuve,Villeneuve began developing a script by 2023.,a58943521cef4cafa34a933ae6f5c1e1,,4
+satisfaction,hollywood's tendency,"Citing Hollywood’s tendency of focusing on release dates over quality, Villeneuve said the script was 'almost finished' but also wanted to take time to ensure his satisfaction.",a58943521cef4cafa34a933ae6f5c1e1,,4
+music,hans zimmer,"Ahead of Dune: Part Two’s release, Hans Zimmer revealed he was already writing music for a third film.",a58943521cef4cafa34a933ae6f5c1e1,,4
+dune: the sisterhood,legendary television,"In June 2019, Legendary Television announced it is producing a spin-off series, Dune: The Sisterhood, for WarnerMedia's streaming service, HBO Max.",bcc73039e7424757b21924bcc3dbf46a,,4
+hbo max,dune: the sisterhood,"Legendary Television announced it is producing a spin-off series, Dune: The Sisterhood, for WarnerMedia's streaming service, HBO Max.",bcc73039e7424757b21924bcc3dbf46a,,4
+warnermedia's streaming service,dune: the sisterhood,"Legendary Television announced it is producing a spin-off series, Dune: The Sisterhood, for WarnerMedia's streaming service, HBO Max.",bcc73039e7424757b21924bcc3dbf46a,,4
+dune: the sisterhood,bene gesserit,The series serves as a prequel to the film and centers on the Bene Gesserit.,bcc73039e7424757b21924bcc3dbf46a,,4
+villeneuve,dune: the sisterhood,"Initially, Villeneuve was going to direct the series' pilot,",bcc73039e7424757b21924bcc3dbf46a,,4
+spaihts,dune: the sisterhood,Spaihts wrote the screenplay and Dana Calvo as showrunner for the series.,bcc73039e7424757b21924bcc3dbf46a,"In June 2019, Legendary Television announced it is producing a spin-off series, Dune: The Sisterhood, for WarnerMedia's streaming service, HBO Max.",4
+brian herbert,dune: the sisterhood,"Brian Herbert, Byron Merritt, and Kim Herbert are executive producers along with Spaihts and Villeneuve.",bcc73039e7424757b21924bcc3dbf46a,"In June 2019, Legendary Television announced it is producing a spin-off series, Dune: The Sisterhood, for WarnerMedia's streaming service, HBO Max.",4
+diane ademu-john,dune: the sisterhood,"In July 2021, Diane Ademu-John took over as showrunner.",bcc73039e7424757b21924bcc3dbf46a,The series was put on hiatus in February 2023 as Renck exited the project.,4
+travis fimmel,dune: the sisterhood,Travis Fimmel joined the cast in November 2022.,bcc73039e7424757b21924bcc3dbf46a,The series was put on hiatus in February 2023 as Renck exited the project.,4
+johan renck,dune: the sisterhood,Johan Renck directed the first two episodes.,bcc73039e7424757b21924bcc3dbf46a,The series was put on hiatus in February 2023 as Renck exited the project.,4
+dune: the sisterhood,legendary television,"In November 2019, Spaihts left the series as writer to focus on the sequel film.",bcc73039e7424757b21924bcc3dbf46a,"Initially, Villeneuve was going to direct the series' pilot,",4
+dune: the sisterhood,warnermedia's streaming service,"In April 2022, it was announced that production was put on hiatus as Renck exited the project.",bcc73039e7424757b21924bcc3dbf46a,The series was put on hiatus in February 2023 as Renck exited the project.,4
+dune: the sisterhood,hbo max,"In November 2023, it was announced that production was put on hiatus as Renck exited the project.",bcc73039e7424757b21924bcc3dbf46a,The series was put on hiatus in February 2023 as Renck exited the project.,4
+dune: the sisterhood,spaihts,"In November 2019, Spaihts left the series as writer to focus on the sequel film.",bcc73039e7424757b21924bcc3dbf46a,"Initially, Villeneuve was going to direct the series' pilot,",4
+dune: the sisterhood,villeneuve,"Spaihts and Villeneuve remain as executive producers along with Brian Herbert, Byron Merritt, and Kim Herbert.",bcc73039e7424757b21924bcc3dbf46a,"Initially, Villeneuve was going to direct the series' pilot,",4
+dune: the sisterhood,brian herbert,"Spaihts and Villeneuve remain as executive producers along with Brian Herbert, Byron Merritt, and Kim Herbert.",bcc73039e7424757b21924bcc3dbf46a,"Initially, Villeneuve was going to direct the series' pilot,",4
+dune: the sisterhood,byron merritt,"Spaihts and Villeneuve remain as executive producers along with Brian Herbert, Byron Merritt, and Kim Herbert.",bcc73039e7424757b21924bcc3dbf46a,"Initially, Villeneuve was going to direct the series' pilot,",4
+dune: the sisterhood,kim herbert,"Spaihts and Villeneuve remain as executive producers along with Brian Herbert, Byron Merritt, and Kim Herbert.",bcc73039e7424757b21924bcc3dbf46a,"Initially, Villeneuve was going to direct the series' pilot,",4
+dune: the sisterhood,legendary television,"In November 2023, it was announced that production was put on hiatus as Renck exited the project.",bcc73039e7424757b21924bcc3dbf46a,The series was put on hiatus in February 2023 as Renck exited the project.,4

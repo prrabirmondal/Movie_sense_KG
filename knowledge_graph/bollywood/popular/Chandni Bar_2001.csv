@@ -1,0 +1,34 @@
+node_1,node_2,edge,chunk_id,count
+mumtaz,rural life,"Mumtaz's family is killed in communal riots, forcing her to move to Mumbai.",bd5d641d86904bd3a4e8f1a0be4319fc,4
+mumbai,mumtaz,Mumtaz moves to Mumbai with her uncle after the communal riots in their village.,bd5d641d86904bd3a4e8f1a0be4319fc,4
+uncle,mumtaz,Mumtaz's uncle persuades her to become a bar girl at Chandni Bar and emotionally blackmails her when she refuses.,bd5d641d86904bd3a4e8f1a0be4319fc,4
+bar,mumtaz,Mumtaz becomes a bar girl (dancer) at Chandni Bar to support herself and her uncle.,bd5d641d86904bd3a4e8f1a0be4319fc,4
+uncle,bar,"Mumtaz's uncle lives on her earnings from dancing at the bar, drinking them away and never gets a job.",bd5d641d86904bd3a4e8f1a0be4319fc,4
+rape,mumtaz,Mumtaz's uncle rapes her after she forces herself to dance and flirt at the bar.,bd5d641d86904bd3a4e8f1a0be4319fc,4
+mumtaz,bar,Drinking and watching girls dance at the bar,0a230e5677d9466b879d499329d72c1f,4
+mumtaz's uncle,bar,Rapes Mumtaz while she is at the bar,0a230e5677d9466b879d499329d72c1f,4
+mumtaz,dancers,Confides emotionally in other dancers after being raped by her uncle at the bar,0a230e5677d9466b879d499329d72c1f,4
+dancers,reality check,Give Mumtaz a reality check when she realizes that many other women at the bar have equally disturbing and painful stories,0a230e5677d9466b879d499329d72c1f,4
+mumtaz,pottya sawant,Catches the eye of gangster Pottya Sawant at the bar,0a230e5677d9466b879d499329d72c1f,4
+pottya sawant,mumtaz,Attempts to seduce Mumtaz at the bar,0a230e5677d9466b879d499329d72c1f,4
+pottya sawant,mumtaz,"Finally resorts to paying her for sex at the bar, but Mumtaz cannot go through with it and tells Pottya about her rape",0a230e5677d9466b879d499329d72c1f,4
+pottya sawant,mumtaz's uncle,Kills Mumtaz's uncle after she confesses her rape to him at the bar,0a230e5677d9466b879d499329d72c1f,4
+pottya sawant,bar,"Rises up the criminal ranks quickly, despite his volatile temper, while continuing to frequent Chandni Bar",0a230e5677d9466b879d499329d72c1f,4
+mumtaz,pottya sawant,Marries Pottya after he kills her uncle at the bar,0a230e5677d9466b879d499329d72c1f,4
+mumtaz,bar,Leaves Chandni Bar with Pottya after marrying him,0a230e5677d9466b879d499329d72c1f,4
+pottya sawant,police informant,"Prematurely kills a police informant, which results in him losing friends and connections in the criminal world, while at Chandni Bar",0a230e5677d9466b879d499329d72c1f,4
+police,pottya sawant,"Captures and kills Pottya Sawant in an operation to 'eliminate' various Mumbai gangsters, while at Chandni Bar",0a230e5677d9466b879d499329d72c1f,4
+mumtaz,son abhay,"Wishes for her children Abhay and Payal to be educated and stay far away from her world of dancing girls, while at Chandni Bar",0a230e5677d9466b879d499329d72c1f,4
+mumtaz,bar,"Is forced to return to work at Chandni Bar as a waitress, due to financial difficulties and debt left behind by Pottya, while at Chandni Bar",0a230e5677d9466b879d499329d72c1f,4
+abhay,police,"Arrested by police for extortion but innocent, reputation as Pottya's son causes police to ignore pleas of innocence.",10f4a5140c874cc89a55d8b264582043,4
+mumtaz,police,"Mumtaz attempts to talk to the police, to no avail.",10f4a5140c874cc89a55d8b264582043,4
+mumtaz,influential people with police connections,"Meets with some influential people, who have police connections and can get Abhay released but demand a high price.",10f4a5140c874cc89a55d8b264582043,4
+mumtaz,short on money,Sells her body to obtain the money demanded by influential people with police connections.,10f4a5140c874cc89a55d8b264582043,4
+abhay,chandni bar,Worked at Chandni Bar as a child and still works there as a waitress due to lack of income.,10f4a5140c874cc89a55d8b264582043,4
+mumtaz,abhay,"Forced to return to work at Chandni Bar due to lack of income, provides stable environment for Abhay and Payal.",10f4a5140c874cc89a55d8b264582043,4
+payal,chandni bar,Takes up dancing at Chandni Bar to bring money to her troubled mother.,10f4a5140c874cc89a55d8b264582043,4
+abhay,delinquents,Befriends a group of troublemakers and delinquents.,10f4a5140c874cc89a55d8b264582043,4
+mumtaz,abhay's reputation,Warns Abhay about his association with delinquents but to no avail.,10f4a5140c874cc89a55d8b264582043,4
+abhay,rape,Raped by a pair of older inmates at juvenile prison.,10f4a5140c874cc89a55d8b264582043,4
+abhay,revenge,Looking for revenge after being released from jail.,10f4a5140c874cc89a55d8b264582043,4
+payal,chandni bar,Works at Chandni Bar and brings money to her mother.,10f4a5140c874cc89a55d8b264582043,4

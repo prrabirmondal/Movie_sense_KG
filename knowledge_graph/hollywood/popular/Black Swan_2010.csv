@@ -1,0 +1,136 @@
+node_1,node_2,edge,chunk_id,count
+black swan,tchaikovsky's swan lake,Black Swan is a production of Tchaikovsky's Swan Lake.,36a0fce66ab94d3f9aec5a8c023c9128,4
+nina sayers,white swan,Nina Sayers is the committed dancer who plays the innocent and fragile White Swan in the production of Tchaikovsky's Swan Lake.,36a0fce66ab94d3f9aec5a8c023c9128,4
+nina sayers,black swan,"The qualities required for playing the dark and sensual Black Swan are better embodied by Nina Sayers' new rival Lily, but she also feels immense pressure to portray this role, causing her to lose her grip on reality.",36a0fce66ab94d3f9aec5a8c023c9128,4
+lily,black swan,Lily is a new rival who embodies the dark and sensual qualities required for playing the Black Swan in the production of Tchaikovsky's Swan Lake.,36a0fce66ab94d3f9aec5a8c023c9128,4
+natalie portman,nina sayers,Natalie Portman plays the lead role of Nina Sayers in the film Black Swan.,36a0fce66ab94d3f9aec5a8c023c9128,4
+vincent cassel,supporting role,Vincent Cassel plays a supporting role in the film Black Swan.,36a0fce66ab94d3f9aec5a8c023c9128,4
+barbara hershey,supporting role,Barbara Hershey plays a supporting role in the film Black Swan.,36a0fce66ab94d3f9aec5a8c023c9128,4
+winona ryder,supporting role,Winona Ryder plays a supporting role in the film Black Swan.,36a0fce66ab94d3f9aec5a8c023c9128,4
+black swan,venice international film festival,"Black Swan premiered at the 67th Venice International Film Festival on September 1, 2010.",b0d7093cd25a42e79ba1b91141071d88,4
+black swan,limited release,"Black Swan had a limited release in the United States starting on December 3,",b0d7093cd25a42e79ba1b91141071d88,4
+black swan,wide release,before opening in wide release on December 17.,b0d7093cd25a42e79ba1b91141071d88,4
+black swan,positive reviews from critics,"Upon release, the film received positive reviews from critics,",b0d7093cd25a42e79ba1b91141071d88,4
+aronofsky's direction,black swan,"with praise toward Aronofsky's direction and the performances of Portman, Kunis, and Hershey.",b0d7093cd25a42e79ba1b91141071d88,4
+natalie portman,black swan,"with Natalie Portman winning Best Actress at the 83rd Academy Awards,",b0d7093cd25a42e79ba1b91141071d88,4
+box-office success,black swan,the film grossed $329 million worldwide on a $13 million budget.,b0d7093cd25a42e79ba1b91141071d88,4
+black swan,venice international film festival,"in 2021, Portman's performance was included in The New Yorker's list of the best film performances of the 21st century.",b0d7093cd25a42e79ba1b91141071d88,4
+black swan,limited release,"the film also received four nominations at the 68th Golden Globe Awards,",b0d7093cd25a42e79ba1b91141071d88,4
+black swan,wide release,"including Best Motion Picture – Drama and Best Director (Aronofsky),",b0d7093cd25a42e79ba1b91141071d88,4
+nina sayers,erica (nina's mother),overprotective relationship,634a0132975049bc83ddf61d6ee0aad5,4
+new york city ballet,swan lake,opening of the season with,634a0132975049bc83ddf61d6ee0aad5,4
+elizabeth 'beth' macintyre,nina sayers,"forced retirement by Nina's mother, Erica",634a0132975049bc83ddf61d6ee0aad5,4
+thomas leroy,nina sayers,"[{'from': 'Thomas Leroy', 'to': 'Nina Sayers', 'relation': 'forcibly kissed'}, {'from': 'Nina Sayers', 'to': 'Thomas Leroy', 'relation': 'bit and ran out of his office'}]",634a0132975049bc83ddf61d6ee0aad5,4
+tchaikovsky's swan lake,"white swan, odette",dual roles for new dancer,634a0132975049bc83ddf61d6ee0aad5,4
+"black swan, odile",nina sayers,"[{'from': 'Thomas Leroy', 'to': 'Nina Sayers', 'relation': 'failed to embody'}, {'from': 'Nina Sayers', 'to': 'Black Swan, Odile', 'relation': 'bit Thomas during audition'}]",634a0132975049bc83ddf61d6ee0aad5,4
+gala celebrating new season,beth,intoxicated accusation of providing sexual favors to Thomas in return for promotion,634a0132975049bc83ddf61d6ee0aad5,4
+hospital,beth,"critically injured legs, unable to be a dancer if recovers",634a0132975049bc83ddf61d6ee0aad5,4
+nina,lily,"Lily is a newcomer who has a physical resemblance to Nina but also an uninhibited quality that Nina lacks. During rehearsals, Thomas asks Nina to observe Lily.",0ec5a9a6b05f41d2878db1ba57e45667,4
+nina,lily,"Nina has hallucinations and finds scratch marks on her back. Lily offers Nina an ecstasy capsule, saying it would help her relax.",0ec5a9a6b05f41d2878db1ba57e45667,4
+ecstasy,nina,Nina accepts Lily's invitation to go out for drinks and also accepts Lily's offer of ecstasy capsule. Nina turns it down at first but then accepts.,0ec5a9a6b05f41d2878db1ba57e45667,4
+ecstasy,influence,"Nina repeats Lily's assurance that the effects of ecstasy will only last for a few hours, and quickly begins to act under the ecstasy's influence.",0ec5a9a6b05f41d2878db1ba57e45667,4
+lily,nina,"After the two dance at a nightclub, they go back to Nina's apartment in a taxi, where Lily masturbates Nina.",0ec5a9a6b05f41d2878db1ba57e45667,4
+erica,nina,Nina yells at Erica to leave her alone.,0ec5a9a6b05f41d2878db1ba57e45667,4
+nina,lily,Nina has sex with Lily.,0ec5a9a6b05f41d2878db1ba57e45667,4
+nina,lily,"Nina confronts Lily about intending to take her place, as she learns that Thomas has made Lily her alternate. Nina becomes convinced of this after Lily denies having sex with Nina and says she went home with one of the men from the bar.",2f71dde0de944ee892a203fb9bdaec0f,4
+nina,lily,"During a confrontation, Lily transforms into Nina. The two fight, breaking a mirror.",2f71dde0de944ee892a203fb9bdaec0f,4
+nina,nina,"Nina's hallucinations grow stronger and her injuries increase, going as far as hallucinating herself transforming into Odile.",2f71dde0de944ee892a203fb9bdaec0f,4
+nina,lily,"Nina stabs her doppelgänger with a large shard of glass from the mirror, killing her. The body reverts to Lily.",2f71dde0de944ee892a203fb9bdaec0f,4
+thomas,nina,"On opening night, Nina berates her mother for calling the theatre and telling them she was not well enough to perform, worried that the role might be too much for her.",2f71dde0de944ee892a203fb9bdaec0f,4
+thomas,lily,"Thomas allows Nina to take back her role when she arrives late, as Lily is prepared to replace her.",2f71dde0de944ee892a203fb9bdaec0f,4
+nina,prince,The male dancer playing the prince drops her on stage due to Nina's distraction by another hallucination and loss of stability as Odette.,2f71dde0de944ee892a203fb9bdaec0f,4
+nina,thomas,"Nina surprises Thomas with a passionate kiss after dancing flawlessly as Odile and seemingly turning into a black swan, her arms covered in feathers.",2f71dde0de944ee892a203fb9bdaec0f,4
+lincoln center,nina,"Arriving at the Lincoln Center, Nina sees Lily dancing as Odile.",2f71dde0de944ee892a203fb9bdaec0f,4
+odette,lily,"Lily apologizes to Odette, who is in her tutu and white swan makeup, for the misunderstanding and congratulates her before leaving. ",269c7ebbd8f141cfba79e6f62e5cd08a,4
+odette,audience,"Odette dances the final act of the ballet, which ends with her landing on a mattress, and everyone erupts in thunderous applause.",269c7ebbd8f141cfba79e6f62e5cd08a,4
+thomas,nina,"Thomas sees Nina lying on the mattress covered in blood and shouts for help. He frantically asks Nina what happened to her, to which she calmly replies: ""I felt it. It was perfect,"" as the screen fades to white.",269c7ebbd8f141cfba79e6f62e5cd08a,4
+nina,mirror,Nina opens her door to find Lily and sees that the mirror is still broken from earlier in the context.,269c7ebbd8f141cfba79e6f62e5cd08a,4
+nina,towel,Nina sees a clean towel used to mop up blood in the bathroom with no body present.,269c7ebbd8f141cfba79e6f62e5cd08a,4
+aronofsky,portman,discussed the possibility of a ballet film in 2000 and found she was interested in playing a ballet dancer.,df20139d3b574733a7bf7823e69fdc67,4
+portman,black swan,played the role of a ballet dancer,df20139d3b574733a7bf7823e69fdc67,4
+portman,mila kunis,suggested her good friend would be perfect for the role,df20139d3b574733a7bf7823e69fdc67,4
+lily (played by portman),nina (played by portman),represents Lily's character in the film,df20139d3b574733a7bf7823e69fdc67,4
+nina (played by portman),mila kunis,contrasted with Mila Kunis's character in the film,df20139d3b574733a7bf7823e69fdc67,4
+thomas leroy (played by cassel),nina (played by portman),directed Lily/Nina's character in the Swan Lake production,df20139d3b574733a7bf7823e69fdc67,4
+thomas leroy (played by cassel),george balanchine,"compared to George Balanchine, who co-founded New York City Ballet and was 'a control freak, a true artist using sexuality to direct his dancers'",df20139d3b574733a7bf7823e69fdc67,4
+natalie portman,ballet training,"Portman started six months of intense ballet, cross-training, and swimming training in order to attain a body type and muscle tone more similar to those of professional dancers for the movie. She continued her ballet choreography training a few months before filming.",d97fa2b255764a97861df6a062decab5,4
+natalie portman,professional dancer's body type and muscle tone,"Portman trained for five hours a day, aiming to achieve the body type and muscle tone of professional dancers for the movie.",d97fa2b255764a97861df6a062decab5,4
+milena markova kunis,ballet training,"Kunis engaged in seven days a week, five hours of ballet training, cardio, and Pilates for six months to prepare for the movie. She lost 20 pounds due to the strict diet and intense training.",d97fa2b255764a97861df6a062decab5,4
+milena markova kunis,professional dancer's body type and muscle tone,Kunis aimed to achieve the body type and muscle tone of professional dancers by undergoing intense training for six months.,d97fa2b255764a97861df6a062decab5,4
+georgina parkinson,natalie portman,"Parkinson, a ballet mistress from the American Ballet Theatre (ABT), coached Portman in ballet for the movie.",d97fa2b255764a97861df6a062decab5,4
+sarah lane,natalie portman,"Lane, a soloist at ABT, served as a 'dance double' for Portman during some of the heavy tricks and fouettés in the movie.",d97fa2b255764a97861df6a062decab5,4
+maría riccetto,milena markova kunis,"Riccetto, another 'dance double' from ABT, served as a 'dance double' for Kunis during some of the heavy tricks and fouettés in the movie.",d97fa2b255764a97861df6a062decab5,4
+kimberly prosa,natalie portman,"Prosa, another 'dance double' for Portman, did the rest of whatever dance was required in the movie since Lane could only do it for a limited time (a few weeks).",d97fa2b255764a97861df6a062decab5,4
+abt,limited time,"at ABT, did the heavy tricks, she did the fouettés, but they only had her for a couple of weeks, so I did the rest of whatever dance shots they needed.",a19d04168a2e46bd8d0e962393095a5e,4
+abt,dance shots,"at ABT, did the heavy tricks, she did the fouettés, but they only had her for a limited time, so I did the rest of whatever dance shots they needed.",a19d04168a2e46bd8d0e962393095a5e,4
+she,fouettés,"at ABT, did the heavy tricks, she did the fouettés, but they only had her for a limited time, so I did the rest of whatever dance shots they needed.",a19d04168a2e46bd8d0e962393095a5e,4
+abt,she,"at ABT, did the heavy tricks, she did the fouettés, but they only had her for a limited time, so I did the rest of whatever dance shots they needed.",a19d04168a2e46bd8d0e962393095a5e,4
+abt,i,"at ABT, did the heavy tricks, she did the fouettés, but they only had her for a limited time, so I did the rest of whatever dance shots they needed.",a19d04168a2e46bd8d0e962393095a5e,4
+abt,a couple of weeks,"at ABT, did the heavy tricks, she did the fouettés, but they only had her for a limited time, so I did the rest of whatever dance shots they needed.",a19d04168a2e46bd8d0e962393095a5e,4
+ballet film,aronofsky and portman,"discussed a ballet film in 2000, after the release of Requiem for a Dream",595ec63b03d64ab3835ba9fa6f8eafe0,4
+love scene between competing ballet dancers,aronofsky,told Portman about,595ec63b03d64ab3835ba9fa6f8eafe0,4
+black swan,the understudy,"Aronofsky first heard about The Understudy, which was written by Andres Heinz, while editing his second film Requiem for a Dream. Black Swan is based on an idea that Aronofsky had while editing this same film and describes it as 'All About Eve with a double, set in the off-Broadway world.' After making The Fountain, Aronofsky and producer Mike Medavoy had screenwriter John McLaughlin rewrite The Understudy; in Black Swan's development, McLaughlin 'took my idea of Swan Lake and the ballet and put [the story] into the ballet world and changed the title to Black Swan.'",edfd5657c14748c78f808cbf48576775,4
+black swan,universal pictures,"By June 2009, Universal had placed the project in turnaround, generating attention from other studios and specialty divisions, particularly with actress Portman attached to star.",edfd5657c14748c78f808cbf48576775,4
+black swan,kunis,"In July 2009, Kunis was cast in Black Swan.",edfd5657c14748c78f808cbf48576775,4
+fox searchlight pictures,black swan,Fox Searchlight Pictures distributed Black Swan and gave the film a production budget of $10–12 million.,d7f3a99889f447c893dbe935721bbf10,4
+black swan,principal photography,Principal photography was achieved using Super 16 mm cameras for Black Swan towards the end of 2009.,d7f3a99889f447c893dbe935721bbf10,4
+super 16 mm cameras,black swan,"Super 16 mm cameras were used to film Black Swan, and Aronofsky intended the muted palette and grainy style achieved with these cameras to be similar to his previous film, The Wrestler.",d7f3a99889f447c893dbe935721bbf10,4
+aronofsky,black swan,"Aronofsky filmed Black Swan using Super 16 mm cameras with a muted palette and grainy style, similar to his previous film, The Wrestler.",d7f3a99889f447c893dbe935721bbf10,4
+performing arts center at state university of new york at purchase,black swan,Part of the filming for Black Swan took place at the Performing Arts Center at State University of New York at Purchase.,d7f3a99889f447c893dbe935721bbf10,4
+aronofsky,steady-cams,"Aronofsky was nervous about shooting a psychological thriller/horror film with a hand-held camera, and was concerned that the use of steady-cams instead would affect the suspense.",d7f3a99889f447c893dbe935721bbf10,4
+hand-held cameras,black swan,"Aronofsky decided to use hand-held cameras for Black Swan, despite being concerned about how this would affect the suspense, because he wanted the camera to 'dance' and capture the practice room.",d7f3a99889f447c893dbe935721bbf10,4
+black swan,venice film festival,"Black Swan had its world premiere as the opening film at the 67th Venice Film Festival on September 1, 2010. The festival's artistic director Marco Mueller had chosen Black Swan over The American (starring George Clooney) for opening film, saying, ""[It] was just a better fit ... Clooney is a wonderful actor, and he will always be welcome in Venice. But it was as simple as that.""",6d2aeb2fe0694f0c8017da38c816c329,4
+black swan,standing ovation,"Black Swan received a standing ovation whose length Variety said made it ""one of the strongest Venice openers in recent memory""",6d2aeb2fe0694f0c8017da38c816c329,4
+black swan,darren aronofsky,"Black Swan is the third consecutive film directed by Darren Aronofsky to premiere at the Venice Film Festival, following The Fountain (2006) and The Wrestler.",6d2aeb2fe0694f0c8017da38c816c329,4
+black swan,clint mansell,English composer Clint Mansell composed the original score for the film.,6d2aeb2fe0694f0c8017da38c816c329,4
+black swan,tchaikovsky,The non-original music featured in Black Swan consists of music by Tchaikovsky featuring performances on-screen and in the soundtrack by violinist Tim Fain[32].,6d2aeb2fe0694f0c8017da38c816c329,4
+black swan,"clint mansell, tchaikovsky",Mansell attempted to score the film based on Tchaikovsky's ballet[33] but with radical changes to the music.[34],6d2aeb2fe0694f0c8017da38c816c329,4
+black swan,academy awards,"Because of the use of Tchaikovsky's music, the score was deemed ineligible to be entered into the 2010 Academy Awards for Best Original Score.[35]",6d2aeb2fe0694f0c8017da38c816c329,4
+black swan,the chemical brothers,"The Chemical Brothers' music, which is featured prominently during the club scene in Black Swan, is omitted from the soundtrack album.[36]",6d2aeb2fe0694f0c8017da38c816c329,4
+black swan,telluride film festival,"Black Swan was presented in a sneak screening at the Telluride Film Festival on September 5, 2010.",d7c24092db5a47c1b29223f9ce3ab4af,4
+black swan,toronto international film festival,It also had a Gala screening at the 35th Toronto International Film Festival later in the month.,d7c24092db5a47c1b29223f9ce3ab4af,4
+black swan,new orleans film festival,"In October 2010, Black Swan was screened at the New Orleans Film Festival,",d7c24092db5a47c1b29223f9ce3ab4af,4
+black swan,austin film festival,"the Austin Film Festival,",d7c24092db5a47c1b29223f9ce3ab4af,4
+black swan,bfi london film festival,"In November 2010, Black Swan was screened at the BFI London Film Festival.",d7c24092db5a47c1b29223f9ce3ab4af,4
+black swan,denver film festival,"the Denver Film Festival and Camerimage Festival in Bydgoszcz, Poland,",d7c24092db5a47c1b29223f9ce3ab4af,4
+black swan,the independent,"According to The Independent, the film was considered one of 'the most highly anticipated' films of 2010.",d7c24092db5a47c1b29223f9ce3ab4af,4
+black swan,the red shoes,The newspaper then compared it to the 1948 ballet film The Red Shoes in having 'a nightmarish quality ... of a dancer consumed by her desire to dance'.,d7c24092db5a47c1b29223f9ce3ab4af,4
+black swan,region 1/region a,"Black Swan was released on DVD and Blu-ray in Region 1/Region A on March 29, 2011.",d7c24092db5a47c1b29223f9ce3ab4af,4
+black swan,region 2/region b,"The Region 2/Region B version was released on May 16, 2011.",d7c24092db5a47c1b29223f9ce3ab4af,4
+black swan,rotten tomatoes,The film Black Swan received an approval rating of 85% based on 318 reviews and an average rating of 8.20/10 on the review aggregator Rotten Tomatoes.,a0ff7d57c20e4c9cbe961584b22a27b8,4
+black swan,metacritic,"The film Black Swan received an average score of 79 out of 100 on the website Metacritic, based on reviews from 42 critics.",a0ff7d57c20e4c9cbe961584b22a27b8,4
+black swan,venice film festival,"The film Black Swan received 'generally positive reviews' during its screening at the Venice Film Festival, according to Entertainment Weekly.",a0ff7d57c20e4c9cbe961584b22a27b8,4
+natalie portman,black swan,Natalie Portman starred in the film Black Swan.,a0ff7d57c20e4c9cbe961584b22a27b8,4
+natalie portman,award rating of 85%,Natalie Portman's performance in the film Black Swan received an approval rating of 85%.,a0ff7d57c20e4c9cbe961584b22a27b8,4
+natalie portman,passionate and wildly melodramatic,Natalie Portman's performance in the film Black Swan was described as 'passionate and wildly melodramatic'.,a0ff7d57c20e4c9cbe961584b22a27b8,4
+rotten tomatoes,black swan,The approval rating of 85% for the film Black Swan was obtained from reviews on the website Rotten Tomatoes.,a0ff7d57c20e4c9cbe961584b22a27b8,4
+venice film festival,love-it-or-hate-it films,The early response to the film Black Swan after its screening at the Venice Film Festival was described as 'love-it-or-hate-it films' by Entertainment Weekly.,a0ff7d57c20e4c9cbe961584b22a27b8,4
+leonard maltin,black swan,"Leonard Maltin declared that he 'couldn't stand' the film Black Swan, despite praising Natalie Portman's performance.",a0ff7d57c20e4c9cbe961584b22a27b8,4
+metacritic,reviews from 42 critics,The average score of 79 out of 100 for the film Black Swan on Metacritic was obtained based on reviews from 42 critics.,a0ff7d57c20e4c9cbe961584b22a27b8,4
+black swan,exhilarating,Mike Goodridge from Screen Daily described Black Swan as 'alternately disturbing and exhilarating',85bc86ff665040dc84818a952bb434ac,4
+portman,nina,Portman's performance in the movie is described as 'captivating' and she 'captures the confusion of a repressed young woman thrown into a world of danger and temptation with frightening veracity',85bc86ff665040dc84818a952bb434ac,4
+black swan,theatrical tragic finale,Mike Goodridge described the movie's finale as 'gloriously theatrical',85bc86ff665040dc84818a952bb434ac,4
+kurt loder,wonderfully creepy,Loder called the film 'wonderfully creepy',85bc86ff665040dc84818a952bb434ac,4
+black swan,usual creative brio,Kurt Loder wrote that 'it's not entirely satisfying; but it's infused with the director's usual creative brio',85bc86ff665040dc84818a952bb434ac,4
+goodridge,"the desperate, jealous mother","Goodridge compared Hershey's role to Ruth Gordon in the role of 'the desperate, jealous mother'",85bc86ff665040dc84818a952bb434ac,4
+libatique,psychologically 'unnerving',Goodridge praised Libatique's cinematography with the dance scenes and the psychologically 'unnerving' scenes,85bc86ff665040dc84818a952bb434ac,4
+black swan dynamics,white swan/black swan dynamics,"Aronofsky never succeeds in wedding genre elements to the world of ballet in Black Swan, while White Swan/Black Swan dynamics almost work.",25f11536fd78479dbb169ab762ac1824,4
+preposterousness,horror-movie nonsense,drags everything down the rabbit hole of preposterousness in Black Swan,25f11536fd78479dbb169ab762ac1824,4
+aronofsky,paul verhoeven's exploitation classic (showgirls),owes a feather-tip to Paul Verhoeven's exploitation classic more than [he] might be willing to admit,25f11536fd78479dbb169ab762ac1824,4
+black swan,showgirls,similarities of the film’s plot to that of Showgirls (1995),25f11536fd78479dbb169ab762ac1824,4
+cheese,aronofsky's camembert,"Black Swan is simply higher-priced cheese, Aronofsky’s camembert to [Burlesque director Steve] Antin’s cheddar",25f11536fd78479dbb169ab762ac1824,4
+millepied's,sumptuous choreography,commended in Black Swan by Kirk Honeycutt of The Hollywood Reporter,25f11536fd78479dbb169ab762ac1824,4
+libatique's,"darting, weaving camera work",commended in Black Swan by Kirk Honeycutt of The Hollywood Reporter,25f11536fd78479dbb169ab762ac1824,4
+black swan,perfect blue,"Both films share similar themes and plot elements, such as a psychological thriller involving a female protagonist in the ballet world, directed by Satoshi Kon and Darren Aronofsky respectively.",d1d054b106484ffaa91ec2b6c4bd5821,4
+aronofsky,satoshi kon,"Both directors have had their works compared due to similarities in plot elements, themes, and genre.",d1d054b106484ffaa91ec2b6c4bd5821,4
+black swan,inspiration,Aronofsky has denied claims that Black Swan was directly inspired by Perfect Blue.,d1d054b106484ffaa91ec2b6c4bd5821,4
+amy westcott,portman,"Amy Westcott served as the costume designer for Portman in Black Swan, and received several award nominations for her work.",b70635ebf81541eb83a0d9378330514c,4
+rodarte's kate and laura mulleavy,controversy,"An article in The Independent suggested that Rodarte's Kate and Laura Mulleavy had designed 40 ballet costumes for Portman and the dancers, but Westcott challenged this view, stating that only 7 costumes (including the Black and White Swan) had been created in a collaboration between Rodarte, Westcott, and Aronofsky.",b70635ebf81541eb83a0d9378330514c,4
+zack brown,corps ballet's costumes,"The corps ballet's costumes in Black Swan were designed by Zack Brown for the American Ballet Theatre, and slightly adapted by Westcott and her costume design department.",b70635ebf81541eb83a0d9378330514c,4
+westcott,controversy,Westcott referred to the controversy surrounding who designed the costumes as 'too complimentary a word for two people using their considerable self-publicising resources to loudly complain about their credit once they realized how good the film is.',b70635ebf81541eb83a0d9378330514c,4
+black swan,one of the best films of the year,Black Swan appeared on many critics' top ten lists of 2010 and is frequently considered to be one of the best films of the year.,9a3d6ddd78f84782ac4afba3466a9248,4
+american film institute,black swan,Black Swan was featured on the American Film Institute's 10 Movies of the Year.,9a3d6ddd78f84782ac4afba3466a9248,4
+natalie portman,best actress,Portman won Best Actress for her role in Black Swan at the Academy Awards.,9a3d6ddd78f84782ac4afba3466a9248,4
+benjamin millepied,defended portman,"Millepied, the choreographer of Black Swan, defended Portman's dancing in response to claims that she did not do her own dancing.",9a3d6ddd78f84782ac4afba3466a9248,4
+aronofsky,defended portman,Director Darren Aronofsky also defended Portman's dancing in response to similar claims.,9a3d6ddd78f84782ac4afba3466a9248,4
+sarah lane,portman',"In the film, Sarah Lane served as a 'dance double' for Portman's dance scenes.",9a3d6ddd78f84782ac4afba3466a9248,4

@@ -1,0 +1,34 @@
+node_1,node_2,edge,chunk_id,count
+mystic river,"charlestown, boston","The events in the film Mystic River take place in Charlestown, Boston.",ef260606cfb345959242c26f68c291f2,4
+jimmy markum,mystic river,Jimmy Markum is a main character in the film Mystic River.,ef260606cfb345959242c26f68c291f2,4
+sean devine,mystic river,Sean Devine is a main character in the film Mystic River.,ef260606cfb345959242c26f68c291f2,4
+dave boyle,mystic river,"Dave Boyle is a main character in the film Mystic River, who was kidnapped and sexually abused in Charlestown, Boston when he was 8 years old.",ef260606cfb345959242c26f68c291f2,4
+celeste,dave boyle,"Celeste is the wife of Dave Boyle, who was kidnapped and sexually abused in Charlestown, Boston when he was 8 years old.",ef260606cfb345959242c26f68c291f2,4
+annabeth,jimmy markum,"Annabeth is the second wife of Jimmy Markum, and she is also a cousin of Celeste.",ef260606cfb345959242c26f68c291f2,4
+lauren,sean devine,Lauren is the pregnant wife of Sean Devine who recently left him.,ef260606cfb345959242c26f68c291f2,4
+katie,las vegas,Katie plans to run away to Las Vegas with Brendan Harris.,53446d2fbfae4f10ab2e20da6de93f78,4
+jimmy,katie,Jimmy is Katie's father.,53446d2fbfae4f10ab2e20da6de93f78,4
+brendan harris,katie,"Katie has been secretly dating Brendan Harris, a boy from a family Jimmy despises.",53446d2fbfae4f10ab2e20da6de93f78,4
+dave,katie,Dave sees Katie and her friends at a local bar.,53446d2fbfae4f10ab2e20da6de93f78,4
+just ray harris,brendan harris,Just Ray Harris is the father of Brendan Harris.,53446d2fbfae4f10ab2e20da6de93f78,4
+gun,.38 special revolver,"The gun used to kill Katie, a .38 Special revolver, was also used in a liquor store robbery in 1984 by 'Just Ray' Harris.",53446d2fbfae4f10ab2e20da6de93f78,4
+whitey powers,sean,Whitey Powers is Sean's partner.,53446d2fbfae4f10ab2e20da6de93f78,4
+dave,celeste,"Dave continues to behave erratically, which upsets Celeste to the point that she leaves their home and tells Jimmy she suspects Dave is Katie's murderer.",53446d2fbfae4f10ab2e20da6de93f78,4
+jimmy,dave,"invites, gets drunk, confronts when vomiting, admits to killing 'Just Ray' for liquor store robbery imprisonment",f270d2fea3d04df69e85fbf1972fd349,4
+jimmy,dave,disbelief in Dave's murder confession,f270d2fea3d04df69e85fbf1972fd349,4
+jimmy,dave,"pulls out knife, promises to let live if confesses to Katie's murder",f270d2fea3d04df69e85fbf1972fd349,4
+katie,john,connected to murder by Sean and Whitey,f270d2fea3d04df69e85fbf1972fd349,4
+katie,ray,"mute younger brother of Brendan, found with Katie's body",f270d2fea3d04df69e85fbf1972fd349,4
+john,ray,friendship when trying to get Brendan to admit their guilt,f270d2fea3d04df69e85fbf1972fd349,4
+sean,john,arrests after connecting teens to Katie's murder,f270d2fea3d04df69e85fbf1972fd349,4
+whitey,john,arrests after connecting teens to Katie's murder,f270d2fea3d04df69e85fbf1972fd349,4
+jimmy,celeste,sends monthly $500,f270d2fea3d04df69e85fbf1972fd349,4
+mystic river,sean devine,"Michael Keaton was originally cast as Sean Devine in the film adaptation of Mystic River, but creative differences led to his departure and Kevin Bacon took on the role.",f8788898a570495a900e36f8125d163e,4
+sean devine,lauren,Sean reunites with Lauren after apologizing for pushing her away in the context of Mystic River.,f8788898a570495a900e36f8125d163e,4
+jimmy,annabeth,"In the context of Mystic River, Jimmy confesses what he's done to Annabeth and she responds by telling him 'a king knows what to do and does it. Even when it's hard.'",f8788898a570495a900e36f8125d163e,4
+michael,dave,"During a local parade in the context of Mystic River, Dave's son Michael waits for him.",f8788898a570495a900e36f8125d163e,4
+sean devine,jimmy,"In the context of Mystic River, Sean sees Jimmy and mimics a gunshot at him with his hand, implying he is going to make Jimmy pay, whereas Jimmy spreads his arms in a ‘what did I do / do your best’ gesture.",f8788898a570495a900e36f8125d163e,4
+film,worldwide earnings,"The film earned $156,822,020 worldwide",d4dbd15291a546f2b19b79564d2131c7,4
+film,united states box office,"The film earned $90,135,191 in the United States",d4dbd15291a546f2b19b79564d2131c7,4
+film,international box office,"The film earned $66,686,829 in the international box office",d4dbd15291a546f2b19b79564d2131c7,4
+worldwide earnings,budget,which is significantly higher than its $25–30 million budget,d4dbd15291a546f2b19b79564d2131c7,4

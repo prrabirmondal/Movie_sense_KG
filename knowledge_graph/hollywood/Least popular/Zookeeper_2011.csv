@@ -1,0 +1,50 @@
+node_1,node_2,edge,chunk_id,count
+franklin park zoo,animals at franklin park zoo,The context mentions caring for the animals at the zoo.,66088324bc164e5394abe5b8267d76b6,4
+griffin,franklin park zoo,Griffin works as a zookeeper at Franklin Park Zoo.,66088324bc164e5394abe5b8267d76b6,4
+stephanie,griffin,"Stephanie is invited to Griffin's brother Dave's engagement party at the zoo, causing a conflict between them.",66088324bc164e5394abe5b8267d76b6,4
+dave,griffin,Dave suggests working with Griffin at his car dealership to win back Stephanie.,66088324bc164e5394abe5b8267d76b6,4
+jerome,animals at franklin park zoo,"Jerome, a brown bear, suggests teaching Griffin their mating techniques to help him win back Stephanie.",66088324bc164e5394abe5b8267d76b6,4
+joe,stephanie,"Joe, a lion, protests against mingling with humans during the discussion on teaching Griffin their mating techniques to win back Stephanie.",66088324bc164e5394abe5b8267d76b6,4
+donald,animals at franklin park zoo,"Donald, a monkey, suggests making Griffin look like a hero in front of Stephanie at the zoo.",66088324bc164e5394abe5b8267d76b6,4
+joe,stephanie's fiancée robin,"Joe confronts Robin, the fiancée of Stephanie's brother Dave, during their meeting at the zoo.",66088324bc164e5394abe5b8267d76b6,4
+griffin,animals at franklin park zoo,The animals hold a meeting to find ways to help Griffin win back Stephanie.,66088324bc164e5394abe5b8267d76b6,4
+bernie,franklin park zoo,Bernie is a forlorn Western lowland gorilla who has spent years in a deep enclosure after allegedly attacking a zookeeper.,66088324bc164e5394abe5b8267d76b6,4
+griffin,animals at franklin park zoo,The animals teach Griffin their different mating rituals to help him win back Stephanie.,66088324bc164e5394abe5b8267d76b6,4
+griffin,bernie,"Griffin has a talk with Bernie, a forlorn Western lowland gorilla who has spent years in a deep enclosure after allegedly attacking a zookeeper named Shane. Bernie tells Griffin that Shane fell when he was abusing him, but lied, saying that Bernie attacked him, causing the zoo to close down Bernie's enclosure and move him into the cement pit he hates. This caused Bernie to mistrust humans.",e90a62c73fa14f56be43d8948154613b,4
+shane,bernie,"Shane allegedly attacked Bernie, causing the zoo to close down Bernie's enclosure and move him into the cement pit he hates.",e90a62c73fa14f56be43d8948154613b,4
+griffin,stephanie,"Griffin asks out Stephanie after successfully attracting her attention by first showing off with Kate, then standing up to Gale.",e90a62c73fa14f56be43d8948154613b,4
+gale,stephanie,Gale is Stephanie's current boyfriend when Griffin asks her out.,e90a62c73fa14f56be43d8948154613b,4
+griffin,kate,Griffin asks Kate to go with him to Dave and Robin's wedding as a way to attract Stephanie's attention.,e90a62c73fa14f56be43d8948154613b,4
+janet,griffin,Janet tells Griffin that the best way to attract a female is to be seen with another female.,e90a62c73fa14f56be43d8948154613b,4
+dave,robin,Griffin attends Dave and Robin's wedding.,e90a62c73fa14f56be43d8948154613b,4
+stephanie,griffin,"After they go to a fashion show, Stephanie asks Griffin out to dinner.",e90a62c73fa14f56be43d8948154613b,4
+griffin,bernie,"Griffin takes Bernie out on the town (posing him as a guy in a costume), and the two bond as they become friends. However, Bernie tells Griffin that his decision to quit his job proves that he can't trust humans.",e90a62c73fa14f56be43d8948154613b,4
+shane,griffin,Griffin warns Shane not to hurt Bernie after leaving his job at the zoo.,e90a62c73fa14f56be43d8948154613b,4
+kate,bernie,"Bernie tells Griffin that his decision to quit his job proves that he can't trust humans, just as Kate decides to leave the zoo and accepts a job in Nairobi.",e90a62c73fa14f56be43d8948154613b,4
+griffin,stephanie,"When Stephanie proposes to him in the midst of his success, Griffin refuses without hesitation, dumping her as he realizes that she...",e90a62c73fa14f56be43d8948154613b,4
+zoo,griffin,Griffin works at the zoo.,12ce210b3dca4b72b46929e4428dc24a,4
+stephanie,griffin,"Stephanie proposes to Griffin at the zoo, but he refuses her due to a lack of acceptance and true love.",12ce210b3dca4b72b46929e4428dc24a,4
+bernie,shane,Shane beats up Bernie at the zoo.,12ce210b3dca4b72b46929e4428dc24a,4
+griffin,bernie,Griffin apologizes to Bernie at the zoo after Shane beats him again.,12ce210b3dca4b72b46929e4428dc24a,4
+kate,griffin,Griffin stops Kate from leaving the zoo and confesses his love for her there.,12ce210b3dca4b72b46929e4428dc24a,4
+zoo,bernie,Bernie moves to a new enclosure at the zoo with a great view of the city.,12ce210b3dca4b72b46929e4428dc24a,4
+tweet,zookeeper,"Tweet, the giraffe who appeared in Ace Ventura: Pet Detective and Toys 'R' Us commercials, died during the filming of Zookeeper at the Franklin Park Zoo.",12ce210b3dca4b72b46929e4428dc24a,4
+tweet,blue tarp,died after eating pieces of blue tarp that covered his cage during the filming of Zookeeper at the Franklin Park Zoo.,b8159c42240e42c4ae0641a640221834,4
+zookeeper,franklin park zoo,filming location,b8159c42240e42c4ae0641a640221834,4
+bart the bear 2,wasatch rocky mountain wildlife,"Grizzly actors from Heber City, Utah's veteran facility",b8159c42240e42c4ae0641a640221834,4
+honey bump,wasatch rocky mountain wildlife,"Grizzly actors from Heber City, Utah's veteran facility",b8159c42240e42c4ae0641a640221834,4
+tai the elephant,animal defenders international (adi),featured in a video showing abuse by trainers,b8159c42240e42c4ae0641a640221834,4
+american humane association,re-evaluating how they assess the use of animals in films and statements being made,in response to animal abuse allegations,b8159c42240e42c4ae0641a640221834,4
+frank coraci,animals were not harmed during production,director's statement in an interview,b8159c42240e42c4ae0641a640221834,4
+dull comedy,barely enough comedy to populate a three-minute trailer.,is a subtype of,fc19063f4b8e4fd18b1e2e9a1c462198,4
+dreadful comedy,effort that offers barely enough comedy to populate a three-minute trailer.,is a subtype of,fc19063f4b8e4fd18b1e2e9a1c462198,4
+archly mirthless comedy,effort that offers barely enough comedy to populate a three-minute trailer.,is equivalent to,fc19063f4b8e4fd18b1e2e9a1c462198,4
+dignity intact,dawson,has the property of,fc19063f4b8e4fd18b1e2e9a1c462198,4
+hilarious,effort that offers barely enough comedy to populate a three-minute trailer.,is false according to,fc19063f4b8e4fd18b1e2e9a1c462198,4
+praise,dawson,receives from,fc19063f4b8e4fd18b1e2e9a1c462198,4
+pleasant summer entertainment,effort that offers barely enough comedy to populate a three-minute trailer.,is a subtype of,fc19063f4b8e4fd18b1e2e9a1c462198,4
+exhausted by cute little animated animals,roger ebert,has the property of,fc19063f4b8e4fd18b1e2e9a1c462198,4
+"wise cracking sidekick for kevin james, played by a rapper.",hosts of half in the bag,mentions,fc19063f4b8e4fd18b1e2e9a1c462198,4
+james,pratfalls and agonizing tumbles,"James's business appears to be pratfalls and agonizing tumbles, according to Sean O'Connell of The Washington Post.",adca1a76d46a4326b45d33586b99c4ce,4
+business,booming,"The business of James is currently booming, as stated by Sean O'Connell of The Washington Post.",adca1a76d46a4326b45d33586b99c4ce,4
+james,3d,"In contrast to the creatures in this zoo, who are all 2D, James is not associated with 3D.",adca1a76d46a4326b45d33586b99c4ce,4

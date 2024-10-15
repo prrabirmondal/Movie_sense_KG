@@ -1,0 +1,109 @@
+node_1,node_2,edge,chunk_id,count
+talvar,noida double murder case,"Talvar is a movie based on the Noida double murder case involving a teenage girl and her family's servant, which was investigated by the police.",b2973c12f84e419e9fcd5aeeaec94252,4
+meghna gulzar,talvar,Meghna Gulzar is the director of Talvar.,b2973c12f84e419e9fcd5aeeaec94252,4
+irrfan khan,talvar,Irrfan Khan is an actor in Talvar.,b2973c12f84e419e9fcd5aeeaec94252,4
+konkona sen sharma,talvar,Konkona Sen Sharma is an actress in Talvar.,b2973c12f84e419e9fcd5aeeaec94252,4
+neeraj kabi,talvar,Neeraj Kabi is an actor in Talvar.,b2973c12f84e419e9fcd5aeeaec94252,4
+vishal bhardwaj,meghna gulzar,"Vishal Bhardwaj produced the movie Talvar, which was directed by Meghna Gulzar.",b2973c12f84e419e9fcd5aeeaec94252,4
+bhardwaj,noida double murder case,Bhardwaj conceived the idea of making a movie about the Noida double murder case after meeting some of the police officials who were investigating it.,b2973c12f84e419e9fcd5aeeaec94252,4
+meghna gulzar,bhardwaj,"Meghna Gulzar is a director with whom Bhardwaj collaborated to make the movie Talvar, which was based on the Noida double murder case.",b2973c12f84e419e9fcd5aeeaec94252,4
+pankaj kumar,talvar,Pankaj Kumar is the director of photography for Talvar.,b2973c12f84e419e9fcd5aeeaec94252,4
+a. sreekar prasad,talvar,A. Sreekar Prasad is the editor for Talvar.,b2973c12f84e419e9fcd5aeeaec94252,4
+shruti tandon,honour killing,The police declared the murders of Shruti Tandon as a clear case of honour killing.,72365ff8ebfb4190b0848b38dbb3c518,4
+kanhaiya,sexual relationship with shruti tandon,"Kanhaiya's close friend and the Tandons' assistant said that Khempal, the missing servant, might have been involved in a sexual relationship with Shruti.",72365ff8ebfb4190b0848b38dbb3c518,4
+khempal,missing servant,The local police initially looked for Khempal when they were investigating the death of Shruti Tandon.,72365ff8ebfb4190b0848b38dbb3c518,4
+ramesh and nutan,parents of shruti tandon,"Shruti Tandon was found dead at her home in Sameer Vihar in Noida by her parents, Ramesh and Nutan, during the night of 15–16 March 2008.",72365ff8ebfb4190b0848b38dbb3c518,4
+talvar,biased towards the parents,Many of the critics felt that the film Talvar was very biased towards the parents in the context of this case.,72365ff8ebfb4190b0848b38dbb3c518,4
+ramesh,shruti,killed,707bdb0f969b473291f266beace89b62,4
+ramesh,khempal,killed,707bdb0f969b473291f266beace89b62,4
+shruti,khempal,found in a compromising position,707bdb0f969b473291f266beace89b62,4
+noida police,ramesh,arrested for the murders,707bdb0f969b473291f266beace89b62,4
+police chief,ramesh,"organises a press conference to attribute the murders to honour killing due to victim blaming of Shruti, leading to public outrage",707bdb0f969b473291f266beace89b62,4
+joint director ashwin kumar,noida police's first responders,contemptuous for their botched initial crime-scene investigation,707bdb0f969b473291f266beace89b62,4
+acp vedant,joint director ashwin kumar,work with him to build a case against the father's resentful assistant,707bdb0f969b473291f266beace89b62,4
+narco tests,assistant and two accomplices,used by Joint Director Ashwin Kumar's team to prove their involvement in the murders,707bdb0f969b473291f266beace89b62,4
+kumar,parents,Exonerates. Released from jail.,c958cdd1e03a44249fe7c5aaf9124fc2,4
+senior officer,cdi chief,Retires and is replaced by a new CDI chief.,c958cdd1e03a44249fe7c5aaf9124fc2,4
+kumar,vedant,"Altercation between the two officers, resulting in Kumar's suspension.",c958cdd1e03a44249fe7c5aaf9124fc2,4
+acp vedant,cdi,"Works against Kumar, leading to an investigation by a new team led by Paul.",c958cdd1e03a44249fe7c5aaf9124fc2,4
+paul,cdi,Concludes that the parents committed the murders.,c958cdd1e03a44249fe7c5aaf9124fc2,4
+investigative teams,opposing hypotheses,Makes their cases to the CDI chief.,c958cdd1e03a44249fe7c5aaf9124fc2,4
+cdi report,insufficient evidence,"Accused the parents in the case, but the evidence was insufficient to prosecute.",c958cdd1e03a44249fe7c5aaf9124fc2,4
+tandons,cdi report,Files a protest plea against the CDI report.,c958cdd1e03a44249fe7c5aaf9124fc2,4
+judge,parents,Accuses the parents in the case.,c958cdd1e03a44249fe7c5aaf9124fc2,4
+noida double murder case,police investigation,The police investigation is a part of the Noida double murder case.,8afbed55464548b7a18b91a3e5abba34,4
+noida double murder case,first cbi probe,The first CBI probe is related to the Noida double murder case as it investigated the same incident.,8afbed55464548b7a18b91a3e5abba34,4
+noida double murder case,second cbi investigation,"Another CBI team also investigated the Noida double murder case, thus related to the main event.",8afbed55464548b7a18b91a3e5abba34,4
+vishal bhardwaj,meghna gulzar,"Vishal Bhardwaj was impressed by Meghna Gulzar, and they planned to collaborate on a film about the Noida double murder case.",8afbed55464548b7a18b91a3e5abba34,4
+meghna gulzar,noida double murder case,Director Meghna Gulzar was fascinated by the 'unfinished-ness' of the Noida double murder case and decided to explore it in her film.,8afbed55464548b7a18b91a3e5abba34,4
+talwar family,filmmaker vishal bhardwaj,"Vishal Bhardwaj expressed his desire to produce a film with the Talwar family, but they had not yet approved the project when it was announced.",8afbed55464548b7a18b91a3e5abba34,4
+bhardwaj and meghna,noida double murder case,Filmmaker Vishal Bhardwaj and director Meghna Gulzar researched the Noida double murder case for nearly two years before deciding to make a film about it.,8afbed55464548b7a18b91a3e5abba34,4
+talvar,justice,"The title 'Talvar' refers to the sword held in the hand of the lady of justice, implying that the film explores the theme of justice.",19490c27c79b4baca9df0df7e400d582,4
+aarushi,individuals and organisations,The names of individuals and organisations related to the Aarushi case were changed in the film to avoid legal issues.,19490c27c79b4baca9df0df7e400d582,4
+trial,accuracy,Lawyer and politician Ram Jethmalani stated that the trial depicted in the film was inaccurate.,19490c27c79b4baca9df0df7e400d582,4
+investigation,film,"The director, Meghna, clarified that the film is more about the investigation than about the trial, and that the trial is not part of the film at all.",19490c27c79b4baca9df0df7e400d582,4
+first draft,screenplay,The first draft of the screenplay was written in a year.,19490c27c79b4baca9df0df7e400d582,4
+aunt,involvement,"Aarushi's aunt, Vandana Talwar, provided some material to Bhardwaj and began a campaign to prove the parents' innocence.",19490c27c79b4baca9df0df7e400d582,4
+documents,firsthand accounts,Some of the documents provided to Bhardwaj were firsthand accounts by Rajesh and Nupur Talwar.,19490c27c79b4baca9df0df7e400d582,4
+talvar,initial producer,"Pritish Nandy Communications (PNC) was the film's initial co-producer, but the company withdrew from the project.",19490c27c79b4baca9df0df7e400d582,4
+bhardwaj,script,Bhardwaj was driven to write the script after an encounter with the case's first investigating officer.,a5cda01f32ed467cac29efb9272cc6b5,4
+rashomon,inspiration for writing the script,Bhardwaj found the best way to write the script in it,a5cda01f32ed467cac29efb9272cc6b5,4
+aarushi's death,tragedy,"People talked about Aarushi's death, but paid little attention to her parents.",a5cda01f32ed467cac29efb9272cc6b5,4
+meghna,research,"Meghna and Bhardwaj began researching the case in mid-2012, during the trial.",a5cda01f32ed467cac29efb9272cc6b5,4
+talwars,side of the story,Meghna obtained the Talwars' side of the story from a meeting with Rajesh Talwar's brother and sister-in-law.,a5cda01f32ed467cac29efb9272cc6b5,4
+talwars,need to meet,"Afterwards, Meghna said that she 'did not feel the need to meet the Talwars'.",a5cda01f32ed467cac29efb9272cc6b5,4
+alisha parveen khan,shruti tandon,"Based on Arushi Talwar, Alisha Parveen Khan portrayed Shruti Tandon in the film.",8b1e063402cb49da8f9cd77b9240abc3,4
+konkona sen sharma,nupur talwar,"Konkona Sen Sharma was cast as Nupur Talwar, based on the real-life character.",8b1e063402cb49da8f9cd77b9240abc3,4
+irrfan khan,arun kumar,"Irrfan Khan played Arun Kumar, based on the CBI officer who investigated the Aarushi Talwar murder case.",8b1e063402cb49da8f9cd77b9240abc3,4
+neeraj kabi,rajesh talwar,"Neeraj Kabi portrayed Rajesh Talwar, based on the real-life character.",8b1e063402cb49da8f9cd77b9240abc3,4
+tabu,(unspecified role),Tabu made a three-minute appearance in the film as an unspecified character.,8b1e063402cb49da8f9cd77b9240abc3,4
+talvar,"principal photography began a year later (in june 2014) on location in mumbai, delhi and noida, and lasted almost a year.","Talvar is a film based on the investigation of the Aarushi Talwar murder case. Principal photography for the movie began in June 2014 and took almost a year to complete, with scenes being filmed in Mumbai, Delhi and Noida.",297afc0344a145f393221bd74a597d8c,4
+meghna,film,"Director Meghna was involved in the making of the movie Talvar, which is based on the investigation of the Aarushi Talwar murder case.",297afc0344a145f393221bd74a597d8c,4
+talwars',house,"To accurately portray the crime scene in the movie Talvar, a house identical to the Talwars' was used for filming, located just a few blocks away.",297afc0344a145f393221bd74a597d8c,4
+gulzar,lyrics,Renowned lyricist Gulzar contributed to the music of Talvar by penning down the lyrics for the songs in the movie.,297afc0344a145f393221bd74a597d8c,4
+t-series label,album release,"The album for the movie Talvar, consisting of four songs, was released on September 16, 2015 under the T-Series label.",297afc0344a145f393221bd74a597d8c,4
+arijit singh,vocals,Bollywood singer Arijit Singh provided vocals for some of the songs in the Talvar album.,297afc0344a145f393221bd74a597d8c,4
+pankaj kumar,director of photography,"Talvar's cinematographer was Pankaj Kumar, who was responsible for capturing the visuals during the movie's production.",297afc0344a145f393221bd74a597d8c,4
+a. sreekar prasad,editor,"Talvar's editing duties were performed by A. Sreekar Prasad, who played a crucial role in putting the movie together.",297afc0344a145f393221bd74a597d8c,4
+vishal bhardwaj,music composer,Renowned Bollywood composer Vishal Bhardwaj was responsible for creating the background score and composing the songs for Talvar.,297afc0344a145f393221bd74a597d8c,4
+"mumbai, delhi and noida",location,"Talvar's production involved shooting in various locations, including Mumbai, Delhi, and Noida.",297afc0344a145f393221bd74a597d8c,4
+talvar,film,Talvar is a film.,35020c77ad3f4b08b217bfa53f4a1d13,4
+mohar basu,critic,Mohar Basu is a critic who reviewed the album of Talvar.,35020c77ad3f4b08b217bfa53f4a1d13,4
+the times of india,media outlet,Talvar's album received generally-positive reviews from The Times of India.,35020c77ad3f4b08b217bfa53f4a1d13,4
+gulzar saab,lyricist,Gulzar saab is a lyricist who worked on Talvar's album.,35020c77ad3f4b08b217bfa53f4a1d13,4
+vishal,composer,Talvar's album was composed by Vishal.,35020c77ad3f4b08b217bfa53f4a1d13,4
+formidable sense of melody,quality,Vishal's formidable sense of melody is a quality present in Talvar's album.,35020c77ad3f4b08b217bfa53f4a1d13,4
+situational soundtrack,type of music,Talvar has a situational soundtrack which has a couple of heartfelt numbers connecting one to the film's theme.,35020c77ad3f4b08b217bfa53f4a1d13,4
+insaaf,song,Insaaf is a song from Talvar's album.,35020c77ad3f4b08b217bfa53f4a1d13,4
+uniqueness quotient,quality,"Joginder Tuteja praised ""Insaaf"" for its uniqueness quotient.",35020c77ad3f4b08b217bfa53f4a1d13,4
+haunting appeal,quality,"Joginder Tuteja praised the ""haunting appeal"" of Insaaf from Talvar's album.",35020c77ad3f4b08b217bfa53f4a1d13,4
+ruchi kaushal,critic,Ruchi Kaushal is a critic who reviewed Zinda Hai.,35020c77ad3f4b08b217bfa53f4a1d13,4
+parents,group of people,"Zinda Hai painfully highlights the agony of the parents who have lost their daughter in a twin murder case, for which they themselves are accused.",35020c77ad3f4b08b217bfa53f4a1d13,4
+dvd,medium,Talvar was released on DVD.,35020c77ad3f4b08b217bfa53f4a1d13,4
+netflix,streaming service,Talvar is available on Netflix.,35020c77ad3f4b08b217bfa53f4a1d13,4
+talvar,positive critical reception,The movie Talvar received a positive critical reception as stated by multiple critics.,42e7dc8e92c44a009f309c923861e28c,4
+rotten tomatoes,91% of 22 critics' reviews are positive,"According to the review aggregator website Rotten Tomatoes, 91% of 22 critical reviews for Talvar were positive.",42e7dc8e92c44a009f309c923861e28c,4
+rajyasree sen,must see whodunnit,Firstpost critic Rajyasree Sen called the movie Talvar a 'must see whodunnit'.,42e7dc8e92c44a009f309c923861e28c,4
+saibal chatterjee,"gripping, genre-defying and non-exploitative cinematic examination","NDTV critic Saibal Chatterjee praised Talvar as a 'gripping, genre-defying and non-exploitative cinematic examination' of the murder case.",42e7dc8e92c44a009f309c923861e28c,4
+the times of india,talvar is super-sharp,"According to The Times of India, Talvar is 'super-sharp'.",42e7dc8e92c44a009f309c923861e28c,4
+srijana mitra das,"sword swipe at bollywood's song-and-dance, mehendi-fuelled escapism","The Times of India critic Srijana Mitra Das described Talvar as a 'sword swipe at Bollywood's song-and-dance, mehendi-fuelled escapism'.",42e7dc8e92c44a009f309c923861e28c,4
+rajeev masand,"gripping, then baffling, and ultimately disturbing account","Rajeev Masand called Talvar a 'gripping, then baffling, and ultimately disturbing account' of the murder.",42e7dc8e92c44a009f309c923861e28c,4
+sharma,restrained perfection,"According to Emirates 24/7 critic Sneha May Francis, actors Sharma and Kabi played their roles 'impressively with restrained perfection'.",42e7dc8e92c44a009f309c923861e28c,4
+talvar,screenplay,Bhardwaj's screenplay for Talvar is praised by Uday Bhatia of Mint as 'exceptional' and 'sharp',fcec7edf5ca44aecaea31504dd7c2b6c,4
+talvar,performance,Rachel Saltz of The New York Times notes Khan's performance in Talvar as the 'movie's best weapon',fcec7edf5ca44aecaea31504dd7c2b6c,4
+talvar,review,Joe Leydon of Variety labels the screenplay of Talvar as 'solidly constructed' and its narrative flow as 'satisfyingly brisk',fcec7edf5ca44aecaea31504dd7c2b6c,4
+talvar,genre,"Sonia Chopra of Sify describes Talvar as a 'perfect balance of sobriety and cruelly dark humour' and an overseas reviewer notes its 'gripping, infuriating, and at times illuminating viewing'",fcec7edf5ca44aecaea31504dd7c2b6c,4
+talvar,critique,Deepanjana Pal of The Hindu criticises the 'direction lacks imagination' in Talvar and calls it more of a 'much-needed social document than a film',fcec7edf5ca44aecaea31504dd7c2b6c,4
+talvar,procedural,Raja Sen writes in his review that Talvar is a 'tightly-coiled procedural' and Anuj Kumar of The Hindu describes it as a 'sharp procedural',fcec7edf5ca44aecaea31504dd7c2b6c,4
+talvar,case,J. Hurtado of Screen Anarchy notes Talvar's translation to those ignorant with the case as well as those intimately involved,fcec7edf5ca44aecaea31504dd7c2b6c,4
+talvar,budget,The movie Talvar was filmed on a budget of ₹15 crore (US$1.8 million).,6884414a17e9425ea8c16faeaeb6f9bf,4
+talvar,singh is bliing and kis kisko pyaar karoon,Released alongside Singh Is Bliing and Kis Kisko Pyaar Karoon.,6884414a17e9425ea8c16faeaeb6f9bf,4
+talvar,opening day earnings,"On its opening day, Talvar made ₹3 crore (US$360,000).",6884414a17e9425ea8c16faeaeb6f9bf,4
+talvar,paid preview earnings,"Before its theatrical release, Talvar earned ₹5 million (US$60,000) from the paid preview.",6884414a17e9425ea8c16faeaeb6f9bf,4
+talvar,opening weekend earnings,"During its opening weekend, Talvar earned a total of ₹9 crore (US$1.1 million).",6884414a17e9425ea8c16faeaeb6f9bf,4
+talvar,first ten days earnings,"By the end of its first ten days, Talvar had grossed ₹22.6 crore (US$2.7 million).",6884414a17e9425ea8c16faeaeb6f9bf,4
+talvar,worldwide gross earnings,"Overall, Talvar earned a worldwide gross of ₹45.9 crore (US$5.5 million).",6884414a17e9425ea8c16faeaeb6f9bf,4
+bhardwaj,best adapted screenplay award,"At the 63rd National Film Awards, Bhardwaj received the Best Adapted Screenplay Award for Talvar.",6884414a17e9425ea8c16faeaeb6f9bf,4
+kurian,best audiography award,"At the 63rd National Film Awards, Sanjay Kurian received the Best Audiography award for Talvar.",6884414a17e9425ea8c16faeaeb6f9bf,4
+prasad,best editing award,"At the 61st Filmfare Awards, A. Sreekar Prasad received the Best Editing award for Talvar.",6884414a17e9425ea8c16faeaeb6f9bf,4
+koyeri,best sound design award,"At the 61st Filmfare Awards, Shajith Koyeri received the Best Sound Design award for Talvar.",6884414a17e9425ea8c16faeaeb6f9bf,4

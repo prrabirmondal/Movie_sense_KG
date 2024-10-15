@@ -1,0 +1,96 @@
+node_1,node_2,edge,chunk_id,count
+whiplash,2014,year in which the film Whiplash was released,b0f12cb2d11a4239bfe73fa76ab3e6e1,4
+whiplash,psychological drama,genre of the film Whiplash,b0f12cb2d11a4239bfe73fa76ab3e6e1,4
+whiplash,damien chazelle,director and writer of the film Whiplash,b0f12cb2d11a4239bfe73fa76ab3e6e1,4
+miles teller,j. k. simmons,main actors in the film Whiplash,b0f12cb2d11a4239bfe73fa76ab3e6e1,4
+shaffer conservatory,whiplash,setting of the film Whiplash,b0f12cb2d11a4239bfe73fa76ab3e6e1,4
+perfectionism,whiplash,theme explored in the film Whiplash,b0f12cb2d11a4239bfe73fa76ab3e6e1,4
+dedication,whiplash,theme explored in the film Whiplash,b0f12cb2d11a4239bfe73fa76ab3e6e1,4
+success,whiplash,theme explored in the film Whiplash,b0f12cb2d11a4239bfe73fa76ab3e6e1,4
+ambition,whiplash,concept deconstructed in the film Whiplash,b0f12cb2d11a4239bfe73fa76ab3e6e1,4
+whiplash,competition at the sundance film festival,"premiered in competition at the 2014 Sundance Film Festival on January 16, as the festival's opening film",aae75b925cb64c25b2d1fe1cb4c7c1ff,4
+whiplash,audience award,won the Audience Award at the 2014 Sundance Film Festival,aae75b925cb64c25b2d1fe1cb4c7c1ff,4
+whiplash,grand jury prize for drama,won the Grand Jury Prize for drama at the 2014 Sundance Film Festival,aae75b925cb64c25b2d1fe1cb4c7c1ff,4
+whiplash,limited release domestically in the united states and canada,"opened in limited release domestically in the United States and Canada on October 10, 2014",aae75b925cb64c25b2d1fe1cb4c7c1ff,4
+whiplash,over 500 screens,gradually expanded to over 500 screens during its original theatrical run,aae75b925cb64c25b2d1fe1cb4c7c1ff,4
+whiplash,miles teller,"stars Miles Teller as Andrew Neiman, a young and talented jazz drummer",aae75b925cb64c25b2d1fe1cb4c7c1ff,4
+j.k. simmons,whiplash,"features J.K. Simmons in the role of Terrence Fletcher, Andrew Neiman's demanding and abusive music teacher",aae75b925cb64c25b2d1fe1cb4c7c1ff,4
+academy awards,best film editing,won Best Film Editing at the 87th Academy Awards,aae75b925cb64c25b2d1fe1cb4c7c1ff,4
+academy awards,best sound mixing,won Best Sound Mixing at the 87th Academy Awards,aae75b925cb64c25b2d1fe1cb4c7c1ff,4
+whiplash,best-reviewed film of 2014,was widely praised by critics and is considered one of the best films of 2014,aae75b925cb64c25b2d1fe1cb4c7c1ff,4
+whiplash,highest-grossing feature,became Chazelle's highest-grossing feature until La La Land (2016),aae75b925cb64c25b2d1fe1cb4c7c1ff,4
+andrew,fletcher,"Determined to impress Fletcher, Andrew excessively practices.",3c59ee0b19cc424a86524949a8e0a8d3,4
+andrew,blister,Andrew's hands blister and bleed while practicing excessively.,3c59ee0b19cc424a86524949a8e0a8d3,4
+tanner,sheet music,"After their first set at a jazz competition, Andrew misplaces Tanner's sheet music.",3c59ee0b19cc424a86524949a8e0a8d3,4
+tanner,perform,Tanner cannot play without the sheets and needs them to perform.,3c59ee0b19cc424a86524949a8e0a8d3,4
+andrew,tanner,"To replace Tanner, Andrew performs 'Whiplash' from memory at their first set.",3c59ee0b19cc424a86524949a8e0a8d3,4
+fletcher,andrew,Fletcher promotes Andrew to core drummer after his impressive performance.,3c59ee0b19cc424a86524949a8e0a8d3,4
+ryan connolly,core drummer,"Ryan Connolly replaces Andrew as the core drummer, assigned by Fletcher.",3c59ee0b19cc424a86524949a8e0a8d3,4
+andrew,family,"Due to his single-mindedness towards music, Andrew clashes with his family.",3c59ee0b19cc424a86524949a8e0a8d3,4
+andrew,girlfriend,Andrew breaks up with his girlfriend Nicole to focus on his ambitions.,3c59ee0b19cc424a86524949a8e0a8d3,4
+fletcher,sean casey,"Fletcher announces the death of Sean Casey, a former member of the Studio Band.",3c59ee0b19cc424a86524949a8e0a8d3,4
+andrew,core position,"After playing 'Caravan' at a faster tempo for five hours, Andrew earns back the core drummer position.",3c59ee0b19cc424a86524949a8e0a8d3,4
+andrew,flat tire,"On the way to the next competition, Andrew's bus gets a flat tire.",6afea4e83307457a9ec857f2c8e6da64,4
+andrew,rental office,"After arriving late, Andrew forgets his drumsticks at the rental office, irritating Fletcher.",6afea4e83307457a9ec857f2c8e6da64,4
+andrew,bloody and weak,"Heavily injured, Andrew crawls from the wreckage and runs to the theater, arriving bloodied and weak just as the ensemble enters the stage.",6afea4e83307457a9ec857f2c8e6da64,4
+andrew,caravan,Andrew fails at playing 'Caravan'.,6afea4e83307457a9ec857f2c8e6da64,4
+fletcher,abuse,"It is revealed that Fletcher's abuse inflicted depression and anxiety on the late Sean Casey, who hung himself.",6afea4e83307457a9ec857f2c8e6da64,4
+shaffer,termination,"As a result of Andrew attacking Fletcher onstage, Shaffer terminates Fletcher.",6afea4e83307457a9ec857f2c8e6da64,4
+andrew,fletcher,"encounters at jazz club, Fletcher invites Andrew to perform at JVC Jazz Festival",5ba3e8f5c0084aacadfdc03807728e73,4
+fletcher,andrew,"discovers Andrew no longer drums but plays piano at jazz club, Fletcher admits teaching methods were harsh towards Andrew",5ba3e8f5c0084aacadfdc03807728e73,4
+andrew,nicole,invites Nicole to performance at JVC Jazz Festival,5ba3e8f5c0084aacadfdc03807728e73,4
+nicole,andrew,new relationship prevents Nicole from attending Andrew's performance at JVC Jazz Festival,5ba3e8f5c0084aacadfdc03807728e73,4
+fletcher,andrew,"knows Andrew testified against him, Fletcher leads band into unfamiliar song as revenge",5ba3e8f5c0084aacadfdc03807728e73,4
+jim,andrew,embraces Andrew backstage after disastrous performance at JVC Jazz Festival,5ba3e8f5c0084aacadfdc03807728e73,4
+fletcher,andrew,"resumes conducting after Andrew cuts off introduction to tune, Fletcher approves of Andrew's improvised solo",5ba3e8f5c0084aacadfdc03807728e73,4
+princeton high school,damien chazelle,Damien Chazelle attended Princeton High School.,b5f7fba4b3174d9aa9961b10458de795,4
+studio band,damien chazelle,Damien Chazelle was in a Studio Band while attending Princeton High School.,b5f7fba4b3174d9aa9961b10458de795,4
+terence fletcher,former band instructor,Terence Fletcher is based on Damien Chazelle's former band instructor.,b5f7fba4b3174d9aa9961b10458de795,4
+terence fletcher,"buddy rich, other band leaders",The character of Terence Fletcher was pushed further by adding elements of Buddy Rich and other band leaders known for their harsh treatment.,b5f7fba4b3174d9aa9961b10458de795,4
+johnny simmons,neiman,Johnny Simmons played the role of Neiman in the short film based on Chazelle's original screenplay.,b5f7fba4b3174d9aa9961b10458de795,4
+j. k. simmons,fletcher,J. K. Simmons played the role of Fletcher in the short film based on Chazelle's original screenplay.,b5f7fba4b3174d9aa9961b10458de795,4
+fifteen pages of original screenplay,short film starring johnny simmons and j. k. simmons,Chazelle turned fifteen pages of his original screenplay into a short film.,b5f7fba4b3174d9aa9961b10458de795,4
+short film,sundance film festival,The short film received acclaim after debuting at the Sundance Film Festival.,b5f7fba4b3174d9aa9961b10458de795,4
+short film,jury award for fiction,The short film won the jury award for fiction at the Sundance Film Festival.,b5f7fba4b3174d9aa9961b10458de795,4
+august 2013,miles teller,"In August 2013, Miles Teller signed on to star in the role...",8ec774e4930a420a891210294ef3ebe3,4
+august 2013,johnny simmons,Originated by Johnny Simmons,8ec774e4930a420a891210294ef3ebe3,4
+miles teller,j. k. simmons,Remained attached to his original role,8ec774e4930a420a891210294ef3ebe3,4
+j. k. simmons,normal limit,"Chazelle gave J. K. Simmons direction that 'I want you to take it past what you think the normal limit would be', telling him: 'I don't want to see a human being on-screen any more. I want to see a monster, a gargoyle, an animal.'",8ec774e4930a420a891210294ef3ebe3,4
+j. k. simmons,human being,"Chazelle said that, between takes, Simmons was 'as sweet as can be', which he credits for keeping 'the shoot from being nightmarish'",8ec774e4930a420a891210294ef3ebe3,4
+september 2013,los angeles,"Principal photography began in September 2013, with filming taking place throughout Los Angeles...",8ec774e4930a420a891210294ef3ebe3,4
+hotel barclay,palace theater,"The film was shot in nineteen days, with a schedule of fourteen hours of filming per day. Chazelle was involved in a serious car accident in the third week of filming and was hospitalized with possible concussion, but he returned to set the following day to wrap the shoot on time.",8ec774e4930a420a891210294ef3ebe3,4
+jazz drumming,teller,"Having taught himself to play drums at age fifteen, Teller performed much of the drumming seen in the film.",38708221abd44e4489f040e845530eaa,4
+nate lang,jazz drumming,Lang trained Teller in the specifics of jazz drumming; this included changing his grip from matched to traditional.,38708221abd44e4489f040e845530eaa,4
+kyle crane,teller's drum double,"For certain scenes, professional drummer Kyle Crane served as Teller's drum double.",38708221abd44e4489f040e845530eaa,4
+original jazz pieces,film,The soundtrack album consists of 24 tracks divided in three different parts...,38708221abd44e4489f040e845530eaa,4
+bernie dresel,actual drummer,... The actual drummer was Bernie Dresel.,38708221abd44e4489f040e845530eaa,4
+justin hurwitz,expanded deluxe edition,"On March 27, 2020, an expanded deluxe edition was released on double CD and 2-LP gatefold sleeve vinyl with new cover art, and featured original music by Justin Hurwitz,",38708221abd44e4489f040e845530eaa,4
+timo garcia,bonus track,"... And featured bonus track and remixes by Timo Garcia, Opiuo, Murray A. Lightburn, and more.",38708221abd44e4489f040e845530eaa,4
+whiplash,musical-prodigy genre,Peter Debruge from Variety stated that the film 'Whiplash' demolishes the cliches of the musical-prodigy genre.,6bdc49787b1c4151a6d5f23fd71fa397,4
+whiplash,battlefield or sports arena,Peter Debruge from Variety compared the psychological intensity of stages and rehearsal studios in 'Whiplash' to a battlefield or sports arena.,6bdc49787b1c4151a6d5f23fd71fa397,4
+teller,simmering,"In his review for The Hollywood Reporter, Todd McCarthy praised Teller's performance in 'Whiplash' as being more often simmering than volatile.",6bdc49787b1c4151a6d5f23fd71fa397,4
+teller,the spectacular now,"In his review for The Hollywood Reporter, Todd McCarthy compared Teller's performance in 'Whiplash' to his impressive performance in 'The Spectacular Now' last year at Sundance.",6bdc49787b1c4151a6d5f23fd71fa397,4
+simmons,character actor,"In his review for The Hollywood Reporter, Todd McCarthy noted that Simmons found a co-lead part in 'Whiplash' that he could run with as a character actor.",6bdc49787b1c4151a6d5f23fd71fa397,4
+simmons,profanity,"In his review for The Hollywood Reporter, Todd McCarthy described Simmons' character in 'Whiplash' as being profane.",6bdc49787b1c4151a6d5f23fd71fa397,4
+simmons,good villain,"In his review for The Hollywood Reporter, Todd McCarthy described Simmons' character in 'Whiplash' as being utterly compelling, like a good villain.",6bdc49787b1c4151a6d5f23fd71fa397,4
+whiplash,best sound mixing, 'Whiplash' won the 87th Academy Award for Best Sound Mixing.,6bdc49787b1c4151a6d5f23fd71fa397,4
+whiplash,best film editing, 'Whiplash' also won the 87th Academy Award for Best Film Editing.,6bdc49787b1c4151a6d5f23fd71fa397,4
+whiplash,genre distortion in jazz history,"According to Forrest Wickman of Slate, the film distorts jazz history and promotes a misleading idea of genius, as it focuses on a specific type of musician who would throw a cymbal at the character portrayed by J.K. Simmons instead of showcasing the true essence of jazz music.",24d02500887b4d3ba2cf308ca60e86bd,4
+whiplash,ranking on critics' end-of-year lists,"According to Metacritic's analysis, Whiplash appeared on 57 lists published by major film critics and publications in their analysis, and was ranked in 5th place overall for the year.",24d02500887b4d3ba2cf308ca60e86bd,4
+whiplash,opinion of richard brody in the new yorker,"According to Richard Brody in The New Yorker, Whiplash does not honor either jazz or cinema.",24d02500887b4d3ba2cf308ca60e86bd,4
+whiplash,opinion of henry barnes in the guardian,"According to Henry Barnes in The Guardian, Whiplash is a rare film 'about music that professes its love for the music and its characters equally.'",24d02500887b4d3ba2cf308ca60e86bd,4
+whiplash,review by james rocchi of indiewire,"According to James Rocchi of Indiewire, Whiplash is '... full of bravado and swagger, uncompromising where it needs to be, informed by great performances and patient with both its characters and the things that matter to them.'",24d02500887b4d3ba2cf308ca60e86bd,4
+whiplash,review by amber wilkinson of the daily telegraph,"According to Amber Wilkinson of The Daily Telegraph, Whiplash's film has a 'sharp and gripping rhythm, with shots beautifully edited by Tom Cross... often cutting to the crash of Andrew's drums.'",24d02500887b4d3ba2cf308ca60e86bd,4
+whiplash,u.s. dramatic competition at the 2014 sundance film festival,The film received the top audience and grand jury awards in the U.S. dramatic competition at the 2014 Sundance Film Festival.,85c0578a7c854b6a8428011a220a0c0c,4
+chazelle's short film of the same name,u.s. fiction category one year prior.,The film's short film version took home the jury award in the U.S. fiction category one year prior.,85c0578a7c854b6a8428011a220a0c0c,4
+whiplash,feature-length film,The feature film's script was written first and the short was made to attract investors into producing the feature-length film.,85c0578a7c854b6a8428011a220a0c0c,4
+j. k. simmons,performance,J. K. Simmons received the Academy Award for Best Supporting Actor for his performance in Whiplash.,85c0578a7c854b6a8428011a220a0c0c,4
+tom cross,screenplay,Tom Cross won the Academy Award for Best Film Editing in Whiplash.,85c0578a7c854b6a8428011a220a0c0c,4
+"craig mann, ben wilkins, and thomas curley",sound mixing,"Craig Mann, Ben Wilkins, and Thomas Curley won the Academy Award for Best Sound Mixing in Whiplash.",85c0578a7c854b6a8428011a220a0c0c,4
+whiplash,original screenplay category,"The Writers Guild of America categorized the screenplay as original, but the Academy of Motion Picture Arts and Sciences classified it as an adaptation of the 2013 short version.",85c0578a7c854b6a8428011a220a0c0c,4
+whiplash,adapted screenplay category,"Due to the short film premiering at the 2013 Sundance Film Festival, the Academy of Motion Picture Arts and Sciences (AMPAS) announced that the film would instead be competing in the Adapted Screenplay category.",85c0578a7c854b6a8428011a220a0c0c,4
+whiplash,87th academy awards,"At the 87th Academy Awards, Whiplash won awards for Best Supporting Actor (J. K. Simmons), Best Film Editing (Tom Cross), and Best Sound Mixing (Craig Mann, Ben Wilkins, and Thomas Curley).",85c0578a7c854b6a8428011a220a0c0c,4
+whiplash,nme award for best film,"In December 2015, the score received a Grammy nomination, and the film was nominated for the NME Award for Best Film.",85c0578a7c854b6a8428011a220a0c0c,4
+whiplash,u.s. dramatic competition at the sundance film festival,The film also took home the grand prize and the audience award for its favorite film at the 40th Deauville American Film Festival.,85c0578a7c854b6a8428011a220a0c0c,4
+empire's list of 'the 100 greatest movies of the 21st century',the film,"In 2020, it ranked 13 on Empire's list of 'The 100 Greatest Movies Of The 21st Century.'",bd8cc75adbf148e69051335cf89fa5b8,4
+sundance film festival's top 10 films of all time,the film,"In 2024, it topped the list of the Sundance Film Festival's Top 10 Films of All Time as the result of a survey conducted with 500 filmmakers and critics in honor of the festival's 40th anniversary.",bd8cc75adbf148e69051335cf89fa5b8,4

@@ -1,0 +1,45 @@
+node_1,node_2,edge,chunk_id,count
+dev,anushka,boyfriend-girlfriend relationship,7b9d4fef8635421d832b607fa4b1eb6a,4
+dev,dr. p. k. banton,disliked by girlfriend's father due to lack of wealth and carelessness at times,7b9d4fef8635421d832b607fa4b1eb6a,4
+dev,father,deceased,7b9d4fef8635421d832b607fa4b1eb6a,4
+gyanesh kumar yuvvraaj singh,danny yuvvraaj singh,"estranged brothers, reunited after 12 years",7b9d4fef8635421d832b607fa4b1eb6a,4
+gyanesh kumar yuvvraaj singh,mentally challenged,left everything to in the will by deceased father,7b9d4fef8635421d832b607fa4b1eb6a,4
+deven,brothers (gyanesh kumar yuvvraaj singh and danny yuvvraaj singh),"meets after 12 years, shock on learning father left everything to mentally challenged Gyanesh",7b9d4fef8635421d832b607fa4b1eb6a,4
+danny,brothers (deven and gyanesh kumar yuvvraaj singh),makes an agreement to scam brother out of money,7b9d4fef8635421d832b607fa4b1eb6a,4
+gyanesh kumar yuvvraaj singh,brothers (deven and danny yuvvraaj singh),makes an agreement to scam brother out of money,7b9d4fef8635421d832b607fa4b1eb6a,4
+danny,gyanesh kumar yuvvraaj singh,assaults mentally challenged brother,7b9d4fef8635421d832b607fa4b1eb6a,4
+deven,danny,intervenes when Danny assaults mentally challenged brother Gyanesh Kumar Yuvvraaj Singh,7b9d4fef8635421d832b607fa4b1eb6a,4
+gyanesh,deven,"brothers, initially at odds over money but eventually reconcile and become loving brothers again",55426e4921b8462cb2e0ae3ed2e7864a,4
+anushka,gyanesh,"get along well in Austria, Anushka is amazed by his singing talent and lets him into her orchestra",55426e4921b8462cb2e0ae3ed2e7864a,4
+danny,deven,"maternal uncle's family tries to poison Gyanesh, Danny is initially at odds with Deven over money but eventually learns to love his brother",55426e4921b8462cb2e0ae3ed2e7864a,4
+danny,gyanesh,"Danny's attempt to blackmail Gyanesh fails, Danny assaults Gyanesh, Danny loses girlfriend due to being penniless and thrown out of all luxurious clubs",55426e4921b8462cb2e0ae3ed2e7864a,4
+deven,anushka,"intervenes and plays the good guy, helps Gyanesh and takes him to Austria, Deven gets jealous as Anushka and Gyanesh get along so well",55426e4921b8462cb2e0ae3ed2e7864a,4
+gyanesh,doctor banton,"collapses at the hospital and is taken there by Deven, Doctor Banton accuses him of being scammed out of his money",55426e4921b8462cb2e0ae3ed2e7864a,4
+danny,police,gets the police to arrest the family members who tried to poison Gyanesh,55426e4921b8462cb2e0ae3ed2e7864a,4
+gyanesh,recording of deven and danny plotting to scam him out of his money,shows up a recording which breaks his heart,55426e4921b8462cb2e0ae3ed2e7864a,4
+anushka,gyanesh's singing talent,lets Gyanesh into her orchestra due to being amazed by his singing talent,55426e4921b8462cb2e0ae3ed2e7864a,4
+yuvvraaj,gyanesh,Yuvvraaj's brother who was poisoned.,08a60b337cba4146bb0914d77bf73d47,4
+deven,dr. banton,"The doctor who refuses to help Yuvvraaj's brother, and accuses Deven of wanting to save him for the money.",08a60b337cba4146bb0914d77bf73d47,4
+anushka,deven,The daughter that Dr. Banton thinks Deven wants to marry in order to only save his brother for financial gain.,08a60b337cba4146bb0914d77bf73d47,4
+family,deven,"The importance that Deven places on keeping his family together, which ultimately leads to him saving Yuvvraaj's brother and no longer wanting to marry Anushka.",08a60b337cba4146bb0914d77bf73d47,4
+prague,yuvvraaj,"The location where a part of the movie is supposedly set, but the outdoor shots were actually filmed in Tyrol, Austria.",08a60b337cba4146bb0914d77bf73d47,4
+innsbruck,yuvvraaj,One of the sights featured in the movie that is located in the Austrian province of Tyrol.,08a60b337cba4146bb0914d77bf73d47,4
+family entertainer,perfect family entertainer,"As a whole, Yuvvraaj is splendiferous in all parts with exceptional performance by all and it's a perfect family entertainer",8dbf21d4e1da4342b7caee3a0483d927,4
+yuvvraaj,major flop,Box Office India declared it a major flop.,8dbf21d4e1da4342b7caee3a0483d927,4
+yuvvraaj,collected around ₹169.5 million,The film only managed to collect around ₹169.5 million (equivalent to ₹470 million or US$5.7 million in 2023).,8dbf21d4e1da4342b7caee3a0483d927,4
+yuvvraaj,released with around 1000 prints in india,"Yuvvraaj was released with around 1000 prints in India,",8dbf21d4e1da4342b7caee3a0483d927,4
+yuvvraaj,story belongs to a period when the audiences used to lap up anything tossed at them.,The biggest flaw of 'Yuvvraaj' is that its story belongs to a period when the audiences used to lap up anything tossed at them.,8dbf21d4e1da4342b7caee3a0483d927,4
+yuvvraaj,'ram lakhan' or taal',"But the style of telling the tale is so outdated, that at many times in 'Yuvvraaj' you feel you are watching a rerun of 'Ram Lakhan' or Taal",8dbf21d4e1da4342b7caee3a0483d927,4
+yuvvraaj,rajeev masand,"Rajeev Masand of IBN Live gave the film 1 out of 5 stars saying ""Yuvvraaj doesn't quite hit the right note because it's an archaic drama that feels too tired. Barring a handful of vintage Subhash Ghai moments that still work, the film sadly is far from his best work""",8dbf21d4e1da4342b7caee3a0483d927,4
+yuvvraaj,sonia chopra,Sonia Chopra of Sify gave the film 1.5/5.,8dbf21d4e1da4342b7caee3a0483d927,4
+music,a.r rahman,The music is composed by,8dbf21d4e1da4342b7caee3a0483d927,4
+yuvvraaj,box office india,"In the given context, 'Box Office India' declares 'Yuvvraaj' as a major flop.",da2a0beb9a834a2ab24086920293c158,4
+₹169.5 million,equivalent to ₹470 million or us$5.7 million in 2023,Both '₹169.5 million' and 'Equivalent to ₹470 million or US$5.7 million in 2023' are monetary values mentioned in the given context.,da2a0beb9a834a2ab24086920293c158,4
+salman khan,promoted,"In the given context, Salman Khan himself promoted the music of 'Yuvvraaj'.",da2a0beb9a834a2ab24086920293c158,4
+music,score,The score of 'Yuvvraaj' is composed by A. R. Rahman and utilizes Western classical music and retro disco music.,da2a0beb9a834a2ab24086920293c158,4
+a. r. rahman,composer,"In the given context, 'A. R. Rahman' is the composer of 'Yuvvraaj' and its music.",da2a0beb9a834a2ab24086920293c158,4
+gulzar,lyrics writer,"In the given context, 'Gulzar' writes lyrics for 'Yuvvraaj'.",da2a0beb9a834a2ab24086920293c158,4
+tu meri dost hai,chartbuster,The song 'Tu Meri Dost Hai' from 'Yuvvraaj' becomes a chartbuster.,da2a0beb9a834a2ab24086920293c158,4
+yuvvraaj,music lover,"In the given context, music lovers should be grateful to Subhash Ghai for conceiving such a theme where this high quality music can be used.",da2a0beb9a834a2ab24086920293c158,4
+hindi film,1970s,The article is about a Hindi film from the 1970s.,dd593c481d2d4eb7af512fc63389e333,4
+wikipedia,hindi film stub,This article about a Hindi film is a stub on Wikipedia.,dd593c481d2d4eb7af512fc63389e333,4

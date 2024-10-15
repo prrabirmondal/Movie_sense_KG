@@ -1,0 +1,30 @@
+node_1,node_2,edge,chunk_id,count
+krishna cottage,halfway house,relation between the two locations where supernatural events intensify in the context,95cf4c91282c4441b0487032429ccef8,4
+professor siddharth das,book titled 'kahi unkahi baatein',relationship between the person who donated a copy of the cursed book and the book itself,95cf4c91282c4441b0487032429ccef8,4
+disha,manav,"relation between Disha, whom Manav rescued from the chandelier crash, and Manav, his future husband in the context",95cf4c91282c4441b0487032429ccef8,4
+manav,shanti,relationship between manav and his girlfriend shanti mentioned in the context,95cf4c91282c4441b0487032429ccef8,4
+akshay,nupur,relation between akshay's friend nupur from the context,95cf4c91282c4441b0487032429ccef8,4
+kabir,talli,relationship between kabir and talli mentioned in the context,95cf4c91282c4441b0487032429ccef8,4
+kahi unkahi baatein,nupur,Nupur is reading the book 'Kahi Unkahi Baatein' and becomes tormented and killed by a mysterious force inside her house.,f897c1a94b7f43268299f93fc62d8bcb,4
+kahi unkahi baatein,talli,Talli discovers that 'Kahi Unkahi Baatein' is Disha's favourite book and requests Nupur to read it so he can pluck some select romantic lines from it and woo Disha later.,f897c1a94b7f43268299f93fc62d8bcb,4
+disha,amar khanna,"Disha explains that the spirit of her dead boyfriend, Amar Khanna, is responsible for all the mayhem at Krishna Cottage.",f897c1a94b7f43268299f93fc62d8bcb,4
+professor siddharth das,kahi unkahi baatein,Professor Siddharth Das and the college principal discover that 'Kahi Unkahi Baatein' is cursed and must be destroyed to prevent future tragedies.,f897c1a94b7f43268299f93fc62d8bcb,4
+talli,nupur,Talli tries to retrieve 'Kahi Unkahi Baatein' from Nupur's house but cannot find her as she is dead.,f897c1a94b7f43268299f93fc62d8bcb,4
+kabir,kahi unkahi baatein,Kabir reads 'Kahi Unkahi Baatein' out of curiosity and is killed by the spirit.,f897c1a94b7f43268299f93fc62d8bcb,4
+shanti,disha,"Manav admits to Shanti that Disha has an oddly magnetic quality to her, but he is in love with Shanti only. The former part of the confession infuriates Shanti.",f897c1a94b7f43268299f93fc62d8bcb,4
+disha,nupur,Shanti discovers that Nupur and Kabir are dead when she confronts Disha at her house.,f897c1a94b7f43268299f93fc62d8bcb,4
+disha,spirit,Disha's spirit is responsible for the supernatural events at Krishna Cottage and causes Nupur's death.,f897c1a94b7f43268299f93fc62d8bcb,4
+disha,amar khanna,"Disha proposed to Amar Khanna at Krishna Cottage, but he rejected her advances by stating that their relationship was more than a friendship but less than love. Disha murdered some men that Amar had previously gotten into a fight with and made him the prime suspect in the case so that he can flee with her somewhere far away. Realizing this, Amar tried to stop the car, which crashed into the mountain and killed him. Disha wept over his body and refused to leave, despite the pleas of the principal and the professor who had reached the site by then, till an avalanche buried her too.",5d766b98c77c4492bac0182bda1beac8,4
+amar khanna,professor das,Professor Das was in love with Disha and died of a heart attack before Manav and others could reach him after he burned the last few pages of the book that revealed Amar Khanna's identity as the murderer.,5d766b98c77c4492bac0182bda1beac8,4
+disha,spirit,"After fainting in front of a shrine, Disha's spirit attacked and killed Sunita Menon during Manav and Shanti's wedding ceremony.",5d766b98c77c4492bac0182bda1beac8,4
+manav,spirit,"During the wedding ceremony, Manav agreed to go with Disha's spirit but said that his heart belongs to his wife, Shanti, and he will gladly die for his true love.",5d766b98c77c4492bac0182bda1beac8,4
+amar khanna,spirit,"After Disha's spirit attacked Sunita Menon during the wedding ceremony, Amar Khanna's corpse was discovered preserved in ice. It was revealed that he and Disha were students of JC College.",5d766b98c77c4492bac0182bda1beac8,4
+manav,disha's spirit,Agrees to go with but says that his heart belongs to Shanti and will gladly die for true love. Jumps to death and survives.,d4e3e7aababf44d3ad293c2a3562315b,4
+manav,shanti,"True love, happiness lies with",d4e3e7aababf44d3ad293c2a3562315b,4
+disha's spirit,shanti,"Understood that Manav's happiness lies with and the meaning of love is to give, not to take (letter by Disha)",d4e3e7aababf44d3ad293c2a3562315b,4
+manav,caretaker,Wakes up in a nearby cottage and is told by the caretaker that a woman dropped him there,d4e3e7aababf44d3ad293c2a3562315b,4
+letter (by disha),window,Appeared on the window,d4e3e7aababf44d3ad293c2a3562315b,4
+music album (krishna cottage),lukewarm response,The music album received a lukewarm response,d4e3e7aababf44d3ad293c2a3562315b,4
+film's soundtrack,success and became a cult classic,The romantic track 'Suna Suna' (Bepanah Pyaar Hai Aaja) has since attained success and become a cult classic,d4e3e7aababf44d3ad293c2a3562315b,4
+krishna cottage,horror film genre,"Truly, a movie worth watching once -- if cheesy spook shows are your thing (Shilpa Bharatan Iyer of Rediff.com)",d4e3e7aababf44d3ad293c2a3562315b,4
+krishna cottage,horror film genre,A movie that's truly a horror to watch (Parul Gupta of The Times of India),d4e3e7aababf44d3ad293c2a3562315b,4

@@ -1,0 +1,29 @@
+node_1,node_2,edge,chunk_id,count
+pooja verma,rahul verma,"married couple, Pooja was Rahul's wife who apparently committed suicide by hanging herself",8389876174b24f4db00edaf78f040d69,4
+karan srivastav,pooja verma,"ex-boyfriend of Pooja, possessive and the pair broke up in a mall after an incident",8389876174b24f4db00edaf78f040d69,4
+rahul verma,karan srivastav,"business partners, unaware of who each other's wife is until they meet at a house",8389876174b24f4db00edaf78f040d69,4
+pooja verma,jewellery and other evidence,"found at Karan's house, raises suspicion in the police investigation into Pooja's death",8389876174b24f4db00edaf78f040d69,4
+karan srivastav,police investigation,"believes that he is being framed for involvement in Pooja's death, which the police suspect was not a suicide",8389876174b24f4db00edaf78f040d69,4
+karan,pooja's jewellery,Found at Karan's house,03661001397b4961916e2732338a7da6,4
+karan,other evidence,Found at Karan's house,03661001397b4961916e2732338a7da6,4
+karan,rahul,Sets out to confront after believing that Rahul is the most likely suspect,03661001397b4961916e2732338a7da6,4
+karan,rajat saxena,Enlists his lawyer friend Rajat Saxena to help prove innocence,03661001397b4961916e2732338a7da6,4
+alex,rahul,Servant of Rahul who confesses that Rahul is not blind and agrees to say this in court after being bribed by Karan,03661001397b4961916e2732338a7da6,4
+rahul,blindness,Actually regained his sight and is not blind after all,03661001397b4961916e2732338a7da6,4
+rahul,karan,"Accuses Karan of killing Pooja and forces him to confess, recording the admission",03661001397b4961916e2732338a7da6,4
+rahul,remote for the recording device,"Had control of and only captured Karan's words, making it appear as if he was confessing to the murder",03661001397b4961916e2732338a7da6,4
+inspector khan,the police,Arrive at the scene,03661001397b4961916e2732338a7da6,4
+saxena,karan,Can no longer be Karan's lawyer after being exposed by Alex to the bribe,03661001397b4961916e2732338a7da6,4
+constable,karan,"Bribed by Karan, exchanging his watch for a tape recorder in holding cells",03661001397b4961916e2732338a7da6,4
+rahul,karan's guilt,Explains that he knows that Karan did not kill his wife after meeting him in holding cells,03661001397b4961916e2732338a7da6,4
+pooja,karan,"had an argument, Pooja threw him out but he followed her back into the bedroom and threatened to burn the house down with her inside it unless she renewed her relationship with him. Pooja had no choice but to agree to divorce Rahul and then marry Karan.",e5e10fb963a44f029c31ea0bc86a5e1b,4
+rahul,pooja,"found out that his blindness was curable, secretly travelled abroad for the operation, telling his wife that he was on a business trip. Upon his arrival, he found her in Karan's arms. This infuriated him, but he kept quiet.",e5e10fb963a44f029c31ea0bc86a5e1b,4
+karan,pooja,"came to the couple's house after Rahul left on his business trip, but Pooja threw him out after an argument. However, later that day Pooja realised that he was no longer blind and short.",e5e10fb963a44f029c31ea0bc86a5e1b,4
+pooja,rahul,"contacted Rahul but Karan caught her and told her that the stress of the situation would cause Rahul to become permanently blind. The next morning, Karan wrote up divorce papers for Pooja and Rahul.",e5e10fb963a44f029c31ea0bc86a5e1b,4
+pooja,rahul,"tried to contact Rahul but Karan caught her and told her that the stress of the situation would cause Rahul to become permanently blind. The next morning, Karan wrote up divorce papers for Pooja and Rahul.",e5e10fb963a44f029c31ea0bc86a5e1b,4
+pooja,rahul,committed suicide due to the stress caused by Karan's actions.,e5e10fb963a44f029c31ea0bc86a5e1b,4
+karan,pooja,embraced her after she agreed to divorce Rahul and then marry him.,e5e10fb963a44f029c31ea0bc86a5e1b,4
+rahul,karan,"revealed that Pooja committed suicide due to the actions of Karan, making him her murderer.",e5e10fb963a44f029c31ea0bc86a5e1b,4
+rahul,karan,"Rahul explains his plan for revenge on Karan and frames him to gain peace for himself and his wife. Later, Karan reveals that he caught Rahul but Rahul admits that he anticipated this move and the tape recorder has no batteries, implying that Karan's evidence is useless.",cf18e6ac60334b5ea049a7906aef79e4,4
+rahul,saxena,Rahul reveals that Saxena has been working with him the entire time and helped him with his plan for revenge against Karan.,cf18e6ac60334b5ea049a7906aef79e4,4
+karan,rahul,"In the end, Rahul immerses Pooja's ashes in the river, leaving Karan distraught and alone in his cell.",cf18e6ac60334b5ea049a7906aef79e4,4

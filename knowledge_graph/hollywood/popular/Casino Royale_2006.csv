@@ -1,0 +1,238 @@
+node_1,node_2,edge,chunk_id,node_3,node_4,node_5,node_6,node_7,count
+james bond,mi6 operative,Bond is an MI6 operative.,05b922c0eabe43a793d65562c624ef6d,,,,,,4
+james bond,00 agent,Bond becomes a 00 agent by earning his 'licence to kill' and assassinating the traitorous Dryden in Prague.,05b922c0eabe43a793d65562c624ef6d,,,,,,4
+steven obanno,lord's resistance army,Obanno is a high-ranking member of the Lord's Resistance Army.,05b922c0eabe43a793d65562c624ef6d,,,,,,4
+le chiffre,albanian private banker to terrorists,Le Chiffre is an Albanian private banker to terrorists.,05b922c0eabe43a793d65562c624ef6d,,,,,,4
+obanno,le chiffre,Obanno entrusts Le Chiffre with $100 million.,05b922c0eabe43a793d65562c624ef6d,,,,,,4
+le chiffre,skyfleet,"Using knowledge of his upcoming terrorist attack on aerospace manufacturer Skyfleet, Le Chiffre shorts the company's stock.",05b922c0eabe43a793d65562c624ef6d,,,,,,4
+mollaka,bond,"Bond destroys an embassy while capturing and then killing Mollaka, causing an international incident which M criticises Bond for. Mollaka's phone leads Bond to Alex Dimitrios.",06b51d9c98584c25b54b3a5348ccbce4,,,,,,4
+mollaka,le chiffre,Le Chiffre hires Mollaka to bomb Skyfleet's prototype airliner at his request.,06b51d9c98584c25b54b3a5348ccbce4,,,,,,4
+dimitrios,bond,Bond wins Dimitrios's vintage Aston Martin in a poker game and seduces his wife Solange. Bond pursues Dimitrios to Miami and fights off an attack by him.,06b51d9c98584c25b54b3a5348ccbce4,,,,,,4
+dimitrios,le chiffre,"Alex Dimitrios had hired a new bomber at the request of Le Chiffre, to destroy the Skyfleet airliner.",06b51d9c98584c25b54b3a5348ccbce4,,,,,,4
+solange,le chiffre,Le Chiffre tortures Solange to death when he realizes that somebody talked about the terrorist plot.,06b51d9c98584c25b54b3a5348ccbce4,,,,,,4
+bond,le chiffre,"organizes a Texas hold 'em tournament at the Casino Royale in Montenegro to recoup his client's money for MI6 enters Bond, believing a defeat will force Le Chiffre to seek asylum with the British government in exchange for information on his clients.",a3327ac152554c32b7a8517ce6b82215,,,,,,4
+le chiffre,obanno,"is threatened by Obanno, but allows him to continue playing to win back the money he owes.",a3327ac152554c32b7a8517ce6b82215,,,,,,4
+bond,vesper lynd,"MI6 enters Bond in the tournament and pairs him with Vesper Lynd, a British Treasury agent overseeing the $10 million buy-in.",a3327ac152554c32b7a8517ce6b82215,,,,,,4
+bond,rené mathis,"meets their contact, René Mathis, in Montenegro.",a3327ac152554c32b7a8517ce6b82215,,,,,,4
+le chiffre,bond's tell,Le Chiffre is tipped off about Bond's own tell and he loses his $10 million stake after Le Chiffre is tipped off about his own tell.,a3327ac152554c32b7a8517ce6b82215,,,,,,4
+vesper lynd,le chiffre's clients,"MI6 enters Bond in the tournament, believing a defeat will force Le Chiffre to seek asylum with the British government in exchange for information on his clients.",a3327ac152554c32b7a8517ce6b82215,,,,,,4
+bond,felix leiter,Bond loses his $10 million stake after Le Chiffre is tipped off about his own tell and fellow player and CIA agent Felix Leiter stakes Bond the money in exchange for letting the CIA take Le Chiffre into custody.,a3327ac152554c32b7a8517ce6b82215,,,,,,4
+le chiffre,valenka,Le Chiffre's lover Valenka poisons Bond but Vesper rescues him.,a3327ac152554c32b7a8517ce6b82215,,,,,,4
+mr. white,le chiffre,"Mr. White bursts in and kills Le Chiffre, but spares Bond and Vesper.",a3327ac152554c32b7a8517ce6b82215,,,,,,4
+quentin tarantino,casino royale,"Director Quentin Tarantino expressed interest in directing an adaptation of Casino Royale, but Eon was not interested.",e3b30443b8bc4c70b0f05ad5c7e18108,,,,,,4
+quentin tarantino,eon,"Tarantino's interest in directing an adaptation of Casino Royale led to his involvement behind the scenes with the Fleming family, which he believes was a reason why filmmakers finally went ahead with Casino Royale.",e3b30443b8bc4c70b0f05ad5c7e18108,,,,,,4
+pierce brosnan,casino royale,Tarantino would only have made an adaptation of Casino Royale with Pierce Brosnan as Bond.,e3b30443b8bc4c70b0f05ad5c7e18108,,,,,,4
+martin campbell,purvis and wade's draft,needed a rewrite,0716d8bea4384db882850cc75cba5946,,,,,,4
+campbell,paul haggis,was suggested to rewrite the climax of the film,0716d8bea4384db882850cc75cba5946,,,,,,4
+haggis,purvis and wade's draft,rewrote,0716d8bea4384db882850cc75cba5946,,,,,,4
+purvis and wade's draft,climax of the film,needed a rewrite,0716d8bea4384db882850cc75cba5946,,,,,,4
+haggis,vesper,thought that Vesper had to be in the sinking house and Bond has to want to kill her and then try and save her,0716d8bea4384db882850cc75cba5946,,,,,,4
+broccoli,die another day,became too fantastical,0716d8bea4384db882850cc75cba5946,,,,,,4
+wilson,die another day,became too fantastical,0716d8bea4384db882850cc75cba5946,,,,,,4
+broccoli,frivolity,didn't feel appropriate after the 9/11 attacks,0716d8bea4384db882850cc75cba5946,,,,,,4
+eon,computer-generated imagery effects,"Eon believed that it had relied too heavily on computer-generated imagery effects in the more recent films, particularly Die Another Day.",e008c8eebca94d4c97ab7c785f060935,,,,,,4
+eon,die another day,"Eon believed that it had relied too heavily on computer-generated imagery effects in the more recent films, particularly Die Another Day.",e008c8eebca94d4c97ab7c785f060935,,,,,,4
+die another day,computer-generated imagery effects,"Eon believed that it had relied too heavily on computer-generated imagery effects in the more recent films, particularly Die Another Day.",e008c8eebca94d4c97ab7c785f060935,,,,,,4
+casino royale,the old fashioned way,Eon was keen to accomplish the stunts in Casino Royale 'the old fashioned way'.,e008c8eebca94d4c97ab7c785f060935,,,,,,4
+spectre,organization of which mr white is a part,"Due to copyright issues related to the ownership of Thunderball, the organization of which Mr White is a part is not named SPECTRE.",e008c8eebca94d4c97ab7c785f060935,,,,,,4
+thunderball,ownership,"Due to copyright issues related to the ownership of Thunderball, the organization of which Mr White is a part is not named SPECTRE.",e008c8eebca94d4c97ab7c785f060935,,,,,,4
+fleming's,darker storyline and characterization of bond,"Screenwriters Purvis, Wade and Haggis wanted the script to follow as closely as possible the original 1953 novel, keeping Fleming's darker storyline and characterization of Bond.",e008c8eebca94d4c97ab7c785f060935,,,,,,4
+brosnan,james bond,"Brosnan had signed a deal for four films and this was fulfilled with the production of Die Another Day in 2002, officially announcing his stepping down from the role of James Bond in February 2004.",24ecda786986428abf089f3408c8938c,,,,,,4
+james bond,craig,"At one point, producer Michael G. Wilson claimed over 200 names were being considered for Craig's replacement after Brosnan stepped down.",24ecda786986428abf089f3408c8938c,,,,,,4
+craig,višnjić,"Croatian actor Goran Višnjić auditioned for the role of James Bond on the same day as Craig, but was reportedly unable to master an English accent.",24ecda786986428abf089f3408c8938c,,,,,,4
+campbell,cavill,"Henry Cavill was the only other actor in serious contention for the role after Craig, but at 22 years old, he was considered too young according to Martin Campbell.",24ecda786986428abf089f3408c8938c,,,,,,4
+campbell,cavill,"According to Martin Campbell, Henry Cavill was the only other actor in serious contention for the role after Craig, but at 22 years old, he was considered too young.",24ecda786986428abf089f3408c8938c,,,,,,4
+campbell,cavill,"However, Cavill later said that he was turned down by Campbell as he considered him out of shape for the part.",24ecda786986428abf089f3408c8938c,,,,,,4
+worthington,scott,Australian actor Sam Worthington and Scottish actor Dougray Scott were also considered for the role after Craig.,24ecda786986428abf089f3408c8938c,,,,,,4
+campbell,o'loughlin,Casting directors Janet Hirshenson and Jane Jenkins recalled meeting with Alex O'Loughlin to discuss the role after Craig.,24ecda786986428abf089f3408c8938c,,,,,,4
+campbell,mcmahon,Janet Hirshenson and Jane Jenkins also recalled meeting with Julian McMahon for the same reason.,24ecda786986428abf089f3408c8938c,,,,,,4
+campbell,mcgregor,"Rupert Friend and Antony Starr were also discussed with Campbell, along with Ewan McGregor.",24ecda786986428abf089f3408c8938c,,,,,,4
+daniel craig,mgm,"In May 2005, British actor Daniel Craig stated that MGM and producers Michael G. Wilson and Barbara Broccoli had assured him he would get the role of Bond.",6dcdde77f68e4fc68d5fd04d13265881,,,,,,4
+daniel craig,michael g. wilson,"In May 2005, British actor Daniel Craig stated that MGM and producers Michael G. Wilson and Barbara Broccoli had assured him he would get the role of Bond.",6dcdde77f68e4fc68d5fd04d13265881,,,,,,4
+daniel craig,barbara broccoli,"In May 2005, British actor Daniel Craig stated that MGM and producers Michael G. Wilson and Barbara Broccoli had assured him he would get the role of Bond.",6dcdde77f68e4fc68d5fd04d13265881,,,,,,4
+matthew vaughn,mgm,"MGM had offered [Matthew] Vaughn the opportunity to direct the new film,",6dcdde77f68e4fc68d5fd04d13265881,,,,,,4
+daniel craig,bond,Daniel Craig rejected the idea of starring as he felt the series had descended into formula; only when he read the script did he become interested.,6dcdde77f68e4fc68d5fd04d13265881,,,,,,4
+ian fleming's novels,daniel craig,Craig read all of Fleming's novels to prepare for the part,6dcdde77f68e4fc68d5fd04d13265881,,,,,,4
+mossad and british secret service agents,daniel craig,"Cited Mossad and British Secret Service agents who served as advisers on the set of Munich as inspiring because, ""Bond has just come out of the service and he's a killer. [...] You can see it in their eyes, you know immediately: oh, hello, he's a killer. There's a look. These guys walk into a room and very subtly they check the perimeters for an exit. That's the sort of thing I wanted."" ",6dcdde77f68e4fc68d5fd04d13265881,,,,,,4
+daniel craig,james bond,"In 2005, Daniel Craig was announced as the sixth actor to play James Bond by Eon Productions, Sony Pictures Entertainment, and MGM. This decision sparked controversy among critics and fans who expressed doubt about the producers' choice. The Daily Mirror even ran a critical headline, 'The Name's Bland - James Bland', due to Craig's perceived lack of tall, dark, handsome, and charismatic qualities associated with the character. However, despite requests to dye his hair brown, Craig refused, instead opting for a shorter, more brutal hairstyle.",d7cab0bdb3a94d9a9f9112bf7b9bf55c,,,,,,4
+eon productions,sony pictures entertainment,"In 2005, Eon Productions and Sony Pictures Entertainment jointly announced that Daniel Craig would be the new James Bond. This decision was met with controversy among critics and fans who expressed doubts about the producers' choice.",d7cab0bdb3a94d9a9f9112bf7b9bf55c,,,,,,4
+daniel craig,boycott,"Throughout the production period of Craig's Bond debut, Internet campaigns such as 'danielcraigisnotbond.com' expressed their dissatisfaction with the new actor and threatened to boycott the film in protest.",d7cab0bdb3a94d9a9f9112bf7b9bf55c,,,,,,4
+vesper lynd,angelina jolie,"Both actresses were strongly considered for the role of Vesper Lynd in Casino Royale, but ultimately French actress Eva Green was cast.",46e0f2b2715f4a449e4d81533ebad365,,,,,,4
+vesper lynd,charlize theron,"According to casting director Debbie McWilliams, both Jolie and Theron were strongly considered for the role of Vesper Lynd in Casino Royale.",46e0f2b2715f4a449e4d81533ebad365,,,,,,4
+vesper lynd,cécile de france,"Belgian actress Cécile de France auditioned for the role of Vesper Lynd in Casino Royale, but her English accent 'wasn't up to scratch'.",46e0f2b2715f4a449e4d81533ebad365,,,,,,4
+vesper lynd,audrey tautou,"French actress Audrey Tautou was considered for the role of Vesper Lynd in Casino Royale, but she wasn't chosen because of her role in another Columbia Pictures film.",46e0f2b2715f4a449e4d81533ebad365,,,,,,4
+vesper lynd,rachel mcadams,Rachel McAdams turned down a role in Casino Royale to focus on raising her family.,46e0f2b2715f4a449e4d81533ebad365,,,,,,4
+vesper lynd,eva green,"French actress Eva Green was cast as Vesper Lynd in Casino Royale, after being one of two finalists for the part.",46e0f2b2715f4a449e4d81533ebad365,,,,,,4
+madame wu,ling,"Actress Tsai Chin played a cameo role as Madame Wu in Casino Royale, who previously portrayed Ling in You Only Live Twice.",46e0f2b2715f4a449e4d81533ebad365,,,,,,4
+casino royale,prague,"principal photography for Casino Royale commenced and concluded in Prague at Barrandov Studios. This studio is located in Prague, Czech Republic.",e4350281ea0941689c46762b7713a739,,,,,,4
+casino royale,bahamas,"additional location shooting for Casino Royale took place in the Bahamas, specifically on Paradise Island.",e4350281ea0941689c46762b7713a739,,,,,,4
+casino royale,italy,principal photography for Casino Royale included additional location shooting in Italy.,e4350281ea0941689c46762b7713a739,,,,,,4
+tsai chin,madame wu,actress Tsai Chin played a cameo role as Madame Wu in Casino Royale.,e4350281ea0941689c46762b7713a739,,,,,,4
+ling,tsai chin,Tsai Chin previously portrayed Ling in You Only Live Twice.,e4350281ea0941689c46762b7713a739,,,,,,4
+prague,bahamas,"After Prague, the production moved to the Bahamas.",85a7b3b652584e66a1223bcb0b620036,,,,,,4
+paradise island,filming,"Several locations around New Providence were used for filming during February and March, particularly on Paradise Island.",85a7b3b652584e66a1223bcb0b620036,,,,,,4
+black park,mbale,"Footage set in Mbale, Uganda, was filmed at Black Park, a country park in Buckinghamshire, on 4 July 2006.",85a7b3b652584e66a1223bcb0b620036,,,,,,4
+albany house,filming,"Additional scenes took place at Albany House, an estate owned by golfers Ernie Els and Tiger Woods. ",85a7b3b652584e66a1223bcb0b620036,,,,,,4
+czech republic,production,"The crew returned to the Czech Republic in April, and continued there, filming in Prague, Planá, and Loket, before completing in the town of Karlovy Vary in May.",85a7b3b652584e66a1223bcb0b620036,,,,,,4
+grandhotel pupp,casino royale,"Karlovy Vary was used as the exterior of the Casino Royale,",85a7b3b652584e66a1223bcb0b620036,,,,,,4
+venice,ending,The majority of the film's ending is set in Venice.,85a7b3b652584e66a1223bcb0b620036,,,,,,4
+spirit yachts,sv spirit,"For this reason, SV Spirit 'was the first sailing boat to go up the Grand Canal in Venice for 300 years'.",85a7b3b652584e66a1223bcb0b620036,,,,,,4
+villa del balbianello,shooting,"Further exterior shooting for the movie took place at properties such as the Villa La Gaeta, near the lakeside town of Menaggio.",85a7b3b652584e66a1223bcb0b620036,,,,,,4
+body worlds exhibit,recreation of the body worlds exhibit,The setting for one scene in the film is a recreation of the Body Worlds exhibit.,3525f03182984dacaa5c995a7c281638,,,,,,4
+body worlds plastinates,poker playing trio,"The Poker Playing Trio, featured in that scene of the film, are Body Worlds plastinates.",3525f03182984dacaa5c995a7c281638,,,,,,4
+body worlds plastinates,rearing horse and rider,Among the Body Worlds plastinates featured in that scene of the film are Rearing Horse and Rider.,3525f03182984dacaa5c995a7c281638,,,,,,4
+german anatomist gunther von hagens,appearance in the film,"The exhibition's developer and promoter, German anatomist Gunther von Hagens, has a cameo appearance in the film.",3525f03182984dacaa5c995a7c281638,,,,,,4
+german anatomist gunther von hagens,trademark hat,"In the film, only his trademark hat is actually visible on screen.",3525f03182984dacaa5c995a7c281638,,,,,,4
+playing card graphics,club representing a puff of gun smoke,"used in the credit sequence designed by Daniel Kleinman for the film, as playing card graphics were inspired by the cover of Casino Royale featuring Ian Fleming's original design of a playing card bordered by eight red hearts dripping with blood.",8761c62c4a564fbe875bbcae5249e59c,,,,,,4
+playing card graphics,intricate and innovative card patterns,"depicted in more than 20 digitally animated scenes during the credit sequence, as Daniel Kleinman incorporated the footage of Craig and the film's stuntmen on the Inferno visual effects system.",8761c62c4a564fbe875bbcae5249e59c,,,,,,4
+casino royale cover,ian fleming's original design featuring a playing card bordered by eight red hearts dripping with blood,inspired Daniel Kleinman to use playing card graphics in different ways in the credit sequence for the film.,8761c62c4a564fbe875bbcae5249e59c,,,,,,4
+female silhouettes,commonly seen throughout the bond title sequences,"considered not to fit with both the film's spirit and the storyline following Bond falling in love, during the credit sequence design by Daniel Kleinman.",8761c62c4a564fbe875bbcae5249e59c,,,,,,4
+madagascar building site,mollaka,"Bond drives a digger towards the building and slams into the concrete plinth where Mollaka is running, resulting in his death.",bc3d44c179b243ee8ef44880b4bcf097,,,,,,4
+madagascar building site,concrete,The digger takes out a section of the concrete wall to fit into it during the scene.,bc3d44c179b243ee8ef44880b4bcf097,,,,,,4
+michael g. wilson,grand canal,"In 1977, Michael G. Wilson became acquainted with the site of a derelict hotel in the Grand Canal during the filming of The Spy Who Loved Me.",bc3d44c179b243ee8ef44880b4bcf097,,,,,,4
+skyfleet s570 aircraft,modified aircraft,"The Skyfleet S570 aircraft in the film was an ex-British Airways 747-200B G-BDXJ, which had its engines removed and was modified for its appearance in the film. The modified aircraft had the outboard engines replaced by external fuel tanks, while the inboard engines were replaced by a mock-up pair of engines on each inboard pylon.",9dc604b24b834ad79342bfa96c356047,,,,,,4
+skyfleet s570 aircraft,prototype of an advanced airliner,The cockpit profile was altered to make the 747 look like a prototype of an advanced airliner.,9dc604b24b834ad79342bfa96c356047,,,,,,4
+miami international airport,prague airport,"In filming the scene in which the engine thrust of the moving aircraft blows the police car high into the air, footage from both the Prague and Miami airports were used.",9dc604b24b834ad79342bfa96c356047,,,,,,4
+dunsfold aerodrome,top gear,"The sequence at Miami International Airport was partly shot at the Dunsfold Aerodrome, in Surrey, which is known from British car show Top Gear,",9dc604b24b834ad79342bfa96c356047,,,,,,4
+police car,high into the air,The engine thrust of the moving aircraft blows the police car high into the air.,9dc604b24b834ad79342bfa96c356047,,,,,,4
+venetian house,bond film,The sinking of the Venetian house at the climax of the film featured the largest rig ever built for a Bond film.,49e90b4e0f1640c4903435eecc9e08d2,,,,,,4
+venetian piazza,tank consisting of a venetian piazza,The tank consisting of a Venetian piazza was constructed for the film.,49e90b4e0f1640c4903435eecc9e08d2,,,,,,4
+abandoned house,interior of an abandoned house being constructed,The interior of an abandoned house being constructed was part of the tank in the film.,49e90b4e0f1640c4903435eecc9e08d2,,,,,,4
+venetian canal,exterior model,The exterior model was built to one-third scale to film the building eventually collapsing into the Venetian canal.,49e90b4e0f1640c4903435eecc9e08d2,,,,,,4
+rig,largest rig ever built for a bond film,The largest rig ever built for a Bond film was used in the film.,49e90b4e0f1640c4903435eecc9e08d2,,,,,,4
+computer system,electronics with hydraulic valves,The computer system closely controlled the electronics with hydraulic valves on the rig.,49e90b4e0f1640c4903435eecc9e08d2,,,,,,4
+computer system,exterior model,The same computer system also controlled the exterior model in the film.,49e90b4e0f1640c4903435eecc9e08d2,,,,,,4
+dbs,aston martin,"At the time of filming, Aston Martin was still in the final phases of designing the DBS.",336327b1b46b488ea0cc57dfa6acc8d3,,,,,,4
+hero' cars,dbs,Aston Martin delivered two working 'hero' cars to the film.,336327b1b46b488ea0cc57dfa6acc8d3,,,,,,4
+stunt cars,dbs,Three former development DB9s had to be prepared and reinforced to withstand impact as look-a-like stunt cars for the scene involving the car crash.,336327b1b46b488ea0cc57dfa6acc8d3,,,,,,4
+prototype db9 manual,dbs,A white prototype DB9 manual was supplied to the film crew so that the stunt drivers had something to practice with.,336327b1b46b488ea0cc57dfa6acc8d3,,,,,,4
+low centre of gravity,dbs,"Owing to the low centre of gravity of the vehicle, an 18-inch (450 mm) ramp had to be implemented on the road tarmac at Millbrook Proving Grounds.",336327b1b46b488ea0cc57dfa6acc8d3,,,,,,4
+stunt driver,dbs,The stunt driver who performed the stunt had to use an air cannon located behind the driver's seat to propel the car into a roll at the precise moment of impact.,336327b1b46b488ea0cc57dfa6acc8d3,,,,,,4
+70 mph,dbs,"At a speed exceeding 70 mph (113 km/h), the car rotated seven times while being filmed.",336327b1b46b488ea0cc57dfa6acc8d3,,,,,,4
+guinness book of records,dbs,"The car's roll, which was confirmed by the Guinness Book of Records on 5 November 2006 as a new world record.",336327b1b46b488ea0cc57dfa6acc8d3,,,,,,4
+casino royale,soundtrack,"The soundtrack of Casino Royale was released by Sony Classical Records on November 14, 2006.",fe843c8950ab488da7af84b23e0cdae6,,,,,,4
+david arnold,composer,David Arnold composed the score for Casino Royale.,fe843c8950ab488da7af84b23e0cdae6,,,,,,4
+nicholas dodd,orchestrator,Nicholas Dodd orchestrated and conducted the score for Casino Royale.,fe843c8950ab488da7af84b23e0cdae6,,,,,,4
+chris cornell,composer,Chris Cornell composed and performed the title song 'You Know My Name' for Casino Royale.,fe843c8950ab488da7af84b23e0cdae6,,,,,,4
+james bond theme,music,The James Bond Theme substituted for representing Bond's youth and inexperience in Casino Royale.,fe843c8950ab488da7af84b23e0cdae6,,,,,,4
+michael g. wilson,producer,"Michael G. Wilson announced on July 26, 2006, that Chris Cornell had composed and would perform the title song for Casino Royale.",fe843c8950ab488da7af84b23e0cdae6,,,,,,4
+barbara broccoli,producer,"Michael G. Wilson's colleague Barbara Broccoli also announced on July 26, 2006, that Chris Cornell had composed and would perform the title song for Casino Royale.",fe843c8950ab488da7af84b23e0cdae6,,,,,,4
+casino royale,ford mondeo,"In a reported £14 million deal between Casino Royale's production and car manufacturer Ford, the 2007 model Ford Mondeo appeared in the film.",fe843c8950ab488da7af84b23e0cdae6,,,,,,4
+casino royale,tech products,"Both Sony and Sony Ericsson made prominent appearances of tech products in Casino Royale including a Blu-ray player, Vaio laptop, Cyber-shot camera, Walkman NW-HD5 digital music player, and a Sony Ericsson K800i handset.",fe843c8950ab488da7af84b23e0cdae6,,,,,,4
+casino royale,odeon leicester square,Casino Royale premiered at the Odeon Leicester Square.,ecade402198246c2aa7baf9386d82a60,,,,,,4
+odeon leicester square,london,"Both Casino Royale premiere and the appearance of unlicensed copies occurred in London, specifically at Odeon Leicester Square.",ecade402198246c2aa7baf9386d82a60,,,,,,4
+casino royale,unlicensed copies,Infringing copies of the DVD for Casino Royale were being sold.,ecade402198246c2aa7baf9386d82a60,,,,,,4
+unlicensed copies,london,The infringing copies of Casino Royale were being sold in London.,ecade402198246c2aa7baf9386d82a60,,,,,,4
+casino royale premiere,queen elizabeth ii,"The Queen, patron of the CTBF, was in attendance at the Casino Royale premiere.",ecade402198246c2aa7baf9386d82a60,,,,,,4
+ctbf,casino royale premiere,"Proceeds from half the tickets sold were donated to the CTBF, benefiting from the Casino Royale premiere.",ecade402198246c2aa7baf9386d82a60,,,,,,4
+ctbf,london,"The Royal Film Performance, benefiting the CTBF, took place simultaneously in London at three cinemas including Odeon Leicester Square.",ecade402198246c2aa7baf9386d82a60,,,,,,4
+infringing copies,less than £1.57,Infringing copies of the DVD for Casino Royale were selling for less than £1.57.,ecade402198246c2aa7baf9386d82a60,,,,,,4
+daniel craig,hat and glasses,"While walking anonymously through the streets of Beijing, Daniel Craig was offered infringing copies of Casino Royale while wearing a hat and glasses to avoid being identified.",ecade402198246c2aa7baf9386d82a60,,,,,,4
+federation against copyright theft,unlicensed copies,"Kieron Sharp, from the Federation Against Copyright Theft, spoke about the sophistication and organization behind film piracy in the UK due to the appearance of unlicensed copies for Casino Royale.",ecade402198246c2aa7baf9386d82a60,,,,,,4
+casino royale,chinese cinemas,"In January 2007, Casino Royale became the first Bond film ever to be shown in mainland Chinese cinemas.",af16fc76e5974f3a9331b5ca948496c1,,,,,,4
+casino royale,approximately $11.7 million,"Since its opening on 30 January on 468 screens, Casino Royale has earned approximately $11.7 million in China",af16fc76e5974f3a9331b5ca948496c1,,,,,,4
+chinese version,edited before release,"The Chinese version was edited before release,",af16fc76e5974f3a9331b5ca948496c1,,,,,,4
+cold war,re-dubbed,with the reference to the Cold War re-dubbed,af16fc76e5974f3a9331b5ca948496c1,,,,,,4
+chinese version,new dialogue added,"as the game is less familiar in China, new dialogue was added during the poker scene explaining the process of Texas hold 'em,",af16fc76e5974f3a9331b5ca948496c1,,,,,,4
+casino royale,die another day,"critics dubbed Die Another Day ""Buy Another Day"" because of around 20 product placement deals",af16fc76e5974f3a9331b5ca948496c1,,,,,,4
+eon,limited their promotions for casino royale,"because of the product placement criticisms, Eon limited their promotions for Casino Royale.",af16fc76e5974f3a9331b5ca948496c1,,,,,,4
+ford,casino royale partners,"Eon's partners included Ford,",af16fc76e5974f3a9331b5ca948496c1,,,,,,4
+heineken,casino royale partners,"Eva Green starred in adverts for Heineken, which was another partner of Casino Royale.",af16fc76e5974f3a9331b5ca948496c1,,,,,,4
+smirnoff,casino royale partners,Smirnoff was also a partner of Casino Royale.,af16fc76e5974f3a9331b5ca948496c1,,,,,,4
+omega sa,casino royale partners,"Other partners included Omega SA,",af16fc76e5974f3a9331b5ca948496c1,,,,,,4
+virgin atlantic,casino royale partners,Virgin Atlantic was another partner of Casino Royale.,af16fc76e5974f3a9331b5ca948496c1,,,,,,4
+sony ericsson,casino royale partners,"Lastly, Sony Ericsson was also a partner of Casino Royale.",af16fc76e5974f3a9331b5ca948496c1,,,,,,4
+casino royale,dvd,"Simultaneously released on DVD, UMD and Blu-ray on March 16, 2007.",4fa7602f9dac4ceca4b4273abcd72dc8,,,,,,4
+casino royale,blu-ray disc,"Simultaneously released on DVD, UMD and Blu-ray Disc on March 16, 2007.",4fa7602f9dac4ceca4b4273abcd72dc8,,,,,,4
+casino royale,"march 16, 2007",Released for DVD and Blu-ray Disc on this date in the UK.,4fa7602f9dac4ceca4b4273abcd72dc8,,,,,,4
+region 1 blu-ray disc edition of casino royale,highest selling high-definition title to date,"Since its release, has sold over 100,000 copies.",4fa7602f9dac4ceca4b4273abcd72dc8,,,,,,4
+uk dvd edition of casino royale,fastest selling title for its first-week release,"As of now, it continues to sell well with 1,622,852 copies sold since March 19.",4fa7602f9dac4ceca4b4273abcd72dc8,,,,,,4
+uk dvd edition of casino royale,playstation network,"A copy of the Blu-ray Disc edition was given out to the first 500,000 PAL PlayStation 3 owners who signed up.",4fa7602f9dac4ceca4b4273abcd72dc8,,,,,,4
+uk dvd edition of casino royale,official music video for the film,Included in both two-disc widescreen and fullscreen editions.,4fa7602f9dac4ceca4b4273abcd72dc8,,,,,,4
+uk dvd edition of casino royale,documentaries detailing how daniel craig was chosen for the role of bond,Included in both two-disc widescreen and fullscreen editions.,4fa7602f9dac4ceca4b4273abcd72dc8,,,,,,4
+uk dvd edition of casino royale,expanded version of the 'bond girls are forever' documentary,"Included in both two-disc widescreen and fullscreen editions, incorporating new interviews with Casino Royale cast members.",4fa7602f9dac4ceca4b4273abcd72dc8,,,,,,4
+casino royale,blu-ray edition,"In 2012, the movie Casino Royale was released for the third time on Blu-ray with DTS audio and deleted scenes. This edition had fewer special features than the previous one from 2008.",b02e88a2e6394be3be43991cd3519061,,,,,,4
+casino royale,dvd edition (uk),"In October 2008, a collector's edition of Casino Royale on DVD was released in the UK. This edition contained additional features such as audio commentary, deleted scenes, and featurettes, along with a storyboard-to-film comparison.",b02e88a2e6394be3be43991cd3519061,,,,,,4
+casino royale,blu-ray edition (late 2008),"In late 2008, a two-disc Blu-ray version of Casino Royale was released, featuring enhanced interactivity through BD-Live and additional supplementary materials.",b02e88a2e6394be3be43991cd3519061,,,,,,4
+casino royale,bbfc rating,"To achieve a BBFC 12A rating in the UK, Casino Royale was censored by omitting some of Le Chiffre's sadism and James Bond's reactions in the torture scene.",b02e88a2e6394be3be43991cd3519061,,,,,,4
+casino royale,pg-13 rating (us),"In the US, two fight scenes were censored to achieve a PG-13 rating for Casino Royale: the fight between Bond and the traitorous MI6 agent's contact Fisher, and the fight between Bond and Obanno in the stairway at the Casino Royale.",b02e88a2e6394be3be43991cd3519061,,,,,,4
+casino royale,germany censure,"In Germany, Casino Royale was censored by omitting a shot of Bond's penis being held by a woman during the scene where Vesper Lynd asks him to trust her.",b02e88a2e6394be3be43991cd3519061,,,,,,4
+casino royale,china censure,"In China, Casino Royale was censored by removing a scene where Bond spits out beer that he mistakenly believed to be urine.",b02e88a2e6394be3be43991cd3519061,,,,,,4
+casino royale,most successful film of the year in the uk,"In context, Casino Royale is being compared to other films and has surpassed them to become the most successful film of the year in the UK.",f681aa1078964183ac53177fc230315f,,,,,,4
+casino royale,tenth-highest-grossing film of all time in the uk,"As of 2011, Casino Royale is ranked as the tenth-highest-grossing film of all time in the UK.",f681aa1078964183ac53177fc230315f,,,,,,4
+casino royale,happy feet,"On its US opening day, Casino Royale was second to Happy Feet in terms of box office earnings with a better average per cinema.",f681aa1078964183ac53177fc230315f,,,,,,4
+casino royale,fully uncensored version,"The context mentions that the fully uncensored version of Casino Royale can be found in certain releases, implying a censored version exists as well.",f681aa1078964183ac53177fc230315f,,,,,,4
+casino royale,mainland chinese cut,"The context mentions that the mainland Chinese cut of Casino Royale trims certain scenes, implying that the original version contained those scenes.",f681aa1078964183ac53177fc230315f,,,,,,4
+casino royale,bond,"In the context, Bond is mentioned as a character in Casino Royale, indicating his importance to the film's plot.",f681aa1078964183ac53177fc230315f,,,,,,4
+casino royale,australian,"The context mentions that the fully uncensored version of Casino Royale can be found on certain releases, implying a connection between those locations and the availability of the full version.",f681aa1078964183ac53177fc230315f,Dutch,French,Hong Kong,Japanese,Scandinavian,4
+casino royale,german edit,"The context mentions that the German edit of Casino Royale cuts a scene, implying it was originally present in the edit.",f681aa1078964183ac53177fc230315f,,,,,,4
+casino royale,highest-grossing instalment of the james bond series,"Until Skyfall surpassed it in November 2012, Casino Royale held this position.",0d8194a4bb26444bb44e5b7f0bce8941,,,,,,4
+casino royale,$594.2 million worldwide total,This is the total gross earned by Casino Royale worldwide.,0d8194a4bb26444bb44e5b7f0bce8941,,,,,,4
+casino royale,"non-uk, irish, us and canada markets","Casino Royale opened at the first position in these markets on November 18, 2006.",0d8194a4bb26444bb44e5b7f0bce8941,,,,,,4
+casino royale,james bond series,Casino Royale is an instalment of the James Bond series.,0d8194a4bb26444bb44e5b7f0bce8941,,,,,,4
+casino royale,review aggregator website rotten tomatoes,"On this website, Casino Royale received an approval rating of 94% based on 263 reviews.",0d8194a4bb26444bb44e5b7f0bce8941,,,,,,4
+casino royale,$167.4 million in the united states and canada,This is the gross earned by Casino Royale in the US and Canada.,0d8194a4bb26444bb44e5b7f0bce8941,,,,,,4
+casino royale,$426.8 million from international territories,This is the gross earned by Casino Royale from international markets.,0d8194a4bb26444bb44e5b7f0bce8941,,,,,,4
+casino royale,november 2006,"On this date, Casino Royale opened at the first position in 27 countries.",0d8194a4bb26444bb44e5b7f0bce8941,,,,,,4
+casino royale,box office for four weeks,Casino Royale held the top spot at the worldwide box office for this duration.,0d8194a4bb26444bb44e5b7f0bce8941,,,,,,4
+casino royale,critical consensus,This is a statement summarizing the critical reception of Casino Royale.,0d8194a4bb26444bb44e5b7f0bce8941,,,,,,4
+casino royale,rotten tomatoes,This website provided an approval rating for Casino Royale based on reviews.,0d8194a4bb26444bb44e5b7f0bce8941,,,,,,4
+casino royale,metacritic,This is the website that provided Casino Royale's weighted average score of 80 out of 100 based on 46 critics.,0d8194a4bb26444bb44e5b7f0bce8941,,,,,,4
+casino royale,a−,This is the grade given to Casino Royale by audiences polled by CinemaScore.,0d8194a4bb26444bb44e5b7f0bce8941,,,,,,4
+craig,bond,"Craig's portrayal of Bond was particularly praised for embodying Ian Fleming's original portrait of the character as ironic, brutal, and cold. This was noted by critics such as Paul Arendt of BBC Films, Kim Newman of Empire, and Todd McCarthy of Variety.",b22dda815ff546ca8fb027d3961e09e4,,,,,,4
+craig,conventional portrayal of bond,"During production, Craig had been subject to debate by the media and the public as he did not appear to fit Ian Fleming's original portrait of the character as tall, dark, and suave.",b22dda815ff546ca8fb027d3961e09e4,,,,,,4
+craig,quality of craig's characterization,The Daily Telegraph compared the quality of Craig's characterization of Bond to Sean Connery's and praised the script as smartly written.,b22dda815ff546ca8fb027d3961e09e4,,,,,,4
+craig,timothy dalton,Critics compared Craig's portrayal of Bond to that of Timothy Dalton.,b22dda815ff546ca8fb027d3961e09e4,,,,,,4
+production,criticism by media and public,"During production, Craig had been subject to debate by the media and the public.",b22dda815ff546ca8fb027d3961e09e4,,,,,,4
+the film,msnbc,The film received a perfect 5 star rating from MSNBC.,0b70e2e140864a17b839825054787f53,,,,,,4
+the film,north america,The film was similarly well received in North America.,0b70e2e140864a17b839825054787f53,,,,,,4
+msnbc,the movie,MSNBC gave the movie a perfect 5 star rating.,0b70e2e140864a17b839825054787f53,,,,,,4
+vesper lynd,best bond girl,Chooses Vesper Lynd as the fourth best Bond girl in the series.,0b70e2e140864a17b839825054787f53,,,,,,4
+the film,top 5,Named as the fifth best of the series by Entertainment Weekly.,0b70e2e140864a17b839825054787f53,,,,,,4
+james bond,character,"Takes James Bond 'back to his roots', similar to From Russia with Love.",0b70e2e140864a17b839825054787f53,,,,,,4
+high-tech gadgets,visual effects,Were strongly criticized in Die Another Day.,0b70e2e140864a17b839825054787f53,,,,,,4
+craig,bond,Craig makes a superb Bond,0b70e2e140864a17b839825054787f53,,,,,,4
+bond,wounded by life and his job,"Who gives the sense of a hard man, wounded by life and his job,",0b70e2e140864a17b839825054787f53,,,,,,4
+bond,emotions,"Who nevertheless cares about people and right and wrong,",0b70e2e140864a17b839825054787f53,,,,,,4
+bond,screwed-up bond,"This is a screwed-up Bond, a rogue Bond, a bounder, a scrapper and, in the movie's astoundingly bleak coda, an openhearted lover.",0b70e2e140864a17b839825054787f53,,,,,,4
+bond,mamet-worthy snarl,"This Roger Ebert quote 'crisp, hateful, Mamet-worthy snarl '",0b70e2e140864a17b839825054787f53,,,,,,4
+emotions,real emotions,Whereas nobody in a Bond movie ever seems to have any real emotions.,0b70e2e140864a17b839825054787f53,,,,,,4
+roger ebert,academy award nomination,Considered Craig a viable candidate for an Academy Award nomination.,0b70e2e140864a17b839825054787f53,,,,,,4
+bond,bond girls as sex objects,"The film backed off from past criticism of Bond girls being sex objects, but Bond himself is sexually objectified in this film. A moment where he rises from the sea is reminiscent of Ursula Andress in Dr. No; he feels 'skewered' by Vesper Lynd's criticism of him; and though it would be almost unthinkable now have a female character in a mainstream film stripped naked and threatened with genital mutilation, that is exactly what happens to Bond in this film.",6d00216318924d05aca354bf0d85829f,,,,,,4
+bond,craig's bond,"Craig's Bond is close to Fleming's because he is 'humourless', but is also different because 'Fleming's Bond did not enjoy killing; Craig's Bond seems almost to relish it.'",6d00216318924d05aca354bf0d85829f,,,,,,4
+bond,polished article,The once invincible James Bond becomes just another joint at the meat market.,6d00216318924d05aca354bf0d85829f,,,,,,4
+craig's bond,fleming's bond,Craig's Bond is 'not yet the polished article'; he felt his incarnation of Bond is close to Fleming's because he is 'humourless',6d00216318924d05aca354bf0d85829f,,,,,,4
+bond girls as sex objects,mainstream film,"And though it would be almost unthinkable now have a female character in a mainstream film stripped naked and threatened with genital mutilation, that is exactly what happens to Bond in [the film].",6d00216318924d05aca354bf0d85829f,,,,,,4
+james bond,daniel craig,"Roger Moore stated that Daniel Craig's portrayal of James Bond in Casino Royale impressed him greatly and introduced a more gritty, unrefined edge to the character. Moore described Craig's interpretation as like nothing they had seen before, with Jimmy Bond earning his stripes and making mistakes. The script showed Craig's character as vulnerable, troubled, and flawed, which was quite the opposite of Moore's Bond. Moore praised Craig's performance, saying it was very much the Bond Ian Fleming had described in the books - a ruthless killing machine.",09863a1d12744f6181e36a40ccf9308c,,,,,,4
+roger moore,casino royale,Moore mentioned that he thought Sean Connery might have to move over for Daniel Craig after being impressed by Craig's debut performance in Casino Royale. He also stated that his praise was not heaped lightly and that he had to purchase the DVD himself.,09863a1d12744f6181e36a40ccf9308c,,,,,,4
+james bond,greg brady,John Beifuss of The Commercial Appeal compared James Bond's learning a lesson about ego in Casino Royale to Greg Brady in his 'Johnny Bravo' phase.,09863a1d12744f6181e36a40ccf9308c,,,,,,4
+james bond,greg brady (character),Anthony Lane of The New Yorker compared James Bond's wanting to be 007 in Casino Royale to Greg Brady from the TV series 'The Brady Bunch.',09863a1d12744f6181e36a40ccf9308c,,,,,,4
+casino royale,perfect bond film,"Raymond Benson, the author of nine Bond novels, called Casino Royale 'a perfect Bond film'.",09863a1d12744f6181e36a40ccf9308c,,,,,,4
+casino royale,best film of the year,"In December 2006, Casino Royale was named the best film of the year by viewers of Film 2006.",ad9db20887f94f599d4ecb6db47edd40,,,,,,4
+casino royale,daniel craig,Casino Royale features Daniel Craig in the role of James Bond.,ad9db20887f94f599d4ecb6db47edd40,,,,,,4
+michael medved,casino royale,"American radio personality Michael Medved gave the film three stars out of four, describing it as 'intriguing, audacious and very original ... more believable and less cartoonish, than previous 007 extravaganzas'.",ad9db20887f94f599d4ecb6db47edd40,,,,,,4
+casino royale,sluggish pacing,Michael Medved commented that the 'sometimes sluggish pacing will frustrate some Bond fanatics.',ad9db20887f94f599d4ecb6db47edd40,,,,,,4
+emanuel levy,casino royale,Critics such as Emanuel Levy responded to Casino Royale.,ad9db20887f94f599d4ecb6db47edd40,,,,,,4
+emanuel levy,ending,Emanuel Levy felt the ending was too long.,ad9db20887f94f599d4ecb6db47edd40,,,,,,4
+emanuel levy,depth,Emanuel Levy commented that the film's terrorist villains lacked depth.,ad9db20887f94f599d4ecb6db47edd40,,,,,,4
+tim adams,casino royale,Tim Adams of The Observer responded negatively to Casino Royale.,ad9db20887f94f599d4ecb6db47edd40,,,,,,4
+del monte superfruit smoothies,daniel craig,"In 2008, Entertainment Weekly named Casino Royale the 19th-best film of the past 25 years.",ad9db20887f94f599d4ecb6db47edd40,,,,,,4
+del monte superfruit smoothies,casino royale,"In 2008, Del Monte Superfruit Smoothies launched an ice lolly moulded to resemble Daniel Craig emerging from the sea.",ad9db20887f94f599d4ecb6db47edd40,,,,,,4
+casino royale,film award for best sound,"Casino Royale won the Film Award for Best Sound at the 2006 British Academy of Film and Television Arts Awards. This award was won by Chris Munro, Eddy Joseph, Mike Prestwood Smith, Martin Cantwell, and Mark Taylor.",6e489154a4304111904730fe9f5d25fb,,,,,,4
+casino royale,orange rising star award,Eva Green won the Orange Rising Star Award at the 2006 British Academy of Film and Television Arts Awards. Casino Royale was also awarded at this event.,6e489154a4304111904730fe9f5d25fb,,,,,,4
+casino royale,alexander korda award for best british film of the year,Casino Royale was nominated for the Alexander Korda Award for Best British Film of the Year at the 2006 British Academy of Film and Television Arts Awards.,6e489154a4304111904730fe9f5d25fb,,,,,,4
+neal purvis,robert wade,The screenplay for Casino Royale was written by Neal Purvis and Robert Wade.,6e489154a4304111904730fe9f5d25fb,,,,,,4
+david arnold,film award for best film music,The film award for best film music at the 2006 British Academy of Film and Television Arts Awards was won by David Arnold's work on Casino Royale.,6e489154a4304111904730fe9f5d25fb,,,,,,4
+phil méheux,best cinematography,Casino Royale was nominated for the award of best cinematography at the 2006 British Academy of Film and Television Arts Awards. Phil Méheux was responsible for the film's cinematography.,6e489154a4304111904730fe9f5d25fb,,,,,,4
+stuart baird,best editing,"The editing for Casino Royale was handled by Stuart Baird, who was also nominated for the best editing award at the 2006 British Academy of Film and Television Arts Awards.",6e489154a4304111904730fe9f5d25fb,,,,,,4
+peter lamont,simon wakefield,"The design elements of Casino Royale were handled by Peter Lamont and Simon Wakefield, who were nominated for the best production design award at the 2006 British Academy of Film and Television Arts Awards.",6e489154a4304111904730fe9f5d25fb,,,,,,4
+steve begg,chris corbould,"The visual effects for Casino Royale were handled by Steve Begg, Chris Corbould, John Paul Docherty, and Ditch Doy. They were also nominated for the best achievement in special visual effects award at the 2006 British Academy of Film and Television Arts Awards.",6e489154a4304111904730fe9f5d25fb,Ditch Doy,,,,,4
+daniel craig,best actor,Daniel Craig's performance as James Bond in Casino Royale was nominated for the best actor award at the 2006 British Academy of Film and Television Arts Awards.,6e489154a4304111904730fe9f5d25fb,,,,,,4
+casino royale,excellence in production design award,"From the Art Directors Guild, won by Casino Royale",a7d35c83af2d46348116fb725c7a0274,,,,,,4
+casino royale,international press academy satellite award for best original song,For 'You Know My Name' sung by Chris Cornell,a7d35c83af2d46348116fb725c7a0274,,,,,,4
+casino royale,best action/adventure/thriller film,Nominated for in the Saturn Awards,a7d35c83af2d46348116fb725c7a0274,,,,,,4
+daniel craig,best actor,"In Casino Royale, nominated for in the Saturn Awards",a7d35c83af2d46348116fb725c7a0274,,,,,,4
+eva green,best supporting actress,"For her role in Casino Royale, nominated for in the Saturn Awards",a7d35c83af2d46348116fb725c7a0274,,,,,,4
+"(purvis, wade and haggis)",best writing,"For Casino Royale, nominated for in the Saturn Awards",a7d35c83af2d46348116fb725c7a0274,,,,,,4
+david arnold,best music,"For his work on Casino Royale, nominated for in the Saturn Awards",a7d35c83af2d46348116fb725c7a0274,,,,,,4
+casino royale,wide release film of the year,According to the Golden Tomato Awards,a7d35c83af2d46348116fb725c7a0274,,,,,,4

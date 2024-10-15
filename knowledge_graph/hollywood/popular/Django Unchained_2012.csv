@@ -1,0 +1,207 @@
+node_1,node_2,edge,chunk_id,count
+django unchained,quentin tarantino,The director of Django Unchained is Quentin Tarantino.,1c6cb196f8ad41b18bd39fc5ff4e0345,4
+django unchained,2012,Django Unchained was released in the year 2012.,1c6cb196f8ad41b18bd39fc5ff4e0345,4
+django unchained,american,Django Unchained is an American movie.,1c6cb196f8ad41b18bd39fc5ff4e0345,4
+django unchained,revisionist western,Django Unchained is a revisionist Western movie.,1c6cb196f8ad41b18bd39fc5ff4e0345,4
+quentin tarantino,django unchained,Quentin Tarantino wrote and directed Django Unchained.,1c6cb196f8ad41b18bd39fc5ff4e0345,4
+django unchained,jamie foxx,Jamie Foxx starred in Django Unchained.,1c6cb196f8ad41b18bd39fc5ff4e0345,4
+django unchained,christoph waltz,Christoph Waltz starred in Django Unchained.,1c6cb196f8ad41b18bd39fc5ff4e0345,4
+django unchained,leonardo dicaprio,Leonardo DiCaprio starred in Django Unchained.,1c6cb196f8ad41b18bd39fc5ff4e0345,4
+django unchained,kerry washington,Kerry Washington starred in Django Unchained.,1c6cb196f8ad41b18bd39fc5ff4e0345,4
+django unchained,samuel l. jackson,Samuel L. Jackson appeared in Django Unchained.,1c6cb196f8ad41b18bd39fc5ff4e0345,4
+django unchained,walton goggins,Walton Goggins appeared in Django Unchained.,1c6cb196f8ad41b18bd39fc5ff4e0345,4
+django unchained,dennis christopher,Dennis Christopher appeared in Django Unchained.,1c6cb196f8ad41b18bd39fc5ff4e0345,4
+django unchained,james remar,James Remar appeared in Django Unchained.,1c6cb196f8ad41b18bd39fc5ff4e0345,4
+django unchained,michael parks,Michael Parks appeared in Django Unchained.,1c6cb196f8ad41b18bd39fc5ff4e0345,4
+django unchained,don johnson,Don Johnson appeared in Django Unchained.,1c6cb196f8ad41b18bd39fc5ff4e0345,4
+django unchained,franco nero,Franco Nero appeared in a cameo role in Django Unchained.,1c6cb196f8ad41b18bd39fc5ff4e0345,4
+django,broomhilda von shaft,Django was separated from his wife Broomhilda von Shaft when they were both sold off.,74662d78621843aab6d5cc386db5d4b3,4
+django,dr. king schultz,Dr. King Schultz encountered Django while looking to buy him for his knowledge of the Brittle brothers.,74662d78621843aab6d5cc386db5d4b3,4
+schultz,ace,Schultz killed Ace when he refused to sell Django to him.,74662d78621843aab6d5cc386db5d4b3,4
+schultz,dicky,Schultz shot Dicky's horse to pin him to the ground and encouraged the freed slaves to take revenge on him.,74662d78621843aab6d5cc386db5d4b3,4
+film,critics,The film received acclaim from critics.,74662d78621843aab6d5cc386db5d4b3,4
+film,waltz's performance,The film received acclaim for Waltz's performance.,74662d78621843aab6d5cc386db5d4b3,4
+film,tarantino's direction and screenplay,The film received acclaim for Tarantino's direction and screenplay.,74662d78621843aab6d5cc386db5d4b3,4
+film,extensive graphic violence,The film's extensive graphic violence was controversial.,74662d78621843aab6d5cc386db5d4b3,4
+film,frequent use of racial slurs,The film's frequent use of racial slurs was controversial.,74662d78621843aab6d5cc386db5d4b3,4
+film,awards and nominations,The film received numerous awards and nominations.,74662d78621843aab6d5cc386db5d4b3,4
+waltz,academy awards,Waltz won two out of five nominations at the 85th Academy Awards for his performance in the film.,74662d78621843aab6d5cc386db5d4b3,4
+golden globes,waltz,"Waltz won several awards for his performance, including Best Supporting Actor at the Golden Globes.",74662d78621843aab6d5cc386db5d4b3,4
+baftas,waltz,"Waltz won several awards for his performance, including Best Supporting Actor at the BAFTAs.",74662d78621843aab6d5cc386db5d4b3,4
+tarantino,academy award,"For his screenplay, Tarantino won an Academy Award.",74662d78621843aab6d5cc386db5d4b3,4
+golden globes,tarantino,Tarantino won a Golden Globe for his screenplay.,74662d78621843aab6d5cc386db5d4b3,4
+baftas,tarantino,Tarantino won a BAFTA for his screenplay.,74662d78621843aab6d5cc386db5d4b3,4
+django,spencer 'big daddy' bennett,"Django and Schultz kill the Brittle brothers at Spencer 'Big Daddy' Bennett's Tennessee plantation. In turn, Bennett pursues them with an armed posse. Schultz ambushes the posse with explosives, and Django kills Bennett.",047c0d10e3654be4b38552ff13643a28,4
+django,calvin j. candie,"They travel to Mississippi and learn that Broomhilda's new owner is Calvin J. Candie, owner of the 'Candyland' plantation.",047c0d10e3654be4b38552ff13643a28,4
+broomhilda,calvin j. candie,"Broomhilda is now owned by Calvin J. Candie, owner of the 'Candyland' plantation.",047c0d10e3654be4b38552ff13643a28,4
+django,schultz,"Feeling responsible for Django, Schultz agrees to help him find and rescue Broomhilda.",047c0d10e3654be4b38552ff13643a28,4
+broomhilda,django,"Schultz and Django set out to rescue Broomhilda from her new owner, Calvin J. Candie.",047c0d10e3654be4b38552ff13643a28,4
+django,mandingo fights,They learn that the brutal 'Mandingo' fights are held at Calvin J. Candie's 'Candyland' plantation.,047c0d10e3654be4b38552ff13643a28,4
+schultz,django,Schultz trains Django to become a bounty hunter.,047c0d10e3654be4b38552ff13643a28,4
+django,bounty,"Django collects his first bounty, keeping the handbill as a memento and for good luck.",047c0d10e3654be4b38552ff13643a28,4
+schultz,broomhilda,"Schultz hatches a plan with Django to trick Candie into selling Broomhilda for a nominal sum by offering $12,000 for one of his best fighters as a pretext. Schultz intends to leave the plantation with Broomhilda under the pretense of returning with the purchase money for the fighter.",a13b2e6461a041028426585c3832cdea,4
+schultz,candie,"Schultz and Candie negotiate a deal for one of his best fighters for $12,000. Schultz plans to use this as a pretext to acquire Broomhilda for a nominal sum.",a13b2e6461a041028426585c3832cdea,4
+broomhilda,candie,"Candie initially refuses to sell Broomhilda, but Schultz and Django's plan changes that.",a13b2e6461a041028426585c3832cdea,4
+schultz,django,Schultz works with Django to trick Candie into selling Broomhilda for a nominal sum.,a13b2e6461a041028426585c3832cdea,4
+schultz,d'artagnan,"Schultz tries to buy D'Artagnan from Candie's trackers to save him, but is forced to intervene when Candie's guard dogs maul him to death.",a13b2e6461a041028426585c3832cdea,4
+broomhilda,schultz,Schultz offers to buy Broomhilda as his escort while negotiating the initial Mandingo deal during dinner.,a13b2e6461a041028426585c3832cdea,4
+stephen,broomhilda,"Stephen suspects that Broomhilda and Django know each other, and alerts Candie of their plan.",a13b2e6461a041028426585c3832cdea,4
+schultz,candie's gentlemen's club,Schultz meets Candie at his gentlemen's club to make the offer for one of his best fighters.,a13b2e6461a041028426585c3832cdea,4
+django,candie's trackers,"Django intervenes when Schultz attempts to buy D'Artagnan from Candie's trackers, but is forced to leave him to die.",a13b2e6461a041028426585c3832cdea,4
+django,candie,enemy relationship between Django and Candie due to Candie's demand for high price for Broomhilda and subsequent killings of both Candie and his bodyguard,c06d228463a8435b822cf1f919a7fc75,4
+django,broomhilda,relationship between Django and Broomhilda as the former is willing to go to great lengths to rescue her from Candie's captivity,c06d228463a8435b822cf1f919a7fc75,4
+candie,broomhilda,ownership relationship between Candie and Broomhilda as the former kidnaps and intends to sell her against Django's wishes,c06d228463a8435b822cf1f919a7fc75,4
+schultz,candie,business relationship between Schultz and Candie in selling Broomhilda until Candie's greedy demands lead to their violent confrontation,c06d228463a8435b822cf1f919a7fc75,4
+schultz,django,enemy relationship between Schultz and Django due to Schultz selling Broomhilda to Candie against Django's wishes,c06d228463a8435b822cf1f919a7fc75,4
+pooch,candie,employee relationship between Pooch and Candie as Candie's bodyguard and second-in-command,c06d228463a8435b822cf1f919a7fc75,4
+moguy,candie,employee relationship between Moguy and Candie as Candie's lawyer,c06d228463a8435b822cf1f919a7fc75,4
+lara,candie,relative relationship between Lara and Candie as his sister who takes over the plantation after his death,c06d228463a8435b822cf1f919a7fc75,4
+billy crash,django,enemy relationship between Billy Crash and Django due to Billy's attempts to torture and castrate him while being transported to the mines,c06d228463a8435b822cf1f919a7fc75,4
+stephen,django,business relationship between Stephen and Django in collaborating on a plan to escape from captivity and rescue Broomhilda,c06d228463a8435b822cf1f919a7fc75,4
+django,broomhilda,"Recovering Broomhilda's freedom papers from Schultz's corpse, Django bids his deceased mentor goodbye and avenges him and D'Artagnan by killing the trackers. He frees Broomhilda just as Candie's mourners return from his burial.",3a2c792bfcc64703b4a10a89d0a3ffa9,4
+django,candie,Kills Candie in order to free Broomhilda,3a2c792bfcc64703b4a10a89d0a3ffa9,4
+django,schultz's corpse,Recovers Broomhilda's freedom papers from Schultz's corpse,3a2c792bfcc64703b4a10a89d0a3ffa9,4
+broomhilda,candie's mourners,Freed by Django just as Candie's mourners return from his burial,3a2c792bfcc64703b4a10a89d0a3ffa9,4
+django,dicki speck,"Revenge for Ace Speck's death, brother of Dicki Speck and erstwhile owner of Django",3a2c792bfcc64703b4a10a89d0a3ffa9,4
+django,old man carrucan,Avenge him and D'Artagnan by killing the trackers,3a2c792bfcc64703b4a10a89d0a3ffa9,4
+django,u.s. marshal gill tatum,"Kills U.S. Marshal Gill Tatum, played by James Russo",3a2c792bfcc64703b4a10a89d0a3ffa9,4
+django,chicken charlie,"Kills Chicken Charlie, portrayed by Omar J. Dorsey",3a2c792bfcc64703b4a10a89d0a3ffa9,4
+django,sheriff bill sharp / willard peck,"Kneecaps Sheriff Bill Sharp / Willard Peck, played by Bruce Dern and Don Stroud respectively",3a2c792bfcc64703b4a10a89d0a3ffa9,4
+django,big john brittle,Overseen both Carrucan and Big Daddy's plantations along with his brothers,3a2c792bfcc64703b4a10a89d0a3ffa9,4
+django,roger 'lil raj' brittle,Overseen both Carrucan and Big Daddy's plantations along with his brothers,3a2c792bfcc64703b4a10a89d0a3ffa9,4
+django,ellis brittle,Overseen both Carrucan and Big Daddy's plantations along with his brothers,3a2c792bfcc64703b4a10a89d0a3ffa9,4
+spaghetti westerns,genre films,Quentin Tarantino's idea for a type of movie combines elements of both Spaghetti Westerns and Genre films.,cf225ec79c394fa2a06b3b34cef20bf0,4
+spaghetti westerns,deep south,"Quentin Tarantino's idea for a type of movie involves setting a Spaghetti Western in the Deep South, specifically addressing America's past with slavery.",cf225ec79c394fa2a06b3b34cef20bf0,4
+spaghetti westerns,issue movies,"Quentin Tarantino distinguishes his idea for a type of movie from traditional 'issue movies' by presenting it as a genre film, rather than a heavy-handed commentary on a specific issue.",cf225ec79c394fa2a06b3b34cef20bf0,4
+deep south,america's past with slavery,"Quentin Tarantino's idea for a type of movie focuses on America's past with slavery, specifically in the Deep South.",cf225ec79c394fa2a06b3b34cef20bf0,4
+spaghetti westerns,tarantino himself,"In the context provided, Quentin Tarantino appears in his own movie as a character named Robert, who is also known as a 'Bag Head'.",cf225ec79c394fa2a06b3b34cef20bf0,4
+spaghetti westerns,roy and floyd,"Quentin Tarantino's characters Roy and Floyd are employees of the LeQuint Dickey Mining Company, a reference to a real-life company that mined boric acid in Kentucky.",cf225ec79c394fa2a06b3b34cef20bf0,4
+spaghetti westerns,marcel,"Jacky Ido, who played Marcel in Tarantino's 'Inglourious Basterds', appears in this context as an uncredited character.",cf225ec79c394fa2a06b3b34cef20bf0,4
+spaghetti westerns,candyland trackers,"Zoë Bell, Michael Bowen, Robert Carradine, Jake Garber, Ted Neeley, James Parks, and Tom Savini are all actors who appear in this context as 'Candyland trackers'.",cf225ec79c394fa2a06b3b34cef20bf0,4
+spaghetti westerns,son of a gunfighter and daughter of son of a gunfighter,"Russ Tamblyn and his daughter Amber appear as 'townspeople' in this context, with Russ being credited as 'Son of a Gunfighter' and his daughter being credited as 'Daughter of Son of a Gunfighter'.",cf225ec79c394fa2a06b3b34cef20bf0,4
+spaghetti westerns,misty upham,Misty Upham appears in this context as 'Minnie'.,cf225ec79c394fa2a06b3b34cef20bf0,4
+spaghetti westerns,jonah hill,"Jonah Hill appears in this context as 'Bag Head #2', a member of Bennett's masked white supremacist group.",cf225ec79c394fa2a06b3b34cef20bf0,4
+spaghetti westerns,lee horsley,Lee Horsley appears in this context as 'Sheriff Gus'.,cf225ec79c394fa2a06b3b34cef20bf0,4
+spaghetti westerns,tennessee harry,Rex Linn appears in this context as 'Tennessee Harry'.,cf225ec79c394fa2a06b3b34cef20bf0,4
+deep south,"daugherty, texas","Zoë Bell, Michael Bowen, Robert Carradine, Jake Garber, Ted Neeley, James Parks, and Tom Savini all appear in this context as 'Candyland trackers' in the town of Daugherty, Texas.",cf225ec79c394fa2a06b3b34cef20bf0,4
+spaghetti westerns,quentin tarantino,"In addition to appearing as a character named Robert, Quentin Tarantino is credited for his cameo appearance in this context.",cf225ec79c394fa2a06b3b34cef20bf0,4
+tarantino,sergio corbucci,"While writing a book about Sergio Corbucci, Tarantino came up with the idea for Django Unchained. He was inspired by how Corbucci's movies portrayed an evil Wild West and dealt with fascism in a surreal way.",5ffcb8df0e77452a97594a1fa5c31744,4
+django unchained,sergio corbucci's movies,"Inspired by his research on Sergio Corbucci, Tarantino wrote Django Unchained, which also explores themes of fascism and an evil Wild West in a surreal way.",5ffcb8df0e77452a97594a1fa5c31744,4
+rza,younger version of blacksmith character from rza's film,"In an intended crossover between Django Unchained and RZA's The Man with the Iron Fists, RZA's character was planned to appear as a slave in an auction. However, scheduling conflicts prevented his participation.",5ffcb8df0e77452a97594a1fa5c31744,4
+jamie foxx,django,Foxx was cast as Django in the movie.,5ce26dc4fb0a48678e142e12ed01f8b6,4
+michael k. williams,django,Williams was mentioned as a possibility for the role of Django.,5ce26dc4fb0a48678e142e12ed01f8b6,4
+will smith,django,"Smith was mentioned as a possibility for the role of Django, but turned it down because it 'wasn't the lead' and 'was not for me'.",5ce26dc4fb0a48678e142e12ed01f8b6,4
+franco nero,calvin candie,"Nero was rumored to play Calvin Candie, but instead had a cameo appearance as a minor character.",5ce26dc4fb0a48678e142e12ed01f8b6,4
+kevin costner,ace woody,"Costner was in negotiations to join the movie as Ace Woody, but dropped out due to scheduling conflicts.",5ce26dc4fb0a48678e142e12ed01f8b6,4
+kurt russell,ace woody,"Russell was cast as Ace Woody, but later left the role.",5ce26dc4fb0a48678e142e12ed01f8b6,4
+walton goggins,billy crash,"Goggins's character in the movie was merged with the character of Ace Woody, who had been played by Kurt Russell and later left by him.",5ce26dc4fb0a48678e142e12ed01f8b6,4
+django,spaghetti westerns,costume designer Sharen Davis and Tarantino were inspired by spaghetti Westerns for Django's wardrobe in the film.,91da392e755b400084ab4434c2b41672,4
+little joe (bonanza character),django's wardrobe,"Costume designer Sharen Davis and Tarantino referred to Bonanza frequently when designing Django's wardrobe in the film. They even hired the hatmaker who designed the hat worn by Little Joe, played by Michael Landon.",91da392e755b400084ab4434c2b41672,4
+charles bronson's character (the white buffalo),django's sunglasses,Davis used Charles Bronson's character in The White Buffalo as a reference for Django's sunglasses in the film.,91da392e755b400084ab4434c2b41672,4
+thomas gainsborough oil painting the blue boy (c. 1770),django's valet outfit,Davis used Thomas Gainsborough oil painting The Blue Boy as a reference for Django's valet outfit in the film.,91da392e755b400084ab4434c2b41672,4
+django unchained,california,Principal photography for Django Unchained started in California in November 2011.,c1db9d2ecc1f46358db233622f98d665,4
+django unchained,wyoming,Continuing in Wyoming in February 2012,c1db9d2ecc1f46358db233622f98d665,4
+django unchained,evergreen plantation,"Was shot at the National Historic Landmark Evergreen Plantation in Wallace, Louisiana, outside of New Orleans, in March 2012.",c1db9d2ecc1f46358db233622f98d665,4
+django unchained,anamorphic format,Shot in the anamorphic format on 35 mm film.,c1db9d2ecc1f46358db233622f98d665,4
+django unchained,zoë bell's masked tracker sub-plot,"A sub-plot centering on Zoë Bell's masked tracker was cut, and remained unfilmed, due to time constraints.",c1db9d2ecc1f46358db233622f98d665,4
+kerry washington,performance authenticity,Sought to bring authenticity to her performance in several ways.,c1db9d2ecc1f46358db233622f98d665,4
+washington,fake whip,"The actor playing her overseer used a fake whip, but Washington insisted the lashings really hit her back.",c1db9d2ecc1f46358db233622f98d665,4
+washington,underground coffin-size metal container,"And to dramatize her punishment inside an underground, coffin-size metal container, she and Tarantino agreed she would spend time barely clothed in the 'hot box' before the filming began so the feeling of confinement would be as realistic as possible.",c1db9d2ecc1f46358db233622f98d665,4
+django unchained,sally menke,"Django Unchained was the first Tarantino film not edited by Sally Menke, who died in 2010.",c1db9d2ecc1f46358db233622f98d665,4
+fred raskin,editing duties,Handled instead.,c1db9d2ecc1f46358db233622f98d665,4
+dicaprio's character,phrenology,explains phrenology,648f047e99f04e6484383d1839f8c792,4
+dicaprio's hand,table,struck and smashed on,648f047e99f04e6484383d1839f8c792,4
+dicaprio's left hand,glass,cut while hitting the table and smashing a small glass,648f047e99f04e6484383d1839f8c792,4
+dicaprio's left hand,blood,profusely bleeding,648f047e99f04e6484383d1839f8c792,4
+dicaprio,character,remained in character under the astonished eyes of his fellow actors despite bleeding profusely,648f047e99f04e6484383d1839f8c792,4
+other actors,dicaprio's performance,praised DiCaprio's performance despite the incident,648f047e99f04e6484383d1839f8c792,4
+dicaprio's left hand,bandage,seen with his left hand bandaged in the scene after when he is signing Broomhilda's papers,648f047e99f04e6484383d1839f8c792,4
+dicaprio,washington's face,wiped fake blood on Washington's face in a separate take,648f047e99f04e6484383d1839f8c792,4
+rick ross,john legend,featured in 'Who Did That To You?' track composed specifically for the film,648f047e99f04e6484383d1839f8c792,4
+theme,django,same as 'Django' theme song of the 1966 film,648f047e99f04e6484383d1839f8c792,4
+ennio morricone,elisa,participated in 'Ancora Qui' track composed specifically for the film,648f047e99f04e6484383d1839f8c792,4
+frank ocean,django unchained (soundtrack),"Ocean wrote an original song for the film's soundtrack, but it was rejected by Tarantino.",ffb122d888e14875a6f769f20272e368,4
+tarantino,django unchained (soundtrack),"explained that 'Ocean wrote a fantastic ballad that was truly lovely and poetic in every way, but there just wasn't a scene for it.'",ffb122d888e14875a6f769f20272e368,4
+beethoven,django unchained (soundtrack),The film features 'Für Elise' by Beethoven.,ffb122d888e14875a6f769f20272e368,4
+verdi,django unchained (soundtrack),'Dies Irae' from Verdi's Requiem is featured in the film's soundtrack.,ffb122d888e14875a6f769f20272e368,4
+morricone,tarantino,made statements criticizing Tarantino's use of his music in Django Unchained and stated that he would 'never work' with the director after this film.,ffb122d888e14875a6f769f20272e368,4
+morricone,the hateful eight (soundtrack),"However, Morricone later agreed to compose an original film score for Tarantino's The Hateful Eight in 2015.",ffb122d888e14875a6f769f20272e368,4
+jim croce,django unchained (soundtrack),His hit 'I Got a Name' was featured in the soundtrack.,ffb122d888e14875a6f769f20272e368,4
+django unchained,the weinstein company,"Django Unchained was released on December 25, 2012, in the United States by The Weinstein Company.",8a95ca25df20402595df0acb85fcb823,4
+sony pictures releasing,django unchained,"Sony Pictures Releasing released Django Unchained on January 18, 2013, in the United Kingdom.",8a95ca25df20402595df0acb85fcb823,4
+directors guild of america,django unchained,"The first screening event for Django Unchained was held at the Directors Guild of America on December 1, 2012.",8a95ca25df20402595df0acb85fcb823,4
+"december 14, 2012",django unchained,"The premiere of Django Unchained was delayed by one week following the shooting at an elementary school in Newtown, Connecticut, on December 14, 2012.",8a95ca25df20402595df0acb85fcb823,4
+"march 22, 2013",django unchained,"Django Unchained was released in India on March 22, 2013.",8a95ca25df20402595df0acb85fcb823,4
+china's film market,django unchained,Django Unchained was announced to be the first Tarantino film approved for official distribution in China's strictly controlled film market.,8a95ca25df20402595df0acb85fcb823,4
+"may 12, 2013",django unchained,"Django Unchained was released in China on May 12, 2013.",8a95ca25df20402595df0acb85fcb823,4
+django unchained,north america,"The film made $15 million on Christmas Day in North America, finishing second behind fellow opener Les Misérables.",7159021fec95460b89d1f11744db1d4b,4
+django unchained,united states and canada,"The film was released on DVD, Blu-ray, and digital download on April 16, 2013, in the United States and Canada.",7159021fec95460b89d1f11744db1d4b,4
+django unchained,worldwide total,"As of 2013[update], Django Unchained is Tarantino's highest-grossing film, surpassing his 2009 film Inglourious Basterds, which grossed $321.4 million worldwide.",7159021fec95460b89d1f11744db1d4b,4
+django unchained,three-biggest opening day figure for a film on christmas,"The film made $15 million on Christmas Day, finishing second behind fellow opener Les Misérables. It was the third-biggest opening day figure for a film on Christmas, following Sherlock Holmes ($24.6 million) and Les Misérables ($18.1 million).",7159021fec95460b89d1f11744db1d4b,4
+django unchained,opening weekend,"It went on to make $30.1 million in its opening weekend (a six-day total of $63.4 million), finishing second behind holdover The Hobbit: An Unexpected Journey.",7159021fec95460b89d1f11744db1d4b,4
+django unchained,"grossed $31,939,733 from dvd sales","In the United States, the film has grossed $31,939,733 from DVD sales.",7159021fec95460b89d1f11744db1d4b,4
+django unchained,"grossed $30,286,838 from blu-ray sales","In the United States, the film has grossed $30,286,838 from Blu-ray sales.",7159021fec95460b89d1f11744db1d4b,4
+django unchained,"release date (april 16, 2013)","The film was released on DVD, Blu-ray, and digital download on April 16, 2013.",7159021fec95460b89d1f11744db1d4b,4
+django unchained,inglourious basterds,"According to critic A.O. Scott, both films are crazily entertaining and ethically serious in a way that is entirely consistent with their playfulness.",ef9e8d7f02d246b78ce15c323fa4ea1c,4
+django unchained,slavery,"Designated as a Times 'critics' pick, critic A.O. Scott called Django Unchained a 'troubling and important movie about slavery and racism.'",ef9e8d7f02d246b78ce15c323fa4ea1c,4
+django unchained,racism,"Designated as a Times 'critics' pick, critic A.O. Scott called Django Unchained a 'troubling and important movie about slavery and racism.'",ef9e8d7f02d246b78ce15c323fa4ea1c,4
+django unchained,satire,"Filmmaker Michael Moore praised Django, tweeting that the movie 'is one of the best film satires ever.'",ef9e8d7f02d246b78ce15c323fa4ea1c,4
+candie,leonardo dicaprio,"According to Dan Jolin of Empire magazine, Leonardo DiCaprio's portrayal of Candie was 'played to hateful perfection: a spiteful, brown-toothed bully, avaricious, vain and prone to flattery.'",ef9e8d7f02d246b78ce15c323fa4ea1c,4
+candie,weak link,"According to Dan Jolin of Empire magazine, Jamie Foxx's portrayal of Django was 'a soft, musical voice [...] jars against Django's terse deliveries.'",ef9e8d7f02d246b78ce15c323fa4ea1c,4
+django unchained,inglourious basterds,"Owen Gleiberman, film critic for the Entertainment Weekly, compared the two films in his review, stating that 'Django isn't nearly the film that Inglourious was. It's less clever'",dd0baeac93d943b6883ae15b2ec3bbe4,4
+django unchained,two-hour-and-45-minute running time,"In his review for the Entertainment Weekly, Owen Gleiberman wrote that 'Django doesn't have enough major characters – or enough of Tarantino's trademark structural ingenuity – to earn its two-hour-and-45-minute running time'",dd0baeac93d943b6883ae15b2ec3bbe4,4
+owen gleiberman,entertainment weekly,"In his review, Owen Gleiberman, film critic for the Entertainment Weekly, wrote about 'Django Unchained'",dd0baeac93d943b6883ae15b2ec3bbe4,4
+david fellerath,indy week,"In his review for the Indy Week, David Fellerath stated that Tarantino did little research beyond repeated viewings of Sergio Corbucci's 1966 spaghetti Western Django and a blaxploitation from 1975 called Boss Nigger, written by and starring Fred Williamson.",dd0baeac93d943b6883ae15b2ec3bbe4,4
+anthony lane,new yorker,"In his review for the New Yorker, Anthony Lane was disturbed by 'their [Tarantino's fans] yelps of triumphant laughter'",dd0baeac93d943b6883ae15b2ec3bbe4,4
+django unchained,academic journal safundi,Entire issue of academic journal Safundi was devoted to Django Unchained in 'Django Unchained and the Global Western'.,c88b2afb52934c36ace406ee45d67705,4
+django unchained,classic 'western',Scholars who contextualize Tarantino's film as a classic 'Western' in 'Django Unchained and the Global Western'.,c88b2afb52934c36ace406ee45d67705,4
+tarantino,django unchained,"Director of Django Unchained, Tarantino.",c88b2afb52934c36ace406ee45d67705,4
+another director,django unchained,Comparison between another director's handling of matters in Django Unchained and Tarantino's approach.,c88b2afb52934c36ace406ee45d67705,4
+violence,django unchained,Treatment of violence in Django Unchained.,c88b2afb52934c36ace406ee45d67705,4
+slavery,django unchained,Treatment of slavery in Django Unchained.,c88b2afb52934c36ace406ee45d67705,4
+race relations,django unchained,Treatment of race relations in Django Unchained.,c88b2afb52934c36ace406ee45d67705,4
+delicately,handling of matters in django unchained,Comparison between Tarantino's handling of matters in Django Unchained and another director's approach.,c88b2afb52934c36ace406ee45d67705,4
+stylistic excess,handling of matters in django unchained,Comparison between Tarantino's handling of matters in Django Unchained and another director's approach.,c88b2afb52934c36ace406ee45d67705,4
+scholars,django unchained,Group of people who contextualize Tarantino's film as a classic 'Western' in 'Django Unchained and the Global Western'.,c88b2afb52934c36ace406ee45d67705,4
+global western,django unchained,Contextualization of Django Unchained as part of 'Global Western' in 'Django Unchained and the Global Western'.,c88b2afb52934c36ace406ee45d67705,4
+django unchained,entertaining,Description of Django Unchained as entertaining by Dana Phillips.,c88b2afb52934c36ace406ee45d67705,4
+audacious,django unchained,Description of Django Unchained as audacious by Dana Phillips.,c88b2afb52934c36ace406ee45d67705,4
+lurid,django unchained,"Description of Django Unchained's treatment of slavery, race relations, and violence as lurid by Dana Phillips.",c88b2afb52934c36ace406ee45d67705,4
+django unchained,top ten movies of the year,The American Film Institute named Django Unchained one of its Top Ten Movies of the Year in December 2012.,10149396e8c849879d3e1047ffc2691a,4
+django unchained,golden globe award nominations,"Django Unchained received five Golden Globe Award nominations, including Best Picture, and Best Director and Best Screenplay for Tarantino.",10149396e8c849879d3e1047ffc2691a,4
+christoph waltz,"oscar awards, golden globe awards, and bafta awards","Christoph Waltz received the Academy Award for Best Supporting Actor, the Golden Globe Award for Best Supporting Actor, and the BAFTA Award for Best Supporting Actor for his role in Django Unchained, his second time receiving all three awards.",10149396e8c849879d3e1047ffc2691a,4
+django unchained,naacp image awards,The NAACP Image Awards gave Django Unchained four nominations.,10149396e8c849879d3e1047ffc2691a,4
+dicaprio,national board of review,The National Board of Review named DiCaprio their Best Supporting Actor for his role in Django Unchained.,10149396e8c849879d3e1047ffc2691a,4
+django unchained,producers guild of america nominations,Django Unchained earned a nomination for Best Theatrical Motion Picture from the Producers Guild of America.,10149396e8c849879d3e1047ffc2691a,4
+use of the word 'nigger',historical context of race and slavery in the united states,"Some commentators thought that the film's over-usage of the word 'nigger' was inappropriate, while other reviewers have defended the usage of the language in the historical context of race and slavery in the United States.",10149396e8c849879d3e1047ffc2691a,4
+spike lee,american slavery,"Lee stated that the portrayal of American slavery in Django Unchained is 'disrespectful to my ancestors' and compared it to the Holocaust, expressing his belief that it was not accurately depicted.",5e658dd2fce24f9aa59046b5cc698bf1,4
+jesse williams,accuracy of racist language,"Williams contrasted the accuracy of the use of the n-word in Django Unchained with his perception that the film did not accurately depict the lives of slaves, criticizing its portrayal of 'well-dressed Negresses' and lack of solidarity among slave characters.",5e658dd2fce24f9aa59046b5cc698bf1,4
+jesse williams,accuracy of general lives of slaves,"Williams further criticized the lack of accuracy about the general lives of slaves in Django Unchained, calling out their portrayal as 'Negresses' frolicking on swings and enjoying leisurely strolls through the grounds, as if the setting is Versailles, mixed in with occasional acts of barbarism against slaves.",5e658dd2fce24f9aa59046b5cc698bf1,4
+wesley morris,realism of villain stephen,"Morris praised the realism of the character Stephen, played by Samuel L. Jackson in Django Unchained, comparing him to black Republicans such as Clarence Thomas and Herman Cain.",5e658dd2fce24f9aa59046b5cc698bf1,4
+jackson,clarence thomas,believes that both have the same moral compass,d4b377134162412c94dd0b5f34f3a528,4
+nigger,tarantino,extensive use of in a movie about slavery is different from the use of antisemitic terms in Inglourious Basterds,d4b377134162412c94dd0b5f34f3a528,4
+nigger,jackson,defended the extensive use of in Django Unchained,d4b377134162412c94dd0b5f34f3a528,4
+nigger,tarantino,slings around the word too many times in a movie about slavery,d4b377134162412c94dd0b5f34f3a528,4
+jamie foxx,white people,joked about being excited to kill all of them in Django Unchained,d4b377134162412c94dd0b5f34f3a528,4
+django unchained,white man as devil,conservative columnist Jeff Kuhner's response for The Washington Times,d4b377134162412c94dd0b5f34f3a528,4
+django unchained,brutality,"Samuel L. Jackson stated in an interview with Vogue Man that Django Unchained, directed by Quentin Tarantino, presented a more detailed exploration of the slavery experience than 12 Years a Slave, but due to its excessive violence, some reviews criticized it as being too brutal.",71fdf275d15b475d829e7ccbccf034a6,4
+django unchained,postponement,"The originally planned premiere of Django Unchained was postponed following the Sandy Hook school shooting on December 14, 2012.",71fdf275d15b475d829e7ccbccf034a6,4
+django unchained,violence,"Critics have noted that Django Unchained's use of violence is excessive and over-the-top, with some reviewers finding it to be a negative aspect of the film.",71fdf275d15b475d829e7ccbccf034a6,4
+samuel l. jackson,django unchained,"In an interview with Vogue Man, Samuel L. Jackson discussed his role in Django Unchained and explained that while the film explores the slavery experience in detail, it has been criticized for being a blaxploitation movie due to its violence.",71fdf275d15b475d829e7ccbccf034a6,4
+steve mcqueen,higher esteem,"In comparison to Quentin Tarantino's Django Unchained, the film 12 Years a Slave, directed by Steve McQueen, is held in higher esteem due to McQueen's reputation as an artist and creator of supposedly art films.",71fdf275d15b475d829e7ccbccf034a6,4
+imaginative expression,consequence,"The author questions whether those in the entertainment industry, such as Quentin Tarantino, truly believe that imaginative expression is without consequence.",c2ee42680fc445589f6758b1b80a28d7,4
+cinema,new sadism,"The Independent newspaper stated that Django Unchained, a movie by Quentin Tarantino, was part of 'the new sadism in cinema'.",c2ee42680fc445589f6758b1b80a28d7,4
+audience,guffaws,"The Independent also commented that while watching Django Unchained, an audience can be heard guffawing at the violence depicted in the movie.",c2ee42680fc445589f6758b1b80a28d7,4
+django,slave owners and overseers,"in the context provided, 'Django' is portrayed as killing slave owners and overseers with cartoonish violence, while the violence against slaves is appropriately terrifying. This highlights a key contrast in the film between Django's actions and the brutality inflicted upon slaves.",6ee48f480a044c96b2df1ac2e95eabb9,4
+schultz,slave being torn apart by dogs,"when Schultz turns his head away from a slave being torn apart by dogs, it shows that he is not accustomed to the brutal treatment of slaves, highlighting a contrast between Schultz and those involved in inflicting such violence.",6ee48f480a044c96b2df1ac2e95eabb9,4
+mandingo fighting,historical evidence,"while Tarantino acknowledges the existence of Mandingo fighting, there is no definitive historical evidence that slave owners ever staged gladiator-like fights to the death between male slaves like the fight depicted in the movie. This highlights a gap in our knowledge and understanding of this issue.",6ee48f480a044c96b2df1ac2e95eabb9,4
+slave owners,economic self-interest,"historian Edna Greene Medford notes that there are only undocumented rumors that such fights took place, and David Blight explains that slave owners would not have wanted to put their substantial financial investments at risk in gladiatorial battles due to economic self-interest.",6ee48f480a044c96b2df1ac2e95eabb9,4
+historical accuracy,christopher caldwell,"In the Financial Times, Christopher Caldwell wrote about the matter of historical accuracy in relation to 'Django Unchained'. He pointed out that while a feature film should not be mistaken for a public television documentary, it is still important to treat it as entertainment and not as a historical account. This highlights the distinction between a form of entertainment and an informative document.",02638a56a45d40eba3cb045480e1cf1b,4
+historical accuracy,richard brody,"In contrast to Caldwell's view, Richard Brody argued in The New Yorker that Tarantino's vision of slavery's monstrosity was historically accurate. He emphasized that the film depicted slavery as a grievous and monstrous infliction of cruelty rather than just an administrative ownership.",02638a56a45d40eba3cb045480e1cf1b,4
+schultz's hideout gun,remington over/under .41 derringer,"One minor historical inaccuracy in the film is Schultz's hideout gun. However, the accuracy of this detail is disputed as there is no citation provided to support it.",02638a56a45d40eba3cb045480e1cf1b,4
+django unchained,comic book adaptation,A comic book adaptation of 'Django Unchained' was released by DC Comics in 2013.,02638a56a45d40eba3cb045480e1cf1b,4
+django unchained,sequel crossover comic,"In 2015, a sequel crossover comic entitled 'Django/Zorro' was released by Dynamite Entertainment. The comic was co-written by Quentin Tarantino and Matt Wagner.",02638a56a45d40eba3cb045480e1cf1b,4
+django unchained,tarantino,"Tarantino, the director of Django Unchained, has discussed the possibility of re-editing the film into a four-hour miniseries due to having 90 minutes of unused material.",5b797506b750462b8c1f7fbd4da47cfb,4
+django in white hell,tarantino,"Initially, Tarantino attempted to create a sequel for Django Unchained based on the novel 'Django in White Hell', but eventually rewrote it into a different screenplay called 'The Hateful Eight' due to a mismatched tone with the character's morals.",5b797506b750462b8c1f7fbd4da47cfb,4
+jerrod carmichael,tarantino,"In June 2019, Tarantino announced that Jerrod Carmichael would be co-writing a film adaptation based on the Django/Zorro crossover comic book series.",5b797506b750462b8c1f7fbd4da47cfb,4
+antonio banderas,django unchained,"Both Jamie Foxx and Antonio Banderas, who previously played Django and Zorro respectively in separate films, have expressed interest in reprising their roles in the potential Django/Zorro crossover film.",5b797506b750462b8c1f7fbd4da47cfb,4

@@ -1,0 +1,83 @@
+node_1,node_2,edge,chunk_id,count
+izna,aayan thakur,"Approached Izna to hire her as a 'honey trap' and help them retrieve critical information from Kabir Wilson, her ex-boyfriend.",3de5fc4509e7493d93bd3298b40f635b,4
+izna,kabir wilson,Ex-boyfriend who used to work for the Intelligence Agency but went rogue and now operates as a hitman.,3de5fc4509e7493d93bd3298b40f635b,4
+security chief guru saldanah,izna,"Want to hire Izna as a 'honey trap' to retrieve critical information from Kabir Wilson, Izna's ex-boyfriend.",3de5fc4509e7493d93bd3298b40f635b,4
+aayan thakur,security chief guru saldanah,"Works with Security Chief Guru Saldanah in hiring Izna as a 'honey trap' to retrieve critical information from Kabir Wilson, Izna's ex-boyfriend.",3de5fc4509e7493d93bd3298b40f635b,4
+kabir wilson,intelligence agency,Formerly worked for the Intelligence Agency,3de5fc4509e7493d93bd3298b40f635b,4
+izna,kabir,"Met six years ago through Kabir's work for an agency. Initially, Izna unwittingly helped Kabir smuggle drugs into a nightclub, and as a sign of affection, she handed him a love letter written in her own blood. They dated until Kabir disappeared without explanation.",8ed8df57d7744698a8ad0913ada228d3,4
+izna,residential colony in sri lanka,"Taken to this location as part of a mission to find Kabir, who has been living there for the past few months as a musician.",8ed8df57d7744698a8ad0913ada228d3,4
+izna,aayan,"Goes undercover as an engaged couple with Aayan pretending to be Karan Rajput, a PR representative, in order to gather information about Kabir's whereabouts.",8ed8df57d7744698a8ad0913ada228d3,4
+kabir,izna,"Upon seeing Izna, Kabir initially shuts the door on her due to unspecified reasons. The following day, he attempts to approach her, but Izna angrily throws a rock at him in response.",8ed8df57d7744698a8ad0913ada228d3,4
+kabir,izna's window,"As a sign of apology, Kabir writes 'Sorry' on Izna's window in his own blood, but quickly departs after receiving a phone call.",8ed8df57d7744698a8ad0913ada228d3,4
+saldanah,kabir,Saldanah tries to extract information from Kabir but is killed by him. Saldanah narrowly escapes.,26fc3c7cadc34dc697994e06deebf82b,4
+aayan,kabir,"Aayan plans to steal data from Kabir's laptop and asks Izna to distract him. After Kabir leaves his house, Aayan breaks in to steal the data, but when he copies the data from Kabir's laptop, it triggers a silent alarm.",26fc3c7cadc34dc697994e06deebf82b,4
+izna,kabir,"Izna sends a letter to Kabir, telling him that she wants to meet him. After receiving an alert on his phone, Kabir hurries back to his house.",26fc3c7cadc34dc697994e06deebf82b,4
+aayan,kabir,"After Aayan copies the data from Kabir's laptop, it triggers a silent alarm and Kabir hurries back to his house.",26fc3c7cadc34dc697994e06deebf82b,4
+aayan,izna,"After Aayan tells her how many people Kabir has killed, Izna promises she will bring Kabir down.",26fc3c7cadc34dc697994e06deebf82b,4
+kabir,sumit,trusted friend,0f40579986b044a8bf3219781a871bbd,4
+izna,intelligence agency,involved with,0f40579986b044a8bf3219781a871bbd,4
+sumit,izna,suspects,0f40579986b044a8bf3219781a871bbd,4
+kabir,izna,"proposes to, asks to move in with him and leave 'Karan'",0f40579986b044a8bf3219781a871bbd,4
+aayan,izna,falls in love with,0f40579986b044a8bf3219781a871bbd,4
+sumit,aayan,gets angry when he finds out,0f40579986b044a8bf3219781a871bbd,4
+izna,data,steal more easily when she moves into Kabir's house,0f40579986b044a8bf3219781a871bbd,4
+sumit,aayan,attacks and tries to kill,0f40579986b044a8bf3219781a871bbd,4
+aayan,intelligence agency,works with,0f40579986b044a8bf3219781a871bbd,4
+izna,kabir,might try to kill when he finds out that Sumit has been murdered and she is involved,0f40579986b044a8bf3219781a871bbd,4
+aayan,izna,gives poison and asks her to mix it into Kabir's drink,0f40579986b044a8bf3219781a871bbd,4
+kabir,aayan,"When Izna is not at home, Kabir goes to Aayan's house and notices Sumit's hearing aid on the floor inside. This action reveals that Kabir has some connection with both Izna and Aayan.",79694f8cc07e4d0f983936e6a02412dc,4
+kabir,sumit,"Kabir discovers Sumit's hearing aid on the floor inside Aayan's house, indicating that either Sumit or Izna might have forgotten it there.",79694f8cc07e4d0f983936e6a02412dc,4
+izna,intelligence agency,"Izna works with the Intelligence Agency, as revealed in her story about meeting 'Karan' to Kabir.",79694f8cc07e4d0f983936e6a02412dc,4
+izna,"corrupt operatives, politicians and officers","Years ago, Izna discovered that some of the Intelligence Agency's operatives, as well as some politicians and officers, were corrupt. This revelation led Kabir to shortlist them and then kill them.",79694f8cc07e4d0f983936e6a02412dc,4
+kabir,"corrupt operatives, politicians and officers","Kabir also discovered the corruption of some operatives, politicians and officers during a sting operation. This discovery led him to leave Izna and become a patriot.",79694f8cc07e4d0f983936e6a02412dc,4
+izna,poison,"Izna offers Kabir coffee laced with poison, provided by Aayan.",79694f8cc07e4d0f983936e6a02412dc,4
+kabir,guru saldanah,Kabir reveals to Izna that Guru Saldanah is corrupt and his team consists of impostors after incriminating data. Kabir also mentions that Guru Saldanah is running an unsanctioned operation to retrieve the information and will kill Izna once he gets the hard disk.,8ffd79814b014d84a53c2e6a8e58db14,4
+guru saldanah,izna,"After the mission, Guru Saldanah intended to have Izna killed, which Aayan was given this responsibility but changed his mind after falling in love with her.",8ffd79814b014d84a53c2e6a8e58db14,4
+kabir,izna,"Kabir offers Izna a new passport, tickets, and access to an account maintained at a Swiss bank from which she can withdraw unlimited money. However, Izna does not believe him when he reveals Guru Saldanah's corruption and impostors.",8ffd79814b014d84a53c2e6a8e58db14,4
+izna,kabir,"When Kabir kisses Izna, she shoots him in the stomach, leading to his death.",8ffd79814b014d84a53c2e6a8e58db14,4
+aayan,izna,"offer and decline, love triangle with Kabir, Izna's attempt to leave with hard disk, Aayan's threat to shoot Izna, Izna's ignoring and falling down after being shot by Aayan, confrontation after falling down, Izna's killing of Aayan",031e25bff1b74ca2bc5268e94cbaba70,4
+izna,kabir,"killing of an innocent man, love triangle with Kabir and Aayan, vision of Kabir before dying",031e25bff1b74ca2bc5268e94cbaba70,4
+bigg boss,sunny leone,"presentation of contract deal by Mahesh Bhatt to cast Sunny Leone as lead actress in Jism sequel, directed by Pooja Bhatt",031e25bff1b74ca2bc5268e94cbaba70,4
+jism 2,cbfc,"The CBFC was initially not satisfied with the lengthy sex scenes in Jism 2 and declined to issue a certificate. This led to some cuts being made by the director, Pooja Bhatt, which did not significantly affect the film overall.",dbc90f8e8ebe48e9af9f95258145d612,4
+jism 2,leone,"Pooja Bhatt signed Sunny Leone for Jism 2 based on her instincts, as she also did with John Abraham in Jism. Both films are love stories, but Jism 2 is for a more mature adult audience.",dbc90f8e8ebe48e9af9f95258145d612,4
+jism,jism 2,"According to Pooja Bhatt, Jism and Jism 2 are both love stories, but the latter is for a more mature adult audience.",dbc90f8e8ebe48e9af9f95258145d612,4
+jism 2,izna,Director Pooja Bhatt was very fond of Leone's performance as Izna in Jism 2.,dbc90f8e8ebe48e9af9f95258145d612,4
+jism 2,sunny leone,"Jism 2 is a sexy movie featuring Sunny Leone as its USP, with an attention-grabbing title and a generous dose of skin show and erotica. The film's success largely depends on Sunny Leone's performance.",8e44651deb7346a695a7f575501e15d6,4
+sunny leone,sluggish pace,"The lackluster screenplay and the sluggish pace of Jism 2 act as deterrents, but Sunny Leone in the driver's seat manages to hold the audience's attention.",8e44651deb7346a695a7f575501e15d6,4
+jism 2,sex,"The movie hovers over sex, like a butterfly gliding across one of the many water pools featured in the film. However, Jism 2 offers several surprises besides its focus on sex.",8e44651deb7346a695a7f575501e15d6,4
+jism 2,deterrents,"The lackluster screenplay and the sluggish pace of Jism 2 act as deterrents, but Sunny Leone in the driver's seat, coupled with a generous dose of skin show and erotica, should still attract audiences.",8e44651deb7346a695a7f575501e15d6,4
+jism 2,sequel,"I thought that Jism 2 is a sequel only because it also has sex, but the film turned out to be an anti-climactic let-down.",8e44651deb7346a695a7f575501e15d6,4
+sunny leone,assets,"Sunny Leone's assets are the script, screenplay and sole purpose of Jism 2, and everyone outside that – Hooda, Singh, Zakaria or the audience – is obliged to wag their tongues with thrill.",8e44651deb7346a695a7f575501e15d6,4
+taran adarsh,jism 2,"Taran Adarsh gave Jism 2 a score of 2 out of 5, and said that the lackluster screenplay and the sluggish pace act as deterrents.",8e44651deb7346a695a7f575501e15d6,4
+anupama chopra,jism 2,"Anupama Chopra of the Hindustan Times gave Jism 2 a score of 2 out of 5, noting that I thought that Jism 2 is a sequel only because it also has sex, and that the film turned out to be an anti-climactic let-down.",8e44651deb7346a695a7f575501e15d6,4
+srijana mitra das,jism-2,"Srijana Mitra Das of the Times of India rated Jism-2 3.5 out of 5 and stated that Jism-2 hovers over sex, like a butterfly gliding across one of the many water pools featured in the film.",8e44651deb7346a695a7f575501e15d6,4
+sukanya verma,jism 2,"Sukanya Verma of Rediff.com gave Jism 2 a score of 1.5 out of 5, concluding that 'It's like Sunny Leone's assets are the script, screenplay and sole purpose of Jism 2 and everyone outside that – Hooda, Singh, Zakaria or the audience – is obliged to wag their tongues with thrill.'",8e44651deb7346a695a7f575501e15d6,4
+jism 2,social conservatives across india,sparked protests by,ee0f1c283fa54e9e871dcbcb3dc4b27e,4
+promotion and release of jism 2,social conservatives across india,sparked protests by,ee0f1c283fa54e9e871dcbcb3dc4b27e,4
+national students union of india in allahabad,social conservatives across india,part of,ee0f1c283fa54e9e871dcbcb3dc4b27e,4
+bajrang dal in bhopal,social conservatives across india,part of,ee0f1c283fa54e9e871dcbcb3dc4b27e,4
+assam,social conservatives across india,part of,ee0f1c283fa54e9e871dcbcb3dc4b27e,4
+amritsar,social conservatives across india,part of,ee0f1c283fa54e9e871dcbcb3dc4b27e,4
+mumbai,social conservatives across india,part of,ee0f1c283fa54e9e871dcbcb3dc4b27e,4
+leone,protesters in amritsar,effigies of were burned,ee0f1c283fa54e9e871dcbcb3dc4b27e,4
+pooja bhatt,protesters in amritsar,effigies of were burned,ee0f1c283fa54e9e871dcbcb3dc4b27e,4
+rakesh nayayik,allahabad high court,accused Jism 2 of illegally promoting a porn star and filed a PIL in the Allahabad High Court to try to get the film banned.,ee0f1c283fa54e9e871dcbcb3dc4b27e,4
+mayank shekhar on his website thew14.com,jism 2,writes,ee0f1c283fa54e9e871dcbcb3dc4b27e,4
+cnn-ibn,rajeev masand,"awarded it a score of 1 out of 5 while commenting that he thinks ""the plot itself is like a big, black hole there is no coming out of. For all its pretentious babble on love and pain, it's a film that leaves your own jism in much pain as you finally get out of your seat.""",ee0f1c283fa54e9e871dcbcb3dc4b27e,4
+independent bollywood,jism 2,"gave 1 out of 5 stars and commented ""No Jism in Jism 2""",ee0f1c283fa54e9e871dcbcb3dc4b27e,4
+jism 2,box office success,"Jism 2 opened well at the box office with collections above 90% on average and some places having stronger collections in its opening day. This initial success led to a good first weekend, totaling around ₹205.0 million (US$2.5 million) nett. The film also had a decent first week, collecting around ₹295.0 million (US$3.5 million) nett including business from paid previews. Boxofficeindia declared the film as 'Semi-Hit' after two weeks of release.",5db32f11cc0c463aba754b2303c16f8d,4
+jism 2,critical reception,"Jism 2 received mixed critical reception due to its mature content, with some places having stronger collections in its opening day. The negative critical reception and word of mouth led to a huge fall on the second day as it collected around ₹55.0 million (US$660,000).",5db32f11cc0c463aba754b2303c16f8d,4
+jism 2,overseas performance,"Jism 2 took in around $100,000 overseas. It had released on around 60 prints there in four days.",5db32f11cc0c463aba754b2303c16f8d,4
+jism 2,"$100,000","Jism 2 earned approximately $100,000 overseas in four days on around 60 prints.",9033ddfb84ab4df19ffd2d52991eae46,4
+jism 2,overseas release,"Jism 2 had a worldwide theatrical release, with its initial rollout in overseas markets.",9033ddfb84ab4df19ffd2d52991eae46,4
+arko,music composer,Arko is a music composer who created the soundtrack for Jism 2.,9033ddfb84ab4df19ffd2d52991eae46,4
+mithoon,music composer,Mithoon is a music composer who contributed to the creation of the Jism 2 soundtrack.,9033ddfb84ab4df19ffd2d52991eae46,4
+abdul basit sayeed,music composer,Abdul Basit Sayeed is a music composer who collaborated on the Jism 2 soundtrack.,9033ddfb84ab4df19ffd2d52991eae46,4
+rushk,pakistani gothic fiction band,"Rushk, a Pakistani gothic fiction band, contributed to the creation of the Jism 2 soundtrack.",9033ddfb84ab4df19ffd2d52991eae46,4
+jism 2,soundtrack,"The Jism 2 movie features an original soundtrack composed by Arko, Mithoon, Abdul Basit Sayeed & Rushk.",9033ddfb84ab4df19ffd2d52991eae46,4
+maula,song,Maula is a song featured on the Jism 2 soundtrack.,9033ddfb84ab4df19ffd2d52991eae46,4
+abhi abhi,song,Abhi Abhi is a song featured on the Jism 2 soundtrack.,9033ddfb84ab4df19ffd2d52991eae46,4
+yeh jism,song,Yeh Jism is a song featured on the Jism 2 soundtrack.,9033ddfb84ab4df19ffd2d52991eae46,4
+joginder tuteja,music critic,"Joginder Tuteja, a music critic, reviewed the Jism 2 soundtrack and gave it 3.5 out of 5 stars.",9033ddfb84ab4df19ffd2d52991eae46,4
+bollywood hungama,music review website,"The Jism 2 soundtrack received positive reviews from Bollywood Hungama, a popular Indian music and entertainment news website.",9033ddfb84ab4df19ffd2d52991eae46,4
+times of india,newspaper,"The Jism 2 soundtrack also received favorable feedback from Times of India, a prominent Indian newspaper.",9033ddfb84ab4df19ffd2d52991eae46,4

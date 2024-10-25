@@ -1,0 +1,3 @@
+node_1,node_2,edge,chunk_id,count
+message,displayed,The message is being shown on the screen.,5806504936da47a6b6c41bc395d917ff,4
+displayed,other reasons,There are other circumstances under which this message becomes visible.,5806504936da47a6b6c41bc395d917ff,4

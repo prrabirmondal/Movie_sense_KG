@@ -1,0 +1,48 @@
+node_1,node_2,edge,chunk_id,node_3,count
+the big wedding,american comedy film,The Big Wedding is a 2013 American comedy film written and directed by Justin Zackham.,1c8c2c25f86d4842a45f2629cf321850,,4
+justin zackham,director,"Justin Zackham directed The Big Wedding, which is a 2013 American comedy film.",1c8c2c25f86d4842a45f2629cf321850,,4
+2013,year,"The Big Wedding, an American comedy film, was released in the United States and Canada on April 26, 2013.",1c8c2c25f86d4842a45f2629cf321850,,4
+robert de niro,actor,"Robert De Niro is an actor who appears in The Big Wedding, which is a 2013 American comedy film.",1c8c2c25f86d4842a45f2629cf321850,,4
+katherine heigl,actor,"Katherine Heigl is an actor who appears in The Big Wedding, which is a 2013 American comedy film.",1c8c2c25f86d4842a45f2629cf321850,,4
+diane keaton,actor,"Diane Keaton is an actor who appears in The Big Wedding, which is a 2013 American comedy film.",1c8c2c25f86d4842a45f2629cf321850,,4
+amanda seyfried,actor,"Amanda Seyfried is an actor who appears in The Big Wedding, which is a 2013 American comedy film.",1c8c2c25f86d4842a45f2629cf321850,,4
+topher grace,actor,"Topher Grace is an actor who appears in The Big Wedding, which is a 2013 American comedy film.",1c8c2c25f86d4842a45f2629cf321850,,4
+ben barnes,actor,"Ben Barnes is an actor who appears in The Big Wedding, which is a 2013 American comedy film.",1c8c2c25f86d4842a45f2629cf321850,,4
+susan sarandon,actor,"Susan Sarandon is an actor who appears in The Big Wedding, which is a 2013 American comedy film.",1c8c2c25f86d4842a45f2629cf321850,,4
+robin williams,actor,"Robin Williams is an actor who appears in The Big Wedding, which is a 2013 American comedy film.",1c8c2c25f86d4842a45f2629cf321850,,4
+don griffin,character,Don Griffin was a New England couple married for 20 years before they divorced.,1c8c2c25f86d4842a45f2629cf321850,,4
+ellie griffin,character,Ellie Griffin arrived at Don's (and her old) home and interrupted him just as he was about to perform oral sex on Bebe.,1c8c2c25f86d4842a45f2629cf321850,,4
+lyla,character,"Don and Ellie Griffin have three children from their marriage: Lyla, Jared and adopted son Alejandro.",1c8c2c25f86d4842a45f2629cf321850,,4
+jared,character,"Don and Ellie Griffin have three children from their marriage: Lyla, Jared and adopted son Alejandro.",1c8c2c25f86d4842a45f2629cf321850,,4
+alejandro,character,"Don and Ellie Griffin have three children from their marriage: Lyla, Jared and adopted son Alejandro.",1c8c2c25f86d4842a45f2629cf321850,,4
+missy,character,Alejandro and his fiancée Missy were meeting with Father Moinighan.,1c8c2c25f86d4842a45f2629cf321850,,4
+madonna,character,"It is revealed that Alejandro's biological mother Madonna is going to be coming from Colombia to the wedding, which upsets Alejandro because he does not have a 'traditional' family.",1c8c2c25f86d4842a45f2629cf321850,,4
+divorce,event,Don and Ellie Griffin were a New England couple married for 20 years before they divorced.,1c8c2c25f86d4842a45f2629cf321850,,4
+old,property,Ellie arrived at Don's (and her old) home.,1c8c2c25f86d4842a45f2629cf321850,,4
+oral sex,activity,Don was about to perform oral sex on Bebe when Ellie interrupted him.,1c8c2c25f86d4842a45f2629cf321850,,4
+bebe,character,"Don was about to perform oral sex on Bebe, who is Don's girlfriend of eight years and Ellie's ex-wife.",1c8c2c25f86d4842a45f2629cf321850,,4
+colombia,location,Madonna was coming from Colombia to the wedding.,1c8c2c25f86d4842a45f2629cf321850,,4
+lyla,jared,"siblings, Lyla reveals she is separated, Jared is an obstetrician waiting for the right one",dbcde780eb914c738cf7b92378a90208,,4
+jared,nuria,"flirts at skinnydipping, Nuria strips naked to skinnydip in family's lake",dbcde780eb914c738cf7b92378a90208,,4
+ellie,don,"pretending to be married for the next three days at Alejandro's request, Ellie and Don end up having sex",dbcde780eb914c738cf7b92378a90208,,4
+nuria,jared,"fondling under the table, Nuria asks Jared for romantic things instead of sex",dbcde780eb914c738cf7b92378a90208,,4
+ellie,nuria,talks about American women being more reserved and preferring romance before sex,dbcde780eb914c738cf7b92378a90208,,4
+don,ellie,"pretending to be married for the next three days at Alejandro's request, Don and Ellie sleep in same room",dbcde780eb914c738cf7b92378a90208,,4
+ellie,madonna,"Both Ellie and Madonna go for a walk in the woods and talk, but neither understands the other's language. It is unclear whether they are communicating on some level.",6ef2ade3feec410e895a2c2ab5297ef3,,4
+don,bebe,"Before the ceremony on the wedding day, Don tells Bebe that he had sex with Ellie. Bebe punches him in the face and reveals that she forgives them but still holds a grudge.",6ef2ade3feec410e895a2c2ab5297ef3,,4
+ellie,missy's father,Bebe reveals that Ellie cheated on Don with Missy's father before Don cheated on her.,6ef2ade3feec410e895a2c2ab5297ef3,,4
+muffin,ellie,"Muffin reveals that she knows about Ellie and Barry, and implies that she is interested in a sexual affair with both Bebe and Ellie.",6ef2ade3feec410e895a2c2ab5297ef3,Bebe,4
+jared,nuria,"On the wedding day, Jared goes upstairs to talk with Nuria. They sleep together after Nuria tells Jared that she has decided to no longer follow Ellie's advice about being not so sexually available.",6ef2ade3feec410e895a2c2ab5297ef3,,4
+missy,alejandro,Missy and Alejandro decide to get married on the family dock to escape the chaos.,6ef2ade3feec410e895a2c2ab5297ef3,,4
+the wedding,mon frère se marie,"Both titles are remakes of each other, 'The Wedding' being the American adaptation of 'Mon frère se marie'",525aee8101be4ec0a2a230bdd1e97a75,,4
+lyla,jane,Lyla has had a daughter named Jane,525aee8101be4ec0a2a230bdd1e97a75,,4
+don,jane,Don attaches a plaque with Jane's name to their family tree,525aee8101be4ec0a2a230bdd1e97a75,,4
+ellie,bebe,Ellie and Bebe have made up at the reception,525aee8101be4ec0a2a230bdd1e97a75,,4
+don,bebe,Don surprises Bebe by proposing to her at the reception,525aee8101be4ec0a2a230bdd1e97a75,,4
+lyla,andrew,Lyla's estranged husband arrives at the wedding,525aee8101be4ec0a2a230bdd1e97a75,,4
+lyla,jane,Lyla is pregnant with Jane,525aee8101be4ec0a2a230bdd1e97a75,,4
+st. agnes church,the wedding,"Principal photography for 'The Wedding' took place at St. Agnes Church in Greenwich, Connecticut",525aee8101be4ec0a2a230bdd1e97a75,,4
+christ church,the wedding,"Principal photography for 'The Wedding' took place at Christ Church in Greenwich, Connecticut",525aee8101be4ec0a2a230bdd1e97a75,,4
+gabriele's italian steakhouse,the wedding,"Principal photography for 'The Wedding' took place at Gabriele's Italian Steakhouse in Greenwich, Connecticut",525aee8101be4ec0a2a230bdd1e97a75,,4
+buddy valastro,cake boss,"Director Justin Zackham and producer Clay Pecorin ordered the wedding cake for 'The Wedding' from Buddy Valastro at Carlo's Bakery in Hoboken, New Jersey",525aee8101be4ec0a2a230bdd1e97a75,,4
+ana ayora,nuria,"Ana Ayora portrayed Nuria in the film, and she didn't hesitate to jump naked into a lake in one scene, following Nuria's character",525aee8101be4ec0a2a230bdd1e97a75,,4

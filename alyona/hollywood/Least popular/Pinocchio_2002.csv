@@ -1,0 +1,74 @@
+node_1,node_2,edge,chunk_id,count
+pinocchio,collodi,The film 'Pinocchio' is based on the novel 'The Adventures of Pinocchio' by Carlo Collodi.,8101af87cb02417da2b646e161c0b192,4
+pinocchio,benigni,Roberto Benigni portrays Pinocchio in the 2002 Italian fantasy comedy-drama film 'Pinocchio'.,8101af87cb02417da2b646e161c0b192,4
+collodi,the adventures of pinocchio',"Carlo Collodi is the author of 'The Adventures of Pinocchio', a novel that serves as the basis for the film 'Pinocchio'.",8101af87cb02417da2b646e161c0b192,4
+filming,italy,The film 'Pinocchio' was filmed in Italy.,8101af87cb02417da2b646e161c0b192,4
+filming,malta,"The film 'Pinocchio' also underwent filming in Kalkara, Malta.",8101af87cb02417da2b646e161c0b192,4
+donati,film,The production and costume designer Danilo Donati worked on the film 'Pinocchio' before his death.,8101af87cb02417da2b646e161c0b192,4
+medusa distribuzione,release,"Medusa Distribuzione released the Italian version of the film 'Pinocchio' on October 11, 2002.",8101af87cb02417da2b646e161c0b192,4
+miramax films,english-language dub,The English-language dub of the film 'Pinocchio' was released by Miramax Films in December 2002.,8101af87cb02417da2b646e161c0b192,4
+carabinieri,carpenter,"In the film 'Pinocchio', the carpenter is mistakenly blamed by the Carabinieri and taken to prison.",8101af87cb02417da2b646e161c0b192,4
+pinocchio,talking cricket,"Back home, a talking cricket scolds Pinocchio for his behavior; this annoys Pinocchio, so he tries to hit him with a hammer.",e09462d9743f496993efb6535995d103,4
+pinocchio,hammer,"In the same context, Pinocchio tries to hit the talking cricket with a hammer.",e09462d9743f496993efb6535995d103,4
+pinocchio,school,"Tired and hungry, Pinocchio promises to his father that he will go to school and study.",e09462d9743f496993efb6535995d103,4
+geppetto,coat,"To buy schoolbooks for Pinocchio, Geppetto returns home from prison and sold his only coat.",e09462d9743f496993efb6535995d103,4
+pinocchio,puppet theater,"Joining a puppet theater, Pinocchio goes on several adventures, dreading school.",e09462d9743f496993efb6535995d103,4
+pinocchio,mangiafuoco,"In the context of the puppet theater, Pinocchio is almost eaten by the giant puppet master Mangiafuoco.",e09462d9743f496993efb6535995d103,4
+pinocchio,five gold coins,"After being given five gold coins, Pinocchio goes on an adventure with The Fox and the Cat.",e09462d9743f496993efb6535995d103,4
+pinocchio,miracle meadow,The Fox and the Cat trick Pinocchio out of his money to plant it in the Miracle Meadow near the town of 'Grab-A-Dimwit'.,e09462d9743f496993efb6535995d103,4
+pinocchio,blue fairy,The Blue Fairy encourages Pinocchio to give up his obnoxious ways and saves him from being hanged.,e09462d9743f496993efb6535995d103,4
+pinocchio,owl,"In the context of being examined by The Owl, Pinocchio experiences the side effect of his lying.",e09462d9743f496993efb6535995d103,4
+talking cricket,pinocchio,The Talking Cricket appears again in the context and scolds Pinocchio for his obnoxious ways.,e09462d9743f496993efb6535995d103,4
+pinocchio,coffin-bearing rabbits,"In the same context, coffin-bearing rabbits appear, and Pinocchio immediately takes the medicine given by the Blue Fairy.",e09462d9743f496993efb6535995d103,4
+fox,cat,steal the gold coins Pinocchio buried,62076436086a498eb0edab492b7f1a3f,4
+pinocchio,fox and cat,The Fox and Cat steal the gold coins Pinocchio buried,62076436086a498eb0edab492b7f1a3f,4
+talking cricket,pinocchio,informs Pinocchio about The Fox and Cat's theft,62076436086a498eb0edab492b7f1a3f,4
+pinocchio,judges,"tells the judges about The Fox and Cat's theft, but was sentenced to five years in jail for foolishness",62076436086a498eb0edab492b7f1a3f,4
+lucignolo,candy shop,stole 29 lollipops from a candy shop,62076436086a498eb0edab492b7f1a3f,4
+judges,lollipops,were shown eating the lollipops stolen by Lucignolo,62076436086a498eb0edab492b7f1a3f,4
+pinocchio,grave of blue fairy,"stumbles across the grave of the Blue Fairy, who supposedly died of grief because of his antics",62076436086a498eb0edab492b7f1a3f,4
+dove,pinocchio's father,tells Pinocchio that his father was heading out to sea to look for him,62076436086a498eb0edab492b7f1a3f,4
+pinocchio,waves,"nearly drowns trying to save his father, then washes up by a city where he meets the Blue Fairy again",62076436086a498eb0edab492b7f1a3f,4
+kid,pinocchio,"throws a book at him; he ducks and the book hits Eugenio, who loses consciousness. Pinocchio is blamed for the crime.",62076436086a498eb0edab492b7f1a3f,4
+grapple farmer,pinocchio,Pinocchio is freed by Lucignolo and returns to the Blue Fairy's home.,62076436086a498eb0edab492b7f1a3f,4
+lucignolo,fun forever land,convinces Pinocchio to join him on a trip to 'Fun Forever Land',62076436086a498eb0edab492b7f1a3f,4
+cricket,pinocchio and lucignolo,try to warn them all they will turn into donkeys if they do not leave and continue being bad.,62076436086a498eb0edab492b7f1a3f,4
+pinocchio,donkey,soon becomes a donkey,62076436086a498eb0edab492b7f1a3f,4
+pinocchio,shark,Pinocchio is swallowed by a giant shark and both of them escape together.,2ae679073d954e76aa9956ce674e9afe,4
+geppetto,shark,Geppetto is also swallowed by the same giant shark along with Pinocchio.,2ae679073d954e76aa9956ce674e9afe,4
+pinocchio,farmer,Pinocchio helps a farmer to help his father recover.,2ae679073d954e76aa9956ce674e9afe,4
+donkey,pinocchio,Pinocchio recognizes a sick donkey named Lucignolo inside the farmer's paddock.,2ae679073d954e76aa9956ce674e9afe,4
+lucignolo,death,Lucignolo tragically dies from working too hard inside the farmer's paddock.,2ae679073d954e76aa9956ce674e9afe,4
+pinocchio,blue fairy,The Blue Fairy transforms Pinocchio into a real boy for his moral prudence.,2ae679073d954e76aa9956ce674e9afe,4
+real boy,pinocchio,Pinocchio becomes a real boy after being transformed by the Blue Fairy.,2ae679073d954e76aa9956ce674e9afe,4
+old puppet body,pinocchio,Pinocchio sees his old puppet body in the corner of the house after becoming a real boy.,2ae679073d954e76aa9956ce674e9afe,4
+happy meals,film's release,McDonald's sold Happy Meals containing toys that each resembled a character of the film to promote its release.,0c39bbbb9dc14ee8a1a8326c634fb702,4
+christmas day,miramax released the film,"In the United States and Canada, Miramax released the film on Christmas Day.",0c39bbbb9dc14ee8a1a8326c634fb702,4
+advance screening,miramax released the film,"Miramax said that they needed to do post-production looping to insert the English dub for its English-speaking release because they knew the film would not be well-received, and sought to have it released before critics gave their opinions on the film.",0c39bbbb9dc14ee8a1a8326c634fb702,4
+english version,miramax released the film,"The English version includes some differences, such as changed dialogue, various shortened scenes, and added narration by David Suchet.",0c39bbbb9dc14ee8a1a8326c634fb702,4
+italy,pinocchio grossed over $7 million within the first three days of its release,"In Italy and Europe, Pinocchio grossed over $7 million within the first three days of its release.",0c39bbbb9dc14ee8a1a8326c634fb702,4
+united states,pinocchio grossed $3.67 million,The film grossed $3.67 million in the United States.,0c39bbbb9dc14ee8a1a8326c634fb702,4
+other territories,pinocchio grossed $37.7 million,Pinocchio grossed $37.7 million in other territories.,0c39bbbb9dc14ee8a1a8326c634fb702,4
+pinocchio,excellent levels,"special effects in Pinocchio received high praise for their quality, as noted by Roberto Nepoti of La Repubblica.",08dead8badda4811a5e145c16f4df913,4
+pinocchio,good actors,"according to Roberto Nepoti of La Repubblica, the film's cast was composed of talented performers.",08dead8badda4811a5e145c16f4df913,4
+pinocchio,linear translation,"in his review for La Repubblica, Roberto Nepoti described the film's interpretation of Carlo Collodi's classic fairy tale as linear.",08dead8badda4811a5e145c16f4df913,4
+pinocchio,visionary fantasy,"according to Roberto Nepoti of La Repubblica, what was lacking from Pinocchio was a sense of visionary fantasy.",08dead8badda4811a5e145c16f4df913,4
+pinocchio,poetry,"Roberto Nepoti also noted that while Benigni excelled as an actor and author, he had not yet acquired a director's sense of excess and poetry in Pinocchio.",08dead8badda4811a5e145c16f4df913,4
+pinocchio,federico fellini,David Rooney of Variety mentioned that the spirit of Federico Fellini surfaced repeatedly in Roberto Benigni's take on Pinocchio.,08dead8badda4811a5e145c16f4df913,4
+pinocchio,mixed reviews,"As reported by Variety's David Rooney, Pinocchio received mixed reviews.",08dead8badda4811a5e145c16f4df913,4
+david rooney,variety,"In his review for Variety, David Rooney discussed Pinocchio and its reception.",08dead8badda4811a5e145c16f4df913,4
+roberto nepoti,la repubblica,Roberto Nepoti wrote about Pinocchio in his review for La Repubblica.,08dead8badda4811a5e145c16f4df913,4
+english-dubbed recut version,miramax,The English-dubbed recut version by Miramax received critical panning in the United States.,e0a81fc46b6f4893afdc8363cb801c8c,4
+miramax,critical panning,The English-dubbed recut version by Miramax was met with critical panning in the United States.,e0a81fc46b6f4893afdc8363cb801c8c,4
+rotten tomatoes,55 critics' reviews,"On the review aggregator website Rotten Tomatoes, 0% of 55 critics' reviews are positive, with an average rating of 2.7/10.",e0a81fc46b6f4893afdc8363cb801c8c,4
+rotten tomatoes,average rating,"On the review aggregator website Rotten Tomatoes, 0% of 55 critics' reviews are positive, with an average rating of 2.7/10.",e0a81fc46b6f4893afdc8363cb801c8c,4
+metacritic,score,"Metacritic, which uses a weighted average, assigned the film a score of 11 out of 100, based on 15 critics, indicating 'overwhelming dislike'.",e0a81fc46b6f4893afdc8363cb801c8c,4
+chicago reader,jonathan rosenbaum,"Jonathan Rosenbaum stated on Chicago Reader that 'the recut American version is truly awful, but a good 75% of the awfulness is attributable to Miramax'.",e0a81fc46b6f4893afdc8363cb801c8c,4
+the toronto star,peter howell,"Peter Howell of The Toronto Star wrote that, 'while there's no question that Benigni has the stamina and comic timing to play a mischievous child, even his considerable charisma cannot conceal the fact that he's a 50-year-old man in a red-and-white Harlequin suit, running around frantically pretending to be a boy'.",e0a81fc46b6f4893afdc8363cb801c8c,4
+benigni's performance as pinocchio,appropriateness of breckin meyer being chosen as benigni's voice,Many critics found Breckin Meyer's Valley Boy voice for Benigni's performance in the English dub to be inappropriate and too young.,336fa1abb4fe474ebfb8f4fcfadb9bac,4
+benigni's role as pinocchio,believability,David Mitchell called Benigni's role as Pinocchio 'as believable as Diana Ross playing Dorothy in The Wiz',336fa1abb4fe474ebfb8f4fcfadb9bac,4
+italian voices in the film,european flavor,Miramax's decision to overdub all Italian voices with British and American actors in the English dub 'robbed Pinocchio of much of its European flavor',336fa1abb4fe474ebfb8f4fcfadb9bac,4
+benigni's own fractured english,injecting levity into the film,Howell remarked that allowing Benigni's own fractured English to be heard instead of overdubbing him with Breckin Meyer 'could have injected some badly needed levity',336fa1abb4fe474ebfb8f4fcfadb9bac,4
+english dub,oddity and avoidance by millions of people,David Noh called the English dub 'an oddity that will be avoided by millions of people',336fa1abb4fe474ebfb8f4fcfadb9bac,4
+italian voices in the film,european flavor (3 theatres),Particularly puzzling is the decision to overdub Benigni with Breckin Meyer's voice instead of allowing Benigni's own fractured English 'while three theatres in the GTA were showing the original Italian version with subtitles',336fa1abb4fe474ebfb8f4fcfadb9bac,4
+english voices,john cleese and eric idle,"The English voices in the film included Monty Python's John Cleese and Eric Idle, adding to suspicions that these two will take any gig that comes with a paycheque.",336fa1abb4fe474ebfb8f4fcfadb9bac,4

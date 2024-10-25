@@ -1,0 +1,92 @@
+node_1,node_2,edge,chunk_id,node_3,node_4,count
+roma,1970,Set in 1970 and 1971,e300a4f127744dd8937cbb2749ec8927,,,4
+roma,mexico city's colonia roma neighborhood,Cuarón's semi-autobiographical take on his upbringing,e300a4f127744dd8937cbb2749ec8927,,,4
+roma,drama film,Written and directed by Alfonso Cuarón,e300a4f127744dd8937cbb2749ec8927,,,4
+roma,alfonso cuarón,"Who also produced, shot, and co-edited it",e300a4f127744dd8937cbb2749ec8927,,,4
+drama film,yalitza aparicio,Stars Yalitza Aparicio,e300a4f127744dd8937cbb2749ec8927,,,4
+marina de tavira,drama film,Stars Marina de Tavira,e300a4f127744dd8937cbb2749ec8927,,,4
+mexico,the united states,International co-production between Mexico and the United States,e300a4f127744dd8937cbb2749ec8927,,,4
+roma,best foreign language film,"Roma received a number of accolades, including winning Best Foreign Language Film at the 91st Academy Awards.",b7c5b38577d14337ba63d69329b7047a,,,4
+alfonso cuarón,best director,"Roma won Best Director for Alfonso Cuarón, making him the first foreign-language film director to win this category.",b7c5b38577d14337ba63d69329b7047a,,,4
+cleodegaria 'cleo' gutiérrez,mexico city's colonia roma neighborhood,Cleodegaria 'Cleo' Gutiérrez is a Mixtec live-in maid in an upper-middle-class household located in Mexico City's Colonia Roma neighborhood.,b7c5b38577d14337ba63d69329b7047a,,,4
+sofía,antonio,The household consists of Sofía and her husband Antonio.,b7c5b38577d14337ba63d69329b7047a,,,4
+teresa,sofía's mother,"Sofía's mother, Teresa, is also part of the household.",b7c5b38577d14337ba63d69329b7047a,,,4
+pepe,sofi,"The household also includes Sofía and Antonio's four school-aged children: Pepe, Sofi, Toño, and Paco.",b7c5b38577d14337ba63d69329b7047a,Toño,Paco,4
+antonio,business conferences,Antonio often leaves for business conferences.,b7c5b38577d14337ba63d69329b7047a,,,4
+sofía,antonio's extramarital affair,Sofía's distressed reactions to his absences suggest Antonio is having an extramarital affair.,b7c5b38577d14337ba63d69329b7047a,,,4
+cleo,fermín,Fermín initially pretends to be supportive of Cleo's pregnancy but later denies the baby is his and threatens her.,93182788cc394bbaaf7e97bb3758c939,,,4
+cleo,sofía,Sofía provides emotional comfort for Cleo when she reveals her pregnancy.,93182788cc394bbaaf7e97bb3758c939,,,4
+cleo,professor zovek,"Cleo travels to an impoverished district on the edge of the city to find Fermín, who is training at a military-style camp run by Professor Zovek.",93182788cc394bbaaf7e97bb3758c939,,,4
+antonio,young woman,Antonio flirts with a young woman on the street in the context.,93182788cc394bbaaf7e97bb3758c939,,,4
+corpus christi massacre,los halcones (the hawks),"Militant group, Los Halcones (The Hawks), attacks student protest outside store, resulting in murder of a student who chases into the store. Cleo and Teresa witness this violence as they are shopping downtown.",d511d5c825e140c49360733bb261e7c3,,,4
+cleo,stillborn baby girl,"Cleo's water breaks, resulting in the stillbirth of her baby girl due to complications during childbirth.",d511d5c825e140c49360733bb261e7c3,,,4
+sofía,family separation,"Sofía tells her children that she and their father are separating, as they go on a family holiday to the beaches at Tuxpan.",d511d5c825e140c49360733bb261e7c3,,,4
+beach,strong current,"A strong current almost drowns Sofi and Paco while the group is at the beach in Tuxpan, but Cleo saves them despite not knowing how to swim.",d511d5c825e140c49360733bb261e7c3,,,4
+cleo,antonio,Antonio briefly appears and reassures Cleo before leaving during her delivery of stillborn baby girl.,d511d5c825e140c49360733bb261e7c3,,,4
+house,reorganization,"The house is reorganized after Sofía and the children return home from their family holiday to the beaches at Tuxpan, and Cleo prepares a load of clothes for washing.",d511d5c825e140c49360733bb261e7c3,,,4
+mexico city,location,"The context mentions that the project focuses on a Mexican family living in Mexico City during the 1970s. Therefore, we can infer that Mexico City and Location are related as Mexico City is where the events of the story take place.",75d4d9bbef06461cb3834e9c9199d18d,,,4
+mexico city,mexico,"Mexico City is a part of Mexico, hence, they have a location-country relation.",75d4d9bbef06461cb3834e9c9199d18d,,,4
+1970s,time period,"The context mentions that the story takes place in the 1970s. Thus, '1970s' and 'Time Period' are related.",75d4d9bbef06461cb3834e9c9199d18d,,,4
+alfonso cuarón,director,"The context mentions that Alfonso Cuarón will write and direct the project. Therefore, we can infer that 'Alfonso Cuarón' and 'Director' are related.",75d4d9bbef06461cb3834e9c9199d18d,,,4
+esperanto filmoj,production company,"The context mentions that Esperanto Filmoj will produce the project. Hence, we can infer that 'Esperanto Filmoj' and 'Production Company' are related.",75d4d9bbef06461cb3834e9c9199d18d,,,4
+participant media,co-producer,"The context mentions that Participant Media will co-produce the project. Therefore, we can infer that 'Participant Media' and 'Co-Producer' are related.",75d4d9bbef06461cb3834e9c9199d18d,,,4
+gabriela rodríguez,producer,"The context mentions that Gabriela Rodríguez will produce the project. Thus, we can infer that 'Gabriela Rodríguez' and 'Producer' are related.",75d4d9bbef06461cb3834e9c9199d18d,,,4
+nicolás celis,producer,"The context mentions that Nicolás Celis will produce the project. Hence, we can infer that 'Nicolás Celis' and 'Producer' are related.",75d4d9bbef06461cb3834e9c9199d18d,,,4
+fall 2016,filming begin date,"The context mentions that production was set to begin in fall 2016. Therefore, 'Fall 2016' and 'Filming Begin Date' are related.",75d4d9bbef06461cb3834e9c9199d18d,,,4
+yalitza aparicio,actress,"The context mentions that Yalitza Aparicio has been cast for the project. Thus, we can infer that 'Yalitza Aparicio' and 'Actress' are related.",75d4d9bbef06461cb3834e9c9199d18d,,,4
+preschool education,past profession,"The context mentions that Yalitza Aparicio recently completed graduate training in preschool education. Hence, we can infer that 'Preschool Education' and 'Past Profession' are related.",75d4d9bbef06461cb3834e9c9199d18d,,,4
+cleo,character,"The context mentions Yalitza Aparicio playing the role of Cleo. Hence, we can infer that 'Yalitza Aparicio' and 'Character' are related, and 'Cleo' and 'Character' are also related.",75d4d9bbef06461cb3834e9c9199d18d,,,4
+beach,location in the story,"The context mentions that Yalitza Aparicio, who plays Cleo, was most terrified by the scene on the beach. Therefore, we can infer that 'Beach' and 'Location in the Story' are related.",75d4d9bbef06461cb3834e9c9199d18d,,,4
+teatro metropólitan,movie theatre,"The context mentions that the movie theatre serving as a recurring location was the Teatro Metropólitan. Thus, we can infer that 'Teatro Metropólitan' and 'Movie Theatre' are related.",75d4d9bbef06461cb3834e9c9199d18d,,,4
+y tu mamá también,alfonso cuarón's previous movie,"The context mentions that the Teatro Metropólitan is where Alfonso Cuarón's Y tu mamá entonces premiered in 2001. Therefore, we can infer that 'Y tu mamá entonces' and 'Alfonso Cuarón's Previous Movie' are related.",75d4d9bbef06461cb3834e9c9199d18d,,,4
+roma,"november 1, 2016","On November 1, 2016, the crew of Roma was targeted by a robbery.",02411597a58c43bdbd2ea72a1c25bbac,,,4
+two women,roma,"According to the studio, two women were hit during the robbery at Roma.",02411597a58c43bdbd2ea72a1c25bbac,,,4
+five crew members,roma,Five crew members of Roma were hospitalized due to the robbery.,02411597a58c43bdbd2ea72a1c25bbac,,,4
+"cellphones, wallets, and jewelry",roma,These items were stolen during the robbery at Roma.,02411597a58c43bdbd2ea72a1c25bbac,,,4
+studio,roma,"According to the studio, a group of city workers approached the crew at Roma and tried to shut down filming.",02411597a58c43bdbd2ea72a1c25bbac,,,4
+city workers,studio,The crew reportedly arrived at Roma when a group of city workers approached them and tried to shut down filming.,02411597a58c43bdbd2ea72a1c25bbac,,,4
+crew,roma,The crew of Roma was targeted by the robbery.,02411597a58c43bdbd2ea72a1c25bbac,,,4
+netflix,in april 2018,It was announced in April 2018 that Netflix acquired the distribution rights for Roma.,02411597a58c43bdbd2ea72a1c25bbac,,,4
+scott stuber,netflix movie chief,"Scott Stuber, the Netflix movie chief, acquired the distribution rights based on 12 minutes of footage he was shown.",02411597a58c43bdbd2ea72a1c25bbac,,,4
+teaser trailer,film,A teaser trailer was released for the film.,b0f4fbd17518470eb8339310dec05ee8,,,4
+25 july 2018,release date,"The teaser trailer for the film was released on July 25, 2018.",b0f4fbd17518470eb8339310dec05ee8,,,4
+venice international film festival,world premiere venue,"The film had its world premiere at the Venice International Film Festival on August 30, 2018.",b0f4fbd17518470eb8339310dec05ee8,,,4
+telluride film festival,north american debut venue,"The next day after its world premiere at the Venice International Film Festival, the film made its North American debut at the Telluride Film Festival.",b0f4fbd17518470eb8339310dec05ee8,,,4
+toronto international film festival,screening venue,The film also played at the Toronto International Film Festival.,b0f4fbd17518470eb8339310dec05ee8,,,4
+san sebastián international film festival,screening venue,"The film screened at the San Sebastián International Film Festival on September 27, 2018.",b0f4fbd17518470eb8339310dec05ee8,,,4
+new york film festival,screening venue,"It screened at the New York Film Festival on October 5, 2018.",b0f4fbd17518470eb8339310dec05ee8,,,4
+mexico,release location,"The film was released at independent theatres in Mexico on November 21, 2018.",b0f4fbd17518470eb8339310dec05ee8,,,4
+cinépolis and cinemex chains,refused to screen roma due to netflix's policies,"However, the Cinépolis and Cinemex chains refused to screen Roma in their theaters because of Netflix's policy that requires a longer exclusivity window than what they offer.",b0f4fbd17518470eb8339310dec05ee8,,,4
+digital release date,release date,"The film was released digitally on December 14, 2018.",b0f4fbd17518470eb8339310dec05ee8,,,4
+amc theatres and regal cinemas,refused to screen roma due to netflix's policies,Both AMC Theatres and Regal Cinemas refused to screen Roma as part of their annual Best Picture showcase because they did not receive a license from Netflix to screen the film in their theaters.,b0f4fbd17518470eb8339310dec05ee8,,,4
+film,academy awards,"The film's eligibility for the Academy Awards was a matter of controversy, since despite its limited theatrical release, many believed it to have been made for home viewing.",7be98b1da0e042b79e793550193e12eb,,,4
+film,streaming films,Steven Spielberg expressed disapproval of streaming films being eligible for Academy Awards,7be98b1da0e042b79e793550193e12eb,,,4
+roma,academy awards,"Many believed that Roma, despite its limited theatrical release, should be eligible for Academy Awards due to controversy surrounding streaming films being eligible.",7be98b1da0e042b79e793550193e12eb,,,4
+netflix,film promotion,"The film received the biggest promotional campaign in Netflix's history with a $25 million advertisement budget, as stated by Netflix itself.",7be98b1da0e042b79e793550193e12eb,,,4
+consultant,promotion costs,A consultant stated that the shipping charges for sending out thousands of six-pound Roma coffee table books to awards voters cost more than some movies' advertising budgets.,7be98b1da0e042b79e793550193e12eb,,,4
+netflix,roma,"Netflix released Roma on December 14, 2018.",874fa07120af4830b5fcffc443f6b61e,,,4
+roma,box-office figures,"Sources deduced that Roma made approximately $90,000–120,000 from three theaters in its opening weekend.",874fa07120af4830b5fcffc443f6b61e,,,4
+roma,venue average,"Had the results of Roma been officially reported, its approximate venue average of $66,600 would have ranked among the best ever for a foreign-language film.",874fa07120af4830b5fcffc443f6b61e,,,4
+roma,expansion,"In its second weekend of theatrical release, Roma expanded to 17 theaters and grossed an estimated $110,000 from four of them.",874fa07120af4830b5fcffc443f6b61e,,,4
+roma,oscars,"Following the announcement of Roma's 10 Oscar nominations, it grossed another $175,000 from around 80 theaters, pushing it past $3 million.",874fa07120af4830b5fcffc443f6b61e,,,4
+roma,theater count,"Despite being released on Netflix, Roma expanded to 145 theaters and grossed an estimated $362,000 for a four-week total of $1.4 million.",874fa07120af4830b5fcffc443f6b61e,,,4
+netflix,roma,"Sources deduced that Roma made approximately $200,000 over the five-day Thanksgiving frame.",874fa07120af4830b5fcffc443f6b61e,,,4
+roma,alfonso cuarón,"Roma is the most powerfully personal story of Alfonso Cuarón's career, as mentioned in the critical consensus on Rotten Tomatoes.",664be63fc14341f4bdaea7ebcbc8845d,,,4
+roma,96% approval rating,"On review aggregator Rotten Tomatoes, Roma holds an approval rating of 96% based on 409 reviews.",664be63fc14341f4bdaea7ebcbc8845d,,,4
+roma,8.9/10 average rating,"The critical consensus on Rotten Tomatoes for Roma reads, 'Roma finds writer-director Alfonso Cuarón in complete, enthralling command of his visual craft--and telling the most powerfully personal story of his career.'",664be63fc14341f4bdaea7ebcbc8845d,,,4
+peter bradshaw,roma,"In The Guardian, Peter Bradshaw wrote: 'Roma is thrilling, engrossing, moving--and just entirely amazing, an adjectival pileup of wonder. He has reached back into his own childhood to create an intensely personal story.'",664be63fc14341f4bdaea7ebcbc8845d,,,4
+manohla dargis,roma,"Manohla Dargis of The New York Times called the film 'an expansive, emotional portrait of life buffeted by violent forces, and a masterpiece' and praised Cuarón's use of 'intimacy and monumentality to express the depths of ordinary life'.",664be63fc14341f4bdaea7ebcbc8845d,,,4
+slavoj žižek,cleo,"Slavoj Žižek argued that people were appreciating Cleo for the wrong reasons, claiming that people were appreciating her grace without seeing how she must break free from the moral constraints placed upon her.",664be63fc14341f4bdaea7ebcbc8845d,,,4
+roma,golden lion for best film at venice international film festival,"Roma won the prestigious Golden Lion award at the Venice International Film Festival, adding to its growing list of accolades.",2483a8e5214848e4b85a511b1fb6a37d,,,4
+roma,best picture nomination,"Roma received a highly coveted Best Picture nomination at the Academy Awards, making it the first film distributed primarily by a streaming service to earn this recognition.",2483a8e5214848e4b85a511b1fb6a37d,,,4
+"crouching tiger, hidden dragon",most oscar nominations for a non-english language film,"With 10 nominations at the 91st Academy Awards, Roma tied with Crouching Tiger, Hidden Dragon (2000) for the most Oscar nominations received by a film not in English.",2483a8e5214848e4b85a511b1fb6a37d,,,4
+roma,best foreign language film,"In a historic win, Roma took home the coveted Best Foreign Language Film award at the Academy Awards, making it the first Mexican film to receive this honor.",2483a8e5214848e4b85a511b1fb6a37d,,,4
+cleo (indigenous character),detailed representation,"Roma's portrayal of Cleo, a main Indigenous character, is notable for its level of detail that goes beyond typical stereotypical depictions.",2483a8e5214848e4b85a511b1fb6a37d,,,4
+cleo (indigenous character),syntonic indigeneity,"According to Gonzalez Rodriguez, Cleo's portrayal in Roma is an example of syntonic indigeneity, which challenges traditional representations of Indigenous characters as exotic figures (histrionic indigeneity).",2483a8e5214848e4b85a511b1fb6a37d,,,4
+roma,afi special award,"In 2018, Roma received the AFI Special Award from the American Film Institute, as it was not eligible for their Movies of the Year due to its foreign-language status.",89f35272712446638418d2f7007a84a2,,,4
+roma,best film of 2018,"In 2018, Roma was named the best film of the year by both Time magazine and the New York Film Critics Circle.",89f35272712446638418d2f7007a84a2,,,4
+roma,one of the ten best films of 2018,"In late 2018, the National Board of Review named Roma one of the ten best films of the year.",89f35272712446638418d2f7007a84a2,,,4
+roma,dvd and blu-ray release,"In November 2019, it was confirmed that Roma would be released on DVD and Blu-ray by The Criterion Collection.",89f35272712446638418d2f7007a84a2,,,4
+netflix,roma,Roma is a Netflix original film.,89f35272712446638418d2f7007a84a2,,,4
+the criterion collection,roma,"In November 2019, it was confirmed that Roma would be added to the library of The Criterion Collection.",89f35272712446638418d2f7007a84a2,,,4
+road to roma,netflix,"In February 2020, Netflix released a behind-the-scenes documentary called Road to Roma.",89f35272712446638418d2f7007a84a2,,,4

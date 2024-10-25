@@ -1,0 +1,279 @@
+node_1,node_2,edge,chunk_id,edge_type,node_3,count
+indiana jones,james mangold,James Mangold directed Indiana Jones and the Dial of Destiny.,564248bb55914038a0652d30a9bba834,,,4
+indiana jones,harrison ford,Harrison Ford portrayed the character of Indiana Jones in the film.,564248bb55914038a0652d30a9bba834,,,4
+indiana jones,indiana jones and the kingdom of the crystal skull,Indiana Jones and the Dial of Destiny is a sequel to Indiana Jones and the Kingdom of the Crystal Skull.,564248bb55914038a0652d30a9bba834,,,4
+indiana jones,steven spielberg,"Steven Spielberg directed Indiana Jones and the Kingdom of the Crystal Skull, which precedes Indiana Jones and the Dial of Destiny in the film series.",564248bb55914038a0652d30a9bba834,,,4
+indiana jones,george lucas,George Lucas created the character of Indiana Jones.,564248bb55914038a0652d30a9bba834,,,4
+helena,harrison ford,"In Indiana Jones and the Dial of Destiny, Harrison Ford's character, Indiana Jones, is reunited with his estranged goddaughter, Helena.",564248bb55914038a0652d30a9bba834,,,4
+helena,phoebe waller-bridge,Phoebe Waller-Bridge portrayed the character of Helena in Indiana Jones and the Dial of Destiny.,564248bb55914038a0652d30a9bba834,,,4
+marion ravenwood,karen allen,"In Indiana Jones and the Dial of Destiny, Karen Allen reprised her role as Marion Ravenwood from previous films in the series.",564248bb55914038a0652d30a9bba834,,,4
+marion ravenwood,indiana jones,"Marion Ravenwood is a character previously portrayed by Karen Allen and associated with Harrison Ford's character, Indiana Jones, in the Indiana Jones film series.",564248bb55914038a0652d30a9bba834,,,4
+helena,indiana jones,"In Indiana Jones and the Dial of Destiny, Helena seeks the help of her estranged grandfather, Indiana Jones.",564248bb55914038a0652d30a9bba834,,,4
+dr. jürgen voller,mads mikkelsen,Mads Mikkelsen portrayed the character of Dr. Jürgen Voller in Indiana Jones and the Dial of Destiny.,564248bb55914038a0652d30a9bba834,,,4
+dr. jürgen voller,nazi scientist,Dr. Jürgen Voller is a Nazi-turned-NASA scientist in Indiana Jones and the Dial of Destiny.,564248bb55914038a0652d30a9bba834,,,4
+world war ii,dr. jürgen voller,Dr. Jürgen Voller plans to use a powerful artifact in Indiana Jones and the Dial of Destiny to alter the outcome of World War II.,564248bb55914038a0652d30a9bba834,,,4
+1969,indiana jones and the dial of destiny,Indiana Jones and the Dial of Destiny is set in 1969.,564248bb55914038a0652d30a9bba834,,,4
+steven spielberg,executive producer,"Steven Spielberg served as an executive producer on Indiana Jones and the Dial of Destiny, which was directed by James Mangold.",564248bb55914038a0652d30a9bba834,,,4
+george lucas,executive producer,"George Lucas also served as an executive producer on Indiana Jones and the Dial of Destiny, which is a part of the Indiana Jones film series that he created.",564248bb55914038a0652d30a9bba834,,,4
+paramount pictures,distribution rights,"Paramount Pictures retained the distribution rights to the first four Indiana Jones films in the series, but Walt Disney Studios acquired the film rights for future sequels.",564248bb55914038a0652d30a9bba834,,,4
+indiana jones,fifth indiana jones film,Plans for a fifth Indiana Jones film date back to the late 1970s with a deal made with Paramount to produce four sequels to Raiders of the Lost Ark in 1981.,94efe0471fd24ffd88a803a874170641,,,4
+indiana jones,steven spielberg,Spielberg was originally set to direct the fifth Indiana Jones film but stepped down in 2020 and James Mangold took his place.,94efe0471fd24ffd88a803a874170641,,,4
+steven spielberg,michael koepp,"Koepp was hired to write the fifth Indiana Jones film in 2016, before Jonathan Kasdan replaced him in 2018.",94efe0471fd24ffd88a803a874170641,,,4
+indiana jones,john williams,Longtime franchise composer John Williams returned to compose and conduct the film's score for Indiana Jones and the Dial of Destiny.,94efe0471fd24ffd88a803a874170641,,,4
+michael koepp,jonathan kasdan,Kasdan replaced Koepp in writing the fifth Indiana Jones film in 2018 but eventually left the project.,94efe0471fd24ffd88a803a874170641,,,4
+fifth indiana jones film,release date,"A release date for the fifth Indiana Jones film was set for 2019, which was delayed several times due to rewrites and the COVID-19 pandemic.",94efe0471fd24ffd88a803a874170641,,,4
+indiana jones,lucasfilm,"Plans for a fifth Indiana Jones film date back to the late 1970s with a deal made with Paramount to produce four sequels to Raiders of the Lost Ark in 1981, which was later taken over by Lucasfilm.",94efe0471fd24ffd88a803a874170641,,,4
+indiana jones,harrison ford,The fifth Indiana Jones film features Harrison Ford reprising his role as the titular character.,94efe0471fd24ffd88a803a874170641,,,4
+nazis,indiana jones,"In 1944, Nazis capture Indiana Jones",db33b53026074d72bd2cb47b473940a2,,,4
+indiana jones,oxford archaeologist basil shaw,"In 1944, Indiana Jones and Oxford archaeologist Basil Shaw attempt to retrieve the Lance of Longinus from a castle in the French Alps",db33b53026074d72bd2cb47b473940a2,,,4
+lance of longinus,indiana jones,"In 1944, Indiana Jones attempts to retrieve the Lance of Longinus from a castle in the French Alps",db33b53026074d72bd2cb47b473940a2,,,4
+castle,indiana jones,"In 1944, Indiana Jones and Oxford archaeologist Basil Shaw attempt to retrieve the Lance of Longinus from a castle in the French Alps",db33b53026074d72bd2cb47b473940a2,,,4
+french alps,indiana jones,"In 1944, Indiana Jones and Oxford archaeologist Basil Shaw attempt to retrieve the Lance of Longinus from a castle in the French Alps",db33b53026074d72bd2cb47b473940a2,,,4
+astrophysicist jürgen voller,lance of longinus,"In 1944, Astrophysicist Jürgen Voller informs his superiors the Lance is fake",db33b53026074d72bd2cb47b473940a2,,,4
+archimedes' dial,indiana jones,"In 1969, Indiana Jones obtains a Dial piece",db33b53026074d72bd2cb47b473940a2,,,4
+marion,indiana jones,Marion has recently filed for legal separation from Indiana Jones,db33b53026074d72bd2cb47b473940a2,,,4
+helena shaw,archimedes' dial,Helena Shaw unexpectedly visits and wants to research the Dial half,db33b53026074d72bd2cb47b473940a2,,,4
+jones' goddaughter helena shaw,indiana jones,"Jones' goddaughter, archaeologist Helena Shaw, unexpectedly visits",db33b53026074d72bd2cb47b473940a2,,,4
+basil shaw,archimedes' dial,"Basil became obsessed with studying the Dial before relinquishing it to Jones to destroy, which he never did",db33b53026074d72bd2cb47b473940a2,,,4
+nasa,jürgen voller,Now working for NASA as 'Dr. Schmidt',db33b53026074d72bd2cb47b473940a2,,,4
+cia,voller's accomplices,The CIA assists Voller's accomplices,db33b53026074d72bd2cb47b473940a2,,,4
+archaeologist helena shaw,antiquities smuggler,Revealed as an antiquities smuggler,db33b53026074d72bd2cb47b473940a2,,,4
+dial piece,indiana jones,Indiana Jones obtains a Dial piece,db33b53026074d72bd2cb47b473940a2,,,4
+helena shaw,dial piece,"Helena, revealed as an antiquities smuggler, absconds with the Dial to auction it on the black market",db33b53026074d72bd2cb47b473940a2,,,4
+jones,sallah,old friend,a7379bdd4c314fb08cdd0127fd5f1ff6,,,4
+helena,dial,illegal private auction,a7379bdd4c314fb08cdd0127fd5f1ff6,,,4
+voller,helena,likely sells the Dial in Tangier,a7379bdd4c314fb08cdd0127fd5f1ff6,,,4
+jones,tangier hotel,disrupts Helena's auction,a7379bdd4c314fb08cdd0127fd5f1ff6,,,4
+helena,teddy kumar,teen sidekick,a7379bdd4c314fb08cdd0127fd5f1ff6,,,4
+voller,cia,disavows him for going rogue,a7379bdd4c314fb08cdd0127fd5f1ff6,,,4
+jones,renaldo,old friend,a7379bdd4c314fb08cdd0127fd5f1ff6,,,4
+voller,renaldo,murders him and his crew,a7379bdd4c314fb08cdd0127fd5f1ff6,,,4
+jones,basil's research,guided by,a7379bdd4c314fb08cdd0127fd5f1ff6,,,4
+aegean sea shipwreck,graphikos tablet,contains directions to the Dial's other half,a7379bdd4c314fb08cdd0127fd5f1ff6,,,4
+indiana jones,george lucas,"In 1979, George Lucas and Steven Spielberg made a deal with Paramount Pictures for five Indiana Jones films.",8b86031d1b224a6cbc72c9c7be62b238,,,4
+steven spielberg,paramount pictures,"In 1979, George Lucas and they made a deal for five Indiana Jones films.",8b86031d1b224a6cbc72c9c7be62b238,,,4
+indiana jones,harrison ford,"Back in the present, a recovering Jones awakens in his apartment and reunites with Helena, Teddy, Sallah and Marion.",8b86031d1b224a6cbc72c9c7be62b238,,,4
+marion,indiana jones,"Back in the present, a recovering Jones awakens in his apartment and reunites with Helena, Teddy, Sallah and Marion. Marion and Jones reconcile.",8b86031d1b224a6cbc72c9c7be62b238,,,4
+henry jones sr.,sean connery,Photographs of Sean Connery and Shia LaBeouf are used to represent their respective Last Crusade and Kingdom of the Crystal Skull characters: Henry Jones Sr. And Mutt Williams (Henry Jones III).,8b86031d1b224a6cbc72c9c7be62b238,,,4
+mutt williams,shia labeouf,Photographs of Sean Connery and Shia LaBeouf are used to represent their respective Last Crusade and Kingdom of the Crystal Skull characters: Henry Jones Sr. And Mutt Williams (Henry Jones III).,8b86031d1b224a6cbc72c9c7be62b238,,,4
+indiana jones,harrison ford,"In April 2008, Harrison Ford said he would return as Indiana Jones for a fifth film if it does not take another twenty years to develop, referring to the long development of Indiana Jones and the Kingdom of the Crystal Skull (2008), which was released a month later.",8b86031d1b224a6cbc72c9c7be62b238,,,4
+lucas,spielberg,"In 2008, Lucas began researching potential plot devices for another film and stated that Spielberg was open to directing it. Explaining the process for each film, Ford said in an interview that both Lucas and Spielberg come to some basic agreement, and then Spielberg goes away for a long time to work on it before sharing with Lucas and Ford.",2319708fe9c74f7994760ea1cba22af0,,,4
+ford,lucas,Ford described their collaboration as having some sort of tension because Lucas is in the future while Steven is trying to drag it back to the way it was. This was mentioned in an interview by Lucas in 2008.,2319708fe9c74f7994760ea1cba22af0,,,4
+lucas,spielberg,"In the same context, Lucas also stressed the importance of having a MacGuffin that is supernatural but still grounded in reality with an archaeological or historical background. He said, 'you can't just make something up, like a time machine.'",2319708fe9c74f7994760ea1cba22af0,,,4
+ford,lucas's concept for the fifth film,"In an interview in 2008, Ford described Lucas's concept as 'crazy but great'.",2319708fe9c74f7994760ea1cba22af0,,,4
+spielberg,the way it was,Ford also mentioned that Spielberg is trying to drag the franchise back to the way it was in an interview in 2008.,2319708fe9c74f7994760ea1cba22af0,,,4
+lucas's concept for the fifth film,the future,"In Lucas's own words, he is trying to push it to a whole different place in the context given.",2319708fe9c74f7994760ea1cba22af0,,,4
+indiana jones intellectual property,the walt disney company,"In October 2012, The Walt Disney Company acquired Lucasfilm, giving Disney ownership rights to the Indiana Jones intellectual property.",101e183ce5404527bb626653929500fd,,,4
+indiana jones intellectual property,future indiana jones films,The Walt Disney Studios purchased the distribution and marketing rights to future Indiana Jones films from Paramount,101e183ce5404527bb626653929500fd,,,4
+paramount,distribution rights to the first four indiana jones films,"With the 2012 acquisition, Lucas passed Indiana Jones 5 to new Lucasfilm president Kathleen Kennedy. Lucasfilm planned to focus on the Star Wars franchise before working on a fifth Indiana Jones film. Lucasfilm planned to focus on the Star Wars franchise before working on a fifth Indiana Jones film. In December 2013, The Walt Disney Studios purchased the distribution and marketing rights to future Indiana Jones films from Paramount, with the latter studio retaining the distribution rights to the first four films and receiving ""financial participation"" for any additional films as well as an ""in association with"" credit in the film's billing.",101e183ce5404527bb626653929500fd,,,4
+indiana jones,marion ravenwood,"In May 2015, Kennedy confirmed that Lucasfilm would eventually make another Indiana Jones film. The ending of Kingdom of the Crystal Skull was positive for both characters as their marriage remained intact. However, Ford did not view the film as a definitive ending for Jones but rather wished to make one more film that could expand his character and conclude his journey.",f2bd6ceb8d96478fb345c1658b3d49c1,,,4
+harrison ford,another indiana jones film,"Ford felt that Crystal Skull 'ended in kind of a suspended animation. There was not a real strong feeling of the conclusion or the closure that I always hoped for.' According to Kennedy, 'we all felt that if we could conclude the series with one more movie, given the fact that Harrison was so excited to try to do another one, we should do it.'",f2bd6ceb8d96478fb345c1658b3d49c1,,,4
+indiana jones 5,spielberg,"In 2019, Spielberg was still involved with Indiana Jones 5 as the director. The release date had been pushed back to 2021 due to delays in finalizing the script.",429bf0d6d88f4ad097052f26915540c3,,,4
+koepp,indiana jones 5,"In 2017, Koepp stated that they had a script they were mostly happy with for Indiana Jones 5. However, by May 2019, it was reported that Koepp had departed the project.",429bf0d6d88f4ad097052f26915540c3,,,4
+marshall,indiana jones 5,"According to Marshall in early 2018, a lot of people had pitched ideas for Indiana Jones 5.",429bf0d6d88f4ad097052f26915540c3,,,4
+kasdan,indiana jones 5,"In mid-2018, Kasdan was hired to replace Koepp as the writer for Indiana Jones 5. However, by May 2019, it was reported that Kasdan had departed the project.",429bf0d6d88f4ad097052f26915540c3,,,4
+beck,indiana jones and star wars franchises,"In early 2018, Lucasfilm met with Beck and Woods for an 'open canvas talk' including the Indiana Jones and Star Wars franchises. Beck stated that they had considered writing the next Indiana Jones installment.",429bf0d6d88f4ad097052f26915540c3,,,4
+disney,ford,"According to Koepp in September 2019, efforts to produce Indiana Jones 5 failed due to disagreement between Spielberg, Ford, and Disney regarding the script.",429bf0d6d88f4ad097052f26915540c3,,,4
+spielberg,ford,"In September 2019, Koepp announced that he had re-joined the production as writer for Indiana Jones 5, stating that they had 'a good idea this time'. However, it was reported in May 2019 that Kasdan had departed the project.",429bf0d6d88f4ad097052f26915540c3,,,4
+spielberg,ready player one (2018),"In 2017, Spielberg was busy working on Ready Player One (2018) and The Post (2017), which led to a push back of the release date for Indiana Jones 5.",429bf0d6d88f4ad097052f26915540c3,,,4
+spielberg,indiana jones 4,"The specific reason for the release date pushback for Indiana Jones 5 in September 2019 was not mentioned, but it is known that the franchise has had a previous film released in 2008.",429bf0d6d88f4ad097052f26915540c3,,,4
+disney,indiana jones,"In February 2018, it was announced that Disney had acquired Lucasfilm, which includes the Indiana Jones franchise.",429bf0d6d88f4ad097052f26915540c3,,,4
+spielberg,mangold,"Spielberg stepped down as director and Mangold was confirmed as director for the 'Indiana Jones' film series. Spielberg remained as a hands-on producer, while Mangold suggested that Spielberg and Kennedy hire him after previously working with him on other projects.",a7ed87eac99d492e8e5cae6d5397835f,,,4
+koepp,mangold,"Koepp departed the 'Indiana Jones' project again after Spielberg stepped down, allowing Mangold to have his own take on it and write it himself.",a7ed87eac99d492e8e5cae6d5397835f,,,4
+spielberg,kennedy,"Spielberg was 'kind of off and on' about directing the project, according to Kennedy.",a7ed87eac99d492e8e5cae6d5397835f,,,4
+ford,spielberg,Ford suggested that Spielberg and Kennedy hire Mangold as director after working together on other projects.,a7ed87eac99d492e8e5cae6d5397835f,,,4
+dial of destiny,raiders of the lost ark,"Mangold cited the first entry, Raiders of the Lost Ark, as his biggest inspiration while making Dial of Destiny.",5f9c76ec424b47aebfabbbd03c93ab11,,,4
+mangold,dial of destiny,Mangold wrote the new screenplay for Dial of Destiny with Jez and John-Henry Butterworth over the course of six to eight months.,5f9c76ec424b47aebfabbbd03c93ab11,,,4
+butterworths,dial of destiny,Mangold worked with the Butterworths previously on Ford v Ferrari for Dial of Destiny.,5f9c76ec424b47aebfabbbd03c93ab11,,,4
+ford v ferrari,butterworths,The Butterworths worked with Mangold previously on Ford v Ferrari.,5f9c76ec424b47aebfabbbd03c93ab11,,,4
+antikythera mechanism,time travel element,Mangold conceived the film's time-travel element and its use of the Antikythera mechanism as the MacGuffin.,700f09fcb2e941658f9666a57797554a,,,4
+antikythera mechanism,artistic liberty,"To suit the story, artistic liberty was taken with the film's dial, giving it the ability to detect time fissures.",700f09fcb2e941658f9666a57797554a,,,4
+antikythera mechanism,macguffin,Mangold conceived the film's time-travel element and its use of the Antikythera mechanism as the MacGuffin.,700f09fcb2e941658f9666a57797554a,,,4
+earlier draft,macguffin,"The earlier draft by Koepp featured a MacGuffin that was ""just another relic with power, similar to the relics we had seen,"" with no emotional connection to Jones.",700f09fcb2e941658f9666a57797554a,,,4
+antikythera mechanism,creator,"Although Greek inventor Archimedes is presented in the film as the Antikythera's creator, it is unclear whether that is true in reality.",700f09fcb2e941658f9666a57797554a,,,4
+time travel element,previous films,"Mangold considered time travel on par with the previous films: ""It's no more of a wild swing in my mind than ghouls flying out of a box and melting people's heads through the sheer power of dark angels, or a 700-year-old knight existing in a cave for perpetuity. These are all beyond the scope of all physical belief""",700f09fcb2e941658f9666a57797554a,,,4
+nazi germany,dial of destiny,"Operation Paperclip inspired Mangold and the Butterworths to reincorporate Nazis for Dial of Destiny as a way to continue exploring their antagonistic role in earlier films. However, as the idea was developed further, Mangold found it too predictable and lacking emotional resonance for Jones.",79cf76d57d1a4ee2b8774d998354cb83,,,4
+siege of syracuse,dial of destiny,"Mangold considered Nazi Germany for the film's time-traveling final act, but he found that idea lacked emotional resonance for Jones and played out like a spy film, prompting him to choose the Siege of Syracuse instead.",79cf76d57d1a4ee2b8774d998354cb83,,,4
+jones,marion,"The Butterworths suggested the idea to end the film with Jones and Marion discussing their emotional pain, as a callback to a similar conversation in Raiders.",79cf76d57d1a4ee2b8774d998354cb83,,,4
+short round,dial of destiny,"A post-credits scene featuring Short Round was considered according to storyboard artist Gabriel Hardman, but the idea was discarded early on so Ke Huy Quan wasn't contacted to reprise the role.",79cf76d57d1a4ee2b8774d998354cb83,,,4
+indiana jones,mangold,Consulted with Mangold on the script.,15217d5f59394f4d84c3d20b8cd52abd,,,4
+lucas,spielberg,Served as executive producers alongside each other.,15217d5f59394f4d84c3d20b8cd52abd,Collaboration,,4
+mangold,lucas and spielberg,Consulted with both Lucas and Spielberg on the script.,15217d5f59394f4d84c3d20b8cd52abd,,,4
+marshall,ford,Involved in the production of the movie featuring Ford's character.,15217d5f59394f4d84c3d20b8cd52abd,Production relationship,,4
+spielberg,marshall,Worked alongside Marshall on the production of the movie.,15217d5f59394f4d84c3d20b8cd52abd,,,4
+ford,indiana jones,"Identical to 'Indiana Jones' node, as per Ford's statement: 'I'm Indiana Jones. When I'm gone, he's gone.'",15217d5f59394f4d84c3d20b8cd52abd,,,4
+spielberg,jones,Ruled out the possibility of killing off the character in this movie.,15217d5f59394f4d84c3d20b8cd52abd,,,4
+phoebe waller-bridge,barbara stanwyck's performance as jean harrington in the lady eve (1941),"Mangold referred the actress to Barbara Stanwyck's performance as Jean Harrington in The Lady Eve (1941) as a key reference point for Waller-Bridge's character, who is described as 'a mystery and a wonder'",8976a61d25cb453891686eb90e01f6e6,,,4
+karen allen,"mangold and the butterworths wrote the role specifically for waller-bridge, inspired by karen allen's performance as marion ravenwood in raiders of the lost ark.","Mangold and the Butterworths wrote the role specifically for Waller-Bridge, inspired by Karen Allen's performance as Marion Ravenwood in Raiders of the Lost Ark.",8976a61d25cb453891686eb90e01f6e6,,,4
+mikkelsen,villainous characters,"Mikkelsen has portrayed many villainous characters throughout his career, and in this context, he describes Voller as a 'misunderstood person' within this category.",e9cf29c198aa4461b8e1cca9d76d68b9,,,4
+voller,mikkelsen,"Mikkelsen played the character of Voller in the script, and he described the role as a 'misunderstood person'.",e9cf29c198aa4461b8e1cca9d76d68b9,,,4
+von braun,nazi scientists involved in nasa,"Mikkelsen stated that his character Voller was partly inspired by the Nazi scientists, including Wernher von Braun.",e9cf29c198aa4461b8e1cca9d76d68b9,,,4
+restrained,voller,"According to Mikkelsen, his character Voller was restrained and avoided the cliché of an extreme German or Nazi accent and extreme madness.",e9cf29c198aa4461b8e1cca9d76d68b9,,,4
+blended in,voller,Mikkelsen also mentioned that Voller was a man who could blend in once he moved to America because he was predominantly a scientist.,e9cf29c198aa4461b8e1cca9d76d68b9,,,4
+marion,indiana jones (jones),"Marion was married to Indiana Jones in the previous film, 'Indiana Jones and the Last Crusade'. Allen kept her return a secret for years due to contractual obligations, but her scene was shot in a day and a half. Spielberg's original version of the film had more scenes with Marion and Jones.",24cae719c6ba4c7fb597fb1b1036a365,,,4
+charles stanforth,jim broadbent (broadbent),"Broadbent expressed a willingness to reprise his role as Charles Stanforth from 'Kingdom of the Crystal Skull', but ultimately did not return.",24cae719c6ba4c7fb597fb1b1036a365,,,4
+mutt,intrepid female character,"In the previous film, Mangold did not think Mutt's whole thing worked that well. To instead capture 'that wonderful energy between Indy and an intrepid female character', Mangold kept his options open about Mutt still being alive but said that focusing on characters in the picture is important for the story to avoid making them 'a sadder purgatory than actually making them a story point in the film and using their character’s existence as a tremendous source of drama for some of our lead characters.'",88efddcca09b47a2bb87507d7b460434,,,4
+mutt,lead characters,"According to Mangold, focusing on characters in the picture is important for the story because saying someone's out wandering off in the periphery seems sadder purgatory than actually making them 'a story point in the film and using their character’s existence as a tremendous source of drama for some of our lead characters.'",88efddcca09b47a2bb87507d7b460434,,,4
+mutt,spielberg,"Following the release of Crystal Skull, LaBeouf criticized the film and Spielberg, although Mangold said this did not factor into Mutt's absence in Dial of Destiny.",88efddcca09b47a2bb87507d7b460434,,,4
+crystal skull,fifth film,"Although Crystal Skull was largely shot in the U.S., Marshall said that the fifth film would return to a global range of filming locations like the earlier films.",75f5a1a2f8304fa59804dbb06b3e8421,,,4
+global range of filming locations,earlier films,"Although Crystal Skull was largely shot in the U.S., Marshall said that the fifth film would return to a global range of filming locations like the earlier films.",75f5a1a2f8304fa59804dbb06b3e8421,,,4
+pinewood studios,sound stage filming,"Principal photography began in England on June 4, 2021.",75f5a1a2f8304fa59804dbb06b3e8421,,,4
+bamburgh castle,filming locations,"Principal photography began in England on June 4, 2021. Filming locations included Bamburgh Castle and the North Yorkshire Moors Railway near Grosmont.",75f5a1a2f8304fa59804dbb06b3e8421,,,4
+north yorkshire moors railway,filming locations,"Principal photography began in England on June 4, 2021. Filming locations included Bamburgh Castle and the North Yorkshire Moors Railway near Grosmont.",75f5a1a2f8304fa59804dbb06b3e8421,,,4
+grosmont,filming locations,"Ford himself was spotted in Grosmont on June 7, 2021.",75f5a1a2f8304fa59804dbb06b3e8421,,,4
+leaderfoot viaduct,filming locations,"The railway bridge scenes were filmed in mid-June 2021, at Leaderfoot Viaduct near Melrose in the Scottish Borders.",75f5a1a2f8304fa59804dbb06b3e8421,,,4
+hitler's personal train,train's interior design,"The train's interior design was inspired by Hitler's personal train, the Führersonderzug,",75f5a1a2f8304fa59804dbb06b3e8421,,,4
+pinewood studios,interior scenes,The interior scenes were filmed on a set at Pinewood Studios.,75f5a1a2f8304fa59804dbb06b3e8421,,,4
+motorcycle chase,scottish village of glencoe,A motorcycle chase was shot in the Scottish village of Glencoe.,a6d6361a13f842a9bc9945dfd8d01716,,,4
+scottish village of glencoe,"biggar, south lanarkshire","Other Scottish locations included Biggar, South Lanarkshire.",a6d6361a13f842a9bc9945dfd8d01716,,,4
+june,london,"Later in June, location shooting moved to London,",a6d6361a13f842a9bc9945dfd8d01716,,,4
+street in hackney,vintage cars,A street in Hackney was lined with vintage cars.,a6d6361a13f842a9bc9945dfd8d01716,,,4
+private residence,period-style interior,Filming also took place inside a private residence that was reportedly chosen for its period-style interior.,a6d6361a13f842a9bc9945dfd8d01716,,,4
+ford,street in hackney,Ford preferred to do his own stunts while filming in a street in Hackney.,a6d6361a13f842a9bc9945dfd8d01716,,,4
+ford,injury,"On June 23, it was announced that Ford had injured his shoulder during the rehearsal of a fight scene and that the production crew would shoot around his recovery.",a6d6361a13f842a9bc9945dfd8d01716,,,4
+ford,punch,Ford's injury occurred while rehearsing a punch against Mikkelsen’s character for the train sequence.,a6d6361a13f842a9bc9945dfd8d01716,,,4
+glasgow's city centre,new york city in 1969,"In July 2021, shooting moved to Glasgow's city centre, which was transformed to resemble New York City in 1969. Meticulous detail went into efforts to recreate the location and time period.",90c97ec346e445d59f81c5337cadebf0,,,4
+st. vincent street,glasgow's city centre,"A chase sequence, shot along St. Vincent Street and other areas, re-creates a ticker tape parade celebrating the return of the Apollo 11 astronauts.",90c97ec346e445d59f81c5337cadebf0,,,4
+vietnam war protestors,"1,000 background actors","The sequence also featured 1,000 background actors as parade-goers and Vietnam War protestors.",90c97ec346e445d59f81c5337cadebf0,,,4
+hatton garden area of london,new york city,"Filming in Glasgow lasted two weeks. Ford resumed filming in September 2021, and some shooting took place in the Hatton Garden area of London, which also doubled as New York City.",90c97ec346e445d59f81c5337cadebf0,,,4
+pinewood's 007 stage,new york city subway station,"In addition, a replica of a New York City Subway station was built at Pinewood's 007 Stage.",90c97ec346e445d59f81c5337cadebf0,,,4
+october 2021,"sicily, italy","production moved to Sicily, Italy in October 2021",c7577a08ffc9436fa9f5ddd6212b0eda,,,4
+"sicily, italy",ford and allen ending,"ending between Ford and Allen was shot in Sicily, Italy",c7577a08ffc9436fa9f5ddd6212b0eda,,,4
+syracuse,filming,began in the city of Syracuse for filming purposes,c7577a08ffc9436fa9f5ddd6212b0eda,,,4
+cefalù,syracuse,often standing in for Syracuse,c7577a08ffc9436fa9f5ddd6212b0eda,,,4
+province of trapani,filming,included in filming locations,c7577a08ffc9436fa9f5ddd6212b0eda,,,4
+marsala,province of trapani,served as the harbor where Renaldo meets with Jones,c7577a08ffc9436fa9f5ddd6212b0eda,,,4
+castellammare del golfo,province of trapani,served as the harbor where Renaldo meets with Jones,c7577a08ffc9436fa9f5ddd6212b0eda,,,4
+mediterranean sea,underwater treasure-hunting sequence,included in filming locations,c7577a08ffc9436fa9f5ddd6212b0eda,,,4
+temple of segesta,archimedes' tomb,led up to the tomb sequence,c7577a08ffc9436fa9f5ddd6212b0eda,,,4
+neapolis archaeological park,archimedes' tomb,included filming locations,c7577a08ffc9436fa9f5ddd6212b0eda,,,4
+ear of dionysius cave,temple of segesta,used for filming purposes,c7577a08ffc9436fa9f5ddd6212b0eda,,,4
+grotta dei cordari cave,neapolis archaeological park,used for filming purposes,c7577a08ffc9436fa9f5ddd6212b0eda,,,4
+castello maniace,roman siege,scenes depicting the Roman siege were shot here,c7577a08ffc9436fa9f5ddd6212b0eda,,,4
+fez,morocco,"Filming for the movie began in Morocco, specifically in Fez.",9ba69d7bdb134bfabc0dba080ae3cac9,,,4
+oujda,morocco,"Filming for the movie took place in Oujda, which is also located in Morocco.",9ba69d7bdb134bfabc0dba080ae3cac9,,,4
+fez,oujda,Both Fez and Oujda are cities where filming for the movie took place in Morocco.,9ba69d7bdb134bfabc0dba080ae3cac9,,,4
+jaisalmer,india,"Initially, filming was set to take place in Jaisalmer, which is a city in India.",9ba69d7bdb134bfabc0dba080ae3cac9,,,4
+jaipur,india,"Filming was also scheduled to take place in Jaipur, another city located in India.",9ba69d7bdb134bfabc0dba080ae3cac9,,,4
+covid-19,india,"However, filming had to be moved out of India due to the increasing levels of COVID-19 there.",9ba69d7bdb134bfabc0dba080ae3cac9,,,4
+nepal,india,"After that, Nepal was considered as a potential location for filming, but an outbreak occurred there too.",9ba69d7bdb134bfabc0dba080ae3cac9,,,4
+hotel l'atlantique,interiors,"The interiors of the Hotel L'Atlantique were recreated at Pinewood, while filming for the movie took place in Morocco.",9ba69d7bdb134bfabc0dba080ae3cac9,,,4
+tangier chase sequence,fez,The Tangier chase sequence required the use of tuk-tuks and was shot primarily by a second unit crew in Fez.,9ba69d7bdb134bfabc0dba080ae3cac9,,,4
+feus,tangier chase sequence,Fez also appeared during the filming of the Tangier chase sequence.,9ba69d7bdb134bfabc0dba080ae3cac9,,,4
+pinewood,feus,"Later on, actors filmed their portions of the Tangier chase sequence at Pinewood while Fez was recreated using a blue screen.",9ba69d7bdb134bfabc0dba080ae3cac9,,Tangier chase sequence,4
+nic cupac,morocco,"A camera operator named Nic Cupac passed away in his hotel room in Morocco, but the production stated that his death was not related to filming.",9ba69d7bdb134bfabc0dba080ae3cac9,,,4
+dial of destiny,ilm,"Visual effects for the film were handled by Industrial Light & Magic (ILM), a division of Lucasfilm.",32b15381f35a41d6a8f585785f6816c8,,,4
+dial of destiny,industrial light & magic (ilm),"The film has a total of 2,350 visual effects shots, with many occurring during the Syracuse siege sequence.",32b15381f35a41d6a8f585785f6816c8,,,4
+dial of destiny,michael mccusker,"After Morocco, the remainder of filming took place at Pinewood, where Michael McCusker served as one of the film editors alongside Andrew Buckland and Dirk Westervelt.",32b15381f35a41d6a8f585785f6816c8,,,4
+dial of destiny,phedon papamichael,"Phedon Papamichael served as cinematographer for the film, marking his sixth collaboration with director Mangold.",32b15381f35a41d6a8f585785f6816c8,,,4
+dial of destiny,steven spielberg,"Spielberg offered advice on the script, watched dailies, and visited the editing room a number of times during post-production.",32b15381f35a41d6a8f585785f6816c8,,,4
+time fissure,cloud portal,"The time fissure, depicted as a stormy cloud portal, was made entirely through computer-generated imagery and was among the final effects created for the film. The fissure design was based on research conducted into real cloud formations to make it look natural.",32b15381f35a41d6a8f585785f6816c8,,,4
+ilm,spielberg,Director Steven Spielberg worked closely with visual effects company ILM for his latest film.,402a2402e4ca45b29e743411636acdf2,,,4
+rising sun pictures,parade sequence,"Rising Sun Pictures, the second-largest contributor of visual effects on the film, handled 301 shots, most of them during the parade sequence.",402a2402e4ca45b29e743411636acdf2,,,4
+ilm,parade sequence,"In addition to ILM, several other visual effects companies also worked on the film and spent more than a year in post-production. ILM handled shots during the parade sequence.",402a2402e4ca45b29e743411636acdf2,,,4
+spielberg,the adventures of tintin,"Steven Spielberg used motion capture for his animated film The Adventures of Tintin, but did not use this method to digitally de-age Harrison Ford in the new Indiana Jones movie.",402a2402e4ca45b29e743411636acdf2,,,4
+mangold,spielberg,New director James Mangold took over the project and expanded a five-minute World War II opening sequence featuring a de-aged Ford to roughly 25 minutes.,402a2402e4ca45b29e743411636acdf2,,,4
+ford,spielberg,"Harrison Ford will reprise his role as Indiana Jones in the new film directed by James Mangold, with Steven Spielberg returning to executive produce.",402a2402e4ca45b29e743411636acdf2,,,4
+important looking pirates,underwater sequence,Important Looking Pirates worked on 250 shots for the underwater sequence of the film.,402a2402e4ca45b29e743411636acdf2,,,4
+soho vfx,hotel l'atlantique,Visual effects company Soho created the exterior of the Hotel L'Atlantique through CGI.,402a2402e4ca45b29e743411636acdf2,,,4
+soho vfx,tuk-tuk chase sequence,"Soho VFX contributed 235 shots, most of them for the tuk-tuk chase sequence.",402a2402e4ca45b29e743411636acdf2,,,4
+harrison ford,younger version of harrison ford (using cgi and scanned head),"Relationship between the two versions of Harrison Ford achieved through new artificial intelligence software from ILM, which looked through archived footage of a younger Ford in his previous work for Lucasfilm, including the original Star Wars films. Lighting techniques were emphasized on-set and included the use of Flux, a light-based capture system previously used for de-aging scenes in The Irishman (2019). In addition to effects, a mask of Ford's younger face was also made for use by a stuntman during a motorcycle chase.",6877a417f00a46998670e08cef8b2567,,,4
+harrison ford,older version of harrison ford in the opening sequence,"Depicts Harrison Ford's appearance during the first three Indiana Jones films. This was partly achieved using new artificial intelligence software from ILM, which looked through archived footage of a younger Ford in his previous work for Lucasfilm, including the original Star Wars films.",6877a417f00a46998670e08cef8b2567,,,4
+mads mikkelsen,younger version of mads mikkelsen (using de-aging techniques),Mads Mikkelsen was also de-aged for the opening sequence.,6877a417f00a46998670e08cef8b2567,,,4
+crystal skull,age and new era,Both Ford and Mangold felt that Crystal Skull did not do enough to highlight Jones' age and the new era in which he lives.,67a3e5f2f4a1420b9792db59e450184e,,,4
+dial of destiny,age and time,"Mangold said that Dial of Destiny is about age, time and family relationships. He also mentioned that the film 'is not about aging per se, but time'.",67a3e5f2f4a1420b9792db59e450184e,,,4
+jones's age,major part of the film,"Mangold said that Jones's age would be a major part of the film, something that was touched upon only briefly in the earlier drafts.",67a3e5f2f4a1420b9792db59e450184e,,,4
+issues related to indy's age,not being addressed in the material being developed at the time,Mangold brought up about Indy's age were not things he thought were being addressed in the material being developed at the time.,67a3e5f2f4a1420b9792db59e450184e,,,4
+1940s films,main plot (set in 1969),"opening sequence contrasts with main plot, allowing the film to start with a blast of classic Indiana Jones action reminiscent of first three films (1981-1989), transition from pulpy cinematic language of 1940s films brings characters from an 'older world' into the 'modern' 1960s, a present strongly influenced by Cold War, nuclear power, space travel, intrigue and lack of black-and-white morality",654c8514696f4873aea964484c44d3f0,,,4
+older world,modern 1960s,"transition from pulpy cinematic language of 1940s films brings characters from an 'older world' into the 'modern' 1960s, a present strongly influenced by Cold War, nuclear power, space travel, intrigue and lack of black-and-white morality",654c8514696f4873aea964484c44d3f0,,,4
+indiana jones,gray world with a lack of 'clear good guys and bad guys',"Jones is 'a hero who is used to a black and white world' when it comes to villains, who now finds himself in a gray world",654c8514696f4873aea964484c44d3f0,,,4
+ex-nazis,us government's moon-landing program,Jez Butterworth noted the presence of ex-Nazis involved in the US government's Moon-landing program,654c8514696f4873aea964484c44d3f0,,,4
+indiana jones,country,"Jones grows distrustful of his country, feeling like a man out of time in an era in which idealism is gone",654c8514696f4873aea964484c44d3f0,,,4
+1969 storyline,low point in his life,"It was Ford's idea to start the 1969 storyline with Jones at a low point in his life, and then gradually 'rebuild him from the ground up' as the film progresses",654c8514696f4873aea964484c44d3f0,,,4
+indiana jones,dial of destiny,Indiana Jones and the Dial of Destiny is the title of the upcoming fifth Indiana Jones film.,57cfaf4bac1b446d83f93e26eee415f6,,,4
+mangold,logan,"Mangold compared Dial of Destiny to his final X-Men film Logan, enjoying the notion of what a hero can do for the world when it no longer has a place for him.",57cfaf4bac1b446d83f93e26eee415f6,,,4
+dial of destiny,seriousness,"Dial of Destiny would lack the seriousness of Logan, according to Mangold's comparison.",57cfaf4bac1b446d83f93e26eee415f6,,,4
+ford,jones,"During Star Wars Celebration, Ford debuted the first official image from the film, showing Jones silhouetted in a cave.",57cfaf4bac1b446d83f93e26eee415f6,,,4
+rhys-davies,indiana jones and the dial of destiny,The return of Rhys-Davies was confirmed during the screening of exclusive footage at D23 Expo.,57cfaf4bac1b446d83f93e26eee415f6,,,4
+friscia,raiders of the lost ark,Friscia found the nod to Raiders of the Lost Ark amusing in the trailer for Indiana Jones and the Dial of Destiny.,57cfaf4bac1b446d83f93e26eee415f6,,,4
+super bowl lvii,indiana jones and the dial of destiny,A TV spot for the film aired during Super Bowl LVII.,57cfaf4bac1b446d83f93e26eee415f6,,,4
+indiana jones and the dial of destiny,cannes film festival,The film had its world premiere at the Cannes Film Festival in May 2023.,c1aa0613da24442dad241cfa780bbafd,,,4
+indiana jones and the dial of destiny,walt disney studios motion pictures,"The film was theatrically released by Walt Disney Studios Motion Pictures on June 30, 2023.",c1aa0613da24442dad241cfa780bbafd,,,4
+indiana jones and the dial of destiny,imax,"The film was released in IMAX format in the United States on June 30, 2023.",c1aa0613da24442dad241cfa780bbafd,,,4
+indiana jones and the dial of destiny,dolby cinema,"The film was released in Dolby Cinema format in the United States on June 30, 2023.",c1aa0613da24442dad241cfa780bbafd,,,4
+indiana jones and the dial of destiny,4dx,"The film was released in 4DX format in the United States on June 30, 2023.",c1aa0613da24442dad241cfa780bbafd,,,4
+indiana jones and the dial of destiny,screenx,"The film was released in ScreenX format in some international markets on dates ranging from June 28 to 30, 2023.",c1aa0613da24442dad241cfa780bbafd,,,4
+indiana jones and the dial of destiny,covid-19 pandemic,The final release date for the film was delayed due to the impact of the COVID-19 pandemic on the film industry.,c1aa0613da24442dad241cfa780bbafd,,,4
+indiana jones and the dial of destiny,disney+,"The film was released on Disney+ on December 1, 2023.",c1aa0613da24442dad241cfa780bbafd,,,4
+cannes film festival,may,The film had its world premiere at the Cannes Film Festival in May 2023.,c1aa0613da24442dad241cfa780bbafd,,,4
+indiana jones and the dial of destiny,"july 19, 2019","The film was initially set for release on July 19, 2019.",c1aa0613da24442dad241cfa780bbafd,,,4
+indiana jones and the dial of destiny,"july 10, 2020","The film's release date was delayed to July 10, 2020.",c1aa0613da24442dad241cfa780bbafd,,,4
+indiana jones and the dial of destiny,"july 9, 2021","The film was further delayed to July 9, 2021.",c1aa0613da24442dad241cfa780bbafd,,,4
+indiana jones and the dial of destiny,"july 29, 2022",The film's final release date was announced in October 2021.,c1aa0613da24442dad241cfa780bbafd,,,4
+indiana jones and the dial of destiny,vod charts,"The film achieved first place on VOD charts after its digital release on August 29, 2023.",c1aa0613da24442dad241cfa780bbafd,,,4
+indiana jones and the dial of destiny,most expensive film in the indiana jones franchise,"Indiana Jones and the Dial of Destiny holds the title of being the most expensive film in its own franchise, with an estimated production budget of $294.7 million.",228da462bdef4ed08fd5e2cdeaa0a822,,,4
+indiana jones and the dial of destiny,box-office bomb,"Despite grossing over $384 million worldwide, Indiana Jones and the Dial of Destiny was deemed a box-office bomb due to its expensive production cost and marketing budget.",228da462bdef4ed08fd5e2cdeaa0a822,,,4
+indiana jones and the dial of destiny,financial film failure,The film's loss of an estimated $143 million makes it one of Disney's largest financial film failures since John Carter.,228da462bdef4ed08fd5e2cdeaa0a822,,,4
+indiana jones and the dial of destiny,success,"To be considered a success, the film would need to make around $800 million, according to Collider's estimation.",228da462bdef4ed08fd5e2cdeaa0a822,,,4
+indiana jones and the dial of destiny,break-even point,Collider estimated that the film would need to make around $600 million just to break even.,228da462bdef4ed08fd5e2cdeaa0a822,,,4
+dial of destiny,"ruby gillman, teenage kraken","In the United States and Canada, Dial of Destiny was released alongside Ruby Gillman, Teenage Kraken.",e2c075a064cb437c9ca3d80df648e027,,,4
+dial of destiny,$60–65 million,"Dial of Destiny was projected to gross domestically $60–65 million from 4,600 theaters in its opening weekend.",e2c075a064cb437c9ca3d80df648e027,,,4
+dial of destiny,$80 million,"Dial of Destiny was also expected to gross around $80 million from international territories,",e2c075a064cb437c9ca3d80df648e027,,,4
+americans under the age of 30,dial of destiny,Americans under the age of 30 had a 'much lower presence in ticket presales compared to the average summer tentpole',e2c075a064cb437c9ca3d80df648e027,,,4
+dial of destiny,$7.2 million,Dial of Destiny made $7.2 million from Thursday night previews.,e2c075a064cb437c9ca3d80df648e027,,,4
+dial of destiny,$60.4 million,"Dial of Destiny debuted to $60.4 million over the three-day weekend,",e2c075a064cb437c9ca3d80df648e027,,,4
+dial of destiny,$83.9 million,"The film made a total of $83.9 million over the five-day Independence Day holiday,",e2c075a064cb437c9ca3d80df648e027,,,4
+dial of destiny,second highest total,"Dial of Destiny's debut was the second-highest total of the franchise (not adjusted for inflation), behind its predecessor Indiana Jones and the Kingdom of the Crystal Skull (2008)",e2c075a064cb437c9ca3d80df648e027,,,4
+dial of destiny,$24 million,"The film made $24 million on its first day,",e2c075a064cb437c9ca3d80df648e027,,,4
+dial of destiny,finished first at the box office,Dial of Destiny finished first at the box office;,e2c075a064cb437c9ca3d80df648e027,,,4
+dial of destiny,majority of opening weekend audience,A majority of the opening weekend audience (58%) was over the age of 35.,e2c075a064cb437c9ca3d80df648e027,,,4
+indiana jones,harrison ford,The character Indiana Jones is played by the actor Harrison Ford in the film.,fe3962f1038a45acb0ee1e731ad9dea5,,,4
+dial of destiny,indiana jones and the dial of destiny,The title 'Indiana Jones and the Dial of Destiny' refers to the artifact 'Dial of Destiny',fe3962f1038a45acb0ee1e731ad9dea5,,,4
+united kingdom,france,Both United Kingdom and France were among the top-performing countries in terms of box office earnings during the film's opening weekend.,fe3962f1038a45acb0ee1e731ad9dea5,,,4
+australia,italy,Both Australia and Italy are listed as among the countries with high box office earnings during the film's opening weekend.,fe3962f1038a45acb0ee1e731ad9dea5,,,4
+spain,mexico,Spain and Mexico are both mentioned as among the top-performing countries in terms of box office earnings during the film's opening weekend.,fe3962f1038a45acb0ee1e731ad9dea5,,,4
+rotten tomatoes,indiana jones and the dial of destiny,"The website Rotten Tomatoes provides a platform for critics to review movies, including 'Indiana Jones and the Dial of Destiny'.",fe3962f1038a45acb0ee1e731ad9dea5,,,4
+consensus,rotten tomatoes,"The website Rotten Tomatoes provides a summary or synthesis of the reviews, referred to as 'consensus' in this case.",fe3962f1038a45acb0ee1e731ad9dea5,,,4
+metacritic,indiana jones and the dial of destiny,"The website Metacritic aggregates critical reviews, including those for 'Indiana Jones and the Dial of Destiny'.",fe3962f1038a45acb0ee1e731ad9dea5,,,4
+average grade,cinemascore,Audience members rated the film with an average grade of 'B+' on CinemaScore's scale.,fe3962f1038a45acb0ee1e731ad9dea5,,,4
+positive score,posttrak,PostTrak reported that filmgoers gave the movie a 79% positive rating.,fe3962f1038a45acb0ee1e731ad9dea5,,,4
+dial of destiny,fun,"Germain Lussier, reviewing the film for io9, praised the film for having 'a great premise, exciting action, wonderful banter, and some fantastic twists and turns.'",f597d10651b4492a9944dbdede7ad575,,,4
+dial of destiny,satisfying ending,"Mike Ryan wrote: 'This is a very fun movie but Indy's arc is poignant and also sad. It's kept in the background, but it's there.' He found the ending more satisfying than the ending of The Kingdom of the Crystal Skull.",f597d10651b4492a9944dbdede7ad575,,,4
+empire,john nugent,"John Nugent of Empire gave the film four out of five stars,",f597d10651b4492a9944dbdede7ad575,,,4
+mangold's camerawork,"confidently moves through action set-piece after action set-piece, keeping up a frantic pace.","Bilge Ebiri, reviewing for Vulture, called the film 'fun' but acknowledged comparisons to the previous installments were 'warranted. But it's also too entertaining to dismiss. You may not lose yourself in this one the way so many of us once did with the earlier Indiana Jones movies, but you'll certainly have a good time.'",f597d10651b4492a9944dbdede7ad575,,,4
+dial of destiny,exciting action,Peter Bradshaw felt Dial of Destiny 'has quite a bit of zip and fun and narrative ingenuity with all its MacGuffiny silliness that the last one really didn't.',f597d10651b4492a9944dbdede7ad575,,,4
+dial of destiny,poignant arc,"Mike Ryan wrote: 'This is a very fun movie but Indy's arc is poignant and also sad. It's kept in the background, but it's there.'",f597d10651b4492a9944dbdede7ad575,,,4
+indiana jones,joyless piece of nostalgic hokum,Owen Gleiberman of Variety described the film as a 'dutifully eager but ultimately rather joyless piece of nostalgic hokum'.,b2cb220b616a4a19bc58a57fe863e5df,,,4
+indiana jones,unconscious metaphor,"Time travel, in Indiana Jones and the Dial of Destiny, is really an unconscious metaphor, since it's the movie that wants to go back in time.",b2cb220b616a4a19bc58a57fe863e5df,,,4
+indiana jones,emotional diagram of a touching finale,The movie accomplishes completing our love affair with the defining action-movie-star role of Harrison Ford through its emotional diagram of a touching finale.,b2cb220b616a4a19bc58a57fe863e5df,,,4
+harrison ford,indiana jones,The defining action-movie-star role of Harrison Ford,b2cb220b616a4a19bc58a57fe863e5df,,,4
+indiana jones,"big, bombastic movie","It's a big, bombastic movie that goes through the motions but never finds much joy in the process.",b2cb220b616a4a19bc58a57fe863e5df,,,4
+david rooney,the hollywood reporter,David Rooney for The Hollywood Reporter criticized the film,b2cb220b616a4a19bc58a57fe863e5df,,,4
+indiana jones,harrison ford's hard-working score,John Williams's hard-working score continuously pushing our nostalgia buttons and trying to convince us we're on a wild ride.,b2cb220b616a4a19bc58a57fe863e5df,,,4
+indiana jones,action ethos of the past,"The movie tries to match (let alone top) the ingeniously staged kinetic bravura of Raiders of the Lost Ark, but only by reminding you that even if you re-stage the action ethos of the past.",b2cb220b616a4a19bc58a57fe863e5df,,,4
+indiana jones,nostalgic hokum minus the thrill,"Though it has its quota of 'relentless' action, it rarely tries to match (let alone top) the ingeniously staged kinetic bravura of Raiders of the Lost Ark.",b2cb220b616a4a19bc58a57fe863e5df,,,4
+indiana jones,harrison ford's role,"The movie wants to go back in time, completing our love affair with Harrison Ford's role.",b2cb220b616a4a19bc58a57fe863e5df,,,4
+indiana jones,dial of destiny,"The film Indiana Jones and the Dial of Destiny features a quest for an object, the dial of destiny.",09128a749b5d45c097324b6adeb59c91,,,4
+object quest,history,The object quest in Indiana Jones and the Dial of Destiny is rooted in history.,09128a749b5d45c097324b6adeb59c91,,,4
+supernatural element,dial of destiny,"The dial of destiny has a supernatural element, as mentioned by Richard Lawson in his review.",09128a749b5d45c097324b6adeb59c91,,,4
+fascist villains,easily rooted-against,Robbie Collin praised the easily rooted-against fascist villains in Indiana Jones and the Dial of Destiny.,09128a749b5d45c097324b6adeb59c91,,,4
+action sequences,spark and bravado,Robbie Collin noted that the action sequences in Indiana Jones and the Dial of Destiny are 'loaded with mayhem but painfully short on spark and bravado.',09128a749b5d45c097324b6adeb59c91,,,4
+indiana jones,other character,"Richard Lawson suggested that if Indiana Jones were replaced by another character, the object quest in Indiana Jones and the Dial of Destiny would be 'perfectly fine.'",09128a749b5d45c097324b6adeb59c91,,,4
+inspiration,four credited screenwriters,"Richard Lawson remarked that there was a shortage of inspiration in Indiana Jones and the Dial of Destiny, which could be attributed to the four credited screenwriters.",09128a749b5d45c097324b6adeb59c91,,,4
+golden trailer awards,indiana jones and the dial of destiny trailer,The trailer for Indiana Jones and the Dial of Destiny was nominated in three categories at the 2023 Golden Trailer Awards.,09128a749b5d45c097324b6adeb59c91,,,4
+golden trailer awards,indiana jones and the dial of destiny trailer,The trailer for Indiana Jones and the Dial of Destiny won two categories at the 2023 Golden Trailer Awards.,09128a749b5d45c097324b6adeb59c91,,,4
+dial of destiny,best fantasy film,The film Dial of Destiny was nominated for the award of Best Fantasy Film at the 48th Saturn Awards.,fb0d1eb683ce4593b2c9c0fe7674cb40,,,4
+indiana jones,dial of destiny,"Dial of Destiny is a prequel to the Indiana Jones franchise, commonly referred to as 'Indiana Jones and the Dial of...Still Beating a Dead Horse' at the 44th Golden Raspberry Awards.",fb0d1eb683ce4593b2c9c0fe7674cb40,,,4
+steven spielberg,mangold,"Rather than being nominated for Best Director himself, Mangold replaced Spielberg as director of Dial of Destiny, and thus was nominated for the award at the 48th Saturn Awards.",fb0d1eb683ce4593b2c9c0fe7674cb40,,,4
+harrison ford,best actor,The lead actor Harrison Ford was nominated for Best Actor at the 48th Saturn Awards for his role in Dial of Destiny.,fb0d1eb683ce4593b2c9c0fe7674cb40,,,4
+phoebe waller-bridge,best supporting actress,The actress Phoebe Waller-Bridge was nominated for Best Supporting Actress at the 48th Saturn Awards for her role in Dial of Destiny.,fb0d1eb683ce4593b2c9c0fe7674cb40,,,4
+ralph ineson,best supporting actor,The actor Ralph Ineson was also nominated for Best Supporting Actor at the 48th Saturn Awards for his role in Dial of Destiny.,fb0d1eb683ce4593b2c9c0fe7674cb40,,,4
+john williams,best original score,"The composer John Williams' score for Dial of Destiny received a nomination for Best Original Score at the 96th Academy Awards, making it his fourth nomination within the Indiana Jones franchise.",fb0d1eb683ce4593b2c9c0fe7674cb40,,,4
+john williams,best instrumental composition,Williams won a Grammy Award for Best Instrumental Composition for 'Helena's Theme' from the score of Dial of Destiny at the 66th Grammy Awards.,fb0d1eb683ce4593b2c9c0fe7674cb40,,,4
+visual effects society awards,outstanding visual effects in a photoreal feature,Dial of Destiny was nominated for Outstanding Visual Effects in a Photoreal Feature at the 22nd Visual Effects Society Awards.,fb0d1eb683ce4593b2c9c0fe7674cb40,,,4
+visual effects society awards,outstanding created environment in a photoreal feature,Dial of Destiny was also nominated for Outstanding Created Environment in a Photoreal Feature at the 22nd Visual Effects Society Awards.,fb0d1eb683ce4593b2c9c0fe7674cb40,,,4
+indiana jones,future of the franchise with ford,"Bob Iger, Disney CEO in 2016, stated that the future of the Indiana Jones franchise with Harrison Ford was unknown. This implies a relation between the character and concept of the potential future films.",cbeb9cb6606f4eca8f385b37db5dcec3,,,4
+indiana jones,fifth film,Bob Iger also mentioned that the fifth film would not be the final installment in the franchise. This indicates a relationship between the character and the specific movie.,cbeb9cb6606f4eca8f385b37db5dcec3,,,4
+indiana jones,last in the series,Harrison Ford confirmed in 2022 that the fifth film would be his last appearance as Indiana Jones. This highlights a relationship between the character and the final movie.,cbeb9cb6606f4eca8f385b37db5dcec3,,,4
+indiana jones,canceled indiana jones movies and television series,Disney reportedly cancelled the planned Indiana Jones movies and TV series in March 2023. This implies a relation between the character and the potential upcoming projects.,cbeb9cb6606f4eca8f385b37db5dcec3,,,4
+indiana jones,star wars franchise,The decision to cancel Indiana Jones movies and television series was reportedly because Lucasfilm wants to focus on Star Wars. This highlights a relationship between the character and the competing franchise.,cbeb9cb6606f4eca8f385b37db5dcec3,,,4

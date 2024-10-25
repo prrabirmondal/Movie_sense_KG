@@ -1,0 +1,24 @@
+node_1,node_2,edge,chunk_id,count
+karz: the burden of truth,indian hindi-language action drama film,is a type of movie genre,16cc192de9014faca85e1e55dec7028f,4
+harry baweja,director,is responsible for overseeing the creative aspect of the movie,16cc192de9014faca85e1e55dec7028f,4
+kaushal godha,producer,commissioned the production and provides financial support for the film,16cc192de9014faca85e1e55dec7028f,4
+sunny deol,main character,is a significant role in the movie's narrative,16cc192de9014faca85e1e55dec7028f,4
+suniel shetty,main character,is a significant role in the movie's narrative,16cc192de9014faca85e1e55dec7028f,4
+shilpa shetty,main character,is a significant role in the movie's narrative,16cc192de9014faca85e1e55dec7028f,4
+suraj singh,character,is an important but secondary figure in the movie's plot,16cc192de9014faca85e1e55dec7028f,4
+raja chauhan,character,is an important but secondary figure in the movie's plot,16cc192de9014faca85e1e55dec7028f,4
+savitri,character,is an important but secondary figure in the movie's plot,16cc192de9014faca85e1e55dec7028f,4
+yuvraj,"prominent politician and a wanted criminal, thakur","has a dual identity, one as a political figure and another as a criminal",16cc192de9014faca85e1e55dec7028f,4
+suraj singh,savitri,are related as friends and acquaintances,16cc192de9014faca85e1e55dec7028f,4
+raja chauhan,suraj singh,are related as friends and acquaintances,16cc192de9014faca85e1e55dec7028f,4
+savitri,yuvraj,has identified Yuvraj as Thakur but Yuvraj denies the connection,16cc192de9014faca85e1e55dec7028f,4
+suraj singh,sapna,is in love with Sapna,16cc192de9014faca85e1e55dec7028f,4
+raja chauhan,sapna,also loves Sapna,16cc192de9014faca85e1e55dec7028f,4
+suraj singh,alcohol,resorts to alcohol consumption as a result of Raja Chauhan's love for Sapna,16cc192de9014faca85e1e55dec7028f,4
+taran adarsh,critic,evaluates and provides opinions on the movie's quality,16cc192de9014faca85e1e55dec7028f,4
+karz-the burden of truth,masala fare,"The movie 'Karz-The Burden of Truth' falls into the typical masala genre that heavily relies on tried and tested elements, limiting its appeal.",edc1c81b00d344638f64eb5f1be20a0c,4
+long run,limited appeal,A long run for a movie is ruled out due to its limited appeal.,edc1c81b00d344638f64eb5f1be20a0c,4
+sukanya verma,karz-the burden of truth,Sukanya Verma's review in Rediff.com mentions that the movie 'Karz-The Burden of Truth' leaves the viewer with stiff limbs and sore eyes.,edc1c81b00d344638f64eb5f1be20a0c,4
+nutshell,karz-the burden of truth,"In a nutshell, Karz: The Burden of Truth stands true to its title.",edc1c81b00d344638f64eb5f1be20a0c,4
+hindi film,article,"This article is about a Hindi film of the 2000s. It can be considered as a subcategory of articles and hence, has a relation with article.",d4eb5ff9f725413ca579f9af3b2ffcaf,4
+hindi film,stub,"This article is a stub which means it lacks essential information. Hence, there exists a relation between Hindi film and stub.",d4eb5ff9f725413ca579f9af3b2ffcaf,4

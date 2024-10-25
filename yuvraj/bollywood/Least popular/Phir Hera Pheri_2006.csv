@@ -1,0 +1,73 @@
+node_1,node_2,edge,chunk_id,count
+phir hera pheri,hera pheri franchise,"Sequel to the hit comedy film Hera Pheri, which established the Hera Pheri franchise.",20f568d65ef241f18e50331636a66bc9,4
+akshay kumar,phir hera pheri cast,"Prominent actor in the film Phir Hera Pheri, alongside Suniel Shetty and Paresh Rawal.",20f568d65ef241f18e50331636a66bc9,4
+suniel shetty,phir hera pheri cast,"Prominent actor in the film Phir Hera Pheri, alongside Akshay Kumar and Paresh Rawal.",20f568d65ef241f18e50331636a66bc9,4
+paresh rawal,phir hera pheri cast,"Prominent actor in the film Phir Hera Pheri, reprising his role from the previous film Hera Pheri.",20f568d65ef241f18e50331636a66bc9,4
+bipasha basu,phir hera pheri cast,"Female lead actress in the film Phir Hera Pheri, playing the role of Anuradha.",20f568d65ef241f18e50331636a66bc9,4
+rimi sen,phir hera pheri cast,"Supporting actress in the film Phir Hera Pheri, alongside Akshay Kumar and Paresh Rawal.",20f568d65ef241f18e50331636a66bc9,4
+sharat saxena,phir hera pheri cast,"Villainous character in the film Phir Hera Pheri, playing the role of Tiwari.",20f568d65ef241f18e50331636a66bc9,4
+rajpal yadav,phir hera pheri cast,"Supporting actor in the film Phir Hera Pheri, playing the role of Chulbul Pandey.",20f568d65ef241f18e50331636a66bc9,4
+milind gunaji,phir hera pheri cast,"Supporting actor in the film Phir Hera Pheri, playing a small role.",20f568d65ef241f18e50331636a66bc9,4
+manoj joshi,phir hera pheri cast,"Supporting actor in the film Phir Hera Pheri, playing the role of Baburao Apte's father.",20f568d65ef241f18e50331636a66bc9,4
+razak khan,phir hera pheri cast,"Supporting actor in the film Phir Hera Pheri, playing a small role.",20f568d65ef241f18e50331636a66bc9,4
+johnny lever,phir hera pheri cast,"Comedian and supporting actor in the film Phir Hera Pheri, known for his humorous roles.",20f568d65ef241f18e50331636a66bc9,4
+neeraj vora,phir hera pheri crew,"Director and writer of the film Phir Hera Pheri, known for his work in comedy films.",20f568d65ef241f18e50331636a66bc9,4
+hera pheri,phir hera pheri prequel,"The film Phir Hera Pheri is a sequel to the hit comedy film Hera Pheri, also directed by Neeraj Vora.",20f568d65ef241f18e50331636a66bc9,4
+"lock, stock and two smoking barrels",phir hera pheri inspiration,"The film Phir Hera Pheri is an unofficial remake of the British comedy film Lock, Stock and Two Smoking Barrels.",20f568d65ef241f18e50331636a66bc9,4
+cult status,phir hera pheri recognition,"The film Phir Hera Pheri has attained a cult status over the years, especially due to Akshay Kumar's comic timing.",20f568d65ef241f18e50331636a66bc9,4
+significant fan following,phir hera pheri popularity,"The film Phir Hera Pheri has gained significant fan following across generations, owing to its cast and comic content.",20f568d65ef241f18e50331636a66bc9,4
+comedy films,phir hera pheri genre,"The film Phir Hera Pheri is a comedy film, falling under the category of Bollywood cinema.",20f568d65ef241f18e50331636a66bc9,4
+major commercial success,phir hera pheri box office performance,"The film Phir Hera Pheri was a major commercial success, performing well at the box office.",20f568d65ef241f18e50331636a66bc9,4
+raju,baburao,Raju and Baburao became wealthy together.,8fb1f41e146841e1b8a6be7dbd4045eb,4
+shyam,raju,Shyam is a friend of Raju who also became wealthy.,8fb1f41e146841e1b8a6be7dbd4045eb,4
+anuradha munjal,raju,"Raju meets Anuradha, the manager of 'Laxmi Chit Fund', and convinces Shyam and Baburao to invest in her scheme.",8fb1f41e146841e1b8a6be7dbd4045eb,4
+anuradha munjal,shyam,Shyam also meets Anuradha and agrees to invest in her scheme.,8fb1f41e146841e1b8a6be7dbd4045eb,4
+anuradha munjal,baburao,Anuradha convinces Baburao to invest in her scheme.,8fb1f41e146841e1b8a6be7dbd4045eb,4
+pappu,raju,Raju arranges for Pappu to contribute to the investment.,8fb1f41e146841e1b8a6be7dbd4045eb,4
+anuradha munjal,laxmi chit fund,Anuradha is the manager of 'Laxmi Chit Fund'.,8fb1f41e146841e1b8a6be7dbd4045eb,4
+raju,mansion,Raju sold off their mansion to arrange for the investment.,8fb1f41e146841e1b8a6be7dbd4045eb,4
+raju,anuradha,con woman who scammed Raju out of money,078d497000ef4fa49f39e57d3db91e56,4
+raju,paris gun collector,new owner of the mansion after Raju sold it off,078d497000ef4fa49f39e57d3db91e56,4
+pappu,raju,participated in the scam with Raju,078d497000ef4fa49f39e57d3db91e56,4
+pappu,tiwari seth,borrowed money from dangerous underworld gangster,078d497000ef4fa49f39e57d3db91e56,4
+baburao apte,raju,longtime friend and colleague of Raju's,078d497000ef4fa49f39e57d3db91e56,4
+anjali,raju,daughter of the chawl accountant that the trio now live with,078d497000ef4fa49f39e57d3db91e56,4
+shyam,baburao apte,coworker at the company where Baburao and Raju work,078d497000ef4fa49f39e57d3db91e56,4
+anjali,pappu,sister of Pappu,078d497000ef4fa49f39e57d3db91e56,4
+anjali,tiwari seth,Owes money; Tiwari Seth's sister,0d640bc930124c2da32577c37f6dfc26,4
+pappu,anjali,Related concepts,0d640bc930124c2da32577c37f6dfc26,4
+raju,guilt over getting anjali in trouble,Emotion and motivation,0d640bc930124c2da32577c37f6dfc26,4
+shyam,refuses to leave without anjali,Relationship between characters,0d640bc930124c2da32577c37f6dfc26,4
+baburao,decides to stay with anjali and raju,Relationship between characters,0d640bc930124c2da32577c37f6dfc26,4
+tiwari seth,orders release of anjali in exchange for money,Condition for release,0d640bc930124c2da32577c37f6dfc26,4
+munna bhai,planning to steal drugs from nanji bhai,Related concepts,0d640bc930124c2da32577c37f6dfc26,4
+raju,assumes munna bhai is talking about stealing money,Misunderstanding or assumption,0d640bc930124c2da32577c37f6dfc26,4
+parsi gun collector,stolen guns from pappu and his goons sold to kachra seth,Relationship between characters and objects,0d640bc930124c2da32577c37f6dfc26,4
+kachra seth,buys stolen guns from pappu and his goons,Relationship between characters and objects,0d640bc930124c2da32577c37f6dfc26,4
+munna bhai's gang,steals drugs from nanji bhai's hideout,Action and relationship between characters and objects,0d640bc930124c2da32577c37f6dfc26,4
+"trio (raju, shyam, baburao)",wears clown costumes and uses stolen guns to steal drugs from munna bhai,Action and relationship between characters and objects,0d640bc930124c2da32577c37f6dfc26,4
+nanji bhai,loses drugs to the trio wearing clown costumes,Relationship between characters and objects,0d640bc930124c2da32577c37f6dfc26,4
+drugs,tiwari seth's loan,"The trio believe that if they can sell the drugs to Kachra Seth and pay off Tiwari Seth's loan, they can also become rich.",c863bea6efc34df8b1d5aefd076c8e40,4
+drugs,nanji bhai,Munna Bhai's henchmen find the drugs the trio stole and take them back to Nanji Bhai.,c863bea6efc34df8b1d5aefd076c8e40,4
+anuradha,"kabira, anuradha's sister's kidnapped child","Anuradha reveals that the entire scam was hatched by Kabira and his close aide, Chhota Chetan, to seek revenge from the trio because their money was converted to diamonds to pay the ransom for Anuradha's sister's kidnapped child.",c863bea6efc34df8b1d5aefd076c8e40,4
+anjali,raju,Anjali realizes that Raju offered himself as collateral to Tiwari Seth in order to save her life.,c863bea6efc34df8b1d5aefd076c8e40,4
+anuradha,criminals,Anuradha was being pursued by some criminals and was rescued by the trio.,c863bea6efc34df8b1d5aefd076c8e40,4
+anjali,tiwari seth's loan,"The trio later returned with Anjali and Anuradha, whom Tiwari Seth's henchmen then kidnapped.",c863bea6efc34df8b1d5aefd076c8e40,4
+great royal circus,tiwari seth and nanji bhai,The trio summon Tiwari Seth and Nanji Bhai to arrive at Great Royal Circus to trick them into giving them money and then pay off Tiwari Seth's loan with that money.,c863bea6efc34df8b1d5aefd076c8e40,4
+rawal,zohrajabeen,Rawal has a dream sequence about Zohrajabeen,71e9ba3aee094c0fad0561cdabebb4d8,4
+aye meri zohrajabeen,rawal,The song 'Aye Meri Zohrajabeen' is played during the end title credits and in Rawal's dream sequence,71e9ba3aee094c0fad0561cdabebb4d8,4
+nanji bhai,chhota chetan,Nanji Bhai and Chhota Chetan are mentioned together as two criminals,71e9ba3aee094c0fad0561cdabebb4d8,4
+raju,anuradha,Raju escapes along with Anuradha,71e9ba3aee094c0fad0561cdabebb4d8,4
+anjali,raju,Anjali also escapes with Raju,71e9ba3aee094c0fad0561cdabebb4d8,4
+pappu,shyam,Pappu informs Shyam of the value of the guns,71e9ba3aee094c0fad0561cdabebb4d8,4
+pappu,baburao,Pappu also informs Baburao of the value of the guns,71e9ba3aee094c0fad0561cdabebb4d8,4
+raju,antique guns,"Raju attempts to throw away the antique guns, not knowing their value",71e9ba3aee094c0fad0561cdabebb4d8,4
+antique guns,bridge,The antique guns fall onto the broken part of the bridge,71e9ba3aee094c0fad0561cdabebb4d8,4
+raju,antique guns,"Raju reaches out to retrieve the antique guns again, while they ring",71e9ba3aee094c0fad0561cdabebb4d8,4
+pappu's mobile phone,raju,Raju discovers Pappu's mobile phone in the bag with the antique guns,71e9ba3aee094c0fad0561cdabebb4d8,4
+shyam,baburao,Shyam and Baburao desperately try to call Raju on Pappu's mobile phone,71e9ba3aee094c0fad0561cdabebb4d8,4
+hera pheri 3,sequel titled hera pheri 3,the production of Hera Pheri 3 was postponed after director Neeraj Vora died on 14 December 2017 after a prolonged illness.,097ff4d7aa1041b58d21959b3cf3edc2,4
+hera pheri 3,firoz nadiadwala,responded to the announcement of Hera Pheri 3,097ff4d7aa1041b58d21959b3cf3edc2,4
+hera pheri 3,indra kumar,will now be directed by Indra Kumar,097ff4d7aa1041b58d21959b3cf3edc2,4
+hera pheri 3,priyadarshan,will return as the director of the third,097ff4d7aa1041b58d21959b3cf3edc2,4
+hera pheri 3,second half of 2019,was confirmed to The Indian Express that the film will be ready for release in the second half of 2019 (but it didn't release in 2019),097ff4d7aa1041b58d21959b3cf3edc2,4

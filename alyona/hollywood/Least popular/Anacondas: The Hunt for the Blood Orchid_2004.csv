@@ -1,0 +1,54 @@
+node_1,node_2,edge,chunk_id,count
+anacondas,blood orchid,"The team of researchers is set for an expedition to search for the Blood Orchid, which they believe will bring humans to a longer and healthier life. The film 'Anacondas' follows this team as they become stalked and hunted by giant anacondas while on their mission.",45ba670fc60641f098df7c6e8f16d4ad,4
+southeast asian tropical island of borneo,giant anacondas,"The team of researchers travels to the Southeast Asian tropical island of Borneo to search for the Blood Orchid. While on their mission, they are hunted by the deadly giant anacondas that inhabit the island.",45ba670fc60641f098df7c6e8f16d4ad,4
+gordon mitchell,dr. jack byron,Gordon Mitchell and Dr. Jack Byron are both members of the team of researchers funded by New York pharmaceutical firm Wexel Hall who travel to Borneo to search for the Blood Orchid.,45ba670fc60641f098df7c6e8f16d4ad,4
+dr. jack byron,captain bill johnson,Dr. Jack Byron convinces Captain Bill Johnson and his partner Tran Wu to take an unsafe path despite their misgivings while the team is on their mission in Borneo.,45ba670fc60641f098df7c6e8f16d4ad,4
+sam rogers,gail stern,Sam Rogers and Gail Stern are both members of the team of researchers funded by New York pharmaceutical firm Wexel Hall who travel to Borneo to search for the Blood Orchid.,45ba670fc60641f098df7c6e8f16d4ad,4
+gordon mitchell,dr. ben douglas,Gordon Mitchell and Dr. Ben Douglas are both members of the team of researchers funded by New York pharmaceutical firm Wexel Hall who travel to Borneo to search for the Blood Orchid.,45ba670fc60641f098df7c6e8f16d4ad,4
+dr. jack byron,blood orchid,Dr. Jack Byron and the team of researchers funded by New York pharmaceutical firm Wexel Hall believe that the Blood Orchid contains a fountain of youth.,45ba670fc60641f098df7c6e8f16d4ad,4
+captain bill johnson,tran wu,Captain Bill Johnson and his partner Tran Wu are both guides who accompany the team of researchers funded by New York pharmaceutical firm Wexel Hall to Borneo.,45ba670fc60641f098df7c6e8f16d4ad,4
+gail stern,crocodile,Gail Stern falls into the water while on their mission in Borneo and is attacked by a crocodile before being rescued by Captain Bill Johnson.,45ba670fc60641f098df7c6e8f16d4ad,4
+anaconda,ben,A giant anaconda emerges from the water and swallows Ben.,fb01c8fc397b4f8aa92b479a9c7741da,4
+anaconda,gordon,An anaconda swallows Gordon alive as she informs the others.,fb01c8fc397b4f8aa92b479a9c7741da,4
+snake,ben,A giant snake emerges from the water and swallows Ben.,fb01c8fc397b4f8aa92b479a9c7741da,4
+snake,gordon,An anaconda swallows Gordon alive as she informs the others.,fb01c8fc397b4f8aa92b479a9c7741da,4
+expedition,ben,"The rest of the team reaches the shore. Bill assures them that it is the largest snake he has ever seen and that it should take weeks for it to grow hungry again. However, most of the team demands that the expedition be called off.",fb01c8fc397b4f8aa92b479a9c7741da,4
+expedition,gordon,"The rest of the team reaches the shore. Bill assures them that it is the largest snake he has ever seen and that it should take weeks for it to grow hungry again. However, most of the team demands that the expedition be called off.",fb01c8fc397b4f8aa92b479a9c7741da,4
+native village,disemboweled anaconda,"They find a small native village and a disemboweled anaconda, a pair of human legs hanging out of the snake's abdomen, and an orchid remaining.",fb01c8fc397b4f8aa92b479a9c7741da,4
+snake,livingston's boat,Livingston's boat wrecked,fb01c8fc397b4f8aa92b479a9c7741da,4
+orchids,food chain,"These snakes grow over unusually long lives. Jack realizes the orchids must be nearby, while Gail contends that the orchids may not work on humans.",fb01c8fc397b4f8aa92b479a9c7741da,4
+spider,gordon,Jack paralyzes Gordon using a previously collected spider to stop him from informing the others.,fb01c8fc397b4f8aa92b479a9c7741da,4
+jungle,raft,"The now-psychopathic Jack fails to convince [them] to continue with the expedition, so he paralyzes Gordon using a previously collected spider to stop him from informing the others. Jack joins the others at the raft, but a suspicious Sam discovers Gordon and the spider bite.",fb01c8fc397b4f8aa92b479a9c7741da,4
+jungle,raft,"Unable to make another raft, they hack through the jungle to beat Jack.",fb01c8fc397b4f8aa92b479a9c7741da,4
+radio,jack,Gordon discovers that Jack has hidden Livingston's radio and gun.,fb01c8fc397b4f8aa92b479a9c7741da,4
+fire,snake,escapes from while on fire,0fbfb86026414084943b79fe8cfba8b1,4
+jack,raft,steals,0fbfb86026414084943b79fe8cfba8b1,4
+group,orchids,hacks through jungle to beat Jack to and retrieves raft,0fbfb86026414084943b79fe8cfba8b1,4
+cole,anaconda,falls into cave trying to escape from,0fbfb86026414084943b79fe8cfba8b1,4
+tran,human skeletons,finds,0fbfb86026414084943b79fe8cfba8b1,4
+cole,tran,gets lost and finds,0fbfb86026414084943b79fe8cfba8b1,4
+bill,flashlight,finds floating in bloody water,0fbfb86026414084943b79fe8cfba8b1,4
+cole,snake,"escapes, seconds ahead of",0fbfb86026414084943b79fe8cfba8b1,4
+sam,snake,"captures, hysterical Cole escapes",0fbfb86026414084943b79fe8cfba8b1,4
+group,orchids,"finds Jack and his raft, Jack forces to accompany him to the orchids",0fbfb86026414084943b79fe8cfba8b1,4
+jack,others,shoots in response to threat of dropping flowers into pit,0fbfb86026414084943b79fe8cfba8b1,4
+group,orchids,fills backpack with,0fbfb86026414084943b79fe8cfba8b1,4
+sam,log,crosses via to fill backpack with orchids,0fbfb86026414084943b79fe8cfba8b1,4
+jack,snake,falls into pit and is devoured while trying to reach for the backpack,0fbfb86026414084943b79fe8cfba8b1,4
+group,orchids,climbs out of pit as one of the anacondas tries to get her,0fbfb86026414084943b79fe8cfba8b1,4
+gail,anaconda,tricks into biting their,0fbfb86026414084943b79fe8cfba8b1,4
+anacondas,blood orchids,The ensuing landslide buries the blood orchids after the survivors make it back to the raft and head to Kota Bharu.,05c6e1808f1242f483e7930bc2049636,4
+anacondas,sam,"The vine holding Sam also gives way, but she climbs out of the pit as one of the anacondas tries to get her.",05c6e1808f1242f483e7930bc2049636,4
+anacondas,gail,"Another anaconda tries to get Gail, but she tricks it into biting their fuel container.",05c6e1808f1242f483e7930bc2049636,4
+survivors,bill,"The survivors—Bill, Sam, Cole, and Gail—make it back to the raft and head to Kota Bharu.",05c6e1808f1242f483e7930bc2049636,4
+survivors,sam,Sam is one of the survivors.,05c6e1808f1242f483e7930bc2049636,4
+survivors,cole,Cole is one of the survivors.,05c6e1808f1242f483e7930bc2049636,4
+survivors,gail,Gail is one of the survivors.,05c6e1808f1242f483e7930bc2049636,4
+film,anacondas: the hunt for the blood orchid,"The film's title, 'Anacondas: The Hunt for the Blood Orchid', is mentioned in the context.",05c6e1808f1242f483e7930bc2049636,4
+film,debuted at second place in the box office,"The film's box office position, 'debuted at second place in the box office', is mentioned in the context.",05c6e1808f1242f483e7930bc2049636,4
+film,"earned $32,238,923 in the united states","The film's earnings in the US, '$32,238,923', is mentioned in the context.",05c6e1808f1242f483e7930bc2049636,4
+film,"earned $38,753,975 internationally","The film's earnings internationally, '$38,753,975', is mentioned in the context.",05c6e1808f1242f483e7930bc2049636,4
+film,released by varèse sarabande,"The film's soundtrack release, 'released by Varèse Sarabande', is mentioned in the context.",05c6e1808f1242f483e7930bc2049636,4
+character,matthew marsden,Roger Ebert praised Matthew Marsden's performance as being 'suitably treacherous',05c6e1808f1242f483e7930bc2049636,4
+razzie award,worst remake or sequel,"The film was nominated for a Razzie Award for Worst Remake or Sequel, but lost to Scooby-Doo 2: Monsters Unleashed.",eb43e8b89c38456eb9e0233702762962,4
+cinemascore,audiences,"Audiences polled by CinemaScore gave the film an average grade of ""B"" on an A+ to F scale.",eb43e8b89c38456eb9e0233702762962,4

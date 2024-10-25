@@ -1,0 +1,248 @@
+node_1,node_2,edge,chunk_id,count
+bohemian rhapsody,freddie mercury,"Biographical musical drama film that focuses on the life of Freddie Mercury, the lead singer of the British rock band Queen, from the formation of the band in 1970 to their 1985 Live Aid performance at the original Wembley Stadium.",c105e05ed22f4d60ba872e71730bac32,4
+freddie mercury,british rock band queen,Lead singer of the British rock band Queen,c105e05ed22f4d60ba872e71730bac32,4
+bohemian rhapsody,principal photography,"Biographical musical drama film based on the life of Freddie Mercury, lead singer of the British rock band Queen, which began in London in September 2017.",c105e05ed22f4d60ba872e71730bac32,4
+bryan singer,director,Directed Bohemian Rhapsody through most of principal photography.,c105e05ed22f4d60ba872e71730bac32,4
+dexter fletcher,director,"Hired to complete the film; Singer retained sole director credit as per Directors Guild of America guidelines, while Fletcher received an executive producer credit.",c105e05ed22f4d60ba872e71730bac32,4
+rami malek,freddie mercury,Stars in Bohemian Rhapsody as Freddie Mercury,c105e05ed22f4d60ba872e71730bac32,4
+lucy boynton,bohemian rhapsody,Appears in Bohemian Rhapsody.,c105e05ed22f4d60ba872e71730bac32,4
+gwilym lee,bohemian rhapsody,Portrays Queen guitarist Brian May in the film.,c105e05ed22f4d60ba872e71730bac32,4
+ben hardy,bohemian rhapsody,"Plays Roger Taylor, Queen's drummer and backup singer, in Bohemian Rhapsody.",c105e05ed22f4d60ba872e71730bac32,4
+joe mazzello,bohemian rhapsody,Portrays Queen's original bass guitarist Tim Staffell in the film.,c105e05ed22f4d60ba872e71730bac32,4
+aidan gillen,bohemian rhapsody,Plays Queen's manager Jim Beach in Bohemian Rhapsody.,c105e05ed22f4d60ba872e71730bac32,4
+tom hollander,bohemian rhapsody,Portrays Queen's attorney Jim Reavley in the film.,c105e05ed22f4d60ba872e71730bac32,4
+mike myers,bohemian rhapsody,Appears as an unnamed American record executive in Bohemian Rhapsody.,c105e05ed22f4d60ba872e71730bac32,4
+brian may,queen,"Founder member, lead guitarist, and songwriter for the British rock band Queen. Served as a consultant on Bohemian Rhapsody.",c105e05ed22f4d60ba872e71730bac32,4
+roger taylor,queen,"Founder member, drummer, and songwriter for the British rock band Queen. Served as a consultant on Bohemian Rhapsody.",c105e05ed22f4d60ba872e71730bac32,4
+regency enterprises,bohemian rhapsody,Production company that produced Bohemian Rhapsody.,c105e05ed22f4d60ba872e71730bac32,4
+gk films,bohemian rhapsody,Production company that produced Bohemian Rhapsody.,c105e05ed22f4d60ba872e71730bac32,4
+queen films,bohemian rhapsody,Production company that produced Bohemian Rhapsody.,c105e05ed22f4d60ba872e71730bac32,4
+20th century fox,bohemian rhapsody,Distributed Bohemian Rhapsody.,c105e05ed22f4d60ba872e71730bac32,4
+bohemian rhapsody,mixed reviews,The film received mixed reviews upon its release.,9ea82b05b57d4e0e9a7b719616440c16,4
+bohemian rhapsody,major box office success,"Despite some criticism, Bohemian Rhapsody became a major box office success, grossing over $910.8 million worldwide.",9ea82b05b57d4e0e9a7b719616440c16,4
+bohemian rhapsody,biographical genre,Bohemian Rhapsody set the all-time box office records for the biographical genre.,9ea82b05b57d4e0e9a7b719616440c16,4
+rami malek,best actor,"Malek won the Academy Award, Golden Globe and BAFTA for Best Actor for his performance in Bohemian Rhapsody.",9ea82b05b57d4e0e9a7b719616440c16,4
+bohemian rhapsody,singer's direction,The film's portrayal of Mercury and other personnel was criticized due to Singer's direction.,9ea82b05b57d4e0e9a7b719616440c16,4
+bohemian rhapsody,creative licence,The film's use of creative licence was also criticized.,9ea82b05b57d4e0e9a7b719616440c16,4
+musical sequences,bohemian rhapsody,The musical sequences in the film were particularly praised.,9ea82b05b57d4e0e9a7b719616440c16,4
+farrokh bulsara,queen,"In 1985, Farrokh Bulsara, also known as Freddie Mercury, performed with his band Queen at Live Aid. Fifteen years earlier, Farrokh worked as a baggage handler and lived with his family. He was attracted to Mary Austin, who worked at Biba, after seeing her boyfriend's band Smile perform in 1970. Farrokh joined Smile as the lead singer and new bassist John Deacon when their previous lead singer quit. With Farrokh's leadership, they played gigs across Britain and sold their van to finance a record album.",40cf52a2c57446b98a3a3b5a66bc2c44,4
+smile,farrokh bulsara,"In 1970, Farrokh was attracted to Mary Austin after seeing her boyfriend's band Smile perform. Seeking them out after the show, he met and was attracted to Mary Austin, who worked at the boutique Biba.",40cf52a2c57446b98a3a3b5a66bc2c44,4
+mary austin,farrokh bulsara,Farrokh sought out Mary Austin at Biba and they started dating in 1970.,40cf52a2c57446b98a3a3b5a66bc2c44,4
+emi,queen,An A&R rep from EMI asked engineer Roy Thomas Baker for demos of Queen's music in the context provided.,40cf52a2c57446b98a3a3b5a66bc2c44,4
+freddie,jim hutton,Freddie is attracted to waiter Jim Hutton at a lavish party and Jim advises Freddie to find him when he learns self-acceptance.,5a9fccb970744baa8c5d6a684d147a20,4
+paul,reid,"Paul encourages Reid to persuade Freddie to go solo, but when the idea offends Freddie, Paul feigns ignorance and Freddie fires Reid without consulting the band, increasing their strain.",5a9fccb970744baa8c5d6a684d147a20,4
+freddie,band,"Tensions arise between Freddie and the band, particularly Paul, as Freddie's influence on Freddie increases.",5a9fccb970744baa8c5d6a684d147a20,4
+freddie,mary,Freddie's relationship with Mary further deteriorates after she visits unexpectedly and urges him to return to Queen and participate in the benefit concert Live Aid.,5a9fccb970744baa8c5d6a684d147a20,4
+paul,freddie,"Realizing that Paul withheld news of Live Aid from him and has been a corrosive influence, Freddie fires Paul in retaliation for his going public about Freddie's sexual escapades.",5a9fccb970744baa8c5d6a684d147a20,4
+live aid,freddie,"Freddie returns to London and reconciles with the band, persuades them to play at Live Aid as a last-minute addition.",71320295b48c46dfa2b7ce28cf5b59b9,4
+live aid,band,The Band performs at Live Aid,71320295b48c46dfa2b7ce28cf5b59b9,4
+freddie,aids,Freddie learns that he has AIDS,71320295b48c46dfa2b7ce28cf5b59b9,4
+band,freddie's condition,The band learns of Freddie's condition,71320295b48c46dfa2b7ce28cf5b59b9,4
+band,sympathy,The Band shows sympathy towards Freddie's condition,71320295b48c46dfa2b7ce28cf5b59b9,4
+freddie,aids-related pneumonia,Freddie dies from AIDS-related pneumonia,71320295b48c46dfa2b7ce28cf5b59b9,4
+freddie,mary,Freddie remains friends with Mary,71320295b48c46dfa2b7ce28cf5b59b9,4
+freddie,jim hutton,Freddie has a loving relationship with Jim Hutton during the final years of his life,71320295b48c46dfa2b7ce28cf5b59b9,4
+freddie,"good thoughts, good words, good deeds","Freddie heeds his father's Zoroastrian maxim 'Good thoughts, good words, good deeds'",71320295b48c46dfa2b7ce28cf5b59b9,4
+live aid,performance,The Band performs at Live Aid,71320295b48c46dfa2b7ce28cf5b59b9,4
+freddie,songs,"Freddie and the band perform several hits including 'Bohemian Rhapsody', 'Radio Ga Ga', and 'We Are the Champions'",71320295b48c46dfa2b7ce28cf5b59b9,4
+live aid,donations,Freddie and the Band's performance at Live Aid helps increase donations,71320295b48c46dfa2b7ce28cf5b59b9,4
+band,solidarity,The band embraces in solidarity,71320295b48c46dfa2b7ce28cf5b59b9,4
+live aid,final years,Freddie's final years are recapped,71320295b48c46dfa2b7ce28cf5b59b9,4
+brian may,plans for a film about queen,May revealed plans for the film in September 2010.,397024d603ee471f847d03e9f7c9b44c,4
+freddie mercury,brian may,"Mercury was a member of Queen, alongside May.",397024d603ee471f847d03e9f7c9b44c,4
+graham king,plans for a film about queen,King was set to co-produce the film in 2010.,397024d603ee471f847d03e9f7c9b44c,4
+peter morgan,plans for a film about queen,Morgan was to write the screenplay for the film in 2010.,397024d603ee471f847d03e9f7c9b44c,4
+brian may,concerns focused on avoiding any harm to mercury's legacy,May expressed concerns about potentially damaging Mercury's legacy in April 2011.,397024d603ee471f847d03e9f7c9b44c,4
+sacha baron cohen,plans for a film about queen,Cohen was attached to play Freddie Mercury in the film in 2010.,397024d603ee471f847d03e9f7c9b44c,4
+brian may,approved of baron cohen as mercury,May approved of Cohen's casting as Mercury in April 2011.,397024d603ee471f847d03e9f7c9b44c,4
+sacha baron cohen,brian may,May suggested that Cohen's presence in the film would be distracting due to his reputation as a comedian and prankster in 2013.,397024d603ee471f847d03e9f7c9b44c,4
+sacha baron cohen,plans for a film about queen,Cohen left the project due to creative differences in July 2013.,397024d603ee471f847d03e9f7c9b44c,4
+queen,brian may and roger taylor,May and Roger Taylor suggested that Cohen's presence in the film would be distracting due to his reputation as a comedian and prankster in 2013.,397024d603ee471f847d03e9f7c9b44c,4
+sacha baron cohen,queen,"Cohen left the project on good terms, according to May in 2013.",397024d603ee471f847d03e9f7c9b44c,4
+brian may,concerns focused on avoiding any harm to mercury's legacy,May's concerns about potentially damaging Mercury's legacy were sparked by Baron Cohen's involvement in the project.,397024d603ee471f847d03e9f7c9b44c,4
+sacha baron cohen,concerns focused on avoiding any harm to mercury's legacy,"Cohen's creative differences with Queen involved issues over the subject and events of the film, as well as artistic disagreements over the composition of the production team.",397024d603ee471f847d03e9f7c9b44c,4
+mercury,baron cohen,"In December 2013, Baron Cohen was mentioned as a possible replacement to play Mercury.",f9bceb053dde4a70a1671e18941900c2,4
+mercury,ben whishaw,"Following Baron Cohen's departure, in December 2013, Ben Whishaw was mentioned as a possible replacement to play Mercury.",f9bceb053dde4a70a1671e18941900c2,4
+fletcher,king,Creative disagreements with King led to Dexter Fletcher removing himself from the project early the following year.,f9bceb053dde4a70a1671e18941900c2,4
+whishaw,bohemian rhapsody,"In August 2014, Whishaw suggested that the film was not progressing well and that there had been scripting problems.",f9bceb053dde4a70a1671e18941900c2,4
+whishaw,baron cohen,"Rumours followed in 2015 that Baron Cohen had rejoined the project, or that Whishaw might return.",f9bceb053dde4a70a1671e18941900c2,4
+mccarten,mercury,"Anthony McCarten became attached to the project in November 2015 and delivered his first draft in February 2016, developing a fresh take on the story from interviews with May and Taylor.",f9bceb053dde4a70a1671e18941900c2,4
+singer,bohemian rhapsody,"Bryan Singer was in talks to take over as director in 2016, and the film was fast-tracked by 20th Century Fox and New Regency.",f9bceb053dde4a70a1671e18941900c2,4
+malek,mercury,Rami Malek was cast as Mercury in 2016.,f9bceb053dde4a70a1671e18941900c2,4
+flynn,taylor,It was reported in 2015 that Johnny Flynn was due to play Roger Taylor.,f9bceb053dde4a70a1671e18941900c2,4
+arterton,mary austin,Gemma Arterton was reported in 2015 to play Mercury's partner Mary Austin.,f9bceb053dde4a70a1671e18941900c2,4
+freddie mercury,abbey road studios,"In May 2017, Malek confirmed that he had conducted recordings at Abbey Road Studios",47563b2ab3a54a0c86b64c98233b2940,4
+freddie mercury,rami malek,"Rami Malek was announced to star as Freddie Mercury on 4 November 2016, after the producers saw his work in Mr. Robot",47563b2ab3a54a0c86b64c98233b2940,4
+freddie mercury,pre-recording,"In May 2017, Malek had to make a pre-recording at Abbey Road Studios, which was sent to Queen members for approval",47563b2ab3a54a0c86b64c98233b2940,4
+roger taylor,ben hardy,"On 21 August 2017, it was announced that Ben Hardy would play Roger Taylor in the film",47563b2ab3a54a0c86b64c98233b2940,4
+brian may,gwilym lee,"On 21 August 2017, it was announced that Gwilym Lee would play Brian May in the film",47563b2ab3a54a0c86b64c98233b2940,4
+john deacon,joseph mazzello,"On 21 August 2017, it was announced that Joseph Mazzello would play John Deacon in the film",47563b2ab3a54a0c86b64c98233b2940,4
+paul prenter,allen leech,"On 30 August 2017, it was reported that Allen Leech had been cast to play Mercury's personal manager, Paul Prenter",47563b2ab3a54a0c86b64c98233b2940,4
+lucy boynton,"mercury's long-term girlfriend, mary austin","Lucy Boynton was cast to play Mercury's long-term girlfriend, Mary Austin, in the biopic on 6 September 2017.",d0cb5d52edfd4c7dae1cd30ae342a8df,4
+mike myers,emi executive ray foster,"On 11 September 2017, Mike Myers joined the cast to play EMI executive Ray Foster in the biopic.",d0cb5d52edfd4c7dae1cd30ae342a8df,4
+aidan gillen,john reid,"On 26 September 2017, it was announced that Aidan Gillen had been cast as John Reid, Queen's second manager, from 1975 to 1978, who took over from Norman Sheffield of Trident Studios; in the biopic.",d0cb5d52edfd4c7dae1cd30ae342a8df,4
+tom hollander,jim beach,"On 26 September 2017, it was announced that Tom Hollander was set to play Jim Beach, Queen's third manager, who took over from John Reid in 1978; in the biopic.",d0cb5d52edfd4c7dae1cd30ae342a8df,4
+live aid performance,raf bovingdon,The entire Live Aid performance was filmed on a giant set at the former airfield RAF Bovingdon.,4b91cf7cfa8f42f9b1f771ee21cce071,4
+principal photography,london,Principal photography commenced in London in September 2017.,4b91cf7cfa8f42f9b1f771ee21cce071,4
+pre-production,july 2017,Pre-production began in July 2017 in the United Kingdom.,4b91cf7cfa8f42f9b1f771ee21cce071,4
+queen archivist,greg brooks,"Queen archivist Greg Brooks was instrumental in helping recreate each scene to make it as true to life as possible. He worked daily with Fox for months from the beginning, providing answers to questions.",4b91cf7cfa8f42f9b1f771ee21cce071,4
+scanning,about a hundred extras,"There were about a hundred extras, who were all individually scanned 360° and digitally replicated to imitate a larger crowd.",4b91cf7cfa8f42f9b1f771ee21cce071,4
+live aid performance,we will rock you,"In the final cut ""We Will Rock You"" was cut out.",4b91cf7cfa8f42f9b1f771ee21cce071,4
+live aid performance,crazy little thing called love,"In the final cut ""Crazy Little Thing Called Love"" was cut out.",4b91cf7cfa8f42f9b1f771ee21cce071,4
+malek,queen,"Malek was contacted about playing Mercury, a member of Queen. To embody Mercury, Malek had to work with a movement coach and learn about Queen as he only had a casual knowledge of them.",853a83c4bbd344fa8e217217d4eb196b,4
+mercury,queen,"Malek played Mercury, the lead vocalist and frontman of Queen. Malek's protruding teeth were crafted to resemble Mercury's as he worked with a movement coach to embody him.",853a83c4bbd344fa8e217217d4eb196b,4
+mercury,liza minnelli,"Malek and his movement coach watched footage of Liza Minnelli, who was an inspiration to Mercury's stage moves.",853a83c4bbd344fa8e217217d4eb196b,4
+malek,singing lessons,Malek took singing lessons to prepare for the role.,853a83c4bbd344fa8e217217d4eb196b,4
+malek,piano lessons,Malek also took piano lessons as part of his preparation.,853a83c4bbd344fa8e217217d4eb196b,4
+malek,accent coach,Malek worked with an accent coach to help him accurately portray Mercury's speech patterns.,853a83c4bbd344fa8e217217d4eb196b,4
+freddie mercury,queen super-fan,"After finishing the film, Malek became a 'Queen super-fan', having developed a deep admiration for Mercury and his talents.",853a83c4bbd344fa8e217217d4eb196b,4
+malek,singing stems from queen songs,"While Malek sang some parts in the film, producers also inserted vocal stems from Queen songs as well as filling in parts with Canadian vocalist Marc Martel.",853a83c4bbd344fa8e217217d4eb196b,4
+bryan singer,personal health matter concerning bryan and his family,Singer's absence was reportedly due to 'a personal health matter concerning Bryan and his family',61b64588d07a4c66bc2e6cf8b3704c77,4
+bryan singer,mother,"With under three weeks left on the shoot, Singer requested a filming hiatus as his mother was extremely ill.",61b64588d07a4c66bc2e6cf8b3704c77,4
+bryan singer,crew,"Tired of Singer's behaviour, who was reportedly arriving late to set and clashing with Malek, the crew had grown tired of Singer.",61b64588d07a4c66bc2e6cf8b3704c77,4
+dexter fletcher,replacement for bryan singer,Dexter Fletcher was announced as Singer's replacement,61b64588d07a4c66bc2e6cf8b3704c77,4
+gwilym lee,film,"On 30 January 2018, Gwilym Lee posted to social media that filming had finished.",c62633e019e949d7adcc1858cd50d749,4
+dneg,visual effects,Visual effects were provided by DNEG and supervised by Paul Norris.,c62633e019e949d7adcc1858cd50d749,4
+bryan singer,director,"Only one director can be named for a film, and the DGA has sole control over who that will be.",c62633e019e949d7adcc1858cd50d749,4
+bohemian rhapsody,film,Bohemian Rhapsody is the name of the finished film.,c62633e019e949d7adcc1858cd50d749,4
+bryan singer,"hired cast, crew and shot most of the film","Bryan Singer had hired the cast, crew and shot most of the film.",c62633e019e949d7adcc1858cd50d749,4
+dexter fletcher,replaced bryan singer with two weeks left in the production,Dexter Fletcher replaced Bryan Singer with two weeks left in the production.,c62633e019e949d7adcc1858cd50d749,4
+bryan singer,received directing credit on the finished film,Producer Graham King announced in June 2018 that Bryan Singer would receive the directing credit on the finished film.,c62633e019e949d7adcc1858cd50d749,4
+dexter fletcher,executive producer credit,Dexter Fletcher received an executive producer credit.,c62633e019e949d7adcc1858cd50d749,4
+john ottman,edited the film's soundtrack,"John Ottman, a frequent collaborator of Singer, edited the film's soundtrack.",c62633e019e949d7adcc1858cd50d749,4
+queen,contributed previously unreleased recordings to the official soundtrack album,"The official soundtrack album contains several Queen hits and 11 previously unreleased recordings, including five tracks from their 21-minute Live Aid performance in July 1985.",c62633e019e949d7adcc1858cd50d749,4
+hollywood records,released the official soundtrack album,"The official soundtrack album was released by Hollywood Records and Virgin EMI Records on CD, cassette and digital formats on 19 October 2018.",c62633e019e949d7adcc1858cd50d749,4
+bohemian rhapsody,london,"The world premiere of Bohemian Rhapsody took place in London at Wembley Arena, on 23 October 2018.",5260a4589a9e487091b78757a3b788c0,4
+bohemian rhapsody,united kingdom,"It was released in the United Kingdom on 24 October 2018 in IMAX,",5260a4589a9e487091b78757a3b788c0,4
+bohemian rhapsody,united states,by 20th Century Fox. The film had previously been scheduled for release on 25 December 2018.,5260a4589a9e487091b78757a3b788c0,4
+bohemian rhapsody,john ottman,"In November 2018, John Ottman announced in an interview that an extended version of the film with cut-out scenes may be released,",5260a4589a9e487091b78757a3b788c0,4
+bohemian rhapsody,united kingdom,"On 1 January 2019, it was announced that there would be special sing-along screenings simultaneously in cinemas across the United Kingdom,",5260a4589a9e487091b78757a3b788c0,4
+bohemian rhapsody,leicester square's prince charles cinema,with the first screening at Leicester Square's Prince Charles Cinema with others on 11 January 2019.,5260a4589a9e487091b78757a3b788c0,4
+bohemian rhapsody,south korea,There were also many sing-along screenings in South Korea and Japan.,5260a4589a9e487091b78757a3b788c0,4
+china,bohemian rhapsody,"In China, the film had a limited release on 22 March 2019.",5260a4589a9e487091b78757a3b788c0,4
+china,bohemian rhapsody,"Three minutes of the film was censored,",5260a4589a9e487091b78757a3b788c0,4
+china,freddie mercury,including scenes depicting drugs and homosexuality.,5260a4589a9e487091b78757a3b788c0,4
+rami malek,freddie mercury,"Part of Rami Malek's Oscar speech, where he referred to Freddie Mercury as ""a gay man, an immigrant,"" was also censored in China.",5260a4589a9e487091b78757a3b788c0,4
+rami malek,egypt,"In Egypt, the film was subjected to several cuts before it was permitted to be screened. This suggests a relationship between Rami Malek and Egypt, as Malek is of Egyptian descent and the fact that his Oscar win for Bohemian Rhapsody drew congratulations from Egyptian media and government figures indicates some level of association or recognition between Malek and Egypt.",71f53cfbc9284057b705e1018aefa226,4
+egypt,homosexuality,"However, Neela Ghoshal of Human Rights Watch stated that the country deserved 'an Oscar for hypocrisy' given its prohibition on homosexuals appearing in the media. This implies a relationship between Egypt and homosexuality, as their prohibition against the representation of homosexuality in the media suggests a certain perspective or stance regarding homosexuality.",71f53cfbc9284057b705e1018aefa226,4
+rami malek,homosexuality,"Member of Parliament Mohamed Ismail criticised Malek's win, stating: 'He is trying to [spread] homosexuality among the youth... The award has a specific goal, which is to corrupt morality in the Arab world. Rami Malek is a bad example.' This suggests a relationship between Malek and homosexuality, as his recognition for Bohemian Rhapsody appears to have drawn criticism from certain individuals due to its association with homosexuality.",71f53cfbc9284057b705e1018aefa226,4
+rami malek,corruption of morality,"Member of Parliament Mohamed Ismail criticised Malek's win, stating: 'He is trying to [spread] homosexuality among the youth... The award has a specific goal, which is to corrupt morality in the Arab world.' This implies a relationship between Malek and the corruption of morality, as his recognition for Bohemian Rhapsody appears to have drawn criticism due to its perceived association with the corruption of morality.",71f53cfbc9284057b705e1018aefa226,4
+20th century fox home entertainment,rami malek,"The home release includes an extended version of the Live Aid sequence, a 16-minute featurette, a 22-minute documentary, and trailers. This suggests a relationship between 20th Century Fox Home Entertainment and Rami Malek, as his involvement in Bohemian Rhapsody appears to have led to additional content being included in the home release.",71f53cfbc9284057b705e1018aefa226,4
+united kingdom,avengers: infinity war,"In the United Kingdom, it surpassed Avengers: Infinity War to become the fastest-selling digital download film of all time",3d1af0ef4fd64c8c9ce33645105411d3,4
+united kingdom,digital download,"In the United Kingdom, 'Bohemian Rhapsody' sold 265,000 downloads in eight days, becoming the fastest-selling digital download film of all time",3d1af0ef4fd64c8c9ce33645105411d3,4
+united states,blu-ray disc,"73% of unit sales in the first week were on Blu-ray Disc, in the United States",3d1af0ef4fd64c8c9ce33645105411d3,4
+bohemian rhapsody,dvd sales,"As of 6 December 2019[update], 'Bohemian Rhapsody' generated over $49.6 million in home video sales in the United States and Canada, including $19,333,115 in DVD sales",3d1af0ef4fd64c8c9ce33645105411d3,4
+bohemian rhapsody,blu-ray sales,"As of 6 December 2019[update], 'Bohemian Rapsody' generated over $49.6 million in home video sales in the United States and Canada, including $41,562,971 in Blu-ray sales",3d1af0ef4fd64c8c9ce33645105411d3,4
+first trailer,youtube,"The first trailer for 'Bohemian Rhapsody' was released on 15 May 2018 and with more than 5 million views in the first 24 hours, it was the top trending video on YouTube",3d1af0ef4fd64c8c9ce33645105411d3,4
+queen,billboard hot rock songs chart,"With the release of the trailer, Queen reached three of the top 20 positions on the Billboard Hot Rock Songs chart: 'Bohemian Rhapsody', 'Another One Bites the Dust' and 'We Are the Champions'",3d1af0ef4fd64c8c9ce33645105411d3,4
+studio,promotion,The studio spent $121 million promoting the film,3d1af0ef4fd64c8c9ce33645105411d3,4
+bohemian rhapsody,rami malek,"Rami Malek portrayed Freddie Mercury in the biographical drama film Bohemian Rhapsody, which grossed $910.8 million worldwide against a production budget of about $52 million.",35c0328b22354b9ebd81e002b8e96204,4
+bohemian rhapsody,graham king,"Producer Graham King was involved in the making of Bohemian Ripsody, which grossed $910.8 million worldwide against a production budget of about $52 million.",35c0328b22354b9ebd81e002b8e96204,4
+bohemian rhapsody,brian may and roger taylor,"Musicians Brian May and Roger Taylor appeared in an early showing of the film Bohemian Rhapsody, which grossed $910.8 million worldwide against a production budget of about $52 million.",35c0328b22354b9ebd81e002b8e96204,4
+bohemian rhapsody,barcelona,"An early showing of the film Bohemian Rhapsody closed the show at CineEurope in Barcelona, which grossed $910.8 million worldwide against a production budget of about $52 million.",35c0328b22354b9ebd81e002b8e96204,4
+bohemian rhapsody,$216.7 million,"Bohemian Rhapsody grossed $216.7 million in the United States and Canada, which is a component of its worldwide gross of $910.8 million against a production budget of about $52 million.",35c0328b22354b9ebd81e002b8e96204,4
+bohemian rhapsody,$694.1 million,"Bohemian Ripsody grossed $694.1 million in other territories, which is a component of its worldwide gross of $910.8 million against a production budget of about $52 million.",35c0328b22354b9ebd81e002b8e96204,4
+straight outta compton,$201.6 million,Bohemian Rhapsody surpassed Straight Outta Compton's ($201.6 million) to become the highest-grossing musical biopic of all-time.,35c0328b22354b9ebd81e002b8e96204,4
+bohemian rhapsody,$910.8 million,Bohemian Rhapsody grossed a total worldwide gross of $910.8 million against a production budget of about $52 million.,35c0328b22354b9ebd81e002b8e96204,4
+bohemian rhapsody,$52 million,Bohemian Rhapsody was produced with a budget of approximately $52 million.,35c0328b22354b9ebd81e002b8e96204,4
+bohemian rhapsody,the nutcracker and the four realms,Competitors for box office in the United States and Canada on opening weekend,8a4f0820ea95401888d086218204fc77,4
+bohemian rhapsody,nobody's fool,Competitors for box office in the United States and Canada on opening weekend,8a4f0820ea95401888d086218204fc77,4
+bohemian rhapsody,the grinch,Competed against for box office in second and third weekends,8a4f0820ea95401888d086218204fc77,4
+bohemian rhapsody,fantastic beasts: the crimes of grindelwald,Competitors for box office in third weekend,8a4f0820ea95401888d086218204fc77,4
+united kingdom,bohemian rhapsody,Setting for preview screenings and initial box office success,8a4f0820ea95401888d086218204fc77,4
+united states and canada,bohemian rhapsody,Setting for release alongside other movies and initial box office success,8a4f0820ea95401888d086218204fc77,4
+film,highest grossing musical biopic in the united states,"After surpassing Straight Outta Compton, the film crossed the $162 million mark at the domestic box office, making it the highest grossing musical biopic in the United States.",453aff7c6fd54fc4948210dc1dfe3257,4
+film,fourth weekend,"In its fourth weekend, the film made $13.8 million.",453aff7c6fd54fc4948210dc1dfe3257,4
+film,fifth,"In its fifth weekend, the film finished fifth.",453aff7c6fd54fc4948210dc1dfe3257,4
+film,thanksgiving frame,The film made $19.3 million over the five-day Thanksgiving frame.,453aff7c6fd54fc4948210dc1dfe3257,4
+box office,highest grossing musical biopic in the united states,"The film passed $162 million at the domestic box office, surpassing Straight Outta Compton as the highest grossing musical biopic in the United States.",453aff7c6fd54fc4948210dc1dfe3257,4
+box office,200 million mark,"In its 12th weekend of release, following the announcement of its five Oscar nominations, the film crossed the $200 million mark.",453aff7c6fd54fc4948210dc1dfe3257,4
+theaters,246,"In the film's 13th week of release, following the announcement of its five Oscar nominations, it was added back to an additional 246 theatres (for a total of 1,423).",453aff7c6fd54fc4948210dc1dfe3257,4
+theaters,199,"In its 10th weekend of release the film was added to 199 theatres over the previous week for a total of 1,080.",453aff7c6fd54fc4948210dc1dfe3257,4
+week,13th,"In the film's 13th week of release, following the announcement of its five Oscar nominations,",453aff7c6fd54fc4948210dc1dfe3257,4
+week,12th,"In its 12th weekend of release,",453aff7c6fd54fc4948210dc1dfe3257,4
+week,10th,"In its 10th weekend of release,",453aff7c6fd54fc4948210dc1dfe3257,4
+international box office,film,"The film topped the worldwide box office in its second weekend of international release, grossing $72.5 million.",b5133a37e7a048709c7fa5bed26a04c7,4
+france,international markets,"In its second weekend of international release, the film grossed $7.7 million in France.",b5133a37e7a048709c7fa5bed26a04c7,4
+mexico,international markets,The film grossed $5.8 million in Mexico during its second weekend of international release.,b5133a37e7a048709c7fa5bed26a04c7,4
+germany,international markets,"During its second weekend of international release, the film earned $5.7 million in Germany.",b5133a37e7a048709c7fa5bed26a04c7,4
+australia,international markets,The film made $5.7 million during its second weekend of international release in Australia.,b5133a37e7a048709c7fa5bed26a04c7,4
+uk,international markets,"As of the fourth weekend of international release, the film had grossed $45.3 million in the UK, surpassing La La Land.",b5133a37e7a048709c7fa5bed26a04c7,4
+south korea,international markets,"Through four weekends of international release, the film's largest market was South Korea with $24.5 million in earnings.",b5133a37e7a048709c7fa5bed26a04c7,4
+france,largest markets,"The film had earned $18.38 million in France, making it the third largest market behind the UK and South Korea.",b5133a37e7a048709c7fa5bed26a04c7,4
+australia,largest markets,"As of the fourth weekend of international release, the film had grossed $16.8 million in Australia, making it the fifth largest market.",b5133a37e7a048709c7fa5bed26a04c7,4
+bohemian rhapsody,japan,"The film became the biggest 2018 release in Japan, grossing $88.6 million as of January 20, 2019, and surpassed Beauty and the Beast (2017) to become the highest-grossing live-action musical film in Japan with 9 million tickets sold and a total gross of ¥12.7 billion ($115 million).",13ce725ab87c4ea781c8356aa9b7c06b,4
+bohemian rhapsody,south korea,"The film debuted at number two in South Korea and became the sixth highest-grossing foreign film ever in the country with nearly 10 million tickets sold, grossing $77 million as of February 1, 2019.",13ce725ab87c4ea781c8356aa9b7c06b,4
+bohemian rhapsody,italy,"As of January 20, 2019, the film had grossed $30.5 million in Italy.",13ce725ab87c4ea781c8356aa9b7c06b,4
+bohemian rhapsody,netherlands,"As of January 20, 2019, the film had grossed $19.3 million in the Netherlands.",13ce725ab87c4ea781c8356aa9b7c06b,4
+bohemian rhapsody,film,Bohemian Rhapsody is a film.,b9032426dc77459dac5127e2a2d85398,4
+bohemian rhapsody,spain,"Bohemian Rhapsody grossed $29.4 million in Spain as of February 3, 2019.",b9032426dc77459dac5127e2a2d85398,4
+bohemian rhapsody,russia,"Bohemian Rhapsody grossed $16.4 million in Russia as of February 3, 2019.",b9032426dc77459dac5127e2a2d85398,4
+bohemian rhapsody,brazil,"Bohemian Rhapsody grossed $14.4 million in Brazil as of February 3, 2019.",b9032426dc77459dac5127e2a2d85398,4
+rotten tomatoes,bohemian rhapsody,Bohemian Rhapsody has an approval rating of 60% on Rotten Tomatoes based on 419 reviews.,b9032426dc77459dac5127e2a2d85398,4
+rotten tomatoes,average rating,Bohemian Rhapsody has an average rating of 6.1/10 on Rotten Tomatoes based on 419 reviews.,b9032426dc77459dac5127e2a2d85398,4
+rotten tomatoes,critical consensus,"The critical consensus for Bohemian Rhapsody on Rotten Tomatoes reads: 'Bohemian Rhapsody hits a handful of high notes, but as an in-depth look at a beloved band, it offers more of a medley than a true greatest hits collection.'",b9032426dc77459dac5127e2a2d85398,4
+metacritic,bohemian rhapsody,Bohemian Rhapsody has a weighted average score of 49 out of 100 on Metacritic based on 50 critics.,b9032426dc77459dac5127e2a2d85398,4
+cinemascore,bohemian rhapsody,Audiences polled by CinemaScore gave Bohemian Rhapsody an average grade of 'A' on an A+ to F scale.,b9032426dc77459dac5127e2a2d85398,4
+posttrak,bohemian rapsody,"According to PostTrak, filmgoers gave Bohemian Rhapsody an 88% positive score and a 75% 'definite recommend'.",b9032426dc77459dac5127e2a2d85398,4
+bohemian rhapsody,freddie mercury's flamboyant rock-god bravura,Rami Malek does a commanding job of channeling Freddie Mercury's flamboyant rock-god bravura in the movie Bohemian Rhapsody.,67c4ef250aa743858206974335437cdf,4
+bohemian rhapsody,middle-of-the-road queen biopic,Bryan Singer's middle-of-the-road Queen biopic rarely lives up to the authenticity of its lead performance.,67c4ef250aa743858206974335437cdf,4
+freddie,brian may,"The movie Bohemian Rhapsody conflates events and reduces most of the surrounding characters, including Freddie's bandmate Brian May, to single dimensions.",67c4ef250aa743858206974335437cdf,4
+freddie mercury,live aid scenes,"The post-production special effects in Bohemian Rhapsody have done their job, making the live Aid scenes convincingly epic.",67c4ef250aa743858206974335437cdf,4
+malek,mercury,"Rami Malek oozes pure Mercury in Bohemian Rhapsody, according to Craig McLean's review for the Evening Standard.",67c4ef250aa743858206974335437cdf,4
+bohemian rhapsody,entertainment,"Bohemian Rhapsody is triumphant entertainment, says Craig McLean for the Evening Standard.",67c4ef250aa743858206974335437cdf,4
+malek,mercury's performance,"Bohemian Rhapsody's actors have done their job, particularly Rami Malek's performance as Mercury, according to Craig McLean for the Evening Standard.",67c4ef250aa743858206974335437cdf,4
+stephanie zacharek,quality-control experts,"Bohemian Rhapsody has more ragged energy than so many good movies, largely because of Rami Malek's performance as Mercury, according to Stephanie Zacharek for Time.",67c4ef250aa743858206974335437cdf,4
+malek,mercury,"Rami Malek's performance as Mercury has more ragged energy than so many good movies, according to Stephanie Zacharek for Time.",67c4ef250aa743858206974335437cdf,4
+bohemian rhapsody,mess,"Some of Bohemian Rhapsody's scenes connect awkwardly, like a gong, according to Stephanie Zacharek for Time.",67c4ef250aa743858206974335437cdf,4
+bohemian rhapsody,disaster and triumphs,"Bohemian Rhapsody hits every beat of disaster and triumphs squarely, according to Stephanie Zacharek for Time.",67c4ef250aa743858206974335437cdf,4
+malek,nerve endings,"Rami Malek's performance as Mercury has more ragged energy than so many good movies, largely because of his glitter and muscle and nerve endings, according to Stephanie Zacharek for Time.",67c4ef250aa743858206974335437cdf,4
+bohemian rhapsody,sensualists,"Bohemian Rhapsody is a movie for sensualists, not quality-control experts, according to Stephanie Zacharek for Time.",67c4ef250aa743858206974335437cdf,4
+bohemian rhapsody,flamboyant rock-god bravura,"Owen Gleiberman of Variety wrote that in Bohemian Rhapsody, 'Rami Malek does a commanding job of channeling Freddie Mercury's flamboyant rock-god bravura'.",67c4ef250aa743858206974335437cdf,4
+bohemian rhapsody,movie,Owen Gleiberman of Variety wrote about 'the movie Bohemian Rhapsody'.,67c4ef250aa743858206974335437cdf,4
+bohemian rhapsody,faithfully realistic portrayal,"Alexis Petridis described the portrayal of Mercury as ""sanitized"", stating that the film plays so fast and loose with the truth, leading to nitpicking over minor chronological errors that eventually results in jaw-dropping disbelief. This suggests a contrast between the movie's actual representation and what could be perceived as a more accurate or faithful portrayal.",b90885845c53479ca96311898b5826b5,4
+bohemian rhapsody,rock slog,"Steve Rose referred to the film as a ""rock slog"", implying that it may not be particularly dynamic or engaging compared to other movies in this genre.",b90885845c53479ca96311898b5826b5,4
+bohemian rhapsody,troubling moralistic subtext,"Guardian film critic Steve Rose described the movie's portrayal as having a ""troubling moralistic subtext"", suggesting that there might be some underlying messages or themes with potentially questionable implications.",b90885845c53479ca96311898b5826b5,4
+queen's music,unclassifiable,"David Ehrlich from IndieWire described Queen's music as ""unclassifiable"", suggesting that it does not easily fit into any particular musical genre or category.",b90885845c53479ca96311898b5826b5,4
+queen's music,trite and textbook,"David Ehrlich from IndieWire described the movie as a ""terribly embarrassing piece of revisionist history"", where Queen's music is characterized as ""trite and textbook"". This suggests that the movie might present a simplistic or formulaic portrayal of Queen's music, lacking in originality or depth.",b90885845c53479ca96311898b5826b5,4
+queen's music,legend,"David Ehrlich from IndieWire prioritized the ""legend"" over the truth when discussing Queen's music, indicating that there might be a tendency to romanticize or idealize their music or history.",b90885845c53479ca96311898b5826b5,4
+queen's music,actually representation,"Alexis Petridis from described the portrayal of Queen's music as ""sanitized"", suggesting that there might be a discrepancy between what is actually represented in the movie and the reality of their history or music.",b90885845c53479ca96311898b5826b5,4
+queen's music,truth,"David Ehrlich from IndieWire contrasted the ""legend"" with the ""truth"", implying that there might be differences or contradictions between what is generally known about Queen's music and history, and what is actually accurate.",b90885845c53479ca96311898b5826b5,4
+queen's music,far more interesting,"David Ehrlich from IndieWire suggested that the truth might be ""far more interesting"" than what is presented in the movie, implying that there might be additional or more intriguing details about Queen's music and history that are not portrayed accurately.",b90885845c53479ca96311898b5826b5,4
+bohemian rhapsody,predigested clichés,"Jasper Rees described Bohemian Rhapsody as ""a succession of predigested clichés""",c9f95d5b5ba24ba3a1ea0abeba34d467,4
+almost nothing happened the way it's being presented.,bohemian rhapsody,"Jasper Rees described Bohemian Rhapsody as ""a succession of predigested clichés"" and also mentioned that ""almost nothing happened the way it's being presented.""",c9f95d5b5ba24ba3a1ea0abeba34d467,4
+freddie mercury,homage to a showman,"The article mentioned that the film was ""more famine than feast"" and that this homage to a showman was more famine than feast when depicting Freddie Mercury.",c9f95d5b5ba24ba3a1ea0abeba34d467,4
+freddie mercury,cautious affection,"Olly Richards wrote that the film treated the life of Freddie Mercury with ""cautious affection""",c9f95d5b5ba24ba3a1ea0abeba34d467,4
+freddie mercury,real thing,Peter Travers said to put Malek 'high on the list for best film performances of 2018' and also mentioned that Malek 'digs so deep into the role that we can't believe we're not watching the real thing.',c9f95d5b5ba24ba3a1ea0abeba34d467,4
+bohemian rhapsody,salable pg-13 movie,"In struggling to make a salable PG-13 movie out of an R-rated rock life, Bohemian Rhapsody leaves you feeling that something essential and elemental is missing.",c9f95d5b5ba24ba3a1ea0abeba34d467,4
+bohemian rhapsody,r-rated rock life,"In struggling to make a salable PG-13 movie out of an R-rated rock life, Bohemian Rhapsody leaves you feeling that something essential and elemental is missing.",c9f95d5b5ba24ba3a1ea0abeba34d467,4
+bohemian rhapsody,rock life,"In struggling to make a salable PG-13 movie out of an R-rated rock life, Bohemian Rhapsody leaves you feeling that something essential and elemental is missing.",c9f95d5b5ba24ba3a1ea0abeba34d467,4
+bohemian rhapsody,salable pg-13 movie,"In struggling to make a salable PG-13 movie out of an R-rated rock life, Bohemian Rhapsody leaves you feeling that something essential and elemental is missing.",c9f95d5b5ba24ba3a1ea0abeba34d467,4
+bohemian rhapsody,elemental,"In struggling to make a salable PG-13 movie out of an R-rated rock life, Bohemian Rhapsody leaves you feeling that something essential and elemental is missing.",c9f95d5b5ba24ba3a1ea0abeba34d467,4
+bohemian rapsody,pg-13 movie,"In struggling to make a salable PG-13 movie out of an R-rated rock life, Bohemian Rhapsody leaves you feeling that something essential and elemental is missing.",c9f95d5b5ba24ba3a1ea0abeba34d467,4
+bohemian rhapsody,r-rated rock life,"In struggling to make a salable PG-13 movie out of an R-rated rock life, Bohemian Rhapsody leaves you feeling that something essential and elemental is missing.",c9f95d5b5ba24ba3a1ea0abeba34d467,4
+malek,mercury,"In this context, 'Malek' refers to the actor Rami Malek who played the role of Freddie Mercury in the film. The term 'Mercury' refers to the lead singer and songwriter of the band Queen, Freddie Mercury. In Dave Calhoun's review, he mentions that Malek delivers a 'filmed-stealing, possessed performance' as Mercury, making the other cast members seem like bit-part players.",2b6be3a9722441249059ac1c45ae7e1c,4
+mercury,queen tale,"In Calhoun's review, he highlights that while the film Bohemian Rhapsody portrays Mercury and Queen, it takes liberties with facts and chronology to present a 'messianic storyline'. This implies that there is some distance between the actual events of Mercury's life and what is depicted in the movie.",2b6be3a9722441249059ac1c45ae7e1c,4
+bohemian rhapsody,safe gloss,"Calhoun calls Bohemian Rhapsody 'uneven' but notes that Malek's performance keeps the film going. However, in another sentence, Calhoun mentions that the film's attitude towards sex and drugs is coy and uncomfortably close to small-world thinking. This suggests that while the movie portrays some aspects of Queen's history, it does not fully explore certain sensitive topics.",2b6be3a9722441249059ac1c45ae7e1c,4
+malek,toothy perfection,"In a review by Johnny Oleksinski for the New York Post, Malek's performance as Mercury is described as 'surface-level' with no substance. However, in another review by Soumya Srivastava of Hindustan Times, Malek's portrayal of Mercury is praised as 'played to a toothy perfection'. This highlights the subjective nature of film criticism and how opinions about an actor's performance can vary widely.",2b6be3a9722441249059ac1c45ae7e1c,4
+bohemian rhapsody,mercury's gay relationships,"The film received criticism for its portrayal of Mercury's gay relationships, as it consciously tries to position a gay man at its center while strategically disengaging with the 'gay' part as much as it can, flitting briefly over his emotional and sexual experiences and fixating on his platonic relationship with an ex-girlfriend instead.",8bd7b03076ad47b994b1c14696a91edb,4
+bohemian rhapsody,mary austin's relationship,"The film commits a significant amount of time to his relationship with Mary Austin and virtually none to any happy gay relationship, romantic or otherwise.",8bd7b03076ad47b994b1c14696a91edb,4
+bohemian rhapsody,freddie's life,"The film treats Freddie's life – his sexual-romantic identity, his loneliness, his reckless adventures in gay leather clubs – with kid-gloves reticence, so that even if the film isn't telling major lies, you don't feel you're fully touching the real story either.",8bd7b03076ad47b994b1c14696a91edb,4
+mercury's gay relationships,freddie's emotional and sexual experiences,"The film consciously tries to position a gay man at its center while strategically disengaging with the 'gay' part as much as it can, flitting briefly over his emotional and sexual experiences and fixating on his platonic relationship with an ex-girlfriend instead.",8bd7b03076ad47b994b1c14696a91edb,4
+mercury's gay relationships,happy gay relationship,"The film virtually ignores any happy gay relationship, romantic or otherwise.",8bd7b03076ad47b994b1c14696a91edb,4
+brian may,critics,Brian May responded to the critical reviews by stating that the 'mistake that critics made was reviewing the trailer instead of reviewing the film. They jumped to conclusions.' This statement suggests a criticism-defense relationship between May and critics.,c1b00f0f0ac143d59f6062f9c82f7f0e,4
+fraser nelson,critics,"Fraser Nelson wrote: 'Don't believe the critics. If you like Queen's music, see the Queen film.' This statement implies that Nelson is encouraging people to ignore negative reviews from critics.",c1b00f0f0ac143d59f6062f9c82f7f0e,4
+fraser nelson,snobby film critics,Toby Young described the film's success at the Academy Awards as 'a triumph over snobby film critics'. This statement suggests a contrast between Nelson's position and that of 'snobby film critics'.,c1b00f0f0ac143d59f6062f9c82f7f0e,4
+bohemian rhapsody,bryan singer,"The film, which has received multiple awards and nominations, was directed by Bryan Singer. However, in the wake of renewed sexual abuse allegations against him, GLAAD withdrew Bohemian Rhapsody's nomination for the year's GLAAD Media Award in the Outstanding Film – Wide Release category, and the British Academy of Film and Television Arts removed Singer's name from Bohemian Rhapsody's nomination for the BAFTA Award for Best British Film.",42b311836bd649aa92ceb6314c9bc449,4
+bohemian rhapsody,rami malek,Rami Malek won the Academy Award for Best Actor for his portrayal of Freddie Mercury in Bohemian Rhapsody.,42b311836bd649aa92ceb6314c9bc449,4
+bohemian rhapsody,best actor (rami malek),"The film, which has received multiple awards and nominations, won the Academy Award for Best Actor for Rami Malek's portrayal of Freddie Mercury in Bohemian Rhapsody.",42b311836bd649aa92ceb6314c9bc449,4
+bohemian rhapsody,best film editing,"The film, which has received multiple awards and nominations, won the Academy Award for Best Film Editing.",42b311836bd649aa92ceb6314c9bc449,4
+bohemian rhapsody,best sound editing,"The film, which has received multiple awards and nominations, won the Academy Award for Best Sound Editing.",42b311836bd649aa92ceb6314c9bc449,4
+bohemian rhapsody,best sound mixing,"The film, which has received multiple awards and nominations, won the Academy Award for Best Sound Mixing.",42b311836bd649aa92ceb6314c9bc449,4
+bohemian rhapsody,green book,"At the 91st Academy Awards, the film, which has received multiple awards and nominations, lost to Green Book for Best Picture.",42b311836bd649aa92ceb6314c9bc449,4
+bohemian rhapsody,glaad media award,"In the wake of renewed sexual abuse allegations against director Bryan Singer, GLAAD withdrew Bohemian Rhapsody's nomination for the year's GLAAD Media Award in the Outstanding Film – Wide Release category.",42b311836bd649aa92ceb6314c9bc449,4
+bohemian rhapsody,british academy of film and television arts,"In the wake of renewed sexual abuse allegations against director Bryan Singer, the British Academy of Film and Television Arts removed Singer's name from Bohemian Rhapsody's nomination for the BAFTA Award for Best British Film.",42b311836bd649aa92ceb6314c9bc449,4
+best editing,poor editing and continuity errors,The film received criticism for poor editing and continuity errors when it was nominated and won awards for Best Editing. This can be attributed to mixing scenes shot by different directors and responding to producers' notes and test audience feedback.,9d819be4bd9f477bb44ec6f0172d7cc3,4
+brian may,ideas for a sequel to bohemian rhapsody,"Guitarist Brian May revealed that there were ideas being thrown around for a sequel to Bohemian Rhapsody, but it could take years to get the screenplay right.",9d819be4bd9f477bb44ec6f0172d7cc3,4
+film,criticism for fictionalizing events in the band's career and mercury's personal life,"The film has been criticized for fictionalizing, exaggerating or rearranging events in the band's career and Mercury's personal life.",9d819be4bd9f477bb44ec6f0172d7cc3,4
+information is beautiful,79.9% accuracy when compared to real-life events,"The visual blog Information Is Beautiful deduced that, while taking creative licence into account, the film was 79.9% accurate when compared to real-life events.",9d819be4bd9f477bb44ec6f0172d7cc3,4

@@ -1,0 +1,192 @@
+node_1,node_2,edge,chunk_id,count
+fantastic four,marvel comics,Based on the Marvel Comics superhero team of the same name,595b0066627e49f18119374cdb90a000,4
+miles teller,intelligent teenagers,"Plays a role as one of the intelligent teenagers that build a transdimensional portal, causing them to gain superhuman abilities",595b0066627e49f18119374cdb90a000,4
+kate mara,intelligent teenagers,"Plays a role as one of the intelligent teenagers that build a transdimensional portal, causing them to gain superhuman abilities",595b0066627e49f18119374cdb90a000,4
+jamie bell,intelligent teenagers,"Plays a role as one of the intelligent teenagers that build a transdimensional portal, causing them to gain superhuman abilities",595b0066627e49f18119374cdb90a000,4
+toby kebbell,intelligent teenagers,"Plays a role as one of the intelligent teenagers that build a transdimensional portal, causing them to gain superhuman abilities",595b0066627e49f18119374cdb90a000,4
+josh trank,director,Was hired to direct Fantastic Four in July 2012,595b0066627e49f18119374cdb90a000,4
+fox executives,reshoots,Mandated reshoots for the film in January 2015 due to dissatisfaction with Trank's original cut,595b0066627e49f18119374cdb90a000,4
+"august 7, 2015",release date,Was the release date of Fantastic Four in the United States,595b0066627e49f18119374cdb90a000,4
+box-office bomb,fantastic four,Grossed $167.9 million worldwide against a production budget of $120 million,595b0066627e49f18119374cdb90a000,4
+golden raspberry awards,"worst director, worst picture","Received several Golden Raspberry Awards, including Worst Director and Worst Picture for Fantastic Four",595b0066627e49f18119374cdb90a000,4
+the film,fantastic four,The film was the third and final Fantastic Four film to be distributed by 20th Century Fox. This indicates that 'The film' refers to the movie series 'Fantastic Four'. The distribution of these films by 20th Century Fox further supports this relationship.,34c2242bf9d84016be58851d295a1ddf,4
+fantastic four,disney,"After the first film's failure, a sequel scheduled for release on June 9, 2017 was canceled. This suggests that Disney played a role in the cancellation of the sequel, since they acquired 20th Century Fox in 2019.",34c2242bf9d84016be58851d295a1ddf,4
+reed richards,ben grimm,Reed Richards and Ben Grimm have worked together on a prototype teleporter since youth. This implies that these two characters have collaborated for an extended period of time and are related through their joint work.,34c2242bf9d84016be58851d295a1ddf,4
+reed richards,professor franklin storm,"Reed was recruited to join Professor Franklin Storm's research institute, the Baxter Foundation. This indicates that Reed and Storm have a professional relationship.",34c2242bf9d84016be58851d295a1ddf,4
+storm's children,quantum gate,"Storm's children, scientist Sue Storm and engineer Johnny Storm, were working on completing the 'Quantum Gate'. This suggests that the 'Quantum Gate' is related to Sue and Johnny Storm's work.",34c2242bf9d84016be58851d295a1ddf,4
+victor von doom,quantum gate,Storm's protégé Victor Von Doom designed the 'Quantum Gate'. This implies that Von Doom is associated with the creation of this device.,34c2242bf9d84016be58851d295a1ddf,4
+fantastic four,baxter foundation,"Young prodigies were recruited into completing a 'Quantum Gate' designed by Storm's protégé Victor Von Doom at the Baxter Foundation, which is a government-sponsored research institute. This highlights that Fantastic Four members were associated with the Baxter Foundation.",34c2242bf9d84016be58851d295a1ddf,4
+marvel cinematic universe,the fantastic four: first steps,"Another reboot, titled The Fantastic Four: First Steps, is scheduled for release on July 25, 2025, as the first film in Phase Six of the Marvel Cinematic Universe. This suggests that 'The Fantastic Four: First Steps' is related to the Marvel Cinematic Universe franchise.",34c2242bf9d84016be58851d295a1ddf,4
+parallel dimension,planet zero,"The experiment is successful, and the facility's supervisor, Dr. Allen, plans to send a group from NASA to venture into a parallel dimension known as 'Planet Zero'.",e5f8605edfa04af786a58e7329a35bb4,4
+victor,parallel dimension,"Victor attempts to touch the green lava-like substance, causing the ground they are standing on to erupt. Reed, Johnny and Ben return to their shuttle just as Sue brings them back to Earth and Victor is seemingly killed after he falls into the collapsing landscape.",e5f8605edfa04af786a58e7329a35bb4,4
+green lava-like substance,parallel dimension,"Victor attempts to touch the green lava-like substance, causing the ground they are standing on to erupt. Reed, Johnny and Ben return to their shuttle just as Sue brings them back to Earth and Victor is seemingly killed after he falls into the collapsing landscape.",e5f8605edfa04af786a58e7329a35bb4,4
+superhuman abilities,quantum gate explosion,"The Quantum Gate explodes, altering Reed, Sue, Johnny and Ben on a genetic level and granting them superhuman abilities beyond their control: Reed can stretch like rubber, Sue can become invisible and generate force fields, Johnny can engulf his entire body in fire and fly, and Ben acquires a rock-like hide which gives him superhuman strength and durability.",e5f8605edfa04af786a58e7329a35bb4,4
+government custody,superhuman abilities,They are then placed in government custody to be studied and have their abilities tested.,e5f8605edfa04af786a58e7329a35bb4,4
+reed,cure,"Blaming himself for the accident, Reed escapes from the facility and tries to find a cure for their changes.",e5f8605edfa04af786a58e7329a35bb4,4
+reed,central america,Hiding in Central America,313cb767857245688420db3c21ede0b7,4
+reed,united states military,"Captured by Ben, who has become a military asset along with Johnny and Sue",313cb767857245688420db3c21ede0b7,4
+ben,johnny,Both have become military assets along with Sue,313cb767857245688420db3c21ede0b7,4
+johnny,sue,Both have been outfitted with specialized suits designed to help them control their abilities,313cb767857245688420db3c21ede0b7,4
+reed,area 57,Conscripted into rebuilding the Quantum Gate in exchange for resources to find a cure,313cb767857245688420db3c21ede0b7,4
+victor,planet zero,Found in Planet Zero and brought back to Earth by Dr. Allen's explorers,313cb767857245688420db3c21ede0b7,4
+victor,telekinetic abilities,Possesses telekinetic abilities after being fused to his spacesuit,313cb767857245688420db3c21ede0b7,4
+planet zero,earth,Believes that Earth needs to be destroyed to protect his new home world from future invasions,313cb767857245688420db3c21ede0b7,4
+dr. allen,scientists and soldiers in the base,Killed by Victor in Planet Zero,313cb767857245688420db3c21ede0b7,4
+professor storm,scientists and soldiers in the base,Killed by Victor in Planet Zero,313cb767857245688420db3c21ede0b7,4
+fantastic four,central city,The Fantastic Four are rewarded by the US military with a new base of operations called Central City to study their abilities without government interference.,5e77118363c342dca8d6624a19ea9441,4
+reed richards,mr. kenny,"Reed's teacher, Mr. Kenny, is portrayed by Dan Castellaneta in the context provided.",5e77118363c342dca8d6624a19ea9441,4
+reed richards,tim heidecker,"Reed's stepfather, Tim Heidecker, appears in the given context.",5e77118363c342dca8d6624a19ea9441,4
+reed richards,mary rachel dudley,"Reed's mother, Mrs. Richards, is portrayed by Mary Rachel Dudley in the provided context.",5e77118363c342dca8d6624a19ea9441,4
+ben grimm,jimmy grimm,"Ben Grimm's older brother, Jimmy Grimm, is played by Chet Hanks in the given context.",5e77118363c342dca8d6624a19ea9441,4
+science fair judges,wayne pere,Wayne Pere appears as one of the Science Fair Judges in the provided context.,5e77118363c342dca8d6624a19ea9441,4
+science fair judges,rhonda johnson dents,Rhonda Johnson Dents appears as another one of the Science Fair Judges in the given context.,5e77118363c342dca8d6624a19ea9441,4
+fantastic four comics,celebration,This Fantastic Four movie is sort of a celebration of all the Fantastic Four comics that have preceded it.,28c73c27e16e431eb7dfe59693dacb1b,4
+original fantastic four,optimism and inspirational quality to the film,We have elements from the original Fantastic Four that there's a sort of optimism and inspirational quality to the film.,28c73c27e16e431eb7dfe59693dacb1b,4
+original fantastic four,comedy,In some ways a comedy that was really distinct in the original Fantastic Four.,28c73c27e16e431eb7dfe59693dacb1b,4
+dysfunctional surrogate family,very present in the movie,"Also, the notion of this dysfunctional surrogate family that comes together and has to work together is very present in the movie",28c73c27e16e431eb7dfe59693dacb1b,4
+science adventure,scientists,"they are scientists and that it's almost like this science adventure, more than being superheroes...",28c73c27e16e431eb7dfe59693dacb1b,4
+fantastic four comics,science adventure,"We also owe a lot to the Fantastic Four comics for this idea that they are scientists and that it's almost like this science adventure, more than being superheroes...",28c73c27e16e431eb7dfe59693dacb1b,4
+fantastic four comics,debt,the movie owes a great debt to the originals,28c73c27e16e431eb7dfe59693dacb1b,4
+ultimate's,fantastic four comics,We also owe a lot to the Ultimate's [sic] and the current crop of Fantastic Four comics.,28c73c27e16e431eb7dfe59693dacb1b,4
+fantastic four comics,celebration,This Fantastic Four movie is sort of a celebration of all the Fantastic Four comics that have preceded it.,28c73c27e16e431eb7dfe59693dacb1b,4
+trank,slater,"Tonally opposite ideas for the movie, with Slater viewing The Avengers as a template but Trank hating all of his ideas. Trank left Slater out of discussions with Fox Studios and withheld certain studio notes.",c01e73b3f2ff4ae2ad4712083ad40057,4
+trank,fox studios,Withheld certain studio notes from them.,c01e73b3f2ff4ae2ad4712083ad40057,4
+slater,fox studios,Left after six months due to being left out of discussions with them.,c01e73b3f2ff4ae2ad4712083ad40057,4
+trank,cavalry fx,Hired them for the film's pre-visualization.,c01e73b3f2ff4ae2ad4712083ad40057,4
+kinberg,co-writer and producer,Hired in October 2013.,c01e73b3f2ff4ae2ad4712083ad40057,4
+millar,consultant for marvel comics–based films,Said that the film would take place in the same universe as X-Men film series.,c01e73b3f2ff4ae2ad4712083ad40057,4
+kinberg,contradicted millar's statement.,Regarding the film taking place in the same universe as X-Men film series.,c01e73b3f2ff4ae2ad4712083ad40057,4
+singer,confirmed talks of a potential crossover among fox.,According to Mark Millar's statement about the film being in the same universe as X-Men film series.,c01e73b3f2ff4ae2ad4712083ad40057,4
+trank,steven spielberg and tim burton,Overall tone of the film would feel like a 'cross between' them.,c01e73b3f2ff4ae2ad4712083ad40057,4
+cronenberg,trank,Heavily influenced by his work.,c01e73b3f2ff4ae2ad4712083ad40057,4
+scanners,trank,Influenced the look of the film.,c01e73b3f2ff4ae2ad4712083ad40057,4
+the fly,trank,Influenced the look of the film.,c01e73b3f2ff4ae2ad4712083ad40057,4
+kinberg,january 2014,"In January 2014, Kinberg finished rewriting the script",ea10ad17d08a45158cae1f0430bb36eb,4
+reed richards,kinberg,"January 2014, Kinberg finished rewriting the script, and casting for the roles of Reed Richards and Susan Storm began",ea10ad17d08a45158cae1f0430bb36eb,4
+susan storm,kinberg,"January 2014, Kinberg finished rewriting the script, and casting for the roles of Reed Richards and Susan Storm began",ea10ad17d08a45158cae1f0430bb36eb,4
+miles teller,reed richards,"Miles Teller, Kit Harington, Richard Madden, and Jack O'Connell were tested for the role of Reed",ea10ad17d08a45158cae1f0430bb36eb,4
+kit harington,reed richards,"Miles Teller, Kit Harington, Richard Madden, and Jack O'Connell were tested for the role of Reed",ea10ad17d08a45158cae1f0430bb36eb,4
+richard madden,reed richards,"Miles Teller, Kit Harington, Richard Madden, and Jack O'Connell were tested for the role of Reed",ea10ad17d08a45158cae1f0430bb36eb,4
+jack o'connell,reed richards,"Miles Teller, Kit Harington, Richard Madden, and Jack O'Connell were tested for the role of Reed",ea10ad17d08a45158cae1f0430bb36eb,4
+kate mara,susan storm,"Kate Mara, Saoirse Ronan, Margot Robbie, and Emmy Rossum were tested for Susan",ea10ad17d08a45158cae1f0430bb36eb,4
+saoirse ronan,susan storm,"Kate Mara, Saoirse Ronan, Margot Robbie, and Emmy Rossum were tested for Susan",ea10ad17d08a45158cae1f0430bb36eb,4
+margot robbie,susan storm,"Kate Mara, Saoirse Ronan, Margot Robbie, and Emmy Rossum were tested for Susan",ea10ad17d08a45158cae1f0430bb36eb,4
+emmy rossum,susan storm,"Kate Mara, Saoirse Ronan, Margot Robbie, and Emmy Rossum were tested for Susan",ea10ad17d08a45158cae1f0430bb36eb,4
+michael b. jordan,johnny storm / human torch,"In February, it was revealed that Michael B. Jordan would play Johnny Storm / Human Torch,",ea10ad17d08a45158cae1f0430bb36eb,4
+kate mara,susan storm,Married to Reed Richards and mother of Franklin and Valeria Richards,ea10ad17d08a45158cae1f0430bb36eb,4
+toby kebbell,victor von doom,"Toby Kebbell was cast as Victor von Doom,",ea10ad17d08a45158cae1f0430bb36eb,4
+jamie bell,ben grimm / the thing,Teller confirmed that Jamie Bell had been cast as Ben Grimm / The Thing.,ea10ad17d08a45158cae1f0430bb36eb,4
+sam riley,doctor doom,Madss Mikkelsen also auditioned for the role of Doom; Mikkelsen later stated that the only thing he was asked to do during his audition was stretch his arms as long as he could make them,ea10ad17d08a45158cae1f0430bb36eb,4
+eddie redmayne,doctor doom,"Sam Riley, Eddie Redmayne, and Domhnall Gleeson were considered for Doctor Doom.",ea10ad17d08a45158cae1f0430bb36eb,4
+domhnall gleeson,doctor doom,"Sam Riley, Eddie Redmayne, and Domhnall Gleeson were considered for Doctor Doom.",ea10ad17d08a45158cae1f0430bb36eb,4
+reg e. cathey,dr. storm,"Reg E. Cathey was cast as Susan's and Johnny's father, Dr. Storm",ea10ad17d08a45158cae1f0430bb36eb,4
+fantastic four,$155 million,The production budget for Fantastic Four was $155 million.,218e6390e42b42109563f182d18d9532,4
+fantastic four,"may 5, 2014","Principal photography for Fantastic Four commenced on May 5, 2014.",218e6390e42b42109563f182d18d9532,4
+fantastic four,"august 23, 2014","Principal photography for Fantastic Four ended on August 23, 2014.",218e6390e42b42109563f182d18d9532,4
+celtic media centre,fantastic four,"Principal photography for Fantastic Four took place at the Celtic Media Centre in Baton Rouge, Louisiana.",218e6390e42b42109563f182d18d9532,4
+$29.1 million,fantastic four,Fantastic Four received $29.1 million in tax incentives from the state.,218e6390e42b42109563f182d18d9532,4
+$97.4 million,fantastic four,"In total, Fantastic Four spent $97.4 million in Louisiana.",218e6390e42b42109563f182d18d9532,4
+"vancouver, canada",fantastic four,"The film was initially planned to be shot in Vancouver, Canada.",218e6390e42b42109563f182d18d9532,4
+louisiana,fantastic four,"However, the film was moved to Louisiana due to its film production tax incentives.",218e6390e42b42109563f182d18d9532,4
+matthew jensen,fantastic four,Matthew Jensen served as director of photography for Fantastic Four.,218e6390e42b42109563f182d18d9532,4
+trank,fox,multiple disagreements between Trank and Fox during production of the film.,93c3eff4ae914f0ab823c7bff3f30cb9,4
+fox's original changes,trank's original cut,"Fox ordered their own changes to the film without Trank's supervision, changing and omitting certain major plot points from Trank's version.",93c3eff4ae914f0ab823c7bff3f30cb9,4
+trank's version of the film,the finished film,"Trank posted a message on Twitter one day prior to the film's release that criticized the finished film. Expressing dissatisfaction towards the final product, he stated, ""A year ago I had a fantastic version of this. And it would've received great reviews. You'll probably never see it. That's reality though.""",93c3eff4ae914f0ab823c7bff3f30cb9,4
+trank,the finished film,deleted the message shortly after.,93c3eff4ae914f0ab823c7bff3f30cb9,4
+kebbell,trank's version of the film,"conversely stated, ""I tell you, the honest truth is [Trank] did cut a great film that you'll never see. That is a shame. A much darker version, and you'll never see it.""",93c3eff4ae914f0ab823c7bff3f30cb9,4
+fox distribution chief chris aronson,trank's version of the film,"claimed that Fox supported Trank's version of the film,",93c3eff4ae914f0ab823c7bff3f30cb9,4
+fantastic four,otoy,The film used the Los Angeles-based company OTOY for its visual effects.,4f56f137cfab42e59a24914583bf3ffa,4
+moving picture company,fantastic four,"Moving Pictures Company took on the visual effects for The Thing in the film, rendering a fully digital character based on Jamie Bell's on-set performance and the Human Torch's fiery visual effects.",4f56f137cfab42e59a24914583bf3ffa,4
+jamie bell,the thing,Moving Pictures Company rendered a fully digital character based on Jamie Bell's on-set performance in the film.,4f56f137cfab42e59a24914583bf3ffa,4
+human torch,fantastic four,The Moving Pictures Company worked on rendering the fiery visual effects for the Human Torch in the film.,4f56f137cfab42e59a24914583bf3ffa,4
+weta digital,fantastic four,Weta Digital handled Reed Richards' stretch effects in the film.,4f56f137cfab42e59a24914583bf3ffa,4
+susan storm,force-field,Pixomondo delivered Susan Storm's force-field effects in the film.,4f56f137cfab42e59a24914583bf3ffa,4
+cloaking,susan storm,Pixomondo also created cloaking effects for Susan Storm in the film.,4f56f137cfab42e59a24914583bf3ffa,4
+doom's costume,pixomondo,Augmented Doom's costume with effects delivered by Pixomondo in the film.,4f56f137cfab42e59a24914583bf3ffa,4
+morose tone,film,The studio was caught off-guard by the first cut of the film for having a 'morose tone'.,27a6d42d7fc747ce858a5e177109c2d0,4
+ending,film,"The ending had not been finalized and the studio hastily had to cobble together a new ending that was essentially composed of script pieces of the original draft, plus new ones that were being written on the day of reshoots.",27a6d42d7fc747ce858a5e177109c2d0,4
+original draft,new ending,"Many of Trank's suggestions were swiftly ignored. The new ending was essentially composed of script pieces of the original draft, plus new ones that were being written on the day of reshoots.",27a6d42d7fc747ce858a5e177109c2d0,4
+trank,film,Trank referred to editor Stephen E. Rivkin as the 'de facto director' for the new cut.,27a6d42d7fc747ce858a5e177109c2d0,4
+marco beltrami,film's score,"In January 2015, Marco Beltrami was hired to compose the film's score.",383e585fd8264be7a1be8474c0e83663,4
+philip glass,beltrami,Philip Glass was also hired to work on the score with Beltrami.,383e585fd8264be7a1be8474c0e83663,4
+miles hankins,beltrami,"Additional music contributions were made by Miles Hankins, Brandon Roberts, Marcus Trumpp, and Buck Sanders, with American hip-hop recording artist El-P scoring the end credits of the film.",383e585fd8264be7a1be8474c0e83663,4
+rm,digital single,"Kim Nam-joon, known as RM of the K-pop group BTS, and American recording artist Mandy Ventrice, worked on the digital single ""Fantastic"", which was released alongside the South Korean run of the film.",383e585fd8264be7a1be8474c0e83663,4
+beltrami,score's musical territory,"Beltrami described the score as ""eery"" and ""mysterious"", landing it in a ""musical territory leaning towards fantasy."" ",383e585fd8264be7a1be8474c0e83663,4
+soundtrack,positive response,"In spite of the film's extremely negative reception, the soundtrack still garnered a positive response.",383e585fd8264be7a1be8474c0e83663,4
+fantastic four,often-problematic property,The teaser trailer for Fantastic Four was released in January 2015 with a generally positive response. Graeme McMillan of The Hollywood Reporter called the trailer a 'surprisingly strong step in the right direction for a faithful adaptation of an often-problematic property.',181307a8583749ff9932a753fb72a19c,4
+fantastic four,marquee superhero movie,"Correspondents for Newsarama noted that there was 'nothing' in the trailer to characterize it as being based on the Fantastic Four, feeling it could have easily been a substitute for similar science fiction films such as 2014’s Interstellar.",181307a8583749ff9932a753fb72a19c,4
+teaser trailer,most-watched trailer,"The teaser trailer for Fantastic Four, released in January 2015, became the most-watched trailer in 20th Century Fox's history, surpassing the previous record-holder, 2014’s X-Men: Days of Future Past.",181307a8583749ff9932a753fb72a19c,4
+second trailer,amazing,The second trailer for the film was released in April 2015. Sean O'Connell of CinemaBlend called the trailer 'amazing' and said that it 'does a much better job of setting up everyone’s roles.',181307a8583749ff9932a753fb72a19c,4
+second trailer,approached with serious intent,Drew McWeeny of HitFix said the film 'looks like it was approached with serious intent' and that the scale 'feels positively intimate.',181307a8583749ff9932a753fb72a19c,4
+cast,presented footage from the film,"In the same month, the cast attended CinemaCon to present footage from the film, which also generated positive reviews.",181307a8583749ff9932a753fb72a19c,4
+fantastic four,williamsburg cinemas,"The world premiere of Fantastic Four was held at Williamsburg Cinemas in New York City on August 4, 2015.",faca5d5d8be64350849815b2436092ce,4
+fantastic four,north america,"Fantastic Four was released in North America on August 7, 2015, on 3,995 screens.",faca5d5d8be64350849815b2436092ce,4
+december 2012,fantastic four,"In December 2012, Fantastic Four was scheduled for March 6, 2015 release.",faca5d5d8be64350849815b2436092ce,4
+november 2013,fantastic four,"However, this release date was changed to June 19, 2015 in November 2013.",faca5d5d8be64350849815b2436092ce,4
+"august 7, 2015",fantastic four,"Eventually, Fantastic Four was released on August 7, 2015.",faca5d5d8be64350849815b2436092ce,4
+fantastic four,lowest openings for a big-budget superhero movie,"When asked by The New York Times to comment on the weekend box office results, Chris Aronson, Fox's president of domestic distribution said: ""There’s not much to say. I have never seen a confluence of events impact the opening of a movie so swiftly,"" referring to negative reviews and a renegade tweet by Trank that blamed the studio for the poor reviews.",c2ce107f2e034eb9aaea4b3d71d68d54,4
+fantastic four,poor critical reviews and audience reception,"The film made $25.6 million on its opening weekend, marking one of the lowest openings of all time for a big-budget superhero movie which box office analysts have attributed to poor critical reviews and audience reception.",c2ce107f2e034eb9aaea4b3d71d68d54,4
+fantastic four,mission: impossible – rogue nation,Fantastic Four came in second place behind Mission: Impossible – Rogue Nation ($28.5 million).,c2ce107f2e034eb9aaea4b3d71d68d54,4
+fantastic four,negative reviews and audience reception,"On its opening day, Fantastic Four earned $11.3 million (including Thursday's preview screenings), lower than early tracking,",c2ce107f2e034eb9aaea4b3d71d68d54,4
+fantastic four,chris aronson,"When asked by The New York Times to comment on the weekend box office results, Chris Aronson, Fox's president of domestic distribution said: ""There’s not much to say. I have never seen a confluence of events impact the opening of a movie so swiftly,"" referring to negative reviews and a renegade tweet by Trank that blamed the studio for the poor reviews.",c2ce107f2e034eb9aaea4b3d71d68d54,4
+fantastic four,renegade tweet by trank,"When asked by The New York Times to comment on the weekend box office results, Chris Aronson, Fox's president of domestic distribution said: ""There’s not much to say. I have never seen a confluence of events impact the opening of a movie so swiftly,"" referring to negative reviews and a renegade tweet by Trank that blamed the studio for the poor reviews.",c2ce107f2e034eb9aaea4b3d71d68d54,4
+fantastic four,2005's fantastic four,"In the United States and Canada, Fantastic Four was projected to take the top spot and earn around $40–50 million on its opening weekend, which would be lower than the opening weekend gross of 2005's Fantastic Four ($56.1 million)",c2ce107f2e034eb9aaea4b3d71d68d54,4
+fantastic four,2007's fantastic four: rise of the silver surfer,"In the United States and Canada, Fantastic Four was projected to take the top spot and earn around $40–50 million on its opening weekend, which would be lower than the opening weekend gross of 2007's Fantastic Four: Rise of the Silver Surfer ($58.1 million)",c2ce107f2e034eb9aaea4b3d71d68d54,4
+fantastic four,malware,"Peter Travers of Rolling Stone compared Fantastic Four to malware, calling it 'the cinematic equivalent'.",e8f3fa5f57774dabba4640d25ceba299,4
+fantastic four,worse than worthless,Peter Travers of Rolling Stone described Fantastic Four as 'worse than worthless'.,e8f3fa5f57774dabba4640d25ceba299,4
+fantastic four,aesthetically drab and dramatically inert,Jim Vejvoda of IGN criticized Fantastic Four as 'aesthetically drab and dramatically inert'.,e8f3fa5f57774dabba4640d25ceba299,4
+fantastic four,reshoots,"Jim Vejvoda of IGN criticized the film for its reshoots, which led to blatant continuity errors such as Mara's changing hair style and color and Teller's disappearing facial hair.",e8f3fa5f57774dabba4640d25ceba299,4
+fantastic four,blockbuster,Brian Lowry of Variety described Fantastic Four as 'less like a blockbuster for this age of comics-oriented tentpoles than it does another also-ran'.,e8f3fa5f57774dabba4640d25ceba299,4
+fantastic four,experiment that didn't gel,Brian Lowry of Variety called Fantastic Four 'an experiment that didn't gel'.,e8f3fa5f57774dabba4640d25ceba299,4
+fantastic four,tedious,Todd McCarthy of The Hollywood Reporter found the film 'progressively more muddled and tedious'.,e8f3fa5f57774dabba4640d25ceba299,4
+fantastic four,muddled,A.O. Scott of The New York Times noted that the narrative of Fantastic Four 'feels less like a tale of superhero beginnings than like a very'.,e8f3fa5f57774dabba4640d25ceba299,4
+fantastic four,dark,"Todd McCarthy of The Hollywood Reporter criticized the visual style of Fantastic Four as 'a dark, unattractive, gloomy mode'.",e8f3fa5f57774dabba4640d25ceba299,4
+superhero beginnings,tale,feels less like a tale of superhero beginnings than like a very long precredit opening sequence,e9319ff99197406d967d310c07b8d670,4
+a.o. scott,the new york times,"of The New York Times noted that it ""feels less like a tale of superhero beginnings than like a very long precredit opening sequence.""",e9319ff99197406d967d310c07b8d670,4
+fantastic four,other recent superhero films,David Jenkins of Little White Lies compared Fantastic Four's stylistic deviation from other recent superhero films in his review.,33e1dfca98434c4496f49ae0fe90ea54,4
+fantastic four,memorable or forgettable,"James Berardinelli, in his review, classified Fantastic Four as 'no better or worse' than other superhero movies of 2015 and fell into the 'adequate' range of the spectrum regarding its memorability.",33e1dfca98434c4496f49ae0fe90ea54,4
+fantastic four,superhero movies of 2015,"James Berardinelli, in his review, compared Fantastic Four with other superhero movies of 2015.",33e1dfca98434c4496f49ae0fe90ea54,4
+david jenkins,fantastic four's characters,"David Jenkins, in his review, praised the writing for showing believable reasons behind the characters' decisions.",33e1dfca98434c4496f49ae0fe90ea54,4
+james berardinelli,fantastic four,James Berardinelli gave Fantastic Four 2.5/4 stars in his review.,33e1dfca98434c4496f49ae0fe90ea54,4
+toronto sun,fantastic four,Toronto Sun included Fantastic Four in its list of worst films of 2015.,33e1dfca98434c4496f49ae0fe90ea54,4
+indiewire,fantastic four,Indiewire included Fantastic Four in its list of worst films of 2015.,33e1dfca98434c4496f49ae0fe90ea54,4
+rolling stone,fantastic four,Rolling Stone included Fantastic Four in its list of worst films of 2015.,33e1dfca98434c4496f49ae0fe90ea54,4
+fantastic four,marvel cinematic universe,"In a retrospective piece on the film published in 2024 following the announcement of the reboot in the Marvel Cinematic Universe, Samuel Williamson of Collider compared the decision to put the Fantastic Four inside a gritty drama unfavorably with the lighter tone seen in Marvel Cinematic Universe films.",4b37cfcf00074298a73638865b0b5569,4
+fantastic four,disney+,"The film was released on Disney+'s streaming service in June 2020, making it the first Marvel movie produced by Fox to be available on the platform.",4b37cfcf00074298a73638865b0b5569,4
+marvel cinematic universe,gritty drama,"In 2022, while promoting the Disney+ miniseries Moon Knight, writer Jeremy Slater stated that director Josh Trank was against giving the Fantastic Four film a lighter tone similar to that seen in Marvel Cinematic Universe films.",4b37cfcf00074298a73638865b0b5569,4
+miles teller,reed richards/mr fantastic,Samuel Williamson of Collider opined in a retrospective piece on the film published in 2024 that Miles Teller was too young for the role of Reed Richards/Mr Fantastic at the time of the film's release.,4b37cfcf00074298a73638865b0b5569,4
+jamie bell,ben grimm/the thing,Samuel Williamson of Collider further opined in a retrospective piece on the film published in 2024 that Jamie Bell had just been miscast as Ben Grimm/The Thing.,4b37cfcf00074298a73638865b0b5569,4
+fantastic four,sequel,"Before Fantastic Four began filming, 20th Century Fox announced plans for a sequel with a scheduled release date of July 14, 2017.",1c764d765cc34f27867e44f53a922bb8,4
+"june 9, 2017",fantastic four,"It changed the release date again to June 9, 2017, to be two weeks after Star Wars: The Last Jedi's initial scheduled release date of May 26, 2017.",1c764d765cc34f27867e44f53a922bb8,4
+star wars: the last jedi,fantastic four,"It changed the release date again to June 9, 2017, to be two weeks after Star Wars: The Last Jedi's initial scheduled release date of May 26, 2017.",1c764d765cc34f27867e44f53a922bb8,4
+war for the planet of the apes,fantastic four,"Fox then rescheduled the release for June 2, 2017, with War for the Planet of the Apes taking its place on the July 14, 2017, slot.",1c764d765cc34f27867e44f53a922bb8,4
+"july 14, 2017",war for the planet of the apes,"Fox then rescheduled the release for June 2, 2017, with War for the Planet of the Apes taking its place on the July 14, 2017, slot.",1c764d765cc34f27867e44f53a922bb8,4
+fantastic four,poor box office performance,"Due to Fantastic Four's poor box office performance, negative reviews, and poor home media sales, Pamela McClintock of The Hollywood Reporter said that it 'throws into question whether Fox will move ahead with a sequel'",f042743c7c4a44a3a7f949f7c57cf9d3,4
+fantastic four,negative reviews,"Due to Fantastic Four's poor box office performance, negative reviews, and poor home media sales, Pamela McClintock of The Hollywood Reporter said that it 'throws into question whether Fox will move ahead with a sequel'",f042743c7c4a44a3a7f949f7c57cf9d3,4
+fantastic four,poor home media sales,"Due to Fantastic Four's poor box office performance, negative reviews, and poor home media sales, Pamela McClintock of The Hollywood Reporter said that it 'throws into question whether Fox will move ahead with a sequel'",f042743c7c4a44a3a7f949f7c57cf9d3,4
+fox,sequel,"Phil Hoad of The Guardian said it would 'be interesting' to see if Fox proceeds with a sequel and if it keeps the 'gritty-on-paper' tone, noting that if Fox did not produce another film by 2022, the rights would revert to Marvel Studios'",f042743c7c4a44a3a7f949f7c57cf9d3,4
+fox,gritty-on-paper tone,"Phil Hoad of The Guardian said it would 'be interesting' to see if Fox proceeds with a sequel and if it keeps the 'gritty-on-paper' tone, noting that if Fox did not produce another film by 2022, the rights would revert to Marvel Studios'",f042743c7c4a44a3a7f949f7c57cf9d3,4
+simon kinberg,sequel,"Fox still planned to produce a sequel, with Simon Kinberg working on the project",f042743c7c4a44a3a7f949f7c57cf9d3,4
+fantastic four sequel,same cast,Kinberg reaffirmed his intent to make another Fantastic Four film with the same cast in May 2016.,2f7c1ad2b5644f58a52c0207b0727eac,4
+fantastic four sequel,open to returning for a sequel,Miles Teller and Kate Mara said they were open to returning for a sequel in August.,2f7c1ad2b5644f58a52c0207b0727eac,4
+fantastic four sequel,get it 100% right,"When asked by Collider whether they would make another Fantastic Four movie, Kinberg answered: ""I have no idea. I think the truth is we would not do another Fantastic Four movie until it was ready to be made. One of the lessons we learned on that movie is we want to make sure to get it 100% right, because we will not get another chance with the fans""",2f7c1ad2b5644f58a52c0207b0727eac,4
+fantastic four sequel,considered for cameo appearances,Concept artist Alexander Lozano revealed that Trank's iteration of the Fantastic Four was considered for cameo appearances in Tim Miller's take on Deadpool 2.,2f7c1ad2b5644f58a52c0207b0727eac,4
+fantastic four sequel,removed from fox's release schedule,The sequel was removed from Fox's release schedule in November 2015.,2f7c1ad2b5644f58a52c0207b0727eac,4
+dr. doom,no interest in reprising his role as dr. doom if a sequel were to happen,Toby Kebbell stated he had no interest in reprising his role as Dr. Doom if a sequel were to happen in May 2016.,2f7c1ad2b5644f58a52c0207b0727eac,4
+matthew vaughn,interested in directing a new version of fantastic four himself as an apology for the performance of the 2015 film,Matthew Vaughn has expressed interest in directing a new version of Fantastic Four himself as an apology for the performance of the 2015 film.,2f7c1ad2b5644f58a52c0207b0727eac,4
+doctor doom,marvel cinematic universe (mcu),"Toby Kebbell expressed interest in returning to the role of Doctor Doom, but only if he joined the Marvel Cinematic Universe. This suggests a potential relationship between Doctor Doom and the MCU.",da5a8babb9a7497995307c5bb59d92d1,4
+stan lee,marvel studios,"Stan Lee expressed interest in returning all of Marvel's characters, including the Fantastic Four, to Marvel Studios. This suggests a potential relationship between Stan Lee and Marvel Studios.",da5a8babb9a7497995307c5bb59d92d1,4
+fantastic four,marvel cinematic universe (mcu),"Stan Lee's statement about wanting to return all of Marvel's characters, including the Fantastic Four, to Marvel Studios implies a potential relationship between the Fantastic Four and the MCU. However, Marvel Studios president Kevin Feige stated in June 2017 that there were no plans of adding the Fantastic Four to the MCU at that time.",da5a8babb9a7497995307c5bb59d92d1,4
+doctor doom,fantastic four,Toby Kebbell's statement about his portrayal of Doctor Doom not being a monster suggests a potential relationship between Doctor Doom and the Fantastic Four. This could imply that Doctor Doom may have had a different relationship with the Fantastic Four in previous iterations of the story.,da5a8babb9a7497995307c5bb59d92d1,4
+reed richards / mister fantastic,mcu,"In December 2017, Marvel Studios' parent company, The Walt Disney Company, agreed to acquire 20th Century Fox's parent company, 21st Century Fox. As a result of this merger, which was completed by March 20, 2019, the film rights for the Fantastic Four reverted to Marvel Studios, and it was announced at the 2019 Marvel Studios San Diego Comic-Con Hall H presentation that a Fantastic Four film set in the MCU is in development. In Doctor Strange in the Multiverse of Madness, Reed Richards / Mister Fantastic makes his MCU debut as a multiversal variant and a member of the Illuminati.",f4ba7f70d1f3417c9a4b09291db1f99a,4
+baxter foundation,christine palmer,"In Doctor Strange in the Multiverse of Madness, it is mentioned that Christine Palmer works for the Baxter Foundation.",f4ba7f70d1f3417c9a4b09291db1f99a,4
+doctor strange in the multiverse of madness,reed richards / mister fantastic,"In Doctor Strange in the Multiverse of Madness, Reed Richards / Mister Fantastic appears as a multiversal variant and a member of the Illuminati.",f4ba7f70d1f3417c9a4b09291db1f99a,4
+john krasinski,reed richards / mister fantastic,"In Doctor Strange in the Multiverse of Madness, John Krasinski portrays Reed Richards / Mister Fantastic.",f4ba7f70d1f3417c9a4b09291db1f99a,4
+the fantastic four: first steps,phase six of the mcu,The Fantastic Four: First Steps is scheduled to be released as the first film of Phase Six of the MCU.,867e15065757403dab215465752ac056,4
+miles teller,mister fantastic,Miles Teller said that he would return as Mister Fantastic in another Fantastic Four film 'if the script is good'.,867e15065757403dab215465752ac056,4
+"july 25, 2025",the fantastic four: first steps,"The Fantastic Four: First Steps is scheduled to be released on July 25, 2025.",867e15065757403dab215465752ac056,4
+feige,the decision to not make the fantastic four: first steps an origin story,"Feige confirmed that the film would not be an origin story, a decision compared to that of Spider-Man: Homecoming.",867e15065757403dab215465752ac056,4
+late august,matt shakman,It was revealed in late August that WandaVision director Matt Shakman was in talks to direct The Fantastic Four: First Steps.,867e15065757403dab215465752ac056,4
+d23 event,matt shakman,It was later confirmed at the 2022 D23 event that Matt Shakman would be directing The Fantastic Four: First Steps.,867e15065757403dab215465752ac056,4
+jeff kaplan,ian springer,Jeff Kaplan and Ian Springer were hired to write the script for The Fantastic Four: First Steps.,867e15065757403dab215465752ac056,4
+march 2023,josh friedman,Josh Friedman was revealed in March 2023 to be a new writer for The Fantastic Four: First Steps.,867e15065757403dab215465752ac056,4

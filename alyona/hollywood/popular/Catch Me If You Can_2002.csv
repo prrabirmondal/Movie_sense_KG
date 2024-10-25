@@ -1,0 +1,114 @@
+node_1,node_2,edge,chunk_id,count
+catch me if you can,steven spielberg,director of the movie Catch Me If You Can is Steven Spielberg,35de5b1f01e145129ddcb498b5ddfa38,4
+catch me if you can,leonardo dicaprio,lead actor in the movie Catch Me If You Can is Leonardo DiCaprio,35de5b1f01e145129ddcb498b5ddfa38,4
+catch me if you can,tom hanks,co-star in the movie Catch Me If You Can is Tom Hanks,35de5b1f01e145129ddcb498b5ddfa38,4
+catch me if you can,frank abagnale jr.,semi-autobiographical book that the movie Catch Me If You Can is based on is by Frank Abagnale Jr.,35de5b1f01e145129ddcb498b5ddfa38,4
+carl hanratty,catch me if you can,scene in the movie Catch Me If You Can involving FBI agent Carl Hanratty,35de5b1f01e145129ddcb498b5ddfa38,4
+"marseille, france",carl hanratty,place where FBI agent Carl Hanratty arrives to pick up Frank Abagnale Jr. In the movie Catch Me If You Can,35de5b1f01e145129ddcb498b5ddfa38,4
+leonardo dicaprio,frank abagnale jr.,lead character played by Leonardo DiCaprio in the movie Catch Me If You Can is Frank Abagnale Jr.,35de5b1f01e145129ddcb498b5ddfa38,4
+frank,new rochelle,Lived in New Rochelle,f611da21d7e04bcd93f54d9b9d5ac0ab,4
+frank,frank sr.,Father,f611da21d7e04bcd93f54d9b9d5ac0ab,4
+paula,frank,French mother,f611da21d7e04bcd93f54d9b9d5ac0ab,4
+new rochelle,new york,Located in New York,f611da21d7e04bcd93f54d9b9d5ac0ab,4
+frank sr.,irs,Tax problems with the IRS,f611da21d7e04bcd93f54d9b9d5ac0ab,4
+frank sr.,new rochelle rotary club,Friend from the New Rochelle Rotary Club,f611da21d7e04bcd93f54d9b9d5ac0ab,4
+paula,jack barnes,Having an affair with Jack Barnes,f611da21d7e04bcd93f54d9b9d5ac0ab,4
+frank sr.,new rochelle rotary club,Member of the New Rochelle Rotary Club,f611da21d7e04bcd93f54d9b9d5ac0ab,4
+frank,con artist,Became a con artist,f611da21d7e04bcd93f54d9b9d5ac0ab,4
+frank sr.,conning people,Frank witnessed his father's techniques for conning people,f611da21d7e04bcd93f54d9b9d5ac0ab,4
+frank,pan am pilot,Poses as a Pan Am pilot named Frank Taylor,f611da21d7e04bcd93f54d9b9d5ac0ab,4
+frank,forgeries,Forged the airline's payroll checks,f611da21d7e04bcd93f54d9b9d5ac0ab,4
+frank,con artist,Grew progressively bolder in his cons,f611da21d7e04bcd93f54d9b9d5ac0ab,4
+frank taylor,louisiana state bar exam,Asked Brenda's attorney father for help with arrangements to take the Louisiana State Bar exam and passed it,f611da21d7e04bcd93f54d9b9d5ac0ab,4
+brenda,dr. frank conners,"Fell in love with Brenda, a naive young hospital nurse, as Dr. Frank Conners",f611da21d7e04bcd93f54d9b9d5ac0ab,4
+frank conners,miami international airport,Told Brenda to meet him at Miami International Airport two days later,f611da21d7e04bcd93f54d9b9d5ac0ab,4
+carl,frank,FBI agent tracking Frank,f611da21d7e04bcd93f54d9b9d5ac0ab,4
+motel,frank,Found Frank at a motel,f611da21d7e04bcd93f54d9b9d5ac0ab,4
+barry allen,frank,Frank tricked Carl into believing he was a Secret Service agent named Barry Allen,f611da21d7e04bcd93f54d9b9d5ac0ab,4
+frank,brenda,"Frank spots Brenda at the airport, but also plainclothed agents. He realizes she has given him up, then drives away.",1b9e09d357d1445c9913da46b8cfc0ac,4
+frank,plainclothed agents,Frank spots Brenda and plainclothed agents at the airport.,1b9e09d357d1445c9913da46b8cfc0ac,4
+frank sr.,frank,Frank is Frank Sr.'s son.,1b9e09d357d1445c9913da46b8cfc0ac,4
+"montrichard, france",frank,"Carl tracks down Frank in his mother's hometown of Montrichard, France, and convinces him to surrender to the French police.",1b9e09d357d1445c9913da46b8cfc0ac,4
+frank,mother,Frank's mother now has a daughter with Barnes.,1b9e09d357d1445c9913da46b8cfc0ac,4
+frank sr.,death,Frank Sr. Has died.,1b9e09d357d1445c9913da46b8cfc0ac,4
+carl,frank,"In 1967, Carl tracks down Frank in his mother's hometown of Montrichard, France, and convinces him to surrender to the French police.",1b9e09d357d1445c9913da46b8cfc0ac,4
+carl,frank,"Picking back up once more in 1969, Carl takes Frank on a flight back to the U.S.",1b9e09d357d1445c9913da46b8cfc0ac,4
+bank teller,fraudulent check,"Frank immediately deduces that the bank teller was involved in the fraud, based on a fraudulent check shown to him by Carl during one visit.",1b9e09d357d1445c9913da46b8cfc0ac,4
+frank,boredom,Soon grows restless doing the tedious office work in the FBI Financial Crimes Unit.,1b9e09d357d1445c9913da46b8cfc0ac,4
+frank,pilot impersonation,"Frank prepares to impersonate a pilot again and is intercepted by Carl, who is willing to let him continue with his con, assuring him that no one is chasing him and that it's his choice.",cf8f2de81fb3472d8b4f92fc015aa5fd,4
+frank,carl,Frank returns to work and discusses another fraud case with Carl,cf8f2de81fb3472d8b4f92fc015aa5fd,4
+carl,frank's con,Carl intercepts Frank while he is impersonating a pilot and assures him that no one is chasing him and that it's his choice,cf8f2de81fb3472d8b4f92fc015aa5fd,4
+frank,louisiana state bar exam,Carl asks Frank how he cheated on the Louisiana State Bar exam,cf8f2de81fb3472d8b4f92fc015aa5fd,4
+frank,truthfulness,"Carl asks Frank if he's telling the truth, but Frank doesn't answer",cf8f2de81fb3472d8b4f92fc015aa5fd,4
+frank abagnale,bank fraud and forgery expert,The postscript mentions that Frank made a living as a leading expert on bank fraud and forgery.,cf8f2de81fb3472d8b4f92fc015aa5fd,4
+frank abagnale,cameo as a french police officer,appears in the context as a cameo portraying a French police officer,05bae51eacdf4fec952643d6abd1ceaf,4
+frank abagnale,his onscreen counterpart,"both Frank Abagnale and his onscreen character are mentioned in the context, implying a relationship between them",05bae51eacdf4fec952643d6abd1ceaf,4
+frank abagnale,the tonight show starring johnny carson,producers Norman Lear and Bud Yorkin purchased the film rights after seeing him on The Tonight Show Starring Johnny Carson,05bae51eacdf4fec952643d6abd1ceaf,4
+columbia pictures,frank abagnale,columbia pictures bought the film rights to frank abagnale's autobiography,05bae51eacdf4fec952643d6abd1ceaf,4
+hall bartlett,frank abagnale,hall bartlett and michael j. Lasky hired steven kunes to write the screenplay for frank abagnale's autobiography,05bae51eacdf4fec952643d6abd1ceaf,4
+hollywood pictures,frank abagnale,"the rights to frank abagnale's story were sold to hollywood pictures, a division of disney",05bae51eacdf4fec952643d6abd1ceaf,4
+bungalow 78 productions,frank abagnale,"the rights to frank abagnale's story were sold from hollywood pictures to bungalow 78 productions, a division of tristar pictures",05bae51eacdf4fec952643d6abd1ceaf,4
+dreamworks pictures,frank abagnale,the project was presented to dreamworks pictures,05bae51eacdf4fec952643d6abd1ceaf,4
+michel shane,frank abagnale,michel shane purchased the film rights from michael shane for paramount pictures,05bae51eacdf4fec952643d6abd1ceaf,4
+barry kemp,frank abagnale,"barry kemp bought the film rights from michel shane, bringing the project to dreamworks",05bae51eacdf4fec952643d6abd1ceaf,4
+spielberg,forman,"Spielberg offered the job of director to Miloš Forman, and considered hiring Cameron Crowe during the negotiation period for Catch Me If You Can. However, Spielberg eventually committed to directing himself in August 2001.",d19c53fbe6414308b08d85ba9558077e,4
+gandolfini,hanks,"Initially cast as Carl Hanratty, Gandolfini had scheduling conflicts with The Sopranos and exited the film. Tom Hanks replaced him in August 2001.",d19c53fbe6414308b08d85ba9558077e,4
+verbinski,spielberg,Verbinski dropped out as director due to Leonardo DiCaprio's commitment to Gangs of New York. Spielberg eventually committed to directing Catch Me If You Can in August 2001.,d19c53fbe6414308b08d85ba9558077e,4
+harris,dicaprio,"Both Ed Harris and Leonardo DiCaprio were attached to the film during Lasse Hallström's negotiations to direct. However, by July 2001, Harris and Sevigny left the film.",d19c53fbe6414308b08d85ba9558077e,4
+sevigny,adams,"After a lengthy search, Amy Adams was eventually cast to replace Sevigny in the role. Spielberg was impressed with her audition tape and producers noted that she brought freshness and honesty to the part.",9772d00ddf1c4bea876f2a862843a687,4
+spielberg,adams,Spielberg 'loved' Adams' audition tape for the role.,9772d00ddf1c4bea876f2a862843a687,4
+parkes,adams,Producer Walter F. Parkes praised Adams as being 'as fresh and honest as anyone we'd seen',9772d00ddf1c4bea876f2a862843a687,4
+walken,frank abagnale sr.,Walter F. Parkes suggested casting Christopher Walken as Frank Abagnale Sr.,9772d00ddf1c4bea876f2a862843a687,4
+sheen,roger strong,Martin Sheen was cast in the role of Roger Strong due to his 'intimidating presence',9772d00ddf1c4bea876f2a862843a687,4
+spielberg,paula abagnale,"To stay true to the facts, Spielberg searched for a French actress to play Paula Abagnale. He sought the help of Brian De Palma in Paris and held auditions with several actresses before casting her.",9772d00ddf1c4bea876f2a862843a687,4
+spielberg,garner,Spielberg cast Jennifer Garner in a small role after being impressed by her performance on Alias.,9772d00ddf1c4bea876f2a862843a687,4
+filming,january 2002,"Initially scheduled to begin, but later pushed back due to unspecified reasons.",de8dc530ed0d43459315293d4c269e22,4
+february 7,filming,New starting date for filming in Los Angeles.,de8dc530ed0d43459315293d4c269e22,4
+dicaprio,three days,Reflected that scenes that took three days to shoot earlier now take only an afternoon.,de8dc530ed0d43459315293d4c269e22,4
+park avenue,filming,Locations for filming on April 25-30.,de8dc530ed0d43459315293d4c269e22,4
+waldorf-astoria hotel,filming,Locations for filming on April 25-30.,de8dc530ed0d43459315293d4c269e22,4
+"orange, new jersey",filming,Locations for filming after leaving Brooklyn.,de8dc530ed0d43459315293d4c269e22,4
+quebec city,filming,Chosen due to its atmosphere.,de8dc530ed0d43459315293d4c269e22,4
+place royale,filming,Stands in for Montrichard.,de8dc530ed0d43459315293d4c269e22,4
+notre-dame-des-victoires,filming,Church in the background of the arrest scene.,de8dc530ed0d43459315293d4c269e22,4
+"may 12, montreal",filming,Ending location and date for filming.,de8dc530ed0d43459315293d4c269e22,4
+abagnale,spielberg,Abagnale believed Spielberg was the only director who could do justice to the film despite various changes from real events.,de8dc530ed0d43459315293d4c269e22,4
+frank abagnale,steven spielberg,Abagnale states that he has not met or spoken to Spielberg.,394c52f7f7a24707abc17bc4ec5133f4,4
+frank abagnale,pan-american uniform,Abagnale mentions that Spielberg wanted to continue having a connection where Frank kept trying to please his father by making him proud of him in the Pan-American uniform.,394c52f7f7a24707abc17bc4ec5133f4,4
+frank abagnale,accuracy,Abagnale mentions that Spielberg wanted complete accuracy in the relationships and actual scams that he perpetrated in the film.,394c52f7f7a24707abc17bc4ec5133f4,4
+steven spielberg,screenplay writer (jeff nathanson),Abagnale mentions that Spielberg told Jeff Nathanson that he wanted complete accuracy in the relationships and actual scams that Abagnale perpetrated.,394c52f7f7a24707abc17bc4ec5133f4,4
+abagnale,accuracy,"Abagnale commented on the accuracy of the film in a 2017 presentation for 'Talks at Google'. He stated that the movie accurately portrayed most aspects, except for his mother's remarriage and the scene where she has a daughter. Abagnale also mentioned that Leonardo DiCaprio, the actor who played him in the movie, stayed very close to the story and had retired FBI agents on set to ensure accuracy.",06f90685d5b943d7ad75ddcc9512202c,4
+abagnale,escape route,"Abagnale mentioned in his 2017 presentation for 'Talks at Google' that he escaped off the aircraft through the kitchen galley in real life, but the movie portrayed him escaping through the toilet.",06f90685d5b943d7ad75ddcc9512202c,4
+abagnale,brothers and sister,"In his presentation for 'Talks at Google' in 2017, Abagnale mentioned that the movie incorrectly portrayed him as an only child, when he actually had two brothers and a sister.",06f90685d5b943d7ad75ddcc9512202c,4
+abagnale,father,"In his presentation for 'Talks at Google' in 2017, Abagnale mentioned that the movie kept showing Christopher Walken's character (portraying Abagnale's father) coming back to the set, even though Abagnale had not seen his father after he ran away.",06f90685d5b943d7ad75ddcc9512202c,4
+dicaprio,abagnale,"Leonardo DiCaprio played Abagnale in the movie, according to Abagnale's statement during his presentation for 'Talks at Google' in 2017.",06f90685d5b943d7ad75ddcc9512202c,4
+information officer,set,"During the filming of the movie, an information officer from the FBI was present on set to ensure accuracy regarding their organization, as mentioned by Abagnale during his presentation for 'Talks at Google' in 2017.",06f90685d5b943d7ad75ddcc9512202c,4
+retired agents,dicaprio,"According to Abagnale's statement during his presentation for 'Talks at Google' in 2017, retired FBI agents provided information to Leonardo DiCaprio (the actor playing Abagnale) to ensure accuracy in the movie.",06f90685d5b943d7ad75ddcc9512202c,4
+abagnale,shea,"In addition, the FBI agent who Abagnale alleges tracked and later worked with him was Joseph Shea; however, due to his request, the character was renamed Carl and given the surname Hanratty in the film, based on the football player Terry Hanratty.",4ae664b5a2264241acf852ca76a1954d,4
+abagnale,great meadow correctional facility,"Abagnale was in the Great Meadow Correctional Facility from July 26, 1965, to December 24, 1968.",de65ea868f27401d9df0ca60a497d08c,4
+abagnale,united states navy,Abagnale was in the United States Navy from December 1964 to February 1965.,de65ea868f27401d9df0ca60a497d08c,4
+abagnale,pan american airlines,Abagnale dressed as a Pan American Airlines pilot for a brief period in the fall of 1970.,de65ea868f27401d9df0ca60a497d08c,4
+abagnale,federal court records,"The facts behind many of Abagnale's exaggerated claims, as shown in federal court records associated with his conviction, were the subject of renewed media reporting in 2021.",de65ea868f27401d9df0ca60a497d08c,4
+abagnale,"cobb county, georgia","Abagnale was arrested in Cobb County, Georgia, on November 2, 1970.",de65ea868f27401d9df0ca60a497d08c,4
+abagnale,louisiana bar,Abagnale's claim that he passed the Louisiana bar was debunked by several journalists in 1978.,de65ea868f27401d9df0ca60a497d08c,4
+abagnale,fbi,"According to one retired FBI Special Agent in Charge, Abagnale was caught trying to pass fraudulent checks in 1978, several years after he claimed that he began working with the FBI.",de65ea868f27401d9df0ca60a497d08c,4
+broken homes,frank abagnale's situation,"Similar to Frank Abagnale's situation, Spielberg's parents divorced when he was a teenager in the context.",b6f000f852064e3f871bdb3b47f14dab,4
+carl hanratty,his wife,"In the film, Carl Hanratty is also divorced from his wife, who lives with their daughter in Chicago.",b6f000f852064e3f871bdb3b47f14dab,4
+spielberg's parents,divorce,Spielberg's statement: 'Some of my films have had to do with broken homes and people on the run from their sad pasts',b6f000f852064e3f871bdb3b47f14dab,4
+frank abagnale,mid '60s,"'Frank was a 21st-century genius working within the innocence of the mid '60s, when people were more trusting than they are now', Spielberg explained",b6f000f852064e3f871bdb3b47f14dab,4
+catch me if you can,game show network,"On December 29, 2002 and January 1, 2003, the 1977 episode of the television game show To Tell the Truth featuring Frank Abagnale was aired as promotion for the release of Catch Me If You Can on DVD and VHS by DreamWorks Home Entertainment.",fb3c2941ff5642898aac7c9f6c378af6,4
+catch me if you can,$30 million,"In its opening weekend, Catch Me If You Can earned slightly above $30 million in 3,225 theaters.",fb3c2941ff5642898aac7c9f6c378af6,4
+catch me if you can,$164.6 million,"In North America, Catch Me If You Can grossed $164.6 million during its theatrical run.",fb3c2941ff5642898aac7c9f6c378af6,4
+catch me if you can,$352.1 million,"With a worldwide total box office, Catch Me If You Can became a financial success.",fb3c2941ff5642898aac7c9f6c378af6,4
+catch me if you can,steven spielberg,Steven Spielberg directed the film 'Catch Me If You Can'.,473c8c0136f245cf8c0030a19427052c,4
+catch me if you can,203 reviews,The film 'Catch Me If You Can' received 203 reviews on Rotten Tomatoes.,473c8c0136f245cf8c0030a19427052c,4
+leonardo dicaprio,frank abagnale,Leonardo DiCaprio played the role of Frank Abagnale in 'Catch Me If You Can'.,473c8c0136f245cf8c0030a19427052c,4
+frank abagnale,real-life wunderkind con artist,"The character Frank Abagnale, played by Leonardo DiCaprio in 'Catch Me If You Can', was a real-life wunderkind con artist.",473c8c0136f245cf8c0030a19427052c,4
+roger ebert,dicaprio's performance,Roger Ebert praised DiCaprio's performance in 'Catch Me If You Can'.,473c8c0136f245cf8c0030a19427052c,4
+mick lasalle,friendliest film,Mick LaSalle described 'Catch Me If You Can' as one of Steven Spielberg's friendliest films.,473c8c0136f245cf8c0030a19427052c,4
+stephen hunter,scorsese,Stephen Hunter compared DiCaprio's performance in 'Catch Me If You Can' to his performance in Martin Scorsese's 'Gangs of New York'.,473c8c0136f245cf8c0030a19427052c,4
+audiences, cinemascore,Audiences polled by CinemaScore gave the film 'Catch Me If You Can' an average grade of 'A-'.,473c8c0136f245cf8c0030a19427052c,4
+catch me if you can,seriousness,James Berardinelli observed that Catch Me if You Can never takes itself too seriously.,3cff6e4caf86492c89eda04872c21e13,4
+catch me if you can,subjects,James Berardinelli observed that Catch Me if You Can contains more genuinely funny material than about 90% of the so-called 'comedies' found in multiplexes these days.,3cff6e4caf86492c89eda04872c21e13,4
+john williams,film score,"Berardinelli praised John Williams's film score, which he felt was more intimate and jazzy than his usual material, evoking (intentionally) Henry Mancini",3cff6e4caf86492c89eda04872c21e13,4
+peter travers,review,Peter Travers gave the film a negative review; he considered the film to be bogged down over 140 minutes.,3cff6e4caf86492c89eda04872c21e13,4

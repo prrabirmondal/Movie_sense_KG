@@ -1,0 +1,79 @@
+node_1,node_2,edge,chunk_id,count
+artemis fowl ii,prodigy,"Artemis Fowl II, a twelve-year-old Irish boy, is introduced as a prodigy.",fa24975756964055be26f56f51ecbb72,4
+artemis fowl i,father,"Artemis Fowl II's father, Artemis Fowl I, is kidnapped by another fairy.",fa24975756964055be26f56f51ecbb72,4
+fairy,another fairy,Another fairy looks to reclaim an item that the Fowl family has stolen and kidnaps Artemis Fowl I.,fa24975756964055be26f56f51ecbb72,4
+fairy,fairies,The film features fairies.,fa24975756964055be26f56f51ecbb72,4
+ferdia shaw,artemis fowl ii,Ferdia Shaw stars as Artemis Fowl II.,fa24975756964055be26f56f51ecbb72,4
+lara mcdonnell,holmes,Lara McDonnell plays the role of Holmes.,fa24975756964055be26f56f51ecbb72,4
+josh gad,butler,Josh Gad portrays Butler.,fa24975756964055be26f56f51ecbb72,4
+tamara smart,rachel,Tamara Smart features as Rachel.,fa24975756964055be26f56f51ecbb72,4
+nonso anozie,rushton,Nonso Anozie essays the role of Rushton.,fa24975756964055be26f56f51ecbb72,4
+colin farrell,artemis fowl i,Colin Farrell portrays Artemis Fowl I.,fa24975756964055be26f56f51ecbb72,4
+judi dench,commander root,Judi Dench appears as Commander Root.,fa24975756964055be26f56f51ecbb72,4
+artemis fowl jr.,artemis fowl i,Father and son relationship,de91b12acb3e4a9a9b320a097cff12b8,4
+artemis fowl jr.,aculos,"Stolen item by Artemis Fowl Sr., demanded by hooded figure to save his father's life",de91b12acb3e4a9a9b320a097cff12b8,4
+artemis fowl jr.,fowl manor,Resides at Fowl Manor with his father,de91b12acb3e4a9a9b320a097cff12b8,4
+artemis fowl sr.,aculos,"Stolen item by Artemis Fowl Sr., accused of theft and missing from boat",de91b12acb3e4a9a9b320a097cff12b8,4
+domovoi 'dom' butler,artemis fowl jr.,Bodyguard to Artemis Fowl Jr.,de91b12acb3e4a9a9b320a097cff12b8,4
+hidden library,generations of fowls,Proof of magical creatures catalogued in a hidden library,de91b12acb3e4a9a9b320a097cff12b8,4
+hooded figure,artemis sr.,Captured Artemis Sr. And demanded the Aculos for his release,de91b12acb3e4a9a9b320a097cff12b8,4
+irish coast,fowl manor,"Located on the coast of Ireland, where a media frenzy descends",de91b12acb3e4a9a9b320a097cff12b8,4
+haven city,lower elements police (leprecon),Encounter between a civilization of fairies and LEPrecon reconnaissance officers inside Haven City.,caf1034dc35843739f39e9771cefcd6d,4
+mulch,holly short,Meeting between an oversized dwarf thief and a LEPrecon officer during Mulch's capture by the authorities.,caf1034dc35843739f39e9771cefcd6d,4
+julius root,aculus,"Dispatches the LEPrecon force to search for the Aculos, the fairies' greatest resource that makes anyone teleport through worlds across universe and biggest source of heat and light energy to the fairies.",caf1034dc35843739f39e9771cefcd6d,4
+foaly,leprecon force,Centaur technical advisor discovers an unauthorized creature has reached the surface during LEPrecon's search for the Aculos.,caf1034dc35843739f39e9771cefcd6d,4
+holly short,foaly,LEPrecon officer investigates as a rogue troll attacks a human wedding party with Foaly's technical assistance.,caf1034dc35843739f39e9771cefcd6d,4
+beechwood short,aculus,"Steals the Aculos and is later killed by Opal Koboi, a powerful fairy warlord who plans to wipe out humankind and establish fairy rule upon all the worlds.",caf1034dc35843739f39e9771cefcd6d,4
+artemis sr.,beechwood short,"Kept Beechwood's theft of the Aculos from Opal Koboi, a powerful fairy warlord who plans to wipe out humankind and establish fairy rule upon all the worlds.",caf1034dc35843739f39e9771cefcd6d,4
+opal koboi,humankind,Plans to wipe out humankind and establish fairy rule upon all the worlds.,caf1034dc35843739f39e9771cefcd6d,4
+dom,hill of tara,Sent by Artemis Sr. To stakeout the Hill of Tara.,caf1034dc35843739f39e9771cefcd6d,4
+juliet,manor,Arrives at Dom's manor during LEPrecon's search for the Aculos.,caf1034dc35843739f39e9771cefcd6d,4
+root,fowl manor,Sealed in a time freeze by Root and an army of LEPrecon officers.,8def8b874d6b417aad835a73f4a39a87,4
+artemis,leprecon officers,Fought off by Artemis and Dom using Holly's equipment while they were mentioned in the same sentence.,8def8b874d6b417aad835a73f4a39a87,4
+artemis,aculos,"Demanded in exchange for Holly's release, forbidding fairies to enter his home while he is alive as per the context.",8def8b874d6b417aad835a73f4a39a87,4
+mulch,prison,Retrieved by Root from in exchange for a reduced sentence to infiltrate Fowl Manor as per the context.,8def8b874d6b417aad835a73f4a39a87,4
+mulch,fowl manor,Infiltrated by Mulch using Holly's equipment while they were mentioned in the same sentence.,8def8b874d6b417aad835a73f4a39a87,4
+mulch,artemis sr.'s safe,Found the Aculos while Artemis frees Holly and asks for her help as per the context.,8def8b874d6b417aad835a73f4a39a87,4
+lieutenant briar cudgeon,leprecon,"Seized command of LEPrecon and released the captured troll into the house, jamming all magic inside as per the context.",8def8b874d6b417aad835a73f4a39a87,4
+dom,troll,"Killed by Dom while Artemis, Holly, Juliet, and Dom evade the troll, which is later killed by Dom as per the context.",8def8b874d6b417aad835a73f4a39a87,4
+holly's fellow officers,holly's magic,Unblocked Holly's magic against orders.,8def8b874d6b417aad835a73f4a39a87,4
+artemis sr.,koboi,"Attempted to kill Artemis Sr., and Holly agrees to use it to rescue Artemis' father as per the context.",8def8b874d6b417aad835a73f4a39a87,4
+holly,fowl manor,Summoned by Holly to Fowl Manor as Koboi attempted to kill Artemis Sr.,8def8b874d6b417aad835a73f4a39a87,4
+artemis sr.,holly,"Artemis Sr. Tells Holly that her father gave his life to protect the Aculos, giving her a list of Koboi's accomplices.",a254128aef8940d6aae856928ce29afb,4
+aculos,haven city,Holly returns the Aculos to Haven City.,a254128aef8940d6aae856928ce29afb,4
+root,holly,"Root, back in command, directs Holly to investigate every name on the list.",a254128aef8940d6aae856928ce29afb,4
+artemis,koboi,"Artemis calls Koboi and promises that after destroying her associates, he will come after her and restore the balance of the universe.",a254128aef8940d6aae856928ce29afb,4
+mulch,interrogator,"Mulch's interrogator offers him freedom in exchange for help capturing Artemis Sr., but Mulch reveals that Artemis arranged his arrest to prove the incident to the authorities, and confirms the existence of magic on camera.",a254128aef8940d6aae856928ce29afb,4
+artemis,lep,"Miranda Raison portrayed Angeline Fowl, Artemis' deceased mother, and Laurence Kinlan portrayed Beachwood Short, Holly's deceased father and a former member of the LEP.",a254128aef8940d6aae856928ce29afb,4
+artemis,fairy,Hong Chau appears as a fairy blackmailed by Artemis in a deleted scene that takes place in Ho Chi Minh City.,a254128aef8940d6aae856928ce29afb,4
+artemis fowl ii,ferdia shaw,Ferdia Shaw has been cast as Artemis Fowl II in the upcoming movie adaptation of the popular book series by Eoin Colfer.,9c1f07e044d44bdd89a3aabcad86e069,4
+commander root,judi dench,Judi Dench has been cast as Commander Root in the upcoming movie adaptation of the popular book series by Eoin Colfer.,9c1f07e044d44bdd89a3aabcad86e069,4
+mulch diggums,josh gad,Josh Gad will be playing the role of Mulch Diggums in the upcoming movie adaptation of the popular book series by Eoin Colfer.,9c1f07e044d44bdd89a3aabcad86e069,4
+captain holly short,lara mcdonnell,Lara McDonnell has been cast as Captain Holly Short in the upcoming movie adaptation of the popular book series by Eoin Colfer.,9c1f07e044d44bdd89a3aabcad86e069,4
+butler,nonso anozie,Nonso Anozie will be portraying the character of Butler in the upcoming movie adaptation of the popular book series by Eoin Colfer.,9c1f07e044d44bdd89a3aabcad86e069,4
+artemis fowl i,colin farrell,"During reshoots, Colin Farrell joined the cast and will be playing the role of Artemis Fowl I in the upcoming movie adaptation of the popular book series by Eoin Colfer.",9c1f07e044d44bdd89a3aabcad86e069,4
+disney,film adaptation of artemis fowl,"On September 1, 2015, Variety reported that Kenneth Branagh had been hired by Disney to direct the movie adaptation of Artemis Fowl.",9c1f07e044d44bdd89a3aabcad86e069,4
+kenneth branagh,disney,"On September 1, 2015, Variety reported that Kenneth Branagh had been hired by Disney to direct the movie adaptation of Artemis Fowl.",9c1f07e044d44bdd89a3aabcad86e069,4
+harvey weinstein,film adaptation of artemis fowl,"On September 1, 2015, Variety reported that Harvey Weinstein was one of the producers for the movie adaptation of Artemis Fowl.",9c1f07e044d44bdd89a3aabcad86e069,4
+judy hofflund,film adaptation of artemis fowl,"On September 1, 2015, Variety reported that Judy Hofflund was one of the producers for the movie adaptation of Artemis Fowl.",9c1f07e044d44bdd89a3aabcad86e069,4
+"august 9, 2019",film adaptation of artemis fowl,"On December 20, 2017, it was announced that the movie adaptation of Artemis Fowl would be released on August 9, 2019.",9c1f07e044d44bdd89a3aabcad86e069,4
+the weinstein company,film adaptation of artemis fowl,"On December 20, 2017, Disney removed The Weinstein Company as the producers of the movie adaptation of Artemis Fowl and terminated its production partnership with them following exposure of Harvey Weinstein's criminal sexual misconduct.",9c1f07e044d44bdd89a3aabcad86e069,4
+eoin colfer,film adaptation of artemis fowl,The upcoming movie adaptation of Artemis Fowl is based on the popular book series by Eoin Colfer.,9c1f07e044d44bdd89a3aabcad86e069,4
+"september 18, 2017",judi dench,"On September 18, 2017, it was reported that Judi Dench was in talks for an undisclosed role in the upcoming movie adaptation of Artemis Fowl.",9c1f07e044d44bdd89a3aabcad86e069,4
+march 2020,colin farrell,"During reshoots, Colin Farrell joined the cast and his involvement in the movie adaptation of Artemis Fowl was revealed through the second trailer released on March 20, 2020.",9c1f07e044d44bdd89a3aabcad86e069,4
+artemis fowl,theatrical release,"The film was originally scheduled for a theatrical release on August 9, 2019, by Walt Disney Studios Motion Pictures.",a39d58366431476f9eb785bceba442c7,4
+"may 29, 2020",artemis fowl,"In May 2019, the film was pushed back to May 29, 2020.",a39d58366431476f9eb785bceba442c7,4
+covid-19 pandemic,artemis fowl's theatrical release,"Due to the impact of the COVID-19 pandemic on cinema, the film's theatrical release was cancelled and it was exclusively released on Disney+ on June 12, 2020.",a39d58366431476f9eb785bceba442c7,4
+disney's continuing commitment to theatrical openings for its megabudget event films,artemis fowl's disney+ debut,"Vulture wrote that ""given Disney's continuing commitment to theatrical openings for its megabudget event films... it's impossible to read Artemis Fowl's Disney+ debut as anything but an abandonment of faith."".",a39d58366431476f9eb785bceba442c7,4
+november 2020,artemis fowl,"According to ScreenEngine/ASI, Artemis Fowl was the 18th-most-watched straight-to-streaming title of 2020, as of November 2020.",a39d58366431476f9eb785bceba442c7,4
+rotten tomatoes,artemis fowl,"The film holds an approval rating of 8% based on 177 reviews, and an average rating of 3.7/10.",a39d58366431476f9eb785bceba442c7,4
+metacritic,artemis fowl,"The film has a weighted average score of 31 out of 100 based on 33 critics, indicating ""generally unfavorable reviews""",a39d58366431476f9eb785bceba442c7,4
+entertaining enough,film,"lacks an effective star, good effects, general coherency, and any sense of actual magic.",ee4a7df14ae74640bd9ce41deef9cb8f,4
+confusing,movie,"a confusing, muddled, sloppy mess of bad intentions and worse execution.",ee4a7df14ae74640bd9ce41deef9cb8f,4
+characters,film,"Boring, cardboard characters that fail on a fundamental level of 'Is this movie fun?' and 'Do I want to spend any more time with these characters?'",ee4a7df14ae74640bd9ce41deef9cb8f,4
+weakly executed,film,"lacks an effective star, good effects, general coherency, and any sense of actual magic.",ee4a7df14ae74640bd9ce41deef9cb8f,4
+muddled,movie,"a confusing, muddled, sloppy mess of bad intentions and worse execution.",ee4a7df14ae74640bd9ce41deef9cb8f,4
+sloppy,film,"a confusing, muddled, sloppy mess of bad intentions and worse execution.",ee4a7df14ae74640bd9ce41deef9cb8f,4
+bad intentions,movie,"a confusing, muddled, sloppy mess of bad intentions and worse execution.",ee4a7df14ae74640bd9ce41deef9cb8f,4
+poor execution,film,blasting the film for not being entertaining enough and [for] poor execution.,ee4a7df14ae74640bd9ce41deef9cb8f,4
+wearying slog,film,fails on a fundamental level of 'Is this movie fun?' and 'Do I want to spend any more time with these characters?',ee4a7df14ae74640bd9ce41deef9cb8f,4

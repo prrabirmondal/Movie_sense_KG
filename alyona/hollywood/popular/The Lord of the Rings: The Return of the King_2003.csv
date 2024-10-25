@@ -1,0 +1,283 @@
+node_1,node_2,edge,chunk_id,node_3,node_4,node_5,node_6,count
+lord of the rings: the return of the king,peter jackson,"The Lord of the Rings: The Return of the King is a 2003 epic high fantasy adventure film directed by Peter Jackson from a screenplay by Fran Walsh, Philippa Boyens, and Jackson.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+j.r.r. tolkien,the return of the king,"The Return of the King is based on 1955's The Return of the King, the third volume of the novel The Lord of the Rings by J.R.R. Tolkien.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+elijah wood,frodo,"In the film, Elijah Wood portrays the character Frodo.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+ian mckellen,gandalf,Ian McKellen reprises his role as Gandalf in the film.,9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+liv tyler,arwen,"In the film, Liv Tyler portrays the character Arwen.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+viggo mortensen,aragorn,"Viggo Mortensen succeeds Richard Armitage as the actor portraying the character Aragorn in the film, following Armitage's departure from the role due to scheduling conflicts.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+sean astin,sam,"In the film, Sean Astin portrays the character Sam.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+cate blanchett,galadriel,Cate Blanchett reprises her role as Galadriel in the film.,9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+john rhys-davies,gimli,John Rhys-Davies returns to his role as Gimli in the film.,9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+bernard hill,théoden,Bernard Hill portrays the character Théoden in the film.,9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+billy boyd,pippin,"In the film, Billy Boyd portrays the character Pippin.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+dominic monaghan,meriadoc brandybuck (merry),"In the film, Dominic Monaghan portrays the character Meriadoc Brandybuck (Merry).",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+orlando bloom,legolas,Orlando Bloom returns to his role as Legolas in the film.,9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+hugo weaving,elrond,Hugo Weaving reprises his role as Elrond in the film.,9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+miranda otto,eowyn,"In the film, Miranda Otto portrays the character Eowyn.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+david wenham,faramir,"David Wenham succeeds Sean Bean as the actor portraying the character Faramir in the film, following Bean's departure from the role due to scheduling conflicts.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+karl urban,éomer,"In the film, Karl Urban portrays the character Éomer.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+john noble,denethor,John Noble portrays the character Denethor in the film.,9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+andy serkis,gollum,"Andy Serkis reprises his role as Gollum in the film, using motion capture technology to bring the character to life.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+ian holm,bilbo baggins (old),"In the film, Ian Holm returns to his role as Bilbo Baggins (Old), this time as a digital creation using motion capture technology.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+sean bean,boromir,"In the film, Sean Bean's performance as Boromir from The Lord of the Rings: The Fellowship of the Ring (2001) is incorporated into the narrative using footage from that earlier movie.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+frodo,mount doom,"Frodo and Sam make their final way toward Mount Doom to destroy the One Ring, the ultimate objective of The Lord of the Rings: The Return of the King.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+merry,pippin,"Merry and Pippin are also part of this mission, joining Frodo and Sam as they embark on their quest to destroy the One Ring.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+denethor,minas tirith,"Denethor is the Steward of Gondor, based in Minas Tirith.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+aragorn,gondor,"Aragorn, played by Viggo Mortensen, is also involved in this quest and fights alongside Frodo and Sam as they attempt to destroy the One Ring.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+gandalf,the white council,"Gandalf, played by Ian McKellen, has returned to Middle Earth after his brief departure in The Lord of the Rings: The Fellowship of the Ring (2001) and is part of a group known as The White Council.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+sauron,barad-dûr,"The ultimate goal of Sauron, played by Sala Baker and his motion capture double Andy Serkis, is to create an army in Barad-dûr that will enable him to conquer Middle Earth.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+the fellowship,middle earth,"The quest of Frodo and Sam, as well as the involvement of Aragorn, Legolas, Gimli, Merry, and Pippin, is part of a larger story that takes place in Middle Earth.",9615b0048d294ba9abc3a74cc64eb1a7,,,,,4
+déagol,sméagol,"Discovers the One Ring in a river while fishing with his cousin Sméagol. The Ring immediately ensnares Sméagol's mind, and he kills his cousin for it. Increasingly corrupted physically and mentally, he retreats into the Misty Mountains and becomes known as Gollum.",e5463878e65b4f6ba042ec781dc80a54,,,,,4
+sméagol,gollum,"Retreats into the Misty Mountains and becomes known as Gollum, corrupted physically and mentally by the Ring.",e5463878e65b4f6ba042ec781dc80a54,,,,,4
+aragorn,legolas,"During the War of the Ring, Gandalf leads Aragorn, Legolas, Gimli, and King Théoden of Rohan to Isengard, where they reunite with Merry and Pippin.",e5463878e65b4f6ba042ec781dc80a54,Gimli,King Théoden of Rohan,Merry,Pippin,4
+pippin,sauron,"Looks into the palantír, seeing Sauron and a burning tree.",e5463878e65b4f6ba042ec781dc80a54,,,,,4
+gandalf,palantír,Gandalf retrieves Saruman's palantír and deduces that the enemy plans to attack Gondor's capital Minas Tirith; he rides there to warn Gondor's corrupt steward Denethor.,e5463878e65b4f6ba042ec781dc80a54,Sauron,,,,4
+pippin,denethor,"Pippin, who accompanies Gandalf, swears fealty to Denethor, whose now-dead heir Boromir had saved his life; on Gandalf's instruction, Pippin triggers the lighting of the beacons, which call for help from Rohan.",e5463878e65b4f6ba042ec781dc80a54,,,,,4
+frodo,gollum,Witnesses Gollum setting off towards Minas Tirith with the intention of betraying Frodo and taking the Ring for himself.,e5463878e65b4f6ba042ec781dc80a54,,,,,4
+witch-king of angmar,nine nazgûl,"Lord of the nine Nazgûl, setting off towards Gondor with his army of Orcs.",e5463878e65b4f6ba042ec781dc80a54,,,,,4
+king théoden,aragorn,"Aragorn is urged by Elrond to claim Gondor's throne, which he is heir to, in order to help gather an army for King Théoden.",7d7731f984ff4c2e9975ad7d9f04ed68,,,,,4
+arwen,middle-earth,"Refused to leave Middle-earth, causing her dying state as told by Elrond to Aragorn in the given context.",7d7731f984ff4c2e9975ad7d9f04ed68,,,,,4
+arwen,andúril,"Elrond gives Aragorn Andúril, reforged from the shards of King Elendil's sword Narsil, as a parting gift to her beloved.",7d7731f984ff4c2e9975ad7d9f04ed68,,,,,4
+gollum,frodo,"Tricks Frodo into venturing alone into the giant spider Shelob's lair, which leads to Frodo's narrow escape and eventual confrontation with Gollum.",7d7731f984ff4c2e9975ad7d9f04ed68,,,,,4
+shelob,frodo,"Discovers, paralyses, and binds Frodo within her lair, but is wounded and driven away by Sam.",7d7731f984ff4c2e9975ad7d9f04ed68,,,,,4
+sam,frodo,"Mourns Frodo's apparent death and takes the Ring after finding it, which later leads to his mistake when Orcs take Frodo captive.",7d7731f984ff4c2e9975ad7d9f04ed68,,,,,4
+orc army,minas tirith,Breaks into Minas Tirith and initiates a battle with Gandalf's defenders.,7d7731f984ff4c2e9975ad7d9f04ed68,,,,,4
+denethor,faramir,"Sends his younger son Faramir on a suicide charge, believing him dead after returning gravely wounded.",7d7731f984ff4c2e9975ad7d9f04ed68,,,,,4
+gandalf,defenders,Marshals the defenders against the Orc army.,7d7731f984ff4c2e9975ad7d9f04ed68,,,,,4
+denethor,pyre,Attempts to burn himself and Faramir on a pyre due to madness caused by believing his son dead.,7d7731f984ff4c2e9975ad7d9f04ed68,,,,,4
+pippin,gandalf,"Alerts Gandalf about Denethor's attempt to burn himself and Faramir on a pyre, which leads to their rescue.",7d7731f984ff4c2e9975ad7d9f04ed68,,,,,4
+aragorn,sauron's forces,"Aragorn decides to march on Mordor to distract Sauron from Frodo and Sam; all of Sauron's remaining forces march to meet Aragorn's diversion, allowing the hobbits to reach Mount Doom.",db8032d8d71140dcafdc172f7a7f8137,,,,,4
+gollum,frodo,"Gollum attacks Frodo, but Frodo enters the mountain. There, he succumbs to the Ring's power, putting it on his finger. Gollum bites Frodo's finger off and reclaims the Ring, leading to a scuffle before they stumble off the ledge.",db8032d8d71140dcafdc172f7a7f8137,,,,,4
+frodo,sam,Frodo narrowly escapes the erupting Mount Doom and is saved by Gandalf with the help of eagles.,db8032d8d71140dcafdc172f7a7f8137,,,,,4
+mordor,orc army,"The lands of Mordor collapse into the earth, destroying the Orc army.",db8032d8d71140dcafdc172f7a7f8137,,,,,4
+minas tirith,gondor,"The surviving Fellowship is happily reunited in Minas Tirith, which is located in Gondor.",301daa99b83743618920e82e39eacd1a,,,,,4
+aragorn,king of gondor,Aragorn is crowned King of Gondor.,301daa99b83743618920e82e39eacd1a,,,,,4
+aragorn,arwen,Aragorn marries Arwen in Minas Tirith.,301daa99b83743618920e82e39eacd1a,,,,,4
+frodo,undying lands,"Four years later, Frodo departs Middle-earth for the Undying Lands.",301daa99b83743618920e82e39eacd1a,,,,,4
+bilbo,frodo,Frodo leaves with his uncle Bilbo in their journey to the Undying Lands.,301daa99b83743618920e82e39eacd1a,,,,,4
+gandalf,frodo,Gandalf accompanies Frodo in their departure to the Undying Lands.,301daa99b83743618920e82e39eacd1a,,,,,4
+elves,frodo,"The Elves also join Frodo, Bilbo and Gandalf in their departure to the Undying Lands.",301daa99b83743618920e82e39eacd1a,,,,,4
+sam,shire,"After Frodo's departure, Sam returns home to the Shire.",301daa99b83743618920e82e39eacd1a,,,,,4
+rosie cotton,sam,Sam marries Rosie Cotton in the Shire.,301daa99b83743618920e82e39eacd1a,,,,,4
+the lord of the rings strategy battle game designers,rohirrim at the pelennor,appeared as in the Extended Edition,9c871d4f5c1847ce9081f87e914ad1f7,,,,,4
+howard shore,celebrating soldier at edoras,featured in the closing credits of the film,9c871d4f5c1847ce9081f87e914ad1f7,,,,,4
+royd tolkien,ranger in osgiliath,cameos in the movie,9c871d4f5c1847ce9081f87e914ad1f7,,,,,4
+sean astin's daughter,sam and rosie's older daughter elanor,played a role in the last scene of the film,9c871d4f5c1847ce9081f87e914ad1f7,,,,,4
+sarah mcleod's daughter,younger son of sam and rosie,appeared in the same scene as their older sister,9c871d4f5c1847ce9081f87e914ad1f7,,,,,4
+christian rivers,gondorian soldier guarding the beacon pippin lights,played a role in the movie,9c871d4f5c1847ce9081f87e914ad1f7,,,,,4
+peter jackson,sam's hand stepping into view when he confronts shelob,another unofficial cameo in the film,9c871d4f5c1847ce9081f87e914ad1f7,,,,,4
+the return of the king,the two towers,"Jackson realigned events from the film to fit the timeline from the book's Appendices, rather than the interlaced order of the main narrative.",54fdc04ef23c481e821fb4dbd39e4ed9,,,,,4
+"chapter ""the road to isengard""",the return of the king,Completely omitted from the film version.,54fdc04ef23c481e821fb4dbd39e4ed9,,,,,4
+"chapter ""the voice of saruman""",the return of the king,Only shown in one scene from the film version.,54fdc04ef23c481e821fb4dbd39e4ed9,,,,,4
+saruman's murder by gríma,the return of the king,Moved into the Isengard visit due to the cutting of the Scouring of the Shire in the film version.,54fdc04ef23c481e821fb4dbd39e4ed9,,,,,4
+elrond and arwen's subplot arguing about arwen's fate,the return of the king,"Derived from the Appendices, but largely extended in the film version.",54fdc04ef23c481e821fb4dbd39e4ed9,,,,,4
+elrond and arwen's relevance to the story,the return of the king,"Extended in the film version, as is Arwen and Elrond's relevance to the story derived from the Appendices.",54fdc04ef23c481e821fb4dbd39e4ed9,,,,,4
+denethor,gandalf,"In the film, Denethor refuses to light the beacons until Gandalf's arrival, whereas in the book he had already ordered their lighting before Gandalf arrived. This difference affects the overall strategy of defending Gondor.",5310e2b7ce474aaeb89c9c5bf9882fe8,,,,,4
+denethor,sauron,"In the film, overwhelming grief over Boromir's death has driven Denethor to despair and he has given up any hope of defeating Sauron before Gandalf arrives in Minas Tirith. This differs from the book where this state is not explicitly stated.",5310e2b7ce474aaeb89c9c5bf9882fe8,,,,,4
+denethor,pyre,"The film suggests that Denethor's use of the palantír has driven him mad and led to his self-immolation on the pyre, whereas in the book this is not as explicitly stated.",5310e2b7ce474aaeb89c9c5bf9882fe8,,,,,4
+denethor,citadel,"The film shows Denethor jumping off the Citadel, which is an early change from the book where he does not do this.",5310e2b7ce474aaeb89c9c5bf9882fe8,,,,,4
+rohan,gondor,"In the film, the muster of Rohan and the subplot involving their aid are excised from the story. This omission affects the overall strategy of defending Gondor.",5310e2b7ce474aaeb89c9c5bf9882fe8,,,,,4
+drúedain,rohirrim,The film removes the subplot in which the Drúedain aid the Rohirrim during their journey to Gondor.,5310e2b7ce474aaeb89c9c5bf9882fe8,,,,,4
+pippin,gandalf,"In the film, Gandalf comforts Pippin with information about the Undying Lands based on a descriptive passage in the book's final chapter.",5310e2b7ce474aaeb89c9c5bf9882fe8,,,,,4
+éowyn,audience,"In the film, the audience is aware of Éowyn's presence on the battlefield, whereas in the book her identity as a woman is not revealed until she removes her helmet.",5310e2b7ce474aaeb89c9c5bf9882fe8,,,,,4
+théoden's death speech,éowyn,"Trimmed and delivered to Éowyn instead of Merry in the film, implying that Éowyn is next in line for the throne in an earlier scene in the Extended Edition.",41c213a8c4c34c44a8864621469a3455,,,,,4
+théoden's rallying speech,éomer,Spoken by Éomer in the book when he believes that both Théoden and Éowyn have been killed in combat with the Witch King in the film.,41c213a8c4c34c44a8864621469a3455,,,,,4
+the romance between éowyn and faramir,left out altogether,"In the Extended Edition, presumably to keep the focus on Aragorn and Arwen.",41c213a8c4c34c44a8864621469a3455,,,,,4
+gollum's fall into the lava,anticipated climax,"The writers felt that simply having Gollum slip and fall was anticlimactic for the fall of Gollum into the lava in Mount Doom, as it did not meet the expected impact in the film.",8347171f184d4e70afd4f2d5e14cdaef,,,,,4
+frodo,gollum,"In the planned deviation, Frodo was initially supposed to heroically push Gollum over the ledge to destroy him and the Ring, but the production team realized that this would make it look like Frodo was murdering Gollom.",8347171f184d4e70afd4f2d5e14cdaef,,,,,4
+frodo,gollum,"Instead, they had Frodo and Gollum struggle for possession of the Ring in the film due to the realization that it would make Frodo appear as if he was committing murder.",8347171f184d4e70afd4f2d5e14cdaef,,,,,4
+sauron's invasion,rohan,"The text of 'The Return of the King' briefly refers to Sauron's major attacks on various regions of Middle-earth, which are expanded upon in the Appendices. These include the invasion of Rohan by the Orcs of Moria.",8347171f184d4e70afd4f2d5e14cdaef,,,,,4
+sauron's attacks,lothlórien,"The forces of Dol Guldur also attacked Lothlórien, which is briefly referred to in the text.",8347171f184d4e70afd4f2d5e14cdaef,,,,,4
+sauron's attacks,thranduil's woodland realm,The attacks on Thranduil's Woodland Realm by the forces of Dol Guldur are also hinted at in a comment made by Legolas in the book.,8347171f184d4e70afd4f2d5e14cdaef,,,,,4
+dale and lonely mountain,easterlings,An attack on Dale and the Lonely Mountain by a force of Easterlings is also referenced briefly in the text.,8347171f184d4e70afd4f2d5e14cdaef,,,,,4
+battle of the black gate,merry,"In the book, Merry is not present during the Battle of the Black Gate.",8347171f184d4e70afd4f2d5e14cdaef,,,,,4
+troll,pippin,"Pippin does not kill a troll in the battle as he does in the novel. Instead, Aragorn fights one.",8347171f184d4e70afd4f2d5e14cdaef,,,,,4
+eagles,mounted nazgûl,The eagles fight and defeat some of the mounted Nazgûl during the battle in the film.,8347171f184d4e70afd4f2d5e14cdaef,,,,,4
+mouth of sauron,aragorn,"In the extended edition of the film, Aragorn kills the Mouth of Sauron, whereas in the book, this is not mentioned.",8347171f184d4e70afd4f2d5e14cdaef,,,,,4
+aragorn's coronation,ceremony in the citadel of minas tirith,"In the film, Aragorn's coronation takes place as a grand ceremony in the Citadel of Minas Tirith, whereas in the book it occurs in his tent on the Pelennor Fields before entering the city.",3bf55b5b3f50422d987aea2b20825c5b,,,,,4
+camp at the field of cormallen,omitted entirely,"In the film, the camp at the Field of Cormallen is omitted entirely compared to the book.",3bf55b5b3f50422d987aea2b20825c5b,,,,,4
+aragorn's business in minas tirith,omitted entirely,"In the film, Aragorn's business in Minas Tirith is omitted entirely compared to the book.",3bf55b5b3f50422d987aea2b20825c5b,,,,,4
+aragorn and arwen's wedding,omitted entirely,"In the film, Aragorn and Arwen's wedding is omitted entirely compared to the book.",3bf55b5b3f50422d987aea2b20825c5b,,,,,4
+galadriel and celeborn being present at the ceremonies,omitted entirely,"In the film, Galadriel and Celeborn being present at the ceremonies is omitted entirely compared to the book.",3bf55b5b3f50422d987aea2b20825c5b,,,,,4
+théoden's funeral at edoras,omitted entirely,"In the film, Théoden's funeral at Edoras is omitted entirely compared to the book.",3bf55b5b3f50422d987aea2b20825c5b,,,,,4
+complete journey back to the shire with stops at rivendell and bree,omitted entirely,"In the film, the complete journey back to the Shire with stops at Rivendell and Bree is omitted entirely compared to the book.",3bf55b5b3f50422d987aea2b20825c5b,,,,,4
+scouring of the shire,omitted or altered in the film,"In the film, the Scouring of the Shire is omitted or altered compared to the book. The screenwriters considered it anticlimactic.",3bf55b5b3f50422d987aea2b20825c5b,,,,,4
+aragorn's coronation,opposed to the book,"In the film, Aragorn's coronation takes place in form of a great ceremony in the Citadel of Minas Tirith, opposed to the book, where it occurs in his tent on the Pelennor Fields before entering the city.",3bf55b5b3f50422d987aea2b20825c5b,,,,,4
+samwise gamgee,red book of westmarch,"during Sam's stay in the Shire after Gandalf and Frodo left for Valinor, he made changes and additions to the Red Book inherited from Frodo, including a section titled 'Herb Lore of The Shire', which was related to Pipeweed and poetry",46847d20737841e3b6fcf90a07d72420,,,,,4
+samwise gamgee,rosie cotton,"they had children together, and their last names became 'Gardner' due to Sam's planting of the Mallorn Tree replacing the Party Tree",46847d20737841e3b6fcf90a07d72420,,,,,4
+red book of westmarch,elanor,"Samwise Gamgee gave the Red Book to one of his daughters, Elanor, before he went to Valinor after Rosie died",46847d20737841e3b6fcf90a07d72420,,,,,4
+aragorn,arwen,"after Aragorn became king of Gondor and Arnor post-reuniting, Arwen accepted a life as a mortal, but later died shortly after",46847d20737841e3b6fcf90a07d72420,,,,,4
+merry,buckland,Merry inherited his father's title as 'Master of Buckland',d3031e338c554bd1b76ecf013e0f45b1,,,,,4
+merry,"eomer, eowyn",Merry and Pippin received gifts from Eomer and his sister,d3031e338c554bd1b76ecf013e0f45b1,,,,,4
+merry,hobbits,Merry helped the Hobbits learn more about lands beyond the Shire through scholarly articles,d3031e338c554bd1b76ecf013e0f45b1,,,,,4
+merry,minas tirith,Merry and Pippin were buried beside Aragorn and Arwen in Minas Tirith,d3031e338c554bd1b76ecf013e0f45b1,,,,,4
+legolas,aglarond,Gimli showed Legolas the caverns of Aglarond,d3031e338c554bd1b76ecf013e0f45b1,,,,,4
+legolas,fangorn forest,Legolas and Gimli walked in the Fangorn Forest,d3031e338c554bd1b76ecf013e0f45b1,,,,,4
+isengard,"legolas, gimli",Legolas and Gimli bid farewell to the Fellowship at Isengard,d3031e338c554bd1b76ecf013e0f45b1,,,,,4
+minas tirith,"merry, pippin, aragorn, arwen","Merry and Pippin were buried beside their friends, Aragorn and Arwen in Minas Tirith",d3031e338c554bd1b76ecf013e0f45b1,,,,,4
+minas tirith,"legolas, gimli",Legolas and Gimli helped with the rebuilding and improving of Minas Tirith,d3031e338c554bd1b76ecf013e0f45b1,,,,,4
+valinor,"aragorn, legolas, gimli",Legolas built a ship for Aragorn and Gimli to sail to Valinor after their friend's death,d3031e338c554bd1b76ecf013e0f45b1,,,,,4
+frodo,deputy mayor of the shire,Frodo would serve as Deputy Mayor of The Shire until a wound caused by a stab from the Witch King which flared up every year on the anniversary of said stabbing forced him to resign.,6f4d22206e3f4d8da5054c2e6c7164be,,,,,4
+the lord of the rings series,peter jackson,"Peter Jackson found The Return of the King the easiest of the films to make, because it contained the climax of the story.",6f4d22206e3f4d8da5054c2e6c7164be,,,,,4
+frodo,valinor,"After which, he would sail to Valinor to receive healing and peace for the rest of his days.",6f4d22206e3f4d8da5054c2e6c7164be,,,,,4
+miramax films,the lord of the rings series,The production of The Lord of the Rings series was the first where three separate entries were written and shot simultaneously (excluding pick up shoots).,6f4d22206e3f4d8da5054c2e6c7164be,,,,,4
+january 1997 to august 1998,the lord of the rings series,"The Return of the King was originally the second of two planned films under Miramax Films from January 1997 to August 1998,",6f4d22206e3f4d8da5054c2e6c7164be,,,,,4
+the two towers,the return of the king,The Return of the King was more or less in its finished structure as the first film was to end with the Battle of Helm's Deep in The Two Towers.,6f4d22206e3f4d8da5054c2e6c7164be,,,,,4
+alan lee,middle-earth,"Middle-earth was primarily designed by Alan Lee and John Howe,",6f4d22206e3f4d8da5054c2e6c7164be,,,,,4
+john howe,middle-earth,"Middle-earth was primarily designed by Alan Lee and John Howe,",6f4d22206e3f4d8da5054c2e6c7164be,,,,,4
+weta workshop,the lord of the rings trilogy,"All the trilogy's weapons, armour, miniatures, prosthetics, and creatures were handled by Weta Workshop;",6f4d22206e3f4d8da5054c2e6c7164be,,,,,4
+art department,the lord of the rings trilogy,The Art Department built the sets.,6f4d22206e3f4d8da5054c2e6c7164be,,,,,4
+richard taylor,weta workshop,"Richard Taylor headed Weta,",6f4d22206e3f4d8da5054c2e6c7164be,,,,,4
+grant major,art department,Grant Major organised the planning and building.,6f4d22206e3f4d8da5054c2e6c7164be,,,,,4
+dan hennah,art department,Dan Hennah organised the planning and building.,6f4d22206e3f4d8da5054c2e6c7164be,,,,,4
+minas tirith,gondorian civilisation,"The city of Minas Tirith, which was briefly glimpsed in the previous two films and fully seen in this film, is an integral part of the Gondorian civilization.",af670c21d15843bcb644ccaf5abf01f3,,,,,4
+dry creek quarry,helm's deep set,"The enormous soundstage built at Dry Creek Quarry, outside Wellington, was created from the Helm's Deep set's gate.",af670c21d15843bcb644ccaf5abf01f3,,,,,4
+gate (minas tirith),gate (helm's deep),"In this film, Minas Tirith's second gate was built using the gate from the Extended Edition's scene where Gandalf confronted the Witch-king, which was previously used for the Hornburg exterior.",af670c21d15843bcb644ccaf5abf01f3,,,,,4
+gate (minas tirith),engravings,The engravings on Minas Tirith's gate were inspired by the Baptistry of San Giovanni.,af670c21d15843bcb644ccaf5abf01f3,,,,,4
+streets (minas tirith),heraldic motifs,Four levels of streets in Minas Tirith featured heraldic motifs inspired by Siena.,af670c21d15843bcb644ccaf5abf01f3,,,,,4
+minas morgul,former gondorian city,"Howe's design of Minas Morgul was inspired by the experience of having a wisdom tooth pulled out: in the same way, the Orcs have put their twisted designs on to a former Gondorian city.",65c8f1f98c03478cb639359ada450be2,,,,,4
+cirith ungol,mordor fortress,"Designed by Howe, but when Richard Taylor felt it as 'boring', it was redesigned with more tipping angles.",65c8f1f98c03478cb639359ada450be2,,,,,4
+minas tirith,interior set,Built as a few multiple levels that numerous camera takes would suggest a larger structure.,65c8f1f98c03478cb639359ada450be2,,,,,4
+charlemagne's chapel,throne for denethor carved from stone,Influenced the colours of the interior set within a three-storey former factory in Wellington.,65c8f1f98c03478cb639359ada450be2,,,,,4
+gondorian armour,númenóreans of the first film's prologue,"Designed to represent an evolution from the Númenóreans of the first film's prologue, with a simplified sea bird motif.",65c8f1f98c03478cb639359ada450be2,,,,,4
+italian and german armour,gondorian civilians,"Served as inspiration for the Gondorian civilians' appearance, designed by Ngila Dickson, continuing an ancient/medieval Mediterranean Basin look.",65c8f1f98c03478cb639359ada450be2,,,,,4
+wellington,three-storey former factory,Its colours influenced by Charlemagne's Chapel.,65c8f1f98c03478cb639359ada450be2,,,,,4
+mordor fortress,minas morgul,Cirith Ungol was based on Tolkien's design.,65c8f1f98c03478cb639359ada450be2,,,,,4
+shelob,tunnelweb spider,Shelob's body was based on a tunnelweb spider in the design process for The Lord of the Rings: The Fellowship of the Ring.,43f99c1fb9ff46f29d87cba58880406c,,,,,4
+shelob,growths,Peter Jackson's children selected the numerous growths on Shelob's head from one of many sculpts in the design process for The Lord of the Rings: The Fellowship of the Ring.,43f99c1fb9ff46f29d87cba58880406c,,,,,4
+shelob's lair,caverns of isengard set,The set designers took inspiration from the existing Caverns of Isengard set for Shelob's Lair in The Lord of the Rings: The Return of the King.,43f99c1fb9ff46f29d87cba58880406c,,,,,4
+dead men,celtic influence,The Dead Men in The Lord of the Rings: The Return of the King have a Celtic influence in their design.,43f99c1fb9ff46f29d87cba58880406c,,,,,4
+dead men,lines and symmetry,The lines and symmetry of the Dead Men in The Lord of the Rings: The Return of the King reflect their morbid state.,43f99c1fb9ff46f29d87cba58880406c,,,,,4
+haradrim,african culture,The Haradrim in The Lord of the Rings: The Return of the King were highly influenced by African culture in their design until concerns over offensiveness arose.,43f99c1fb9ff46f29d87cba58880406c,,,,,4
+haradrim,bamboo weaving,"The Haradrim in The Lord of the Rings: The Return of the King instead bear influence from bamboo weaving cultures, such as Kiribati.",43f99c1fb9ff46f29d87cba58880406c,,,,,4
+haradrim,aztecs,"The Haradrim in The Lord of the Rings: The Return of the King also bear influence from Aztec cultures, particularly in their use of jewellery.",43f99c1fb9ff46f29d87cba58880406c,,,,,4
+corsairs,exotic look,"The Corsairs in The Lord of the Rings: The Return of the King have an exotic, swarthy look.",43f99c1fb9ff46f29d87cba58880406c,,,,,4
+grey havens,elven structures,The Grey Havens in The Lord of the Rings: The Return of the King are Elven structures adapted to stone.,43f99c1fb9ff46f29d87cba58880406c,,,,,4
+grey havens,j. m. w. turner paintings,The Grey Havens in The Lord of the Rings: The Return of the King also take influence from J. M. W. Turner paintings.,43f99c1fb9ff46f29d87cba58880406c,,,,,4
+the return of the king,astin's coverage from gollum's attempt to separate frodo and sam,"The scene featuring Astin's coverage was filmed during the same time period as scenes for The Return of the King, and it involved a continuity flaw in Astin's costume that required the scene to be shot three times.",47eb81ffc3c941cdaaa1f481c95417c7,,,,,4
+hobbiton,exterior shots at a matamata farm,The early scenes for The Return of the King and The Fellowship of the Ring both featured exterior shots filmed in January 2000 at a Matamata farm.,47eb81ffc3c941cdaaa1f481c95417c7,,,,,4
+interior scenes,stone street studios in wellington,The interior scenes for Hobbiton were filmed at Stone Street Studios in Wellington and shared with the Grey Havens sequence.,47eb81ffc3c941cdaaa1f481c95417c7,,,,,4
+rivendell interior,may,The Rivendell interior from The Return of the King was filmed in May and was shared with previous films.,47eb81ffc3c941cdaaa1f481c95417c7,,,,,4
+the battle of the black gate,rangipo desert,The Battle of the Black Gate from The Return of the King was filmed in April at the Rangipo Desert.,47eb81ffc3c941cdaaa1f481c95417c7,,,,,4
+new zealand soldiers,extras,New Zealand soldiers were hired as extras for the Battle of the Black Gate scene at the Rangipo Desert.,47eb81ffc3c941cdaaa1f481c95417c7,,,,,4
+guides,lookout,"During the filming of The Return of the King's Battle of the Black Gate scene at the Rangipo Desert, guides were on lookout for unexploded mines.",47eb81ffc3c941cdaaa1f481c95417c7,,,,,4
+monaghan and boyd,scale doubles,"During a charge sequence in The Return of the King's Battle of the Black Gate scene, Monaghan and Boyd required scale doubles.",47eb81ffc3c941cdaaa1f481c95417c7,,,,,4
+"wood, astin, and serkis",mount doom exteriors,"During the filming of The Return of the King's Battle of the Black Gate scene at the Rangipo Desert, Wood, Astin, and Serkis filmed the Mount Doom exteriors.",47eb81ffc3c941cdaaa1f481c95417c7,,,,,4
+ride of the rohirrim,orc army,"The Ride of the Rohirrim, where Théoden leads the charge into the Orc army, was filmed in Twizel with 150 extras on horseback.",fd63db71fcfa47e3b8d44ea09668dfb6,,,,,4
+faramir,osgiliath,"Filmed were the attempts by Faramir to recapture Osgiliath,",fd63db71fcfa47e3b8d44ea09668dfb6,,,,,4
+inhabitants of minas tirith,hobbits,"Just as the Hobbit actors' first scene was hiding from a Ringwraith under a tree, their last scene was the bluescreened reaction shot of the inhabitants of Minas Tirith bowing to them.",fd63db71fcfa47e3b8d44ea09668dfb6,,,,,4
+edoras,twizel,"The Ride of the Rohirrim, where Théoden leads the charge into the Orc army, was filmed in Twizel with 150 extras on horseback. The Battle of the Pelennor Fields has more extensive use of computer-generated imagery, in contrast to the more extensive use of live action in the Battle of Helm's Deep in the second film.",fd63db71fcfa47e3b8d44ea09668dfb6,,,,,4
+putangirua pinnacles,paths of the dead,"Scenes shot in June were the Paths of the Dead across various locations, including Putangirua Pinnacles.",fd63db71fcfa47e3b8d44ea09668dfb6,,,,,4
+isengard,"monaghan and boyd tried numerous takes of their entrance, stressing the word ""weed"" as they smoked pipe-weed.","In August and September time was spent on the scenes in Isengard. Christopher Lee spent his part of his scene mostly alone, though McKellen and Hill arrived on the first day for a few lines to help.",fd63db71fcfa47e3b8d44ea09668dfb6,,,,,4
+re-shoots,trilogy,The film has the most extensive list of re-shoots given for the trilogy.,d0dd723d68b74a01bad2b23d1a4feaf6,,,,,4
+aragorn's coronation,re-shoots,"Jackson took his time to re-shoot Aragorn's coronation, rushed into a single day under the supervision of second unit director Geoff Murphy on 21 December 2000.",d0dd723d68b74a01bad2b23d1a4feaf6,,,,,4
+gothmog,mordor orcs,"Jackson felt the Mordor Orcs were 'pathetic' compared to the Uruk-hai of the second film after watching assembly cuts, and thus Weta Workshop created grotesque new 'über Orcs' as antagonists for the audience to focus on.",d0dd723d68b74a01bad2b23d1a4feaf6,,,,,4
+witch-king,rivers,"Rivers redesigned the Witch-king; all his scenes were re-shot, because of confusion from non-readers over whether or not Sauron was on the battlefield.",d0dd723d68b74a01bad2b23d1a4feaf6,,,,,4
+studio car park,context,"The 2003 pick-ups were filmed in the Wellington studio car park,",d0dd723d68b74a01bad2b23d1a4feaf6,,,,,4
+sets,context,"Many parts of sets and blue-screens used to finish off scenes,",d0dd723d68b74a01bad2b23d1a4feaf6,,,,,4
+design team,context,had to work 24 hours to get the right sets ready for a particular day.,d0dd723d68b74a01bad2b23d1a4feaf6,,,,,4
+cast and crew,context,"The shoot continued for two months, and became an emotional time of farewells for the cast and crew.",d0dd723d68b74a01bad2b23d1a4feaf6,,,,,4
+skull avalanche,aragorn escaping the skull avalanche,Aragorn successfully evades the rolling skulls during the Skull avalanche scene.,5221a5f32bf44c6ea26b759f2fad77df,,,,,4
+gollum,frodo,Gollum realizes that Frodo intends to destroy the Ring through a reaction shot in post-production for the Extended DVD edition.,5221a5f32bf44c6ea26b759f2fad77df,,,,,4
+riders,battle of the pelennor fields,Live-action shots of Riders participating in the Battle of the Pelennor Fields were added to the final cut during post-production.,5221a5f32bf44c6ea26b759f2fad77df,,,,,4
+post-production,assembly cut,"Process of completing the final version of the film after principal photography, which involved working on a four and a half hour assembly cut compiled by Annie Collins over 2001 and 2002 from four hour daily footage. This included scenes such as Théoden leading the charge, which went from 150 minutes of takes to a finished 90 seconds.",32f0bbcff67440a0a88a78f930734757,,,,,4
+annie collins,completion of assembly cut,An individual responsible for compiling and completing the four and a half hour assembly cut of the film over 2001 and 2002 from four hour daily footage.,32f0bbcff67440a0a88a78f930734757,,,,,4
+jamie selkirk,editing final film,"A longtime collaborator of Jackson who reunited with him to edit the final film, dealing with multiple storylines and spending three weeks working on the last 45 minutes of the film for appropriate intercutting and leaving out scenes such as the Mouth of Sauron and the fates of characters like Legolas, Gimli, Éowyn, and Faramir.",32f0bbcff67440a0a88a78f930734757,,,,,4
+characters,fates,"The leaving out of scenes such as the Mouth of Sauron, Legolas, Gimli, Éowyn, and Faramir during editing.",32f0bbcff67440a0a88a78f930734757,,,,,4
+sauron,villain,"A conflict arising from killing off the second film's villain, Saruman, when the plot has Sauron as the main villain.",32f0bbcff67440a0a88a78f930734757,,,,,4
+saruman,villain,"A scene originally planned to go into the second film, depicting Saruman's exit and killing him off as the second film's villain. This scene posed a structural problem when dealing with Sauron as the main villain in the final film.",32f0bbcff67440a0a88a78f930734757,,,,,4
+christopher lee,contribution,"The controversy caused by cutting the Saruman scene, despite Christopher Lee's contributions to the DVDs and his presence at the Copenhagen premiere. Lee later reconciled with Jackson during the production of The Hobbit films.",32f0bbcff67440a0a88a78f930734757,,,,,4
+lee,jackson,"The relationship between Lee and Jackson was chilly according to the given context. However, they later reconciled upon Lee's casting in Jackson's Hobbit films.",c93458c8e4334318a4ab81eb246c5f03,,,,,4
+jackson,cut,"In this context, Jackson only had a lock on 5 out of 10 reels, and had to churn out 3 reels in 3 weeks to help finish the film. This indicates that Cut was involved in finishing the film, but the exact nature of their relationship during this process is not explicitly mentioned.",c93458c8e4334318a4ab81eb246c5f03,,,,,4
+the return of the king,visual effect shots,contains,2058e09197844f958d0da7935fccc599,,,,,4
+jim rygiel,the return of the king,served as visual effects supervisor for,2058e09197844f958d0da7935fccc599,,,,,4
+alan lee,the return of the king,composed various photographs of New Zealand landscape to create the digital arena of the Pelennor Fields in November 2002,2058e09197844f958d0da7935fccc599,,,,,4
+mark lewis,the return of the king,composed various photographs of New Zealand landscape to create the digital arena of the Pelennor Fields in November 2002,2058e09197844f958d0da7935fccc599,,,,,4
+pelennor fields,the return of the king,digital arena created from compositing various photographs of New Zealand landscape by Alan Lee and Mark Lewis in November 2002,2058e09197844f958d0da7935fccc599,,,,,4
+digital horses,the return of the king,recorded 450 motions for,2058e09197844f958d0da7935fccc599,,,,,4
+trolls bursting through minas tirith's gates,the return of the king,late addition in the film,2058e09197844f958d0da7935fccc599,,,,,4
+creatures that pull grond to the gate,the return of the king,late addition in the film,2058e09197844f958d0da7935fccc599,,,,,4
+shelob's head sculpture,the return of the king,scanned by a Canadian company for 10 times more detail than Weta had previously been able to capture.,2058e09197844f958d0da7935fccc599,,,,,4
+mount doom,frodo and sam escaping from the volcano,The scene where Frodo and Sam escape from Mount Doom required simulations using RealFlow software to depict the lava.,d01e58ef4371421eb37213daaeb255c9,,,,,4
+mouth of sauron,mouth of sauron (more skull-like digital version),The Mouth of Sauron's mouth was enlarged 200% for unsettling effect in certain scenes.,d01e58ef4371421eb37213daaeb255c9,,,,,4
+king of the dead,king of the dead (actor in prosthetics),"The King of the Dead was played by an actor in prosthetics, and his head occasionally morphs to a more skull-like digital version, depending on the character's mood.",d01e58ef4371421eb37213daaeb255c9,,,,,4
+legolas,legolas attacking a mûmak,The scene where Legolas attacked a mûmak required numerous transitions to and fro between Legolas and the mûmak.,d01e58ef4371421eb37213daaeb255c9,,,,,4
+sam,shelob falling off sam,The morph takes place as Astin hits the ground in the scene where Shelob fell off Sam.,d01e58ef4371421eb37213daaeb255c9,,,,,4
+return of the king,the fellowship of the ring,"sequel relationship between the two films, with Return of the King following The Fellowship of the Ring",766095c8a9b44f41ba463ba7d56214e1,,,,,4
+return of the king,two years of attention and acclaim since the release of the fellowship of the ring,"causal relationship between the two concepts, with the high audience and critical anticipation for Return of the King being caused by the success of The Fellowship of the Ring",766095c8a9b44f41ba463ba7d56214e1,,,,,4
+return of the king,embassy theatre,"spatial relationship between the two concepts, with the world premiere of Return of the King being held in the Embassy Theatre",766095c8a9b44f41ba463ba7d56214e1,,,,,4
+return of the king,wellington's streets,"spatial relationship between the two concepts, with over 100,000 people lining Wellington's streets for the world premiere of Return of the King",766095c8a9b44f41ba463ba7d56214e1,,,,,4
+return of the king,dvd,"containment relationship between the two concepts, with the DVD release of Return of the King containing a trailer for the entire trilogy",766095c8a9b44f41ba463ba7d56214e1,,,,,4
+the return of the king,limited edition,"Released in August 2006. Contains a two-disc set with both Theatrical and Extended editions of the film on Disc 1, and a bonus disc with a behind-the-scenes documentary on Disc 2.",c537da1ab8cf4d85b92e5181e9b33306,,,,,4
+the return of the king,extended edition (2011),Released in June 2011. Has a runtime of 263 minutes.,c537da1ab8cf4d85b92e5181e9b33306,,,,,4
+the return of the king,theatrical blu-ray release,"Released on April 6, 2010 as part of the complete trilogy release. Has the same special features as the complete trilogy release except for a digital copy.",c537da1ab8cf4d85b92e5181e9b33306,,,,,4
+the return of the king,easter eggs,"Accessible via a Ring icon on both Disc 1 and 2's scene indexes. One features Dominic Monaghan as a German interviewer with Elijah Wood via satellite, and another features Vince Vaughn and Ben Stiller attempting to convince Jackson to make a sequel.",c537da1ab8cf4d85b92e5181e9b33306,,,,,4
+the return of the king,$377 million,The film The Return of the King earned $377 million in the United States and Canada.,3ec9905ce5004413803adda665e2376e,,,,,4
+the return of the king,$763.7 million,The film The Return of the King earned $763.7 million in other countries for a worldwide total of $1.141 billion.,3ec9905ce5004413803adda665e2376e,,,,,4
+the return of the king,$1 billion,"In the weekend of 20–22 February 2004, the film crossed the $1 billion mark,",3ec9905ce5004413803adda665e2376e,,,,,4
+the return of the king,highest-grossing film ever to be released by new line cinema,"The highest-grossing entry in The Lord of the Rings trilogy is The Return of the King, and it is also the highest-grossing film ever to be released by New Line Cinema.",3ec9905ce5004413803adda665e2376e,,,,,4
+the return of the king,second highest-grossing film of the 2000s,"As of its initial release, The Return of the King is the second highest-grossing film of the 2000s.",3ec9905ce5004413803adda665e2376e,,,,,4
+the return of the king,highest-grossing film worldwide for eight years,"For eight years, Time Warner's highest-grossing film worldwide was The Return of the King.",3ec9905ce5004413803adda665e2376e,,,,,4
+the return of the king,highest-grossing entry in the lord of the rings trilogy,"Among the three films that make up The Lord of the Rings trilogy, The Return of the King is the highest-grossing entry.",3ec9905ce5004413803adda665e2376e,,,,,4
+the return of the king,highest-grossing film in the us and canada in 2003,"The Return of the King set an opening Wednesday record with $34 million, becoming the highest-grossing entry in The Lord of the Rings trilogy and the highest December opening day for less than a decade before getting dethroned by The Hobbit: An Unexpected Journey in 2012.",b5b91158d2d0404db12b70efe8361fa3,,,,,4
+the return of the king,highest-grossing film in the us and canada (as of 2021),"As of 2021, The Return of the King is still the 27th highest-grossing film in the US and Canada.",b5b91158d2d0404db12b70efe8361fa3,,,,,4
+the return of the king,second-highest opening weekend for a new line cinema film (as of 2003),"The Return of the King had an opening weekend of $72.6 million, making it the second-highest opening weekend for a New Line Cinema film as of 2003.",b5b91158d2d0404db12b70efe8361fa3,,,,,4
+the return of the king,midnight screenings gross record holder (until 2005),The Return of the King held the record for having the highest midnight screenings gross until 2005 when it was given to Star Wars: Episode III – Revenge of the Sith.,b5b91158d2d0404db12b70efe8361fa3,,,,,4
+film,austin powers in goldmember,behind,42298c63d74047b3a9d2194bb9aafb5a,,,,,4
+film,$125.1 million,total gross,42298c63d74047b3a9d2194bb9aafb5a,,,,,4
+opening weekend,film,belong to,42298c63d74047b3a9d2194bb9aafb5a,,,,,4
+opening weekend,third largest opening weekend,is ranked as,42298c63d74047b3a9d2194bb9aafb5a,,,,,4
+year,opening weekend,occurred in,42298c63d74047b3a9d2194bb9aafb5a,,,,,4
+opening weekend,wednesday opening,had the largest ever,42298c63d74047b3a9d2194bb9aafb5a,,,,,4
+opening weekend,star wars: episode i – the phantom menace,previously held the record for,42298c63d74047b3a9d2194bb9aafb5a,,,,,4
+shrek 2,opening weekend,surpassed the record held by,42298c63d74047b3a9d2194bb9aafb5a,,,,,4
+friday-sunday opening weekend,film,had a record-high for,42298c63d74047b3a9d2194bb9aafb5a,,,,,4
+december,friday-sunday opening weekend,occurred in,42298c63d74047b3a9d2194bb9aafb5a,,,,,4
+christmas day,$125.1 million,set single-day record for,42298c63d74047b3a9d2194bb9aafb5a,,,,,4
+new year's day,$125.1 million,set single-day record for,42298c63d74047b3a9d2194bb9aafb5a,,,,,4
+the return of the king,approval rating,"The Return of the King holds an approval rating of 94% based on 282 reviews, with an average rating of 8.70/10.",57d7714684d4483cb880ad4f032896d1,,,,,4
+the return of the king,rotten tomatoes,"The review aggregator website Rotten Tomatoes, ",57d7714684d4483cb880ad4f032896d1,,,,,4
+the return of the king,audiences,"Audiences polled by CinemaScore gave the film a rare average grade of 'A+' on an A+ to F scale,[85] the highest grade in the trilogy.",57d7714684d4483cb880ad4f032896d1,,,,,4
+the return of the king,critics consensus,"The website's critics consensus reads, 'Visually breathtaking and emotionally powerful, The Lord of the Rings - The Return of the King is a moving and satisfying conclusion to a great trilogy.'",57d7714684d4483cb880ad4f032896d1,,,,,4
+the return of the king,metacritic,"Metacritic, which uses a weighted average, gives the film a score of 94 out of 100 based on 41 reviews, indicating 'universal acclaim'.",57d7714684d4483cb880ad4f032896d1,,,,,4
+the return of the king,the lord of the rings,"The Return of the King certified The Lord of the Rings as ""a work of bold ambition in a time of cinematic timidity"".",6312c0336b304fa0bf4e1e571ccd091e,,,,,4
+"everything a ring fan could possibly wish for, and much more",the return of the king,James Christopher's review for The Times,6312c0336b304fa0bf4e1e571ccd091e,,,,,4
+"majestic, moving, and immense",the return of the king,Nev Pierce's review for the BBC,6312c0336b304fa0bf4e1e571ccd091e,,,,,4
+astonishing piece of storytelling,the return of the king,Nev Pierce's review for the BBC,6312c0336b304fa0bf4e1e571ccd091e,,,,,4
+bold ambition,the lord of the rings,Certified by The Return of the King,6312c0336b304fa0bf4e1e571ccd091e,,,,,4
+epic,the lord of the rings,Philip French's review for The Observer,6312c0336b304fa0bf4e1e571ccd091e,,,,,4
+inspiring,the lord of the rings,Philip French's review for The Observer,6312c0336b304fa0bf4e1e571ccd091e,,,,,4
+moving,"the return of the king, the lord of the rings","James Christopher's review for The Times, Philip French's review for The Observer",6312c0336b304fa0bf4e1e571ccd091e,,,,,4
+ooh factor,the fellowship,The Return of the King is combined with it according to Nev Pierce's review for the BBC,6312c0336b304fa0bf4e1e571ccd091e,,,,,4
+kurosawa's battles,proto-jacksonian,"Bradshaw mentioned Kurosawa's battles as potentially having proto-Jacksonian elements, suggesting a similarity between the two in terms of visual style and intensity.",837571ca17f044678be2e4eb1887ef16,,,,,4
+kurosawa's battles,throbbing,"Bradshaw described Kurosawa's battles as 'pulsing and throbbing' in his skull, indicating their vividness and intensity.",837571ca17f044678be2e4eb1887ef16,,,,,4
+tom charity,crudely abbreviated story strands,"observes in Time Out, 'Some critics had negative opinions of the film. Tom Charity observes in Time Out, ""Some story strands are crudely abbreviated; others fail to develop elements that were already well-established.""",5b1016720a844d8a8defec5d21e7d5e8,,,,,4
+tom charity,inordinate running time,"observes in Time Out, 'Some story strands are crudely abbreviated; others fail to develop elements that were already well-established. Given the inordinate running time, it's hard to avoid the feeling that we've already been here, done this.'",5b1016720a844d8a8defec5d21e7d5e8,,,,,4
+tom charity,well-established elements,"observes in Time Out, 'Some story strands are crudely abbreviated; others fail to develop elements that were already well-established.'",5b1016720a844d8a8defec5d21e7d5e8,,,,,4
+jonathan romney,"nameless, numberless hordes","'... There's something not quite palatable about all these intrepid, largely beautiful Europeans boldly fending off the nameless, numberless hordes from the other side of the world, legions of dark-skinned sans-culottes with tribal drums.'",5b1016720a844d8a8defec5d21e7d5e8,,,,,4
+antonia quirke,viggo mortensen's aragorn,"'... Viggo Mortensen's Aragorn is the good king of the title, and while the actor may look fetching in a crown and cloak, he doesn't have half of the gravitas of Sean Bean's Boromir in the first film.'",5b1016720a844d8a8defec5d21e7d5e8,,,,,4
+peter jackson,no personality behind the camera,"'... Antonia Quirke in the Evening Standard opined, ""Director Peter Jackson has been all but deified for his work on this particular ring cycle, but there is not much personality behind the camera here, merely rampant enthusiasm.""",5b1016720a844d8a8defec5d21e7d5e8,,,,,4
+the lord of the rings: the return of the king,running time,"criticism commonly directed towards The Lord of the Rings: The Return of the King is its length, particularly the epilogue. Even in rave reviews for the film, this aspect has been commented on.",b19c03e3cbbc4d709e8169cfd45b4cb3,,,,,4
+the lord of the rings: the return of the king,best picture of the year,"Joel Siegel from Good Morning America praised The Lord of the Rings: The Return of the King in his review, stating that if it weren't for its lengthy ending, it would be his favorite movie of the year.",b19c03e3cbbc4d709e8169cfd45b4cb3,,,,,4
+the lord of the rings: the return of the king,great achievements in film history,"According to Joel Siegel's review, while The Lord of the Rings: The Return of the King is a significant accomplishment in cinematic history, it falls short due to its protracted conclusion.",b19c03e3cbbc4d709e8169cfd45b4cb3,,,,,4
+the lord of the rings: the return of the king,empire's 100 greatest movies of all time,"Following its release, The Lord of the Rings: The Return of the King was ranked eighth on Empire magazine's list of the greatest movies of all time, despite the publication's policy against including films younger than a year.",b19c03e3cbbc4d709e8169cfd45b4cb3,,,,,4
+total film,third best film of past decade,"As reported by Total Film in 2007, The Lord of the Rings: The Return of the King was named the third-best movie of the previous ten years (within the publication's timeframe), trailing only The Matrix and Fight Club.",b19c03e3cbbc4d709e8169cfd45b4cb3,,,,,4
+best picture,best director,The film was nominated for both Best Picture and Best Director at the Academy Awards.,075869bf7a5240968bf8bf2a7765f7d7,,,,,4
+best picture,best adapted screenplay,The film was nominated for both Best Picture and Best Adapted Screenplay at the Academy Awards.,075869bf7a5240968bf8bf2a7765f7d7,,,,,4
+best picture,best original score,The film was nominated for both Best Picture and Best Original Score at the Academy Awards.,075869bf7a5240968bf8bf2a7765f7d7,,,,,4
+best picture,best original song,The film was nominated for both Best Picture and Best Original Song at the Academy Awards.,075869bf7a5240968bf8bf2a7765f7d7,,,,,4
+best picture,best visual effects,The film was nominated for both Best Picture and Best Visual Effects at the Academy Awards.,075869bf7a5240968bf8bf2a7765f7d7,,,,,4
+best picture,best art direction,The film was nominated for both Best Picture and Best Art Direction at the Academy Awards.,075869bf7a5240968bf8bf2a7765f7d7,,,,,4
+best picture,best costume design,The film was nominated for both Best Picture and Best Costume Design at the Academy Awards.,075869bf7a5240968bf8bf2a7765f7d7,,,,,4
+best picture,best make-up,The film was nominated for both Best Picture and Best Make-up at the Academy Awards.,075869bf7a5240968bf8bf2a7765f7d7,,,,,4
+best picture,best sound mixing,The film was nominated for both Best Picture and Best Sound Mixing at the Academy Awards.,075869bf7a5240968bf8bf2a7765f7d7,,,,,4
+best picture,best film editing,The film was nominated for both Best Picture and Best Film Editing at the Academy Awards.,075869bf7a5240968bf8bf2a7765f7d7,,,,,4
+best director,best adapted screenplay,The film's director and screenwriter were both nominated at the Academy Awards.,075869bf7a5240968bf8bf2a7765f7d7,,,,,4
+best picture,four golden globes (including best picture for drama and best director),"The film won four Golden Globe Awards, including Best Picture for Drama and Best Director.",075869bf7a5240968bf8bf2a7765f7d7,,,,,4
+best picture,five baftas,The film won five BAFTA Awards.,075869bf7a5240968bf8bf2a7765f7d7,,,,,4
+best picture,two mtv movie awards,The film won two MTV Movie Awards.,075869bf7a5240968bf8bf2a7765f7d7,,,,,4
+best picture,two grammy awards,The film won two Grammy Awards.,075869bf7a5240968bf8bf2a7765f7d7,,,,,4
+best picture,nine saturn awards,The film won nine Saturn Awards.,075869bf7a5240968bf8bf2a7765f7d7,,,,,4
+best picture,new york film critics circle award for best picture,The film won the New York Film Critics Circle award for Best Picture.,075869bf7a5240968bf8bf2a7765f7d7,,,,,4
+best picture,nebula award for best script,The film won the Nebula Award for Best Script.,075869bf7a5240968bf8bf2a7765f7d7,,,,,4
+best picture,"hugo award for best dramatic presentation, long form","The film won the Hugo Award for Best Dramatic Presentation, Long Form.",075869bf7a5240968bf8bf2a7765f7d7,,,,,4

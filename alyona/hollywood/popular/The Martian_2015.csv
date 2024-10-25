@@ -1,0 +1,160 @@
+node_1,node_2,edge,chunk_id,count
+the martian,science fiction genre,The Martian is a science fiction film.,1472853491924bedb8ef264fecdecae2,4
+ridley scott,director the martian,Ridley Scott directed the science fiction film The Martian in 2015.,1472853491924bedb8ef264fecdecae2,4
+matt damon,astronaut in the martian,Matt Damon played the role of an astronaut who was left behind on Mars in the science fiction film The Martian.,1472853491924bedb8ef264fecdecae2,4
+jessica chastain,character in the martian,Jessica Chastain appeared as a character in the science fiction film The Martian alongside Matt Damon.,1472853491924bedb8ef264fecdecae2,4
+drew goddard,screenplay writer for the martian,"Drew Goddard wrote the screenplay for The Martian, which was adapted from Andy Weir's novel.",1472853491924bedb8ef264fecdecae2,4
+andy weir,author of the martian,The science fiction novel The Martian by Andy Weir served as the basis for Ridley Scott's film adaptation.,1472853491924bedb8ef264fecdecae2,4
+nasa,organization involved in the martian,The efforts of NASA to return Matt Damon's character to Earth were depicted in the science fiction film The Martian.,1472853491924bedb8ef264fecdecae2,4
+mars,planet featured in the martian,The science fiction film The Martian centered around the struggle of Matt Damon's character to survive on Mars after being left behind.,1472853491924bedb8ef264fecdecae2,4
+budapest,location where twenty sets were built for the martian,"Twenty sets were constructed in Budapest, Hungary for the production of The Martian.",1472853491924bedb8ef264fecdecae2,4
+wadi rum,exterior location used in the martian,Exterior shots of Wadi Rum in Jordan were incorporated into The Martian.,1472853491924bedb8ef264fecdecae2,4
+the martian,2015 toronto international film festival,"The film premiered at the 2015 Toronto International Film Festival on September 11, 2015.",512881aef2a0434498e8d686588ab743,4
+mark watney,mars,"In 2035, the crew of the Ares III mission to Mars is exploring Acidalia Planitia on Martian solar day (sol) 18 of their 31-sol expedition.",512881aef2a0434498e8d686588ab743,4
+dust storm,ares iii mission,A severe dust storm threatens to topple their Mars Ascent Vehicle (MAV).,512881aef2a0434498e8d686588ab743,4
+astronauts,mars,The crew of the Ares III mission to Mars is exploring Acidalia Planitia on Martian solar day (sol) 18 of their 31-sol expedition.,512881aef2a0434498e8d686588ab743,4
+hermes,mars,"In the ensuing evacuation, the remaining crew takes off for their orbiting vessel, the Hermes, leaving Watney behind. Watney awakens after the storm, injured and with a low-oxygen warning.",512881aef2a0434498e8d686588ab743,4
+low-oxygen warning,mark watney,"As Watney recovers, he begins a video diary. Unable to communicate with Earth, his only chance of rescue is the next Mars mission; in four years, Ares IV will land 3,200 kilometers (2,000 mi) away at the Schiaparelli crater, the Ares IV MAV has already arrived on the site in preparation for the mission.",512881aef2a0434498e8d686588ab743,4
+ares iii mission,schiaparelli crater,The Ares IV MAV has already arrived on the site in preparation for the mission.,512881aef2a0434498e8d686588ab743,4
+positive reviews,the martian,"The film received positive reviews and numerous accolades, including seven nominations at the 88th Academy Awards.",512881aef2a0434498e8d686588ab743,4
+highest-grossing film,ridley scott,The Martian became Scott's highest-grossing film to date and the tenth-highest-grossing film of 2015.,512881aef2a0434498e8d686588ab743,4
+food,hab,Watney creates a garden inside the Hab using Martian soil fertilized with crew's bio-waste for food cultivation.,f484f5ee17534e679d3936ebc57676ac,4
+water,leftover rocket fuel,Watney manufactures water from leftover rocket fuel for gardening purposes in the Hab.,f484f5ee17534e679d3936ebc57676ac,4
+soil,martian soil,Watney uses Martian soil for gardening and food cultivation inside the Hab.,f484f5ee17534e679d3936ebc57676ac,4
+potatoes,whole potatoes reserved for a special thanksgiving meal,Watney cultivates potatoes using whole potatoes reserved for a special Thanksgiving meal in the Hab.,f484f5ee17534e679d3936ebc57676ac,4
+pathfinder probe,one-month journey,Watney takes the rover on a one-month journey to retrieve the Pathfinder probe.,f484f5ee17534e679d3936ebc57676ac,4
+nasa satellite planner,mindy park,"NASA satellite planner Mindy Park reviews satellite images and notices moved equipment, realizing Watney must be alive.",f484f5ee17534e679d3936ebc57676ac,4
+teddy sanders,nasa director,"NASA director Teddy Sanders releases the news to the public but decides not to inform the Ares III crew en route to Earth, over flight director Mitch Henderson's strong objection.",f484f5ee17534e679d3936ebc57676ac,4
+pathfinder probe,silent,The Pathfinder probe fell silent in 1997.,f484f5ee17534e679d3936ebc57676ac,4
+camera,pathfinder's camera,"Using Pathfinder's camera, Watney establishes visual contact with NASA.",f484f5ee17534e679d3936ebc57676ac,4
+hab's airlock,watney,"The Hab's airlock blows out, injuring Watney and destroying the potato crops",58120f4c53344f5285a762b7760d597a,4
+watney,starvation,Threatened by starvation due to loss of crops in Hab's airlock incident,58120f4c53344f5285a762b7760d597a,4
+mars missions director vincent kapoor,resupply,Prepares a resupply to deliver enough food for Watney to survive until Ares IV's arrival,58120f4c53344f5285a762b7760d597a,4
+jpl director bruce ng,resupply,Prepares a resupply to deliver enough food for Watney to survive until Ares IV's arrival,58120f4c53344f5285a762b7760d597a,4
+routine safety inspections,oversight,"Sanders orders routine safety inspections bypassed to expedite the mission, but an oversight causes catastrophe as the resupply spacecraft disintegrates shortly after launch",58120f4c53344f5285a762b7760d597a,4
+china national space administration,resupply,Decides to offer a launch vehicle — originally intended for the Taiyang Shen space probe — to resupply Watney,58120f4c53344f5285a762b7760d597a,4
+astrophysicist rich purnell,alternative plan,"Devises an alternative plan: have the Taiyang Shen launcher rendezvous with and resupply the Hermes, which will then use Earth's gravity to 'slingshot' back to Mars two years earlier than Ares IV",58120f4c53344f5285a762b7760d597a,4
+hermes,diversion,The crew unanimously votes in favor and diverts the Hermes,58120f4c53344f5285a762b7760d597a,4
+sanders,resignation,Demands Henderson's resignation after Watney is rescued,58120f4c53344f5285a762b7760d597a,4
+watney,schiaparelli,"Watney travels the 90-sol journey to Schiaparelli, where the MAV for Ares IV is pre-positioned.",435e3850e5f84502ae1f0dfbd7bab7e1,4
+mav for ares iv,hermes,"Watney plans to use it to rendezvous with the Hermes, but needs to lighten it considerably by partially dismantling it.",435e3850e5f84502ae1f0dfbd7bab7e1,4
+mav for ares iv,air escaping,"As the MAV runs out of fuel, its velocity relative to the Hermes is too fast for Watney to be picked up.",435e3850e5f84502ae1f0dfbd7bab7e1,4
+mav for ares iv,tethered manned maneuvering unit,"Lewis uses a tethered Manned Maneuvering Unit to reach Watney, but they are still too far apart.",435e3850e5f84502ae1f0dfbd7bab7e1,4
+watney,ares v,Those involved in Watney's rescue are seen in their current lives as the Ares V is about to launch.,435e3850e5f84502ae1f0dfbd7bab7e1,4
+chastain,astronauts,Meeting with astronauts at Jet Propulsion Laboratory and Lyndon B. Johnson Space Center for preparing her role in the context.,e3929768c4de40549f0dcb7e7ff8995b,4
+chastain,scientists,Meeting with scientists at Jet Propulsion Laboratory for preparing her role in the context.,e3929768c4de40549f0dcb7e7ff8995b,4
+damon,ridley scott,Working closely with Ridley Scott during rehearsal process to plan out each scene's objectives.,e3929768c4de40549f0dcb7e7ff8995b,4
+chastain,tracy caldwell dyson,Getting inspired by Tracy Caldwell Dyson's personality for portraying her character's responsible and straightforward nature.,e3929768c4de40549f0dcb7e7ff8995b,4
+mindy park,korean-american,"The Media Action Network for Asian-Americans (MANAA) criticized the casting of white actress Mackenzie Davis as Mindy Park, whom it said author Andy Weir had described as Korean-American.",25763d165195418d9dc0185f283a644f,4
+mindy park,korean,"The group also criticized the casting of Chiwetel Ejiofor as Vincent Kapoor, whom the organization said Weir described as an Asian Indian character. In the novel, the character's name was Venkat Kapoor, and he identifies religiously as a Hindu (a Baptist and a Hindu in the film). The group described these casting decisions as whitewashing, part of a broader phenomenon that deprives Asian actors of opportunities.",25763d165195418d9dc0185f283a644f,4
+mindy park,character,"In the novel, author Andy Weir perceived Mindy Park as Korean but said he did not explicitly write her as Korean.",25763d165195418d9dc0185f283a644f,4
+ryoko,member of jpl team,"Naomi Scott was cast and filmed as Ryoko, a member of the JPL team. Her scenes were removed from the final cut.",25763d165195418d9dc0185f283a644f,4
+vincent kapoor,character,"The Media Action Network for Asian-Americans (MANAA) criticized the casting of Chiwetel Ejiofor as Vincent Kapoor, whom it said Weir described as an Asian Indian character. In the novel, the character's name was Venkat Kapoor, and he identifies religiously as a Hindu (a Baptist and a Hindu in the film). The group described these casting decisions as whitewashing, part of a broader phenomenon that deprives Asian actors of opportunities.",25763d165195418d9dc0185f283a644f,4
+vincent kapoor,asian indian character,"In the novel, the character's name was Venkat Kapoor, and he identifies religiously as a Hindu (a Baptist and a Hindu in the film).",25763d165195418d9dc0185f283a644f,4
+vincent kapoor,religious identity,"In the novel, author Andy Weir described the character's name as Venkat Kapoor, and he identifies religiously as a Hindu (a Baptist and a Hindu in the film).",25763d165195418d9dc0185f283a644f,4
+weir,author,"The Media Action Network for Asian-Americans (MANAA) criticized the casting of white actress Mackenzie Davis as Mindy Park, whom it said author Andy Weir had described as Korean-American. Weir said in October 2015 he perceived Mindy Park as Korean but said he did not explicitly write her as Korean.",25763d165195418d9dc0185f283a644f,4
+weir,perception,"In the novel, author Andy Weir perceived Mindy Park as Korean but said he did not explicitly write her as Korean.",25763d165195418d9dc0185f283a644f,4
+ejiofor,actor,"The Media Action Network for Asian-Americans (MANAA) criticized the casting of Chiwetel Ejiofor as Vincent Kapoor, whom it said Weir described as an Asian Indian character.",25763d165195418d9dc0185f283a644f,4
+ejiofor,character,"In the novel, author Andy Weir described Vincent Kapoor (played by Chiwetel Ejiofor) as an American. Americans come from lots of different sources. You can be Venkat Kapoor and black.",25763d165195418d9dc0185f283a644f,4
+ejiofor,description,"In the novel, author Andy Weir described Vincent Kapoor (played by Chiwetel Ejiofor) as an American. Americans come from lots of different sources. You can be Venkat Kapoor and black.",25763d165195418d9dc0185f283a644f,4
+ejiofor,nationality,"In the novel, author Andy Weir described Vincent Kapoor (played by Chiwetel Ejiofor) as an American.",25763d165195418d9dc0185f283a644f,4
+ejiofor,race,"In the novel, author Andy Weir described Vincent Kapoor (played by Chiwetel Ejiofor) as an American. Americans come from lots of different sources. You can be Venkat Kapoor and black.",25763d165195418d9dc0185f283a644f,4
+ejiofor,background,"In the novel, author Andy Weir described Vincent Kapoor (played by Chiwetel Ejiofor) as an American. Americans come from lots of different sources. You can be Venkat Kapoor and black.",25763d165195418d9dc0185f283a644f,4
+ejiofor,identity,"In the novel, author Andy Weir described Vincent Kapoor (played by Chiwetel Ejiofor) as an American. Americans come from lots of different sources. You can be Venkat Kapoor and black.",25763d165195418d9dc0185f283a644f,4
+ejiofor,background information,"In the novel, author Andy Weir described Vincent Kapoor (played by Chiwetel Ejiofor) as an American. Americans come from lots of different sources. You can be Venkat Kapoor and black.",25763d165195418d9dc0185f283a644f,4
+ejiofor,description details,"In the novel, author Andy Weir described Vincent Kapoor (played by Chiwetel Ejiofor) as an American. Americans come from lots of different sources. You can be Venkat Kapoor and black.",25763d165195418d9dc0185f283a644f,4
+ejiofor,detailed description,"In the novel, author Andy Weir described Vincent Kapoor (played by Chiwetel Ejiofor) as an American. Americans come from lots of different sources. You can be Venkat Kapoor and black.",25763d165195418d9dc0185f283a644f,4
+the martian,weir's 2011 novel of the same name,"The film The Martian was based on Drew Goddard's screenplay, which was adapted from Andy Weir's novel of the same name.",ccbe56af40d146679c4fbb6e54d326ae,4
+drew goddard,the martian,Goddard wrote the screenplay for The Martian.,ccbe56af40d146679c4fbb6e54d326ae,4
+matt damon,the martian,Damon was cast as the film's stranded astronaut in Ridley Scott's adaptation of Drew Goddard's screenplay.,ccbe56af40d146679c4fbb6e54d326ae,4
+simon kinberg,the martian,Kinberg developed Andy Weir's novel into a film for 20th Century Fox.,ccbe56af40d146679c4fbb6e54d326ae,4
+ridley scott,the martian,"Scott directed The Martian, which was based on Drew Goddard's screenplay.",ccbe56af40d146679c4fbb6e54d326ae,4
+korda studios,interior scenes of the martian,"Korda Studios, a location 26 kilometres (16 mi) west of Budapest, Hungary, in the wine-making village of Etyek, was chosen for filming interior scenes of The Martian.",ce65a9aea7a34958b3eac30f10d81617,4
+hungary,"filming began in hungary on november 24, 2014.","Around 20 sets were constructed for the film, which was filmed with 3D cameras. Actual potatoes were grown in a sound stage next to the one used for filming. They were planted at different times so that different stages of growth could be shown in film scenes.",ce65a9aea7a34958b3eac30f10d81617,4
+mars,"external scenes depicting mars were filmed in wadi rum, a unesco world heritage site in jordan, over eight days in march 2015.","Wadi Rum had been used as a location for other films set on Mars, including Mission to Mars (2000), Red Planet (2000) and The Last Days on Mars (2013).",ce65a9aea7a34958b3eac30f10d81617,4
+nasa staff members,james l. green,"Joined the effort for The Martian; Green answered hundreds of questions regarding radioisotope systems, habitats, and more from Scott's team.",4616422032644e7e8ed4e065efd14feb,4
+nasa staff members,dave laivery,"Joined the effort for The Martian; NASA answered hundreds of questions on radioisotope systems, habitats, and more from Scott's team.",4616422032644e7e8ed4e065efd14feb,4
+james l. green,arthur max,Green arranged an eight-hour tour of the Johnson Space Center for Arthur Max; Max met with specialists and took hundreds of photos.,4616422032644e7e8ed4e065efd14feb,4
+control centers,real images of mars,NASA provided hundreds of real images of Mars and control centers to Scott's team.,4616422032644e7e8ed4e065efd14feb,4
+"futuristic, heavily modernized mission control",mission control,"The production designer created a futuristic, heavily modernized Mission Control as a studio set.",4616422032644e7e8ed4e065efd14feb,4
+real johnson center's appearance,"futuristic, heavily modernized mission control","The production designer created a futuristic, heavily modernized Mission Control as a studio set, which is the opposite of the real Johnson Center's appearance.",4616422032644e7e8ed4e065efd14feb,4
+the martian,best science fiction films,"In 2016, then-U.S. President Barack Obama named The Martian as among the best science fiction films he had ever seen.",1f6577148eb44306a58263ce5d1b6ec7,4
+harry gregson-williams,ridley scott,"Gregson-Williams and Scott have collaborated on four films: Kingdom of Heaven, Prometheus, Exodus: Gods and Kings, and The Martian. Gregson-Williams composed the score for The Martian, which is their fourth collaboration.",1f6577148eb44306a58263ce5d1b6ec7,4
+disco genre,melissa lewis,"Commander Melissa Lewis has a love for 1970s songs, especially of the disco genre, which is available to Watney on Mars.",1f6577148eb44306a58263ce5d1b6ec7,4
+the martian,watney's situation on mars,"The exit music in The Martian includes 'Don't Leave Me This Way' and 'I Will Survive', which is a commentary on Watney's situation on Mars.",1f6577148eb44306a58263ce5d1b6ec7,4
+the exit music,don't leave me this way,"is included in and represents the emotional state of the protagonist, Mark Watney, on Mars.",9fe04feb9fde496aa31261fe6261b760,4
+the exit music,i will survive,is also included in and represents a commentary on the survival aspect of the story.,9fe04feb9fde496aa31261fe6261b760,4
+nasa astronaut michael j. massimino,mark watney's character,is depicted in an in-universe video diary released by NASA as part of the viral marketing campaign for The Martian.,9fe04feb9fde496aa31261fe6261b760,4
+"the protagonist, mark watney",other crew members,is shown interacting with in the same video diary by NASA astronaut Michael J. Massimino.,9fe04feb9fde496aa31261fe6261b760,4
+the martian,fox,Fox released three videos promoting The Martian in August and September.,fb0ef24bda424bf4b27ce4bef2311d27,4
+the martian,nasa,NASA hosted a 'Martian Day' at the Jet Propulsion Laboratory to promote The Martian and highlight ongoing efforts for a human mission to Mars.,fb0ef24bda424bf4b27ce4bef2311d27,4
+ridley scott,the martian,"At the start of August, Ridley Scott released a video featuring interviews with the main crew members.",fb0ef24bda424bf4b27ce4bef2311d27,4
+matt damon,under armour sports clothing,"In September, a teaser for The Martian was released by RSA Films in collaboration with advertising agency Droga5 and marketing shop 3AM. It depicted Matt Damon wearing Under Armour sports clothing and being active in his off-world tasks.",fb0ef24bda424bf4b27ce4bef2311d27,4
+neil degrasse tyson,the martian,"At the end of August, Fox released a video presenting it as a special episode of the TV series StarTalk in which astrophysicist Neil deGrasse Tyson discussed the hazards of traveling to Mars.",fb0ef24bda424bf4b27ce4bef2311d27,4
+the martian,toronto international film festival,"Premiered at the 2015 Toronto International Film Festival on September 11, 2015.",b57142701a404f818d5d60f23155af60,4
+the martian,new york film festival,"Screenied in a sneak preview at the New York Film Festival on September 27, 2015.",b57142701a404f818d5d60f23155af60,4
+the martian,fantastic fest,"Screenied at Fantastic Fest in Austin, Texas, on September 29, 2015.",b57142701a404f818d5d60f23155af60,4
+the martian,dolby cinema,Released in the Dolby Vision format in Dolby Cinema in North America.,b57142701a404f818d5d60f23155af60,4
+boxoffice,the martian's release,"Forecasted that the film would gross $46 million on its opening weekend in the United States and ultimately $172 million in its theatrical run, two months before The Martian's release.",b57142701a404f818d5d60f23155af60,4
+ridley scott,the martian,Directed The Martian.,b57142701a404f818d5d60f23155af60,4
+matt damon,the martian,Starred in The Martian.,b57142701a404f818d5d60f23155af60,4
+the martian,gravity,"In comparison to other contemporary space films, The Martian opened with a better-than-expected $55.8 million in 2013, while Gravity faced less competition and opened to an even better-than-expected $72.1 million in 2013. Although both movies are contemporary space films, The Martian had a larger opening due to its release several days after the announcement of NASA's discovery of water on Mars' planetary surface, which might have aided in boosting its opening.",8ea4fd9bb8d24be7ba8b4ae3ee35ee85,4
+the martian,interstellar,"In November 2014, Interstellar debuted to $47.5 million, while The Martian played in more than 350 premium large-format theaters including 2,550 3D locations and had a larger opening of $114.1 million. Both movies are contemporary space films, but unlike Interstellar, which had the benefit of IMAX locations, boosting profits, The Martian was not initially playing in IMAX due to an exclusive run of Robert Zemeckis' The Walk.",8ea4fd9bb8d24be7ba8b4ae3ee35ee85,4
+odyssey,china,"The movie 'Odyssey' earned $50 million in its five-day opening weekend from 4,848 screens in China.",59faa44ebd404b009c1ca7689b900b34,4
+odyssey,$95 million,"In total, 'Odyssey' grossed $95 million in China.",59faa44ebd404b009c1ca7689b900b34,4
+odyssey,imax theaters,"From 249 IMAX theaters in China, 'Odyssey' earned $6.6 million in its five-day opening weekend.",59faa44ebd404b009c1ca7689b900b34,4
+odyssey,japan,"The movie 'Odyssey' opened in Japan under the name Odyssey and earned $5.2 million from 8,333 screens in its three-day opening weekend.",59faa44ebd404b009c1ca7689b900b34,4
+odyssey,no. 1,"In Japan, 'Odyssey' debuted at No. 1 at the box office.",59faa44ebd404b009c1ca7689b900b34,4
+odyssey,$23.2 million,"As of February 28, 'Odyssey' has grossed a total of $23.2 million in Japan.",59faa44ebd404b009c1ca7689b900b34,4
+odyssey,"february 5, 2016","The movie 'Odyssey' opened in Japan on February 5, 2016.",59faa44ebd404b009c1ca7689b900b34,4
+the martian,"november 25, 2015",Initially scheduled for release on this date but was rescheduled.,e15553bbacd14869bd62dd2f6942234d,4
+the martian,victor frankenstein,Switched with Victor Frankenstein to be Fox's first film for all audiences in the country's fall season (September–November).,e15553bbacd14869bd62dd2f6942234d,4
+the martian (3d),reald's chief anthony marcoly,Marcoly mentioned that 3D technology was being used in more immersive storytelling and cited The Martian as an example.,e15553bbacd14869bd62dd2f6942234d,4
+the martian,vast ideas,"According to Rotten Tomatoes, critics said that the film 'finds Scott examining more hopeful territory' and explores 'vast ideas while staying grounded in very human emotional territory.'",031b1265dc68434da0a21b7c03a7d278,4
+the martian,awe-inspiring adventure,"According to Rotten Tomatoes, critics said that the film 'finds Scott examining more hopeful territory' and is 'visually stunning, scientifically credible, and immensely likable.'",031b1265dc68434da0a21b7c03a7d278,4
+the martian,a return to form for ridley scott,Critics are calling the film a 'return to form for [Ridley] Scott after The Counselor and Exodus: Gods and Kings fell flat.',031b1265dc68434da0a21b7c03a7d278,4
+the martian,"funny, thrilling ride","Critics are calling the film a 'funny, thrilling ride'.",031b1265dc68434da0a21b7c03a7d278,4
+the martian,realistic exploration of mars,Dr Robert Zubrin commented:  [The film] is the first genuine Mars movie.',031b1265dc68434da0a21b7c03a7d278,4
+the martian,no nazis,"Dr Robert Zubrin commented:  [The film] does not engage in fantasy: no monsters, no magic, no Nazis.",031b1265dc68434da0a21b7c03a7d278,4
+the martian,single consciousness,"Manohla Dargis, of The New York Times, stated that the film 'involves a dual journey into outer and inner space'.",031b1265dc68434da0a21b7c03a7d278,4
+the martian,what it means to be human,"Manohla Dargis, of The New York Times, stated that the film 'for this accidental castaway, space is the place where he's physically marooned, but also where his mind is set free' and from a film director, whose 'great, persistent theme is what it means to be human'.",031b1265dc68434da0a21b7c03a7d278,4
+lack of character depth or atmosphere,conviction,Jaime N. Christley mentioned in Slant Magazine that the lack of character depth or atmosphere in The Martian has no conviction.,1c08656fd67a43ac865cf6d37fa6a015,4
+lack of character depth or atmosphere,real push for eccentricity,Jaime N. Christley also commented that there is no real push for eccentricity in The Martian due to the lack of character depth or atmosphere.,1c08656fd67a43ac865cf6d37fa6a015,4
+"texture, tics, and human behavior",conviction,"Jaime N. Christley mentioned that The Martian goes in for the idea of texture, tics, and human behavior but has no conviction.",1c08656fd67a43ac865cf6d37fa6a015,4
+characters or in any depiction of their work,interest in its characters or in any depiction of their work,"Jaime N. Christley mentioned that The Martian settles instead for types of characters and kinds of scenes, incorrectly placed among the pendulum swings of Watney's dramatic journey.",1c08656fd67a43ac865cf6d37fa6a015,4
+science,magic,"Stephanie Zacharek stated that in The Martian, science always trumps magic.",1c08656fd67a43ac865cf6d37fa6a015,4
+science,wonder at the magnitude and mystery of space,"Stephanie Zacharek also mentioned that if we cannot feel a sense of wonder at the magnitude and mystery of space in The Martian, then there is no point in bothering with it.",1c08656fd67a43ac865cf6d37fa6a015,4
+the martian,masterpieces,"J. Olson compared Ridley Scott's The Martian to his two masterpieces, Alien and Blade Runner, but stated that The Martian is not even on the same continent as those movies.",1c08656fd67a43ac865cf6d37fa6a015,4
+the martian,empty backslapping and a grade school level celebration of science,"J. Olson also mentioned that Ridley Scott and company have concocted the most colossally mediocre sci-fi movie of the decade in The Martian, all in pursuit of empty backslapping and a grade school level celebration of science.",1c08656fd67a43ac865cf6d37fa6a015,4
+the martian,accessories,Stephanie Zacharek stated that the actors in The Martian are treated as accessories.,1c08656fd67a43ac865cf6d37fa6a015,4
+the martian,best picture,"At the 88th Academy Awards, The Martian received a nomination for Best Picture.",f743311d11f4486c8a4f7c02ad253251,4
+mark watney,solanum watneyi,"In honor of the fictional heroic botanist portrayal of Mark Watney, a species of bush tomato from Australia has been named Solanum watneyi.",f743311d11f4486c8a4f7c02ad253251,4
+the martian,best actor,"At the 88th Academy Awards, The Martian received a nomination for Best Actor.",f743311d11f4486c8a4f7c02ad253251,4
+the martian,best adapted screenplay,"At the 88th Academy Awards, The Martian received a nomination for Best Adapted Screenplay.",f743311d11f4486c8a4f7c02ad253251,4
+the martian,best production design,"At the 88th Academy Awards, The Martian received a nomination for Best Production Design.",f743311d11f4486c8a4f7c02ad253251,4
+the martian,best sound editing,"At the 88th Academy Awards, The Martian received a nomination for Best Sound Editing.",f743311d11f4486c8a4f7c02ad253251,4
+the martian,best sound mixing,"At the 88th Academy Awards, The Martian received a nomination for Best Sound Mixing.",f743311d11f4486c8a4f7c02ad253251,4
+the martian,best visual effects,"At the 88th Academy Awards, The Martian received a nomination for Best Visual Effects.",f743311d11f4486c8a4f7c02ad253251,4
+the martian,british academy film award for best film,"The Martian received six British Academy Film Awards, including one for Best Film.",f743311d11f4486c8a4f7c02ad253251,4
+the martian,critics' choice movie award for best picture,"The Martian received nine Critics' Choice Movie Awards, including one for Best Picture.",f743311d11f4486c8a4f7c02ad253251,4
+the martian,golden globe award for best motion picture – musical or comedy,"The Martian received three Golden Globe Awards, including one for Best Motion Picture – Musical or Comedy.",f743311d11f4486c8a4f7c02ad253251,4
+the martian,golden globe award for best performance by an actor in a motion picture – musical or comedy,"The Martian received three Golden Globe Awards, including one for Best Performance by an Actor in a Motion Picture – Musical or Comedy.",f743311d11f4486c8a4f7c02ad253251,4
+the martian,national board of review award for top five films,"The Martian received four National Board of Review Awards, including one for Top Five Films.",f743311d11f4486c8a4f7c02ad253251,4
+the martian,american film institute's top 10 movies of the year,The Martian was named one of the top-ten films of 2015 by the American Film Institute.,f743311d11f4486c8a4f7c02ad253251,4
+the martian,present science correctly,"When Weir wrote the novel The Martian, he strove to present the science correctly.",7ea2f9b156d1403085039751388c3fe0,4
+the martian,realistic,Scott also sought to make it realistic when directing the film.,7ea2f9b156d1403085039751388c3fe0,4
+nasa's science mission directorate,james l. green,Green put together teams to answer scientific questions that Scott asked.,7ea2f9b156d1403085039751388c3fe0,4
+the martian winds,barely a light breeze,Film critics picked up the point that the Martian winds could amount to 'barely a light breeze' in their reviews.,7ea2f9b156d1403085039751388c3fe0,4
+the martian winds,exaggerated,Screenwriter Goddard agreed the winds had to be considerably exaggerated in order to set up the situation that sets the story in motion.,7ea2f9b156d1403085039751388c3fe0,4
+watney's process for producing water,nasa's planned martian rover's water production process,"The water production processes used by Watney and NASA's planned Martian rover are accurate and similar, as evidenced by their successful implementation.",f3529c3fc73f4a4aa3c9da8807aa8b52,4
+radioisotope thermoelectric generator,heat,The radioisotope thermoelectric generator is used appropriately to generate heat on both Mars and in NASA's planned Martian rover.,f3529c3fc73f4a4aa3c9da8807aa8b52,4
+improvised garden using martian soil,crew's feces as a fertilizer,"Watney's improvised garden on Mars uses Martian soil as well as the crew's feces as a fertilizer, similar to how NASA plans to utilize these resources for their planned rover.",f3529c3fc73f4a4aa3c9da8807aa8b52,4
+martian soil,animal and plant life,"The Martian soil is toxic to both animal and plant life, as has been discovered by recent studies. This poses a challenge for future Mars missions.",f3529c3fc73f4a4aa3c9da8807aa8b52,4
+martian soil,microbial organisms,"While the Martian soil is toxic to animal and plant life, it is believed that microbial organisms may be able to survive there. This raises intriguing possibilities for future Mars exploration.",f3529c3fc73f4a4aa3c9da8807aa8b52,4
+pressure leak,pod on watney’s habitat,"When a pressure leak causes an entire pod on Watney's habitat to blow up, he patches the opening with plastic tarp and PSA duct tape. However, this repair method would not work in average Martian temperatures of -60°C (-76°F).",f3529c3fc73f4a4aa3c9da8807aa8b52,4
+gravity assist,ares mission,"In the film, only one JPL astrodynamicist argues for sending the Ares mission back to Mars using gravity assist rather than having a separate mission to rescue Watney. This highlights the importance of gravity assist in space missions and its potential use as a rescue strategy.",76e6f7679aa8482e8ea541a34064a909,4
+mars,watney,"The heavy spacesuits worn by Watney on Mars weigh enough to make up for the partial gravity not being shown in the film, according to director Scott.",76e6f7679aa8482e8ea541a34064a909,4
+mars,carbon dioxide snow,"The climate of Mars is cold enough that carbon dioxide snow falls at the poles in winter, making it impractical for Watney's initial plan to disable the rover's heater immediately.",76e6f7679aa8482e8ea541a34064a909,4
+ed finn,center for science and the imagination,Ed Finn is the director of the Center for Science and the Imagination at Arizona State University.,63cdbd303c81458da5ca9019a498997c,4
+arizona state university,ed finn,"Ed Finn is the director of the Center for Science and the Imagination, which is a part of Arizona State University.",63cdbd303c81458da5ca9019a498997c,4
+brian cox,engineering,Brian Cox said that 'The Martian' is the best advertisement for a career in engineering he has ever seen.,63cdbd303c81458da5ca9019a498997c,4

@@ -1,0 +1,54 @@
+node_1,node_2,edge,chunk_id,count
+acp karan,gangsters (kabir bhai and others),"Karan has declared to eliminate all gangsters from Mumbai within two months, leading to their decision to eliminate him instead.",2f0c360e294b48b2a1a96e1951af2f3d,4
+vijju,acp karan,"Vijju reveals that he is trying to protect his son, ACP Karan, as a contract killer was mistakenly believed to be him.",2f0c360e294b48b2a1a96e1951af2f3d,4
+tanya,acp karan,Karan is trying to woo Tanya in the context.,2f0c360e294b48b2a1a96e1951af2f3d,4
+amrita,vijju,"Amrita presumes that Vijju must've had an affair with her mother due to her overly friendly nature towards him, based on the context.",2f0c360e294b48b2a1a96e1951af2f3d,4
+mumbai,gangsters (kabir bhai and others),The gangsters are trying to eliminate ACP Karan from Mumbai in the context.,2f0c360e294b48b2a1a96e1951af2f3d,4
+karan,tanya,"relationship between Karan and Tanya, who eventually fall in love",fc1c48a055a945598d8ae1fd0ee655f0,4
+sita,vijju,estranged relationship between Vijju's wife and himself due to his rowdyism,fc1c48a055a945598d8ae1fd0ee655f0,4
+acp karan,vijju,"relationship between ACP Karan and his estranged father Vijju, who tries to protect him from danger",fc1c48a055a945598d8ae1fd0ee655f0,4
+amrita's mother,vijju,"denies having an affair with Vijju, but it is later revealed that he was not a contract killer as claimed by Tedha",fc1c48a055a945598d8ae1fd0ee655f0,4
+tedha,karan,"attempts to kill Karan in two separate occasions, failed by Vijju's intervention",fc1c48a055a945598d8ae1fd0ee655f0,4
+vijju,sita,"reunites with his estranged wife Sita, but fails to reconcile their relationship due to past differences",fc1c48a055a945598d8ae1fd0ee655f0,4
+kabir,vijju,"accuses Vijju's son Karan of being an undercover officer, but later realizes that Vijju is actually Karan's father",fc1c48a055a945598d8ae1fd0ee655f0,4
+mac,vijju,"rope in Vijju to the underworld don Kabir, but eventually spared by Vijju after a shootout ensues between police and gangsters",fc1c48a055a945598d8ae1fd0ee655f0,4
+vijju,mac,spares,128388c416bf41639d89bb9ac23f6cbe,4
+vijju,karan,Asks wife to decide whether he should reveal his identity to,128388c416bf41639d89bb9ac23f6cbe,4
+vijju's wife,karan,Forbids from doing so,128388c416bf41639d89bb9ac23f6cbe,4
+hema malini,buddah,Title of movie originally titled Buddah,128388c416bf41639d89bb9ac23f6cbe,4
+raveena tandon,buddah,Hired for the movie,128388c416bf41639d89bb9ac23f6cbe,4
+charmy kaur,buddah,Making Bollywood debut in this movie,128388c416bf41639d89bb9ac23f6cbe,4
+neha sharma,kaur's role,Was interested in doing Kaur's role,128388c416bf41639d89bb9ac23f6cbe,4
+sonal chauhan,another role in the movie,In discussion for the role,128388c416bf41639d89bb9ac23f6cbe,4
+kangana ranaut,another role in the movie,In discussion for the role,128388c416bf41639d89bb9ac23f6cbe,4
+maharashtra navnirman sena,raj thackeray,Claims that there were around 40 foreigners shooting in the movie without proper work permits and visas,128388c416bf41639d89bb9ac23f6cbe,4
+bbuddah hoga tera baap,movie,Bbuddah Hoga Tera Baap is a movie.,3c33a386cea74801beb9ba5aac6c2f77,4
+amitabh bachchan,bbuddah hoga tera baap,Amitabh Bachchan acted in the movie Bbuddah Hoga Tera Baap.,3c33a386cea74801beb9ba5aac6c2f77,4
+40 foreigners,bbuddah hoga tera baap,"About 40 foreigners were involved in shooting for the movie Bbuddah Hoga Tera Baap without proper work permits and visas, which led to a police complaint by MNS.",3c33a386cea74801beb9ba5aac6c2f77,4
+police complaint,mns,MNS filed a police complaint regarding around 40 foreigners shooting for the movie Bbuddah Hoga Tera Baap without proper work permits and visas.,3c33a386cea74801beb9ba5aac6c2f77,4
+raveena tandon,bbuddah hoga tera baap,Raveena Tandon acted in an item song called 'Main Chandigarh Di Star' for the movie Bbuddah Hoga Tera Baap.,3c33a386cea74801beb9ba5aac6c2f77,4
+director jagannadh,bbuddah hoga tera baap,Director Jagannadh worked on the movie Bbuddah Hoga Tera Baap.,3c33a386cea74801beb9ba5aac6c2f77,4
+vishal–shekhar,bbuddah hoga tera baap,Composers Vishal–Shekhar composed the music for the movie Bbuddah Hoga Tera Baap.,3c33a386cea74801beb9ba5aac6c2f77,4
+anvita dutt guptan,bbuddah hoga tera baap,Lyricist Anvita Dutt Guptan wrote lyrics for the movie Bbuddah Hoga Tera Baap.,3c33a386cea74801beb9ba5aac6c2f77,4
+vishal dadlani,bbuddah hoga tera baap,Lyricist Vishal Dadlani wrote lyrics for the movie Bbuddah Hoga Tera Baap.,3c33a386cea74801beb9ba5aac6c2f77,4
+swanand kirkire,bbuddah hoga tera baap,Lyricist Swanand Kirkire wrote lyrics for the movie Bbuddah Hoga Tera Baap.,3c33a386cea74801beb9ba5aac6c2f77,4
+four out of five stars,raveena sen,Raveena Sen gave four out of five stars to the movie Bbuddah Hoga Tera Baap in her review.,3c33a386cea74801beb9ba5aac6c2f77,4
+three and a half stars,nikhat kazmi,Nikhat Kazmi gave three and a half stars to the movie Bbuddah Hoga Tera Baap in her review.,3c33a386cea74801beb9ba5aac6c2f77,4
+four out of five stars,taran adarsh,Taran Adarsh gave four out of five stars to the movie Bbuddah Hoga Tera Baap in his review.,3c33a386cea74801beb9ba5aac6c2f77,4
+bbuddah hoga terra baap,masala entertainer,described as a masala entertainer by Taran Adarsh and Filmfare,35f6b2ab5f1d4af0b96fd01fc0004b08,4
+amitabh bachchan,iconic actor,called an iconic actor by Taran Adarsh and reiterated as such in the film's disclaimer according to Filmfare,35f6b2ab5f1d4af0b96fd01fc0004b08,4
+amitabh bachchan,baap,"the title of the movie, Bbuddah Hoga Terra Baap",35f6b2ab5f1d4af0b96fd01fc0004b08,4
+bbuddah hoga terra baap,amitabh bachchan buffs,said by Filmfare to be a feast for Amitabh Bachchan buffs,35f6b2ab5f1d4af0b96fd01fc0004b08,4
+bbuddah hoga terra baap,tribute to the phenomenon,according to the film's disclaimer as mentioned by Filmfare,35f6b2ab5f1d4af0b96fd01fc0004b08,4
+amitabh bachchan,character,mentioned in context by Taran Adarsh and Zee News,35f6b2ab5f1d4af0b96fd01fc0004b08,4
+amitabh bachchan's character,"violent, unlikable one",as mentioned by Sify,35f6b2ab5f1d4af0b96fd01fc0004b08,4
+amitabh bachchan's character,somewhat charismatic one,"according to Sify, due to the overwhelming presence of Amitabh Bachchan",35f6b2ab5f1d4af0b96fd01fc0004b08,4
+bbuddah hoga terra baap,prakash raj,the villain according to Zee News,35f6b2ab5f1d4af0b96fd01fc0004b08,4
+prakash raj,fab,as mentioned by Zee News in context with Bbuddah Hoga Terra Baap,35f6b2ab5f1d4af0b96fd01fc0004b08,4
+bbuddah hoga terra baap,altercations,"between Bachchan and the villain, mentioned by Sify",35f6b2ab5f1d4af0b96fd01fc0004b08,4
+violent,charismatic,"transforms from a violent, unlikable one into a somewhat charismatic one.",866da9a529a348548d2a23c3e4128c34,4
+bachchan,hema,creates magic momentarily,866da9a529a348548d2a23c3e4128c34,4
+altercations,bachchan,occur between Bachchan and the villain,866da9a529a348548d2a23c3e4128c34,4
+villain,prakash raj,is played by Prakash Raj,866da9a529a348548d2a23c3e4128c34,4
+fab,prakash raj,is used to describe the performance of Prakash Raj,866da9a529a348548d2a23c3e4128c34,4
+big b,only thing going for the film,according to the reviewer's statement,866da9a529a348548d2a23c3e4128c34,4

@@ -1,0 +1,83 @@
+node_1,node_2,edge,chunk_id,count
+best picture,the artist,"The Artist, a French-produced film directed by Michel Hazanavicius, won the Academy Award for Best Picture in 2012.",d7de0dc0f2ed4556948db49575d54416,4
+best director,michel hazanavicius,French director Michel Hazanavicius won the Academy Award for Best Director in 2012 for his film The Artist.,d7de0dc0f2ed4556948db49575d54416,4
+best actor,jean dujardin,French actor Jean Dujardin won the Academy Award for Best Actor in 2012 for his role in The Artist directed by Michel Hazanavicius.,d7de0dc0f2ed4556948db49575d54416,4
+best film,the artist,"The French film The Artist, directed by Michel Hazanavicius and starring Jean Dujardin, won the César Award for Best Film in 2013.",d7de0dc0f2ed4556948db49575d54416,4
+best director,michel hazanavicius,French director Michel Hazanavicius won the César Award for Best Director for his film The Artist in 2013.,d7de0dc0f2ed4556948db49575d54416,4
+best actress,bérénice bejo,French actress Bérénice Bejo won the César Award for Best Actress for her role in The Artist directed by Michel Hazanavicius in 2013.,d7de0dc0f2ed4556948db49575d54416,4
+the artist,best picture,The French-produced film The Artist was nominated for the Academy Award for Best Picture in 2012.,d7de0dc0f2ed4556948db49575d54416,4
+the artist,best film,"French film The Artist, directed by Michel Hazanavicius, was nominated for the César Award for Best Film in 2013.",d7de0dc0f2ed4556948db49575d54416,4
+the artist,best actor,"French actor Jean Dujardin, starring in The Artist directed by Michel Hazanavicius, was nominated for the Academy Award for Best Actor in 2012.",d7de0dc0f2ed4556948db49575d54416,4
+the artist,best actress,"French actress Bérénice Bejo, starring in The Artist directed by Michel Hazanavicius, was nominated for the Academy Award for Best Supporting Actress and the César Award for Best Actress in 2013.",d7de0dc0f2ed4556948db49575d54416,4
+george valentin,silent film star,George Valentin is a famous actor in the silent film industry.,95d9950ba534415faf52af85ba88d040,4
+peppy miller,young woman,Peppy Miller accidentally bumps into George Valentin during the premiere of his latest hit film. She is later noticed by studio boss Al Zimmer due to her talent.,95d9950ba534415faf52af85ba88d040,4
+al zimmer,studio boss,"Al Zimmer objects to Peppy Miller's casting in Kinograph Studios' next production, but George Valentin insists on it.",95d9950ba534415faf52af85ba88d040,4
+kinograph studios,production company,Peppy Miller gets a part in Kinograph Studios' next production due to George Valentin's influence.,95d9950ba534415faf52af85ba88d040,4
+chemistry,great chemistry,George Valentin and Peppy Miller show great chemistry while performing a dance scene together in Kinograph Studios' production.,95d9950ba534415faf52af85ba88d040,4
+guidence,a little guidance from valentin,George Valentin draws a beauty spot on Peppy Miller's cheek and provides her with guidance as she rises through the industry.,95d9950ba534415faf52af85ba88d040,4
+zimmer,silent films,"Two years later, Zimmer announces plans to cease production of silent films at Kinograph Studios",6159eb7c011b4f12b35941812d20a9e4,4
+valentin,kinograph studios,Works at Kinograph Studios,6159eb7c011b4f12b35941812d20a9e4,4
+valentin,silent films,"Announces plans to cease production of silent films at Kinograph Studios, but Valentin is dismissive, insisting that sound is just a fad",6159eb7c011b4f12b35941812d20a9e4,4
+valentin,tears of love,"Decides to leave the studio for the chance to produce, finance, and direct his own silent film, Tears of Love",6159eb7c011b4f12b35941812d20a9e4,4
+peppy,beauty spot,Opens on the same day as Peppy's new sound film Beauty Spot and the 1929 Stock Market Crash,6159eb7c011b4f12b35941812d20a9e4,4
+valentin,tears of love,"Unfortunately, audiences flock to Peppy's film instead, while only a few people attend Valentin's",6159eb7c011b4f12b35941812d20a9e4,4
+valentin,bankruptcy,"With Valentin ruined, his wife, Doris, kicks him out,",6159eb7c011b4f12b35941812d20a9e4,4
+peppy,major new hollywood sound film stars,Quickly becomes the first of several major new Hollywood sound film stars,6159eb7c011b4f12b35941812d20a9e4,4
+valentin,clifton,"Valentin forces Clifton to leave after not paying him for over a year, but gives him his car beforehand. After realizing he has not paid Clifton, Valentin fires him.",1304fd6b2f57428aa8b132a1ecbe844e,4
+valentin,bankruptcy,Valentin is forced to auction his personal effects due to bankruptcy.,1304fd6b2f57428aa8b132a1ecbe844e,4
+valentin's old films,fire,"Valentin sets fire to a stack of his old films, which blazes out of control.",1304fd6b2f57428aa8b132a1ecbe844e,4
+valentin,dog,"Valentin's dog attracts the help of a nearby policeman, leading to Valentin being rescued from the burning house.",1304fd6b2f57428aa8b132a1ecbe844e,4
+peppy,hospitalization,Peppy asks for Valentin to be moved to her house to recuperate after he is hospitalized due to injuries suffered in the fire.,1304fd6b2f57428aa8b132a1ecbe844e,4
+clifton,working for peppy,"After being rescued from the burning house, Valentin discovers that Clifton is now working for Peppy.",1304fd6b2f57428aa8b132a1ecbe844e,4
+valentin,gratitude,"Valentin shows ingratitude towards Peppy for taking him in, hurting his ego.",1304fd6b2f57428aa8b132a1ecbe844e,4
+clifton,reminder of changing luck,Clifton reminds Valentin of his changing luck when Valentin shows ingratitude towards Peppy for taking him in.,1304fd6b2f57428aa8b132a1ecbe844e,4
+film canister,peppy's house,"The film rescued by Peppy is the one with Valentin and Peppy dancing together, and she asks for him to be moved to her house to recuperate.",1304fd6b2f57428aa8b132a1ecbe844e,4
+peppy,valentin,"Peppy insists to Zimmer that Valentin co-star in her next film, threatening to quit Kinograph if he does not agree. After Valentin learns that Peppy bought his possessions at auction, he returns in despair to his burnt-out apartment.",b92c40f1c2c948e8a9ebc59220d0f599,4
+valentin,peppy,finds that Valentin is about to attempt suicide. Peppy arrives and finds that Valentin is about to attempt suicide. She tells him she only wanted to help him.,b92c40f1c2c948e8a9ebc59220d0f599,4
+valentin,peppy,"They embrace, and Valentin tells her it is no use; no one wants to hear him speak.",b92c40f1c2c948e8a9ebc59220d0f599,4
+peppy,zimmer,Peppy persuades Zimmer to let her make a musical production so Valentin can avoid the humiliation of having to speak.,b92c40f1c2c948e8a9ebc59220d0f599,4
+valentin,dancing ability,"Remembering Valentin's superb dancing ability,",b92c40f1c2c948e8a9ebc59220d0f599,4
+peppy,zimmer,"The director of the musical calls, 'Cut!' to which Zimmer adds: 'Perfect. Beautiful. Could you give me just one more?'",b92c40f1c2c948e8a9ebc59220d0f599,4
+valentin,film crew,The camera then pulls back to the sounds of the film crew as they prepare to shoot another take.,b92c40f1c2c948e8a9ebc59220d0f599,4
+valentin,dancing ability,"Valentin, in his only audible line, replies 'With pleasure,' revealing a French accent.",b92c40f1c2c948e8a9ebc59220d0f599,4
+the artist,silent films of the period,"presented in black-and-white, shot in color by cinematographer Guillaume Schiffman, and calibrated to aesthetically match silent films of the period. Technically, all the technical details, including lenses, lighting, and camera moves, were calibrated to aesthetically match silent films of the period.",8ce8043839d74cdfbdfdd8246fbebb1d,4
+the artist,slightly sped-up look,"to recreate the slightly sped-up look of 1920s silent films, the film was shot at a slightly lower frame rate of 22 fps as opposed to the standard 24 fps.",8ce8043839d74cdfbdfdd8246fbebb1d,4
+the artist,non-diegetic soundtrack,"Throughout the shoot, Hazanavicius played music from classic Hollywood films while the actors performed.",8ce8043839d74cdfbdfdd8246fbebb1d,4
+douglas fairbanks,the artist's protagonist,Chief among the influences shaping the screenplay's protagonist was Douglas Fairbanks.,8ce8043839d74cdfbdfdd8246fbebb1d,4
+la petite reine,arp sélection,"Both companies co-produced the film 'The Artist' for a total budget of 13.47 million euros, with financial support from Studio 37 and France 3 Cinéma and investment from StudioCanal and CinéCinéma.",1021d059a43340a28164525cb623c384,4
+la petite reine,studio 37,La Petite Reine received co-production support for 'The Artist' from Studio 37.,1021d059a43340a28164525cb623c384,4
+la petite reine,france 3 cinéma,La Petite Reine received co-production support for 'The Artist' from France 3 Cinéma.,1021d059a43340a28164525cb623c384,4
+arp sélection,studiocanal,ARP Sélection received pre-sales investment for 'The Artist' from StudioCanal.,1021d059a43340a28164525cb623c384,4
+arp sélection,cinécinéma,ARP Sélection received pre-sales investment for 'The Artist' from CinéCinéma.,1021d059a43340a28164525cb623c384,4
+los angeles,hollywood,"All scenes in 'The Artist' were shot in Los Angeles, including scenes in Hollywood, downtown theaters, restaurants and houses, as well as Mary Pickford's former residence.",1021d059a43340a28164525cb623c384,4
+red studios,the film's studio lot,Soundstage work for 'The Artist' was done at Red Studios and the studio lot itself doubled for part of the fictional Kinograph Studios lot in several sequences.,1021d059a43340a28164525cb623c384,4
+bradbury building,the film's distinctive staircase sequence,The Bradbury Building provided the location for the film's distinctive staircase sequence.,1021d059a43340a28164525cb623c384,4
+american costume designer,mark bridges,American costume designer Mark Bridges created the wardrobe for 'The Artist's cast.,1021d059a43340a28164525cb623c384,4
+the artist,cannes film festival,"The film premiered on May 15, 2011 at the Cannes Film Festival in competition.",2dd2b9aa58f04f61830add7fd0717bf3,4
+the artist,warner bros. france,"The French regular release of The Artist was on October 12, 2011 through Warner Bros. France.",2dd2b9aa58f04f61830add7fd0717bf3,4
+the artist,the weinstein company,The distribution rights for The Artist in the United States and Australia were bought by The Weinstein Company.,2dd2b9aa58f04f61830add7fd0717bf3,4
+the artist,entertainment film distributors,The UK distribution of The Artist was bought by Entertainment Film Distributors.,2dd2b9aa58f04f61830add7fd0717bf3,4
+the artist,north america,"The Artist grossed $44,671,682 in North America.",2dd2b9aa58f04f61830add7fd0717bf3,4
+the artist,academy awards,"Following its wins at the 69th Golden Globe Awards, Warner Bros. Re-released The Artist in France in 362 theaters on January 25, 2012.",2dd2b9aa58f04f61830add7fd0717bf3,4
+the artist,belgium,"The Artist was re-released in Belgium on February 22, 2012.",2dd2b9aa58f04f61830add7fd0717bf3,4
+the artist,north america,"After its success at the Academy Awards, The Artist saw a moderate boost in North America and appeared on the week's top 10 chart with an increase of 34% while expanding its release from 966 theaters to 1,756.",2dd2b9aa58f04f61830add7fd0717bf3,4
+the artist,universal acclaim,"At Metacritic, which assigns a weighted average rating to reviews, the film received an average score of 89 out of 100, based on 41 critics, indicating ""universal acclaim"". ",03195d9933564243b4253903b3dd8a09,4
+the artist,a real pleasure,"Mark Adams of Screen Daily called the film ""a real pleasure"";",03195d9933564243b4253903b3dd8a09,4
+the artist,feel-good movies,it is the most unlikely of feel-good movies.,03195d9933564243b4253903b3dd8a09,4
+the artist,delightful performances from jean dujardin and bérénice bejo,propelled elegantly forward by delightful performances from Jean Dujardin and Bérénice Bejo it is the most unlikely of feel-good movies.,03195d9933564243b4253903b3dd8a09,4
+the artist,a real sense of charm and warmth,"Hazanavicius manages to give the film a real sense of charm and warmth,",03195d9933564243b4253903b3dd8a09,4
+the artist,visual and musical references,the film fans will be competing to spot visual and musical references.,03195d9933564243b4253903b3dd8a09,4
+mark adams of screen daily,called the film,"Mark Adams of Screen Daily called the film ""a real pleasure"";",03195d9933564243b4253903b3dd8a09,4
+peter bradshaw of the guardian,described how the film,"Peter Bradshaw of The Guardian described how the film ""had me on my feet cheering throughout the final credits"". ",03195d9933564243b4253903b3dd8a09,4
+the use of bernard herrmann's score from alfred hitchcock's vertigo in the artist,kim novak's statement regarding the use of her previous work without her consent,"Violation and abuse of famous works for attention and applause, causing moral wrongdoing",bc8e06298cf141bf9c92a3754f2b6731,4
+the artist,cinema,"The film 'The Artist' was made as a love letter to cinema, indicating that it is a part of the broader concept of cinema.",05414c08b0614f9096d0071d46a60623,4
+hazanavicius,cinema,Director Hazanavicius's involvement in 'The Artist' highlights its connection to cinema.,05414c08b0614f9096d0071d46a60623,4
+hitchcock,cinema,"The film's inspiration from the works of Hitchcock, Lang, Ford, Lubitsch, and Murnau indicates its association with cinema.",05414c08b0614f9096d0071d46a60623,4
+vertigo,bernard herrmann's music,The use of Bernard Herrmann's love theme from Vertigo in 'The Artist' shows its connection to the movie Vertigo and the composer Bernard Herrmann.,05414c08b0614f9096d0071d46a60623,4
+bernard herrmann's music,music,"The use of Bernard Herrmann's music in 'The Artist' highlights its association with music, as well as the composer Bernard Herrmann.",05414c08b0614f9096d0071d46a60623,4
+kim novak,respected figure,Director Hazanavicius's statement about respecting Kim Novak indicates her importance and status as a respected figure in the context.,05414c08b0614f9096d0071d46a60623,4
+vertigo,bernard herrmann's music,The use of Bernard Herrmann's love theme from Vertigo in 'The Artist' also highlights its connection to the movie Vertigo.,05414c08b0614f9096d0071d46a60623,4
+todd mccarthy,reviewer,Todd McCarthy's mention of the use of Bernard Herrmann's music from Vertigo in his review indicates its association with both 'The Artist' and the movie Vertigo.,05414c08b0614f9096d0071d46a60623,4
+bernard herrmann's love theme,music from another movie,The statement that Bernard Herrmann's music has been used in many different films and is used in 'The Artist' indicates its association with both the music from another movie and the composer Bernard Herrmann.,05414c08b0614f9096d0071d46a60623,4
+director hazanavicius,statement,Hazanavicius's statement about using music from another movie and getting permission for it highlights its association with his own statement.,05414c08b0614f9096d0071d46a60623,4
+cannes festival,first showing,The fact that 'The Artist' was first shown at the Cannes Festival connects it to both the festival and its first showing there.,05414c08b0614f9096d0071d46a60623,4

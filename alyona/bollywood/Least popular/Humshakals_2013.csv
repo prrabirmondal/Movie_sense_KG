@@ -1,0 +1,62 @@
+node_1,node_2,edge,chunk_id,node_3,count
+humshakals,indian hindi-language comedy film,directed by Sajid Khan and produced by Vashu Bhagnani,18bb9cf033714581b3f2591525c096c4,,4
+saif ali khan,riteish deshmukh,"[{'from': 'Saif Ali Khan', 'to': 'Saif Ali Khan 1', 'relation': 'plays three characters'}, {'from': 'Saif Ali Khan 1', 'to': 'Riteish Deshmukh 1', 'edge_type': 'related character in Humshakals'}, {'from': 'Ram Kapoor', 'to': 'Ram Kapoor 1', 'relation': 'plays three characters'}, {'from': 'Ram Kapoor 1', 'to': 'Saif Ali Khan 2', 'edge_type': 'related character in Humshakals'}, {'from': 'Ram Kapoor 1', 'to': 'Riteish Deshmukh 2', 'edge_type': 'related character in Humshakals'}, {'from': 'Saif Ali Khan 2', 'to': 'Riteish Deshmukh 3', 'edge_type': 'related character in Humshakals'}]",18bb9cf033714581b3f2591525c096c4,Ram Kapoor,4
+ashok,kanwar amar nath singh (kans mama),"evil Mamaji teams up with an evil doctor, Dr. Khan, to get rid of Ashok (without murder) and keep control of his property",18bb9cf033714581b3f2591525c096c4,,4
+mamaji,doctor khan,"evil Mamaji teams up with an evil doctor, Dr. Khan, to get rid of Ashok (without murder) and keep control of his property",18bb9cf033714581b3f2591525c096c4,,4
+ashok's father,billionaire,Ashok's father is a billionaire but has been in a coma for the last six years.,18bb9cf033714581b3f2591525c096c4,,4
+kanwar amar nath singh (kans mama),international locations,The film was shot extensively in various international locations,18bb9cf033714581b3f2591525c096c4,,4
+ashok,lookalike of ashok,"accidentally released instead of the real Ashok, mix-up at mental asylum",e9443d9c539d4555bb1595e5b8c3570e,,4
+kumar,lookalike of kumar,"accidentally released instead of the real Kumar, mix-up at mental asylum",e9443d9c539d4555bb1595e5b8c3570e,,4
+ashok,mamaji,"enemy, Mamaji plans to use the duplicate Ashok to become the owner of the whole business empire",e9443d9c539d4555bb1595e5b8c3570e,,4
+kumar,mamaji,"enemy, Mamaji plans to use the duplicate Kumar to become the owner of the whole business empire",e9443d9c539d4555bb1595e5b8c3570e,,4
+ashok,true ashok,"real person, mix-up at mental asylum",e9443d9c539d4555bb1595e5b8c3570e,,4
+kumar,true kumar,"real person, mix-up at mental asylum",e9443d9c539d4555bb1595e5b8c3570e,,4
+ashok's mansion,mamaji,"control over property, Mamaji's plan to own the business empire",e9443d9c539d4555bb1595e5b8c3570e,,4
+lookalike of ashok,ashok's mansion,"mistakenly admitted instead of real Ashok, mix-up at mental asylum",e9443d9c539d4555bb1595e5b8c3570e,,4
+lookalike of kumar,ashok's mansion,"mistakenly admitted instead of real Kumar, mix-up at mental asylum",e9443d9c539d4555bb1595e5b8c3570e,,4
+shanaya,mishti,"girlfriends of Ashok and Kumar, come to pick them up from the asylum",e9443d9c539d4555bb1595e5b8c3570e,,4
+shanaya,lookalike of ashok,mistakenly picked up instead of real Ashok,e9443d9c539d4555bb1595e5b8c3570e,,4
+mishti,lookalike of kumar,mistakenly picked up instead of real Kumar,e9443d9c539d4555bb1595e5b8c3570e,,4
+cyrus,ashok,"help in revealing Mamaji's plan, true Ashok in secret ward 'C'",e9443d9c539d4555bb1595e5b8c3570e,,4
+cyrus,kumar,"help in revealing Mamaji's plan, true Kumar in secret ward 'C'",e9443d9c539d4555bb1595e5b8c3570e,,4
+bijlani,ashok and kumar,"cocaine smuggler, mistakenly delivered cocaine to Ashok and Kumar for flour",e9443d9c539d4555bb1595e5b8c3570e,,4
+dr. shivani,men-behaving-like dogs,"realizes truth in mental asylum, promises to discharge them",e9443d9c539d4555bb1595e5b8c3570e,,4
+evil plan,mamaji,Mamaji devises an evil plan to take over Ashok and Kumar's business while they are stuck in the asylum.,0e9c839f662d444fa29288347d6d22b0,,4
+asylum,"ashok, kumar",Ashok and Kumar are currently residing in an asylum due to Mamaji's evil plan.,0e9c839f662d444fa29288347d6d22b0,,4
+cyrus,"ashok, kumar",Cyrus offers help to Ashok and Kumar while they are in the asylum.,0e9c839f662d444fa29288347d6d22b0,,4
+johnny,mamaji,"Johnny is a look-alike of Mamaji, which Ashok and Kumar plan to use for their revenge against Mamaji.",0e9c839f662d444fa29288347d6d22b0,,4
+y.m. raj,"ashok, kumar",Y.M. Raj is the sadistic warden of the asylum who catches Ashok and Kumar while they are planning revenge against Mamaji.,0e9c839f662d444fa29288347d6d22b0,,4
+sneeze,"johnny, y.m. raj",Johnny attacks Y.M. Raj when he sneezes in front of him.,0e9c839f662d444fa29288347d6d22b0,,4
+fire alarm,"dr. khan, ashok, kumar","Dr. Khan triggers the fire alarm during the board meeting, causing Ashok and Kumar to escape the building.",0e9c839f662d444fa29288347d6d22b0,,4
+balbir,"mamaji, ashok, kumar","Balbir, who is a look-alike of Mamaji, helps Ashok and Kumar expose Mamaji's evil plan.",0e9c839f662d444fa29288347d6d22b0,,4
+plastic surgery,"mamaji, dr. khan's assistants",Mamaji arranges plastic surgery for two of Dr. Khan's assistants to impersonate the real Ashok and Kumar.,0e9c839f662d444fa29288347d6d22b0,,4
+prince charles,"fake (triplicate?) ashok, house of commons of the united kingdom",The fake (triplicate?) Ashok hands over all the business to Mamaji in the presence of Prince Charles at the House of Commons of the United Kingdom.,0e9c839f662d444fa29288347d6d22b0,,4
+"real ashok, kumar","balbir, house of commons of the united kingdom",The real Ashok and Kumar arrive at the House of Commons of the United Kingdom along with Balbir to expose Mamaji's evil plan.,0e9c839f662d444fa29288347d6d22b0,,4
+humshakals,business,The film Humshakals involves a business transaction between the protagonist Ashok and Mamaji in the presence of Prince Charles.,b7e9b3e01c694039ad1c9f918a8099c5,,4
+ashok,mamaji,"Ashok and Mamaji are key characters in the film Humshakals who have a relationship, possibly one of business dealings or conflict.",b7e9b3e01c694039ad1c9f918a8099c5,,4
+prince charles,business,The involvement of Prince Charles in this business transaction is mentioned in the context.,b7e9b3e01c694039ad1c9f918a8099c5,,4
+ashok,real ashok,"Two instances of 'Ashok' are mentioned, which could possibly indicate a case of mistaken identity or dual roles played by the same actor in the film.",b7e9b3e01c694039ad1c9f918a8099c5,,4
+kumar,real ashok,"Another instance of 'Ashok' is mentioned, which could possibly indicate a case of mistaken identity or dual roles played by the same actor in the film.",b7e9b3e01c694039ad1c9f918a8099c5,,4
+balbir,mamaji-iii,"The context mentions two individuals named 'Mamaji' and 'Balbir', which could indicate a case of mistaken identity or multiple roles played by the same actor in the film.",b7e9b3e01c694039ad1c9f918a8099c5,,4
+ashok,father,"The context mentions the father of 'Ashok' waking up from a coma and recognizing the true 'Ashok', which could indicate a family relationship between 'Ashok' and his father.",b7e9b3e01c694039ad1c9f918a8099c5,,4
+mamaji,arrest,"The context mentions Mamaji getting arrested after Ashok's father recognizes the true 'Ashok', which could indicate a legal consequence for Mamaji's actions.",b7e9b3e01c694039ad1c9f918a8099c5,,4
+humshakals,soundtrack,"The context mentions the soundtrack of the film Humshakals, which includes songs by Neeraj Shridhar and Neeti Mohan.",b7e9b3e01c694039ad1c9f918a8099c5,,4
+humshakals,poor critical response,The context mentions the poor critical reception of the film Humshakals.,b7e9b3e01c694039ad1c9f918a8099c5,,4
+humshakals,box office success,"Despite poor critical response, the context mentions that the film Humshakals did well at the box office during its initial run.",b7e9b3e01c694039ad1c9f918a8099c5,,4
+humshakals,failure,"The context mentions that while the film did recover its investment, it was still deemed a box office failure.",b7e9b3e01c694039ad1c9f918a8099c5,,4
+humshakals,worst film of the century,Saurabh Dwivedi of India Today stated that Humshakals will be listed in one of the worst films of the century.,b7664d875eab4be4bea4317431ada8cd,,4
+humshakals,box office failure,The film recovered its investment although it was still deemed a box office failure.,b7664d875eab4be4bea4317431ada8cd,,4
+0%,rotten tomatoes,"The film has an approval rating of 0%, based on six reviews, with an average rating of 2/10 on the review aggregator website Rotten Tomatoes.",b7664d875eab4be4bea4317431ada8cd,,4
+humshakals,"regressive, misogynistic, sexist, homophobic cinematic product","It's disturbing to see such an atrocious, regressive, misogynistic, sexist, homophobic cinematic product force-fed to paying audiences.",b7664d875eab4be4bea4317431ada8cd,,4
+humshakals,no story or comedy on offer,"Sweta Kaushal of Hindustan Times rated the film 0.5 out of 5 and stated 'With no story or comedy on offer, even Riteish and Ram are unable to save the day for Sajid Khan.'",b7664d875eab4be4bea4317431ada8cd,,4
+humshakals,"succeeded sajid khan's previous endeavor, himmatwala, in becoming the worst bollywood film ever","Writing in Emirates 24/7, Sneha May Francis claimed that it succeeded Khan's previous endeavor, Himmatwala, in becoming the worst Bollywood film ever.",b7664d875eab4be4bea4317431ada8cd,,4
+humshakals,worst film of 2014 so far,"Critic Sonia Chopra of Sify.com wrote 'there are bad movies, and then there's Humshakals. The worst film of 2014 so far, in my book'.",b7664d875eab4be4bea4317431ada8cd,,4
+humshakals,worst film of 2014 so far,"In the given context, 'Humshakals' is identified as the worst film of 2014 so far. This indicates a relation between 'Humshakals' and 'Worst film of 2014 so far', where 'Humshakals' is a specific instance of the more general concept 'Worst film of 2014 so far'.",982085d9e61949ccafe0534a84595e31,,4
+humshakals,worst film of the decade,"Dainik Bhaskar, a publication, has identified 'Humshakals' as one of the worst films of the decade. This indicates a relation between 'Humshakals' and 'Worst film of the decade', where 'Humshakals' is a specific instance of the more general concept 'Worst film of the decade'.",982085d9e61949ccafe0534a84595e31,,4
+bipasha basu,humshakals,"Bipasha Basu, an actor, did not participate in the promotions of 'Humshakals' due to her perception that it is 'the worst experience of [her] life'. This indicates a relation between 'Bipasha Basu' and 'Humshakals', where 'Bipasha Basu' has a negative opinion about 'Humshakals'.",982085d9e61949ccafe0534a84595e31,,4
+esha gupta,humshakals,"Esha Gupta, an actor, warned her family members not to see 'Humshakals'. This indicates a relation between 'Esha Gupta' and 'Humshakals', where 'Esha Gupta' has a negative opinion about 'Humshakals'.",982085d9e61949ccafe0534a84595e31,,4
+saif ali khan,humshakals,"After the release of 'Humshakals', Saif Ali Khan, an actor, expressed regret about being involved in 'Humshakals'. This indicates a relation between 'Saif Ali Khan' and 'Humshakals', where 'Saif Ali Khan' has a negative opinion about 'Humshakals'.",982085d9e61949ccafe0534a84595e31,,4
+humshakals,golden kela award for worst film,"In the given context, 'Humshakals' has won the Golden Kela Award for Worst Film. This indicates a relation between 'Humshakals' and 'Golden Kela Award for Worst Film', where 'Humshakals' is an instance of the more general concept 'Golden Kela Award for Worst Film'.",982085d9e61949ccafe0534a84595e31,,4
+ram kapoor,golden kela award for worst picture,"In the given context, Ram Kapoor has shared the Golden Kela Award for Worst Actor with Saif Ali Khan and Riteish Deshmukh. This indicates a relation between 'Ram Kapoor' and 'Golden Kela Award for Worst Picture', where 'Ram Kapoor' is an instance of the more general concept 'Golden Kela Award for Worst Picture'.",982085d9e61949ccafe0534a84595e31,,4
+saif ali khan,golden kela award for worst actor,"In the given context, Saif Ali Khan has shared the Golden Kela Award for Worst Actor with Ram Kapoor and Riteish Deshmukh. This indicates a relation between 'Saif Ali Khan' and 'Golden Kela Award for Worst Actor', where 'Saif Ali Khan' is an instance of the more general concept 'Golden Kela Award for Worst Actor'.",982085d9e61949ccafe0534a84595e31,,4
+riteish deshmukh,golden kela award for worst actor,"In the given context, Riteish Deshmukh has shared the Golden Kela Award for Worst Actor with Saif Ali Khan and Ram Kapoor. This indicates a relation between 'Riteish Deshmukh' and 'Golden Kela Award for Worst Actor', where 'Riteish Deshmukh' is an instance of the more general concept 'Golden Kela Award for Worst Actor'.",982085d9e61949ccafe0534a84595e31,,4

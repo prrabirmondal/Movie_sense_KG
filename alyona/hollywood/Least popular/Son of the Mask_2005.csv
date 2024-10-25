@@ -1,0 +1,70 @@
+node_1,node_2,edge,chunk_id,count
+doctor arthur neuman,mask,"Neuman mentions that Loki created the Mask and granted its powers to those who wear it, spreading chaos among humankind. When Neuman mentions Loki's imprisonment at his father Odin's hands, a stranger becomes furious and transforms, revealing himself to be Loki. However, Neuman realizes that the mask in the display case is a replica when Loki takes it, leading to Neuman's face being removed and disposed of by Loki.",ea27f657fea44d9b9cda71846798e1ec,4
+mask,loki,"The Mask was created by Loki, the God of Mischief, according to Doctor Arthur Neuman's tour of the hall of Norse mythology in Edge City's local museum. However, when Loki takes the mask from the display case at the museum, he realizes it is a replica.",ea27f657fea44d9b9cda71846798e1ec,4
+alvey,tim,Alvey uses his powers to protect his father from Loki.,b650d1cda743439995d0451684a81e4c,4
+odin,loki,Odin scolds Loki for his destructive approach and strips him of his powers.,b650d1cda743439995d0451684a81e4c,4
+alvey,otis,"Otis accidentally dons the mask, gains its power, and tries to get rid of Alvey.",b650d1cda743439995d0451684a81e4c,4
+tim,alvey,A baby is conceived when Tim has sex with Tonya while still wearing the mask.,b650d1cda743439995d0451684a81e4c,4
+loki,tim,Loki finds Alvey and confronts Tim for the mask.,b650d1cda743439995d0451684a81e4c,4
+alvey,odin,"A baby is born with the same powers as the mask, which alerts Odin.",b650d1cda743439995d0451684a81e4c,4
+tim,tonya,Tim returns to his house and has sex with Tonya while still wearing the mask.,b650d1cda743439995d0451684a81e4c,4
+otis,alvey,The craftier infant foils Otis' attempts to get rid of Alvey.,b650d1cda743439995d0451684a81e4c,4
+tim,moss,"Tim fails to impress Moss during a pitch, and he is later fired.",b650d1cda743439995d0451684a81e4c,4
+alvey,mask,Loki kidnaps Alvey in exchange for the mask.,fe138e70a60c49ce94bdd231da62e3c2,4
+alvey,group,"Tim, Tonya, and Otis chase after Loki and Alvey as Tim becomes the Mask again.",fe138e70a60c49ce94bdd231da62e3c2,4
+loki,alvey,Loki decides to keep Alvey despite the exchange.,fe138e70a60c49ce94bdd231da62e3c2,4
+tim,alvey,Tim takes off the mask and convinces his son to choose him.,fe138e70a60c49ce94bdd231da62e3c2,4
+loki,odin,"Enraged, Loki tries to kill Tim, but Odin appears in person and scolds Loki for his failure.",fe138e70a60c49ce94bdd231da62e3c2,4
+tim,family,"After Tim gives them the mask, Odin reconciles with Loki, and the duo returns home. Tim, however, feels sympathy for Loki and reminds Odin that regardless of their problems, they are still family.",fe138e70a60c49ce94bdd231da62e3c2,4
+alvey,otis,Alvey and Otis compete for Tim's attention in Tim's cartoon based on their real-life dynamics.,fe138e70a60c49ce94bdd231da62e3c2,4
+jim carrey,the mask ii,"After the release of The Mask, Nintendo Power announced that Jim Carrey would be returning in a sequel called The Mask II.",5a95b840697e4be38cd4bff931de6b79,4
+nintendo power,the mask ii,Nintendo Power announced that Jim Carrey would be returning in a sequel called The Mask II.,5a95b840697e4be38cd4bff931de6b79,4
+chuck russell,the mask ii,"Chuck Russell expressed his interest in a Mask sequel in his 1996 Laserdisc commentary. He was hoping Carrey would come back as the title character, along with Amy Yasbeck.",5a95b840697e4be38cd4bff931de6b79,4
+amy yasbeck,the mask ii,"Chuck Russell expressed his interest in a Mask sequel in his 1996 Laserdisc commentary. He was hoping Carrey would come back as the title character, along with Amy Yasbeck.",5a95b840697e4be38cd4bff931de6b79,4
+jim carrey,$10 million,"In a 1995 Barbara Walters Special, Carrey revealed that he was offered $10 million to star in The Mask II.",5a95b840697e4be38cd4bff931de6b79,4
+lance khazei,the mask ii,"In 2001, it was reported that Lance Khazei was asked by New Line Cinema to do the script for a sequel to The Mask.",5a95b840697e4be38cd4bff931de6b79,4
+lawrence guterman,son of the mask,"Director Lawrence Guterman compared it to the differences between Alien and Aliens, stating that, ""Son of the Mask is a completely different story."" ",5a95b840697e4be38cd4bff931de6b79,4
+tim avery,loki,"In the context provided, Tim Avery is the protagonist who wants to be a cartoonist and Loki is the character that The Mask transforms into. As mentioned, Ben Stein reprises his role as Dr. Arthur Neuman from the original film, revealing the relationship between the mask and its creator, Loki. Therefore, there is a relation between Tim Avery and Loki.",c1369bc4817e474b88c609cc95a95ec8,4
+tex avery,avery family,The context states that the naming of the Avery family pays homage to Tex Avery as its patriarch. This indicates a relation between Tex Avery and the Avery family.,c1369bc4817e474b88c609cc95a95ec8,4
+milo,otis,"The context mentions that Otis connects with Milo from the original film and comic book. Therefore, there is a relation between Milo and Otis.",c1369bc4817e474b88c609cc95a95ec8,4
+tex avery,tim avery,"The context mentions that Tim Avery wants to be a cartoonist. Tex Avery is a renowned animator, and so there might be a relation between Tex Avery and Tim Avery in terms of their profession.",c1369bc4817e474b88c609cc95a95ec8,4
+tex avery,avery family,"As mentioned earlier, the context reveals that the naming of the Avery family pays homage to Tex Avery as its patriarch. This suggests a strong relation between Tex Avery and the Avery family.",c1369bc4817e474b88c609cc95a95ec8,4
+chuck jones,son of the mask,The context states that the animators for Son of the Mask drew from the style of Chuck Jones. This reveals a relation between Chuck Jones and Son of the Mask.,c1369bc4817e474b88c609cc95a95ec8,4
+tex avery,chuck jones,"The context mentions that the animators for Son of the Mask drew from the style of Chuck Jones. Tex Avery was also a renowned animator, and hence there might be a relation between Tex Avery and Chuck Jones in terms of their profession.",c1369bc4817e474b88c609cc95a95ec8,4
+the mask,loki,"In the context provided, The Mask transforms into Loki. This indicates a relation between The Mask and Loki.",c1369bc4817e474b88c609cc95a95ec8,4
+dr. arthur neuman,loki,"As mentioned earlier, Ben Stein reprises his role as Dr. Arthur Neuman from the original film, revealing the relationship between The Mask and its creator, Loki. This reveals a relation between Dr. Arthur Neuman and Loki.",c1369bc4817e474b88c609cc95a95ec8,4
+jamie kennedy,the jamie kennedy experiment,Kennedy's television series that caused scheduling conflicts with his role in the film.,da0ac72541f64a928f944b996d0805c6,4
+warner bros.,jamie kennedy,Studio that offered Kennedy the lead role after a couple of other projects didn't go into production.,da0ac72541f64a928f944b996d0805c6,4
+loki,jamie kennedy,Character that Kennedy considered playing instead of Tim due to its versatility.,da0ac72541f64a928f944b996d0805c6,4
+tim,mask,Role played by Kennedy in the film.,da0ac72541f64a928f944b996d0805c6,4
+relatable circumstances,newly married man,Aspect of the film that the producers pitched to Kennedy as a romantic-comedy.,da0ac72541f64a928f944b996d0805c6,4
+sudden father,relatable circumstances,Another aspect of the film that the producers pitched to Kennedy as a romantic-comedy.,da0ac72541f64a928f944b996d0805c6,4
+jim carrey,jamie kennedy,Person who convinced Kennedy to take the role in the film.,da0ac72541f64a928f944b996d0805c6,4
+special effects,jamie kennedy,Aspect of the film that impressed Kennedy and gave him hope for its success.,da0ac72541f64a928f944b996d0805c6,4
+film,deadline,The constant deadline made it difficult to determine how the film would turn out.,636dbc4aa625411c906095f694791a4a,4
+film,rewrites,The constant onset rewrites made it difficult to determine how the film would turn out.,636dbc4aa625411c906095f694791a4a,4
+original cut,minor changes,The original cut went through minor changes before getting screened for executives.,636dbc4aa625411c906095f694791a4a,4
+executives,screening,The original cut was screened for executives.,636dbc4aa625411c906095f694791a4a,4
+original cut,scope and tones,Kennedy claimed that this version had 'scope and tones'.,636dbc4aa625411c906095f694791a4a,4
+original cut,accessible,The original cut was much more accessible.,636dbc4aa625411c906095f694791a4a,4
+film,thirty-eight minutes,Thirty-eight minutes were demanded to be cut from the film.,636dbc4aa625411c906095f694791a4a,4
+film,adhd clusterfuck,The result of thirty-eight minutes being cut from the film was described as an 'ADHD clusterfuck'.,636dbc4aa625411c906095f694791a4a,4
+film,vfx-based scenes,Numerous VFX-based scenes were added to the film because of the thirty-eight minute cut.,636dbc4aa625411c906095f694791a4a,4
+alvey,ottis,The result of thirty-eight minutes being cut from the film focused on Alvey and Otis.,636dbc4aa625411c906095f694791a4a,4
+film,jim carrey,"The Rotten Tomatoes consensus states that 'overly frantic, painfully unfunny, and sorely missing the presence of Jim Carrey.'",636dbc4aa625411c906095f694791a4a,4
+film,audience,Audiences polled by CinemaScore gave the film an average grade of 'B-' on an A+ to F scale.,636dbc4aa625411c906095f694791a4a,4
+son of the mask,poor reception,"The poor reception of Son of the Mask inspired Kennedy to co-create the documentary film Heckler, an examination of hecklers and professional critics.",ffca84f41e464974833ef22fb382ece0,4
+son of the mask,jamie kennedy,"In The Sydney Morning Herald, Jim Schembri wrote that the film was 'a bright, fast, kiddie-oriented lark with US TV comic Jamie Kennedy doing well as the beneficiary of the magical mask that turns anyone who wears it into a dazzling display of computer-animated effects.'",ffca84f41e464974833ef22fb382ece0,4
+jamie kennedy,son of the mask,"In Son of the Mask, Jamie Kennedy played the role of Timmy.",ffca84f41e464974833ef22fb382ece0,4
+richard roeper,walking out halfway through the film,"In his review Richard Roeper stated, 'In the five years I've been co-hosting this show, this is the closest I've ever come to walking out halfway through the film, and now that I look back on the experience, I wish I had.'",ffca84f41e464974833ef22fb382ece0,4
+richard roeper,son of the mask,"In his review Richard Roeper stated, 'In the five years I've been co-hosting this show, this is the closest I've ever come to walking out halfway through the film, and now that I look back on the experience, I wish I had.'",ffca84f41e464974833ef22fb382ece0,4
+roger ebert,fifth-worst film of 2005,In his review Roger Ebert named Son of the Mask as the fifth-worst film of 2005.,ffca84f41e464974833ef22fb382ece0,4
+roger ebert,son of the mask,Roger Ebert gave Son of the Mask 1.5 stars in his review.,ffca84f41e464974833ef22fb382ece0,4
+nell minow,kiddie-oriented lark,"Nell Minow of Common Sense Media wrote, 'This movie is dumb and loud, which some kids will confuse with entertaining, but others will just find it overwhelming.'",ffca84f41e464974833ef22fb382ece0,4
+jamie kennedy,computer-animated effects,"In The Sydney Morning Herald, Jim Schembri wrote that in Son of the Mask, 'the film was 'a bright, fast, kiddie-oriented lark with US TV comic Jamie Kennedy doing well as the beneficiary of the magical mask that turns anyone who wears it into a dazzling display of computer-animated effects.'",ffca84f41e464974833ef22fb382ece0,4
+the mask,worst remake or sequel,"Son of the Mask was the most nominated film at the 2005 Golden Raspberry Awards with eight, winning for Worst Remake or Sequel,",9e9c41320cc44b229c1fc96ce441cbe1,4
+son of the mask,worst actor (jamie kennedy),"won several 2005 Stinkers Bad Movie Awards, including Worst Actor (Jamie Kennedy),",9e9c41320cc44b229c1fc96ce441cbe1,4
+son of the mask,worst sequel,"won several 2005 Stinkers Bad Movie Awards, including Worst Sequel,",9e9c41320cc44b229c1fc96ce441cbe1,4
+the mask,rotten tomatoes,"listed the film 94th in a 2007 countdown of the 94 'worst to best' comic book to film adaptations,",9e9c41320cc44b229c1fc96ce441cbe1,4
+the mask,video game,"A video game based on the movie of the same name released for the mobile phones on February 10, 2005. The game was published and developed by Indiagames.",9e9c41320cc44b229c1fc96ce441cbe1,4
+the mask,reviving the mask,"In 2014, Mike Richardson stated, ""We've been talking about reviving The Mask, both in film and in comics. We've had a couple of false starts.""",9e9c41320cc44b229c1fc96ce441cbe1,4

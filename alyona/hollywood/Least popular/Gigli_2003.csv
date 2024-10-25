@@ -1,0 +1,38 @@
+node_1,node_2,edge,chunk_id,count
+gigli,ricki,Gigli is attracted to Ricki,b25a074631104aaab8b38456634d55d1,4
+gigli,louis,Gigli resents Louis' lack of faith in him,b25a074631104aaab8b38456634d55d1,4
+ricki,louis,Ricki is a woman and Gigli resents both her lack of faith in him and having to take orders from a woman,b25a074631104aaab8b38456634d55d1,4
+gigli,brian,Gigli is frustrated by Brian's insistence on going to 'the Baywatch',b25a074631104aaab8b38456634d55d1,4
+ricki,brian,Ricki is a lesbian and Gigli is frustrated by the fact that Brian is a brother of a federal prosecutor whom they were supposed to kidnap,b25a074631104aaab8b38456634d55d1,4
+gigli,ricki,Gigli confesses his love for Ricki and they sleep together,b25a074631104aaab8b38456634d55d1,4
+starkman,louis,Starkman kills Louis in retaliation for the kidnapping and associated scrutiny by law enforcement,b25a074631104aaab8b38456634d55d1,4
+ricki,gigli,Ricki talks Starkman out of killing Gigli,b25a074631104aaab8b38456634d55d1,4
+starkman,brian,Starkman is angry because the kidnapping failed to increase pressure on the prosecutor and even undermined their credibility due to Brian's involvement,b25a074631104aaab8b38456634d55d1,4
+gigli,ricki,Only Gigli and Ricki know where Brian is and only they can silence him from revealing Starkman's organization's involvement in the kidnapping,b25a074631104aaab8b38456634d55d1,4
+brian,beach,"Brian begs to be let off at a Beach and, finally, Gigli and Ricki consent",b25a074631104aaab8b38456634d55d1,4
+gigli,ricki,Gigli convinces Ricki to take his car to escape to parts unknown.,66c61c61dac54e928948bad62e94ae58,4
+ricki,parts unknown,Ricki is taking Gigli's car to an unknown location.,66c61c61dac54e928948bad62e94ae58,4
+ricki,gigli,"At the last minute, Ricki returns to pick up Gigli and they leave town together.",66c61c61dac54e928948bad62e94ae58,4
+halle berry,female lead,"Halle Berry was invited as the female lead for this context, but due to scheduling conflicts with X2, she had to drop out.",66c61c61dac54e928948bad62e94ae58,4
+jennifer lopez,female lead,"After Halle Berry dropped out due to scheduling conflicts with X2, Jennifer Lopez signed up for the female lead role in this context.",66c61c61dac54e928948bad62e94ae58,4
+adam brody,brian,"Adam Brody auditioned for the role of Brian in this context, but is not selected.",66c61c61dac54e928948bad62e94ae58,4
+gigli,brest,"Martin Brest, the director of Gigli, shared in a 2023 interview in Variety that extensive disagreements between the studio and himself got to the point where post-production was shut down for eight months while they battled it out. In the end, he was left with two choices: quit or be complicit in the mangling of the movie. To his eternal regret, Brest didn't quit, which he now considers a true collaboration with occupying forces as opposed to one that was benign and creative.",edaf3a0c7efb426fa925e49b0a39ecfd,4
+gigli,studio,"Brest also revealed in the same interview that the negative response to a test screening led the studio to replace advertisements for Gigli with those of another release, Bad Boys II.",edaf3a0c7efb426fa925e49b0a39ecfd,4
+gigli,original ending,"Brest stated that the original ending featured Gigli being killed, but after negative response to a test screening, it was re-shot and re-edited.",edaf3a0c7efb426fa925e49b0a39ecfd,4
+gigli,new ending,"Brest further mentioned in the interview that the ending was re-shot and re-edited due to negative response from a test screening, but as per his 2023 statement in Variety, he bears responsibility for the 'ghastly cadaver' of a movie because of this change.",edaf3a0c7efb426fa925e49b0a39ecfd,4
+gigli,weekend gross,"In the given context, it is revealed that in its opening weekend, Gigli grossed $3,753,518 from 2,215 theaters averaging $1,694 per theater and ranking #8 at the box office.",edaf3a0c7efb426fa925e49b0a39ecfd,4
+the studio,beowulf & grendel,"led to pull the advertisement for the film and replace them with another of their releases, Bad Boys II.",092f6269499b45f0bb5f8b0cbbebfb45,4
+beowulf & grendel,bad boys ii,replaced them with,092f6269499b45f0bb5f8b0cbbebfb45,4
+the studio,bad boys ii,released instead of Beowulf & Grendel due to its poor performance in the box office,092f6269499b45f0bb5f8b0cbbebfb45,4
+beowulf & grendel,poor performance in the box office,resulted in the film's removal from wide release and replacement with another studio's release.,092f6269499b45f0bb5f8b0cbbebfb45,4
+the studio,bad boys ii,"set a record for the biggest second-weekend drop in box office gross of any film in wide release since that statistic was kept; it dropped by 81.9% in its second weekend compared to its first, grossing $678,640.",092f6269499b45f0bb5f8b0cbbebfb45,4
+bad boys ii,second-weekend drop in box office gross,which was a significant decrease from its opening weekend.,092f6269499b45f0bb5f8b0cbbebfb45,4
+gigli,historic failure,"Joel Siegel's rating of 'D' and statement that 'To qualify as a historic failure, a film needs a measure of pretension and all Gigli ever wanted to be was a romantic comedy.'",00523c7d2a284f7c8e9cdff77017157f,4
+gigli,romantic comedy,"Entertainment Weekly's description of 'A watchable bad movie, but it’s far from your typical cookie-cutter blockbuster. There are no shoot-outs or car chases, and there isn’t much romantic suspense, either.'",00523c7d2a284f7c8e9cdff77017157f,4
+ebert,critic,Mentioned as one of the few major critics to not write off Gigli completely in context.,00523c7d2a284f7c8e9cdff77017157f,4
+berardinelli,critic,Mentioned as one of the few major critics to not write off Gigli completely in context.,00523c7d2a284f7c8e9cdff77017157f,4
+lopez,performer,Considered 'appealing' together by Roger Ebert in context.,00523c7d2a284f7c8e9cdff77017157f,4
+affleck,performer,Considered 'appealing' together by Roger Ebert in context.,00523c7d2a284f7c8e9cdff77017157f,4
+gigli,50 worst movie titles of all time (the hollywood reporter),"In May 2015, The Hollywood Reporter named Gigli #25 on its list of '50 Worst Movie Titles of All Time'.",2e6ee772595947e4bd9146b1f084be4e,4
+affleck,gigli,Negative reception of Gigli led to Affleben's directing career being impacted.,2e6ee772595947e4bd9146b1f084be4e,4
+affleck,fred armisen,"In a 2013 episode of Saturday Night Live, Fred Armisen played Iranian President Mahmoud Ahmadinejad performing as Affleck in a movie parodying the creation of Argo while Affleck was a member of the filming crew. When asked why he would appear in this film, he said, 'I wanted to make a film worse than Gigli.'",2e6ee772595947e4bd9146b1f084be4e,4

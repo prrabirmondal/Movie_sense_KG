@@ -1,0 +1,20 @@
+node_1,node_2,edge,chunk_id,count
+raja yadav,mumbai,Raja Yadav arrives in Mumbai from Uttar Pradesh,00f71cc1004d433ea084ef1f7bb7b814,4
+shekhar,raja yadav,Raja Yadav meets Shekhar in Mumbai,00f71cc1004d433ea084ef1f7bb7b814,4
+sonia,raja yadav,"Raja Yadav helps Sonia escape from an attack by a group working for another drug dealer called Rajan Nayak, Baba Kadam's rival",00f71cc1004d433ea084ef1f7bb7b814,4
+baba kadam,sonia,Sonia works for a drug dealer named Baba Kadam in Mumbai,00f71cc1004d433ea084ef1f7bb7b814,4
+rajan nayak,group working for rajan nayak,Group working for Rajan Nayak attacks Sonia,00f71cc1004d433ea084ef1f7bb7b814,4
+shrivastav,raja yadav,"Raja Yadav petitions Shrivastav, a North Indian politician who exploits common people for his political career, for help in Mumbai",00f71cc1004d433ea084ef1f7bb7b814,4
+drug mafia of mumbai city,politicians,Drug mafia of Mumbai city is assisted by politicians,00f71cc1004d433ea084ef1f7bb7b814,4
+media,corruption prevalent in the city,Media want to reveal the corruption prevalent in the city,00f71cc1004d433ea084ef1f7bb7b814,4
+raja,rajan nayak,Raja is marked for death by Rajan Nayak due to his involvement.,9bd139a05a9045a4a903b4b854ca2886,4
+raja,sonia,Both Raja and Sonia are marked for death by Rajan Nayak.,9bd139a05a9045a4a903b4b854ca2886,4
+sonia,rajan nayak,Rajan Nayak also targets Sonia as both she and Raja are marked for death by him.,9bd139a05a9045a4a903b4b854ca2886,4
+raja,shrivastav,Raja attempts to obtain help from Shrivastav to no avail.,9bd139a05a9045a4a903b4b854ca2886,4
+sonia,baba kadam,Baba Kadam abandons Sonia as well as Raja.,9bd139a05a9045a4a903b4b854ca2886,4
+raja,inspector rohit raghav,"Raja is helped by Inspector Rohit Raghav, the new husband of Raja's village sweetheart, in killing all involved.",9bd139a05a9045a4a903b4b854ca2886,4
+soundtrack,nikhil-vinay,Soundtrack was composed by Nikhil-Vinay.,43fc95a2f17442d4969ee898d6cd244e,4
+maharashtra navnirman sena,movie,Maharashtra Navnirman Sena expressed their protests against the movie.,43fc95a2f17442d4969ee898d6cd244e,4
+central board of film certification,movie,The head of the Mumbai office of the Central Board of Film Certification opined that the movie has scenes that were derogatory to a particular community.,43fc95a2f17442d4969ee898d6cd244e,4
+ban,movie,The state government banned the movie for 60 days under the Bombay Cinema Regulation Act due to accusations that the movie was attempting to profit off of the 2008 attacks on Uttar Pradeshi and Bihari migrants in Maharashtra.,43fc95a2f17442d4969ee898d6cd244e,4
+movie,release date,The release date of the movie was postponed by a week due to protests and problems with exhibitors.,43fc95a2f17442d4969ee898d6cd244e,4

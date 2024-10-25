@@ -1,0 +1,140 @@
+node_1,node_2,edge,chunk_id,sub_nodes,count
+kahaani,indian hindi-language thriller film,"Kahaani is a 2012 Indian Hindi-language thriller film co-written, co-produced, and directed by Sujoy Ghosh.",d705b5ca32cb4ee5bdea983c044bf7e1,,4
+vidya balan,vidya bagchi,Vidya Balan plays the role of Vidya Bagchi in the film Kahaani.,d705b5ca32cb4ee5bdea983c044bf7e1,,4
+kolkata,durga puja,The film Kahaani is set during the festival of Durga Puja in Kolkata.,d705b5ca32cb4ee5bdea983c044bf7e1,,4
+vidya balan,pregnant woman,"In the film Kahaani, Vidya Balan plays the role of a pregnant woman looking for her missing husband in Kolkata during the festival of Durga Puja.",d705b5ca32cb4ee5bdea983c044bf7e1,,4
+parambrata chatterjee,assistant sub-inspector satyoki 'rana' sinha,Parambrata Chatterjee plays the role of Assist Sub-Inspector Satyoki 'Rana' Sinha in the film Kahaani.,d705b5ca32cb4ee5bdea983c044bf7e1,,4
+nawazuddin siddiqui,inspector general a. khan,Nawazuddin Siddiqui plays the role of Inspector General A. Khan in the film Kahaani.,d705b5ca32cb4ee5bdea983c044bf7e1,,4
+kolkata,guerrilla-filmmaking techniques,"To avoid attracting attention, the crew of the film Kahaani often employed guerrilla-filmmaking techniques on Kolkata's city streets.",d705b5ca32cb4ee5bdea983c044bf7e1,,4
+kahaani,shoestring budget,"Made on a shoestring budget of ₹80 million (US$960,000), Kahaani is a notable film due to its creative portrayal of the city and use of local crew and cast members.",d705b5ca32cb4ee5bdea983c044bf7e1,,4
+feminism,motherhood in a male-dominated indian society,The film Kahaani explores themes of feminism and motherhood in a male-dominated Indian society.,d705b5ca32cb4ee5bdea983c044bf7e1,,4
+satyajit ray's films,allusions,"The film Kahaani makes several allusions to Satyajit Ray's films, such as Charulata (1964), Aranyer Din Ratri (1970), and Joi Baba Felunath (1979).",d705b5ca32cb4ee5bdea983c044bf7e1,,4
+clinton cerejo,musical score and soundtrack,The musical score and soundtrack of the film Kahaani are composed by Clinton Cerejo.,d705b5ca32cb4ee5bdea983c044bf7e1,,4
+setu,cinematography,Cinematography for the film Kahaani is handled by Setu.,d705b5ca32cb4ee5bdea983c044bf7e1,,4
+namrata rao,editing,Editing for the film Kahaani is done by Namrata Rao.,d705b5ca32cb4ee5bdea983c044bf7e1,,4
+kahaani,worldwide release,Kahaani was released worldwide on 9 March 2012.,e0ccb18ac1864668a92a4ba3cae438dc,,4
+kahaani,critical acclaim,"Critics praised the screenplay, the cinematography and the performances of the lead actors.",e0ccb18ac1864668a92a4ba3cae438dc,"[{'node_1': 'screenplay', 'node_2': 'critical acclaim', 'edge': ''}, {'node_1': 'cinematography', 'node_2': 'critical acclaim', 'edge': ''}, {'node_1': 'lead actors', 'node_2': 'critical acclaim', 'edge': ''}]",4
+vidya bagchi,kolkata,"Two years later, Vidya Bagchi, a pregnant British-Indian software engineer, arrives in Kolkata from London during the Durga Puja festivities in search of her missing husband, Arnab Bagchi.",e0ccb18ac1864668a92a4ba3cae438dc,"[{'node_1': 'Vidya Bagchi', 'node_2': 'London', 'edge': ''}, {'node_1': 'Kolkata', 'node_2': 'Durga Puja festivities', 'edge': ''}]",4
+agnes d'mello,bob biswas,Assassin working undercover as a life insurance agent kills Agnes at the entrance of her house before she provides further help regarding former employee Milan Damji.,fe2da0586fe34c42b35bc3cb58625ba0,,4
+agnes d'mello,milan damji,"Suggests to Vidya that her husband resembles former employee Milan Damji, whose file is probably kept in the old NDC office.",fe2da0586fe34c42b35bc3cb58625ba0,,4
+bhaskaran k.,khan,Two Intelligence Bureau officials in Delhi—the chief Bhaskaran K. And his deputy Khan are attracted to the attempts to obtain Damji's records.,fe2da0586fe34c42b35bc3cb58625ba0,,4
+damji,rogue ib agent,IB officials reveal that Damji was a rogue IB agent responsible for the poison gas attack.,fe2da0586fe34c42b35bc3cb58625ba0,,4
+damji,dilapidated flat,Address on Damji's record leads Vidya and Rana to a dilapidated flat.,de406f58777148298f2cd72a18d5e3c8,,4
+r. sridhar,damji's flat,"An errand boy from the neighbourhood tea stall identifies R. Sridhar, an NDC officer, as a frequent visitor to Damji's flat.",de406f58777148298f2cd72a18d5e3c8,,4
+vidya,rana,Vidya and Rana are mentioned together in the context.,de406f58777148298f2cd72a18d5e3c8,,4
+bob,vidya,"Bob attempts, but fails, to kill Vidya and is soon run over by a truck during a chase.",de406f58777148298f2cd72a18d5e3c8,,4
+sridhar's office,ip address,"Vidya and Rana break into Sridhar's office to verify his IP address,",de406f58777148298f2cd72a18d5e3c8,,4
+sridhar,office,Sridhar returns to his office when Vidya and Rana break into it to verify his IP address.,de406f58777148298f2cd72a18d5e3c8,,4
+khan,sridhar,"Khan is upset when Vidya accidentally kills Sridhar during a scuffle,",de406f58777148298f2cd72a18d5e3c8,,4
+computer data,sridhar's computer,"Sridhar's computer data reveals a code,",de406f58777148298f2cd72a18d5e3c8,,4
+bhaskaran,vidya,Vidya calls Bhaskaran to tell him that she has retrieved sensitive documents from Sridhar's office.,de406f58777148298f2cd72a18d5e3c8,,4
+documents,bhaskaran,"Vidya asks Bhaskaran to help find her husband in exchange for the documents,",de406f58777148298f2cd72a18d5e3c8,,4
+local police,documents,But Bhaskaran tells her to contact the local police.,de406f58777148298f2cd72a18d5e3c8,,4
+unknown number,documents,"Vidya soon gets a call from an unknown number, warning her that she should hand over the documents to the caller if she wishes to see her husband alive.",de406f58777148298f2cd72a18d5e3c8,,4
+damji,khan,Khan thinks the caller is Damji.,de406f58777148298f2cd72a18d5e3c8,,4
+vidya,damji,"Vidya goes to meet Damji. Damji cuts the meeting short when Vidya expresses her doubt that he will be able to return her husband in exchange for the sensitive file. In the ensuing struggle, Vidya disarms Damji using her prosthetic belly and stabs him with her hairstick before finally killing him with his own gun.",d7e8afd521094b34a01bbb6eafb44752,,4
+vidya,rana,"Followed by Rana, Vidya flees into the crowd before the police arrive and leaves a thank-you note for Rana and a pen drive containing data from Sridhar's computer.",d7e8afd521094b34a01bbb6eafb44752,,4
+vidya,arnab bagchi,Neither Vidya nor Arnab Bagchi ever existed according to Rana.,d7e8afd521094b34a01bbb6eafb44752,,4
+major arup basu,vidya,"Vidya is the widow of Major Arup Basu, an IB and Army officer who was killed in the poison-gas attack.",d7e8afd521094b34a01bbb6eafb44752,,4
+col. pratap bajpayee,vidya,Col. Pratap Bajpayee helped Vidya in her mission to avenge the deaths of Major Arup Basu and their unborn child.,d7e8afd521094b34a01bbb6eafb44752,,4
+damji,vidya's husband,Damji was a colleague of Major Arup Basu.,d7e8afd521094b34a01bbb6eafb44752,,4
+kahaani,sujoy ghosh,Kahaani is a film directed by Sujoy Ghosh.,72e89863d416484b8ac704687c25b1bc,,4
+sujoy ghosh,aladin (2009),Sujoy Ghosh directed the film Aladin (2009).,72e89863d416484b8ac704687c25b1bc,,4
+sujoy ghosh,yashraj films,"Yashraj Films was approached by Sujoy Ghosh to finance Kahaani, but they wanted him to sign a three-film deal.",72e89863d416484b8ac704687c25b1bc,,4
+kahaani,bollywood hungama,Credits adapted from Bollywood Hungama for the film Kahaani.,72e89863d416484b8ac704687c25b1bc,,4
+advaita kala,sujoy ghosh,Sujoy Ghosh approached Advaita Kala with the idea for the film Kahaani.,72e89863d416484b8ac704687c25b1bc,,4
+kahaani,advaita kala,Advaita Kala wrote the script for the film Kahaani.,72e89863d416484b8ac704687c25b1bc,,4
+advaita kala,kolkata,Advaita Kala was inspired by her experience in Kolkata while writing the script for Kahaani.,72e89863d416484b8ac704687c25b1bc,,4
+kolkata,warmth of people,"Advaita Kala was charmed by the warmth of the people in Kolkata, which is reflected in the film.",72e89863d416484b8ac704687c25b1bc,,4
+ghosh,authentic,wanted to make the characters as authentic as possible,b69729e202c84e77b00a25fccdece7b8,,4
+ghosh,bengali actors,Chose mostly Bengali actors,b69729e202c84e77b00a25fccdece7b8,,4
+"satyoki ""rana"" sinha",chandan roy sanyal,"Role of the Inspector Satyoki 'Rana' Sinha was first offered to Chandan Roy Sanyal, but he could not take the part due to other commitments.",b69729e202c84e77b00a25fccdece7b8,,4
+parambrata chatterjee,vidya,Worked with Vidya in her début film Bhalo Theko,b69729e202c84e77b00a25fccdece7b8,,4
+nawazuddin siddiqui,role of khan,Casting director Roshmi Banerjee suggested Nawazuddin Siddiqui for the role.,b69729e202c84e77b00a25fccdece7b8,,4
+saswata chatterjee,role of bob biswas,Was surprised when he was offered the role of Bob Biswas.,b69729e202c84e77b00a25fccdece7b8,,4
+vidya,authentic pregnancy,"Vidya started to use a prosthetic belly to look as close to authentically pregnant as possible before the shooting of the film began. She met doctors and pregnant women to learn about the typical lifestyle and nuances of a pregnant woman, and also made lists of rules and superstitions followed by pregnant women.",222732e87c0f4dc58dd0557446674755,,4
+vidya,popular actor from bollywood,Ghosh went against the expectations of casting a popular actor from Bollywood and signed Bengali actor Abir Chatterjee to play Vidya's husband instead.,222732e87c0f4dc58dd0557446674755,,4
+abir chatterjee,popular bollywood actors,"According to Ghosh, popular Bollywood actors were not willing to work with him after his two previous flops.",222732e87c0f4dc58dd0557446674755,,4
+indraneil sengupta,supporting roles,"Several other Bengali film and television actors, such as Indraneil Sengupta and Kharaj Mukherjee, were cast in supporting roles.",222732e87c0f4dc58dd0557446674755,,4
+kharaj mukherjee,supporting roles,"Several other Bengali film and television actors, such as Indraneil Sengupta and Kharaj Mukherjee, were cast in supporting roles.",222732e87c0f4dc58dd0557446674755,,4
+bob biswas,polite bob (binito bob),The phrase 'Binito Bob' used by Ghosh during the briefing for actor Saswata Chatterjee's character Bob Biswas crystallized the notion of his manners.,9d4bf1f1941a4274a962ad58570a79a9,,4
+bob biswas,paunch,Discussions during the briefing led to the inclusion of paunch in the character Bob Biswas.,9d4bf1f1941a4274a962ad58570a79a9,,4
+bob biswas,bald patch,Discussions during the briefing led to the inclusion of a bald patch in the character Bob Biswas.,9d4bf1f1941a4274a962ad58570a79a9,,4
+saswata chatterjee,rubbing nails together mannerism,"Actor Saswata Chatterjee devised the mannerism of rubbing his nails together as some Indians believe doing that helps prevent hair loss for his character Bob Biswas, which was well-noted and praised by the viewers.",9d4bf1f1941a4274a962ad58570a79a9,,4
+bob biswas,cult figure status,"Director Sujoy Ghosh was surprised at how Bob Biswas, portrayed by Saswata Chatterjee, was greeted by fans as a cult figure.",9d4bf1f1941a4274a962ad58570a79a9,,4
+bob biswas,convincing portrayal of ordinariness,Director Sujoy Ghosh emphasised that the deliberate ordinariness of Bob Biswas was portrayed so convincingly by Saswata Chatterjee that the viewers can expect Bob to be around them at any time and any place.,9d4bf1f1941a4274a962ad58570a79a9,,4
+chatterjee,rana,difference in urban upbringing and rural background,8b5df8e657b3475d98ef7f8dd81232ac,,4
+chatterjee,police stations,"preparation for the role involved visiting police stations and doing research on their work, mindset, and other relevant things",8b5df8e657b3475d98ef7f8dd81232ac,,4
+khan,rural background,difference in character Rana's rural background and the role of Khan,8b5df8e657b3475d98ef7f8dd81232ac,,4
+khan,official post,"smokes a relatively cheap brand of cigarette (Gold Flake), despite his high official post",8b5df8e657b3475d98ef7f8dd81232ac,,4
+khan,arrogance,"envisaged as a ruthless, arrogant, expletive-spewing officer who cares nothing about the emotional or social consequences of his behavior",8b5df8e657b3475d98ef7f8dd81232ac,,4
+siddiqui,arrogance,surprised on being offered the role and wondered how he could portray the arrogance needed for the character,8b5df8e657b3475d98ef7f8dd81232ac,,4
+kolkata,filming location,"Filming took place on the streets of Kolkata, where Ghosh often employed the art of guerrilla filmmaking (shooting in real locations without any previous knowledge given to onlookers) to avoid unwanted attention.",39e8dadcd3434b40ab55202594634b9e,,4
+kolkata,shooting location,"The filming locations in Kolkata included Kalighat Metro station, Nonapukur tram depot, Kumartuli, Howrah Bridge, Victoria Memorial, old houses of North Kolkata and others.",39e8dadcd3434b40ab55202594634b9e,,4
+durga puja festival,filming location,"The climax, which takes place on the night of Vijayadashami (the last day of Durga Puja), was shot on the night of Vijayadashami in the premises of a Barowari (publicly organised) Durga Puja celebration in the Ballygunge neighbourhood of Kolkata.",39e8dadcd3434b40ab55202594634b9e,,4
+durga puja festival,shooting location,"The climax, which takes place on the night of Vijayadashami (the last day of Durga Puja), was shot on the night of Vijayadashami in the premises of a Barowari (publicly organised) Durga Puja celebration in the Ballygunge neighbourhood of Kolkata.",39e8dadcd3434b40ab55202594634b9e,,4
+vidya's face,sindoor khela,Most of the crowd in the climax were not actors. Some actors mingled with the crowd engaged in Sindoor khela[b]—their job was to appreciate the camera angles and accordingly apply sindoor (vermilion) on Vidya's face so that accidental exposure of her eyes to sindoor could be avoided.,39e8dadcd3434b40ab55202594634b9e,,4
+vijayadashami,filming time,"The climax, which takes place on the night of Vijayadashami (the last day of Durga Puja), was shot on the night of Vijayadashami in the premises of a Barowari (publicly organised) Durga Puja celebration in the Ballygunge neighbourhood of Kolkata.",39e8dadcd3434b40ab55202594634b9e,,4
+kolkatans,avoid unwanted attention,Ghosh often employed the art of guerrilla filmmaking (shooting in real locations without any previous knowledge given to onlookers) to avoid unwanted attention.,39e8dadcd3434b40ab55202594634b9e,,4
+setu,cinematographer,"The cinematographer Setu, who had assisted others in the past to shoot documentaries in Kolkata, said that unlike majority of Indian films, Kahaani was shot mostly without artificial light.",39e8dadcd3434b40ab55202594634b9e,,4
+kahaani,film,Filming took place on the streets of Kolkata for the film Kahaani.,39e8dadcd3434b40ab55202594634b9e,,4
+kolkatans,shooting without artificial light,"Unlike majority of Indian films, Kahaani was shot mostly without artificial light.",39e8dadcd3434b40ab55202594634b9e,,4
+kahaani,woman-centric film,"Kahaani is a woman's film that explores themes of role reversals, breaking stereotypes, turning clichés inside out, and showcases the journey of a strong female character in a male-dominated society. It also delves into feminist themes and examines the concept of motherhood as an instinct to protect one's child.",0fdaf21ba9114d5bb78f7196971e1153,,4
+vidya balan,strong female role,"Vidya Balan portrays a powerful and unconventional female character in Kahaani, breaking the stereotype of a damsel in distress often associated with woman-centric films.",0fdaf21ba9114d5bb78f7196971e1153,,4
+motherhood,story inspiration,"The director's project 'is a study of motherhood', drawing inspiration from the instinct of a mother to protect her baby, which is depicted in Kahaani.",0fdaf21ba9114d5bb78f7196971e1153,,4
+ghosh,director,"Anurag Ghosh directed and conceptualized Kahaani, showcasing his unique approach to portraying strong female roles and exploring themes of motherhood.",0fdaf21ba9114d5bb78f7196971e1153,,4
+rana,vidya,"The fleeting hint of romance between Rana and Vidya is a delicate one, which Ghosh considers the most progressive thing in the film. The director explains that the boy, who is initially fascinated by Vidya's computer skills, moves gradually into a zone where he tries to protect her as she is pregnant and a hero in his eyes.",807ccb41aa65443d80b05191b38b515a,,4
+kolkata,"warm, sympathetic inhabitants","pay a fond yet understated tribute to by incorporating imagery such as yellow taxis, leisurely trams, congested traffic, claustrophobic metros, dilapidated brick houses, tapering alleys, rajnigandhas, lal paad saris, and piping hot luchis. The reviewer notes that Kahaani did not depend on the tropes of Kolkata culture typically used in Bollywood film - O-emphasizing accent, dramatic play of conch shells, rasgulla/mishti doi excesses.",6f582bb44b2747958228cef6d8578ca5,,4
+kolkata,central character,The director acknowledges that Kolkata becomes a central character of the film.,6f582bb44b2747958228cef6d8578ca5,,4
+kolkata,cosmetic,Uddalak Mukherjee of The Telegraph explains that Kolkata in Kahaani was cosmetic and lacked a deep menacing presence.,6f582bb44b2747958228cef6d8578ca5,,4
+kolkata,lonely planet exotica,"Gautaman Bhaskaran, writing for Gulf Times, notes that Kolkata imagery was polished up in the film.",6f582bb44b2747958228cef6d8578ca5,,4
+kolkata,"chaos, anxiety and a moral crisis","Uddalak Mukherjee of The Telegraph explains that Kolkata in Kahaani was cosmetic and lacked a deep menacing presence. He argues the depiction of the city never matches the level of Satyajit Ray's Calcutta trilogy, where 'aided by bloodshed, greed and decadence, Calcutta..., even though a place of dreams, desires and hope, slides irreversibly into chaos, anxiety and a moral crisis, taking its residents with it.'",6f582bb44b2747958228cef6d8578ca5,,4
+durga puja,goddess durga,The festival Durga Puja is dedicated to worshiping goddess Durga.,706bc962b337405394c084c02db44b4d,,4
+durga puja,mahishasura,The allegorical yearly return of goddess Durga to slay the demon Mahishasura is alluded to at the end of the film.,706bc962b337405394c084c02db44b4d,,4
+durga puja,"idols, immersion processions, pandals","The festivities associated with Durga Puja include idols, immersion processions, and pandals.",706bc962b337405394c084c02db44b4d,,4
+women draped in white saris with red borders,durga puja,The review mentions an entire crowd of women draped in white saris with red borders as being central to the film's visual aesthetic during Durga Puja.,706bc962b337405394c084c02db44b4d,,4
+kolkata,durga puja festivities,"The review praises the depiction of Durga Puja festivities in Kolkata, a city well known for its celebration of Durga Puja.",706bc962b337405394c084c02db44b4d,,4
+ghosh,allusions to ray's films,acknowledges the allusions to Ray's films,52e0fbf0b2774b55ba8dbc589c35da08,,4
+vidya,similar scene in ray's joi baba felunath,way Vidya looks out and moves from window to window is reminiscent of Ray's Charulata,52e0fbf0b2774b55ba8dbc589c35da08,,4
+ghosh,mahanagar,"inspired by particular scenes of Ray's Nayak to plan the portrayal of complex emotional issues between Vidya and the police officer Rana, especially Rana’s awe in the presence of Vidya",52e0fbf0b2774b55ba8dbc589c35da08,,4
+ray,aranyer dinratri,"Ghosh was inspired by particular scenes of Ray's Aranyer Dinratri to shoot a similar scene, hoping the audience would become 'like Vidya’s fellow passenger.'",52e0fbf0b2774b55ba8dbc589c35da08,,4
+kahaani,"films of the 1970s and 1980s, such as deewaar (1975)","Ghosh admits inspiration from 'visually striking' films of the 1970s and 1980s, including Deewaar (1975), for his film Kahaani.",5b709289a71f49d7a286ab7f7d55026e,,4
+kahaani,taking lives,Critics have compared the fake-pregnancy twist of Kahaani with the 2004 American psychological thriller Taking Lives.,5b709289a71f49d7a286ab7f7d55026e,,4
+kahaani,the usual suspects (1995),Sequences towards the end that explain the missing pieces of the mystery in Kahaani were compared with The Usual Suspects (1995).,5b709289a71f49d7a286ab7f7d55026e,,4
+kahaani,pratima visarjan,"Ghosh writes that the film was heavily influenced by the colour scheme of the Pratima Visarjan, a c.1915 watercolour by the Bengal School artist Gaganendranath Tagore.",5b709289a71f49d7a286ab7f7d55026e,,4
+kahaani,clinton cerejo,The film score of Kahaani is composed by Clinton Cerejo.,5b709289a71f49d7a286ab7f7d55026e,,4
+kahaani,vishal–shekhar,The soundtrack album of Kahaani is composed by Vishal–Shekhar.,5b709289a71f49d7a286ab7f7d55026e,,4
+r. d. burman's hindi and bengali compositions,kahaani,Several of R. D. Burman's Hindi and Bengali compositions were used in the background of Kahaani.,5b709289a71f49d7a286ab7f7d55026e,,4
+kahaani,vishal dadlani,The lyrics for the film's six songs were written by Vishal Dadlani.,5b709289a71f49d7a286ab7f7d55026e,,4
+kahaani,anvita dutt,The lyrics for the film's six songs were written by Vishal Dadlani and Anvita Dutt.,5b709289a71f49d7a286ab7f7d55026e,,4
+kahaani,sandeep srivastava,"The lyrics for the film's six songs were written by Vishal Dadlani, Anvita Dutt and Sandeep Srivastava.",5b709289a71f49d7a286ab7f7d55026e,,4
+kahaani,apple itunes india,"The soundtrack of Kahaani was released on various platforms, including Apple iTunes India since its inception from mid-2012.",5b709289a71f49d7a286ab7f7d55026e,,4
+kahaani,international women's day,The film Kahaani was released on the day after International Women's Day.,e840cc6597bf4eb08a36c0ef63a839a1,,4
+kahaani,1100 screens worldwide,The film Kahaani played on 1100 screens worldwide.,e840cc6597bf4eb08a36c0ef63a839a1,,4
+distributors,kahaani,"Distributors deferred the release of Kahaani, fearing that Vidya's role might not be received well after her role in The Dirty Picture.",e840cc6597bf4eb08a36c0ef63a839a1,,4
+cnn-ibn,kahaani,"According to CNN-IBN, Kahaani was ready before The Dirty Picture, but distributors deferred its release due to Vidya's role in the latter.",e840cc6597bf4eb08a36c0ef63a839a1,,4
+star india's channel movies ok,kahaani,The Indian television premiere of Kahaani was on Star India's channel Movies OK.,e840cc6597bf4eb08a36c0ef63a839a1,,4
+shemaroo entertainment,kahaani,"Distributed by Shemaroo Entertainment, the DVD of Kahaani was released across all regions in a one-disc pack.",e840cc6597bf4eb08a36c0ef63a839a1,,4
+kahaani,critical acclaim,The film Kahaani received critical acclaim.,898323a352be40b9a30d937dd6307248,,4
+review gang,rating of 7.5 out of 10,"According to review aggregator Review Gang, the film received a rating of 7.5 out of 10.",898323a352be40b9a30d937dd6307248,,4
+vidya,acting,Taran Adarsh of Bollywood Hungama gave the film 4 out of 5 stars and praised Vidya's acting.,898323a352be40b9a30d937dd6307248,,4
+vidya,displaying more 'male ornaments' than most heroes,"The Times of India commented ""Once again, a 'pregnant' Vidya, ironically displays more 'male ornaments' ... than most heroes."" ",898323a352be40b9a30d937dd6307248,,4
+script,strong points of the film,"The reviews in Rediff, Indo Asian News Service, CNN-IBN, Zee News, Hindustan Times, and The Hindu were unanimously positive, and noted script, direction, cinematography, and acting as strong points of the film.",898323a352be40b9a30d937dd6307248,,4
+direction,strong points of the film,"The reviews in Rediff, Indo Asian News Service, CNN-IBN, Zee News, Hindustan Times, and The Hindu were unanimously positive, and noted script, direction, cinematography, and acting as strong points of the film.",898323a352be40b9a30d937dd6307248,,4
+cinematography,strong points of the film,"The reviews in Rediff, Indo Asian News Service, CNN-IBN, Zee News, Hindustan Times, and The Hindu were unanimously positive, and noted script, direction, cinematography, and acting as strong points of the film.",898323a352be40b9a30d937dd6307248,,4
+shabana azmi,lauded vidya for her performance,Noted film actress and multiple National Award winner Shabana Azmi lauded Vidya for her performance.,898323a352be40b9a30d937dd6307248,,4
+russell edwards,reviewer for variety,"Praised the cast, cinematography, and direction, and commented that despite occasional glitches, the ""adroit thriller ... maintains momentum and credibility."" ",898323a352be40b9a30d937dd6307248,,4
+credibility,maintains momentum,"Russell Edwards, the reviewer for Variety, praised the cast, cinematography, and direction, and commented that despite occasional glitches, the ""adroit thriller ... maintains momentum and credibility."" ",898323a352be40b9a30d937dd6307248,,4
+ludicrous terrorist angle,general style of the film,critics felt that it deviated from,c624471e073e4a8abb713515116d1014,,4
+durga metaphor at the end,general style of the film,reviewers noted that it was enforced,c624471e073e4a8abb713515116d1014,,4
+bengali stereotypes,general style of the film,critics commented on over-indulgence in,c624471e073e4a8abb713515116d1014,,4
+spoon-feeding of reasons at the end,intrigue factor,dampens,c624471e073e4a8abb713515116d1014,,4
+handheld photography,sometimes-handheld photography,Gautaman Bhaskaran noted that it was 'as irksome as the plot with a sleuth too many and cops galore.',c624471e073e4a8abb713515116d1014,,4
+apologetic explanation of why she does what she does,sobfest,follows,c624471e073e4a8abb713515116d1014,,4
+kahaani,series,"In March 2012, Sujoy Ghosh announced his intention to develop Kahaani into a series, inspired by Satyajit Ray's Feluda detective series and wanting to continue the stories of Vidya Bagchi on similar lines.",b826c1164e5c45b2b4af628db2483065,,4
+vidya balan,vidya bagchi,"Kahaani's protagonist, portrayed by Vidya Balan, is named Vidya Bagchi.",b826c1164e5c45b2b4af628db2483065,,4
+sujoy ghosh,kahaani 2,"In February 2014, Vidya announced that the sequel was not happening due to differences between Sujoy Ghosh and other co-producers. However, two years later, Ghosh confirmed that the film, entitled Kahaani 2, was in pre-production with Vidya set to reprise her role.",b826c1164e5c45b2b4af628db2483065,,4
+vidya balan,kahaani 2,"In the sequel of Kahaani, entitled Kahaani 2, Vidya Balan reprised her role.",b826c1164e5c45b2b4af628db2483065,,4
+arjun rampal,kahaani 2,"In Kahaani 2, Arjun Rampal played the lead role opposite Vidya Balan.",b826c1164e5c45b2b4af628db2483065,,4
+bob biswas,abhishek bachchan,"Bob Biswas is a spin-off to Kahaani, featuring Abhishek Bachchan as Bob Biswas and Chitrangada Singh as his wife.",b826c1164e5c45b2b4af628db2483065,,4
+diya annapurna ghosh,bob biswas,"Bob Biswas is the directorial debut of Diya Annapurna Ghosh, daughter of Sujoy Ghosh who directed Kahaani.",b826c1164e5c45b2b4af628db2483065,,4

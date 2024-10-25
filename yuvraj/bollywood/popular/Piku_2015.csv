@@ -1,0 +1,106 @@
+node_1,node_2,edge,chunk_id,count
+piku,shoojit sircar,Shoojit Sircar directed the Indian Hindi-language comedy drama film Piku in 2015.,b9876bf82af94fa99d3da75328d4f030,4
+piku,n. p. singh,N. P. Singh produced the Indian Hindi-language comedy drama film Piku in 2015 along with Ronnie Lahiri and Sneha Rajani.,b9876bf82af94fa99d3da75328d4f030,4
+piku,amitabh bachchan,Amitabh Bachchan acted in the Indian Hindi-language comedy drama film Piku in 2015 alongside Deepika Padukone and Irrfan Khan.,b9876bf82af94fa99d3da75328d4f030,4
+piku,deepika padukone,Deepika Padukone acted in the Indian Hindi-language comedy drama film Piku in 2015 alongside Amitabh Bachchan and Irrfan Khan.,b9876bf82af94fa99d3da75328d4f030,4
+piku,irrfan khan,Irrfan Khan acted in the Indian Hindi-language comedy drama film Piku in 2015 alongside Amitabh Bachchan and Deepika Padukone.,b9876bf82af94fa99d3da75328d4f030,4
+piku,moushumi chatterjee,Moushumi Chatterjee appeared in a pivotal role in the Indian Hindi-language comedy drama film Piku in 2015.,b9876bf82af94fa99d3da75328d4f030,4
+piku,jisshu sengupta,Jisshu Sengupta appeared in a pivotal role in the Indian Hindi-language comedy drama film Piku in 2015.,b9876bf82af94fa99d3da75328d4f030,4
+piku,raghubir yadav,Raghubir Yadav appeared in a pivotal role in the Indian Hindi-language comedy drama film Piku in 2015.,b9876bf82af94fa99d3da75328d4f030,4
+piku,anupam roy,Anupam Roy composed music and wrote lyrics for the Indian Hindi-language comedy drama film Piku in 2015.,b9876bf82af94fa99d3da75328d4f030,4
+piku,juhi chaturvedi,Juhi Chaturvedi wrote the script for the Indian Hindi-language comedy drama film Piku in 2015.,b9876bf82af94fa99d3da75328d4f030,4
+piku,61st filmfare awards,The Indian Hindi-language comedy drama film Piku received 8 nominations at the 61st Filmfare Awards in 2015.,b9876bf82af94fa99d3da75328d4f030,4
+piku,best film,The Indian Hindi-language comedy drama film Piku was nominated for Best Film at the 61st Filmfare Awards in 2015.,b9876bf82af94fa99d3da75328d4f030,4
+piku,best director,"Shoojit Sircar, the director of the Indian Hindi-language comedy drama film Piku, was nominated for Best Director at the 61st Filmfare Awards in 2015.",b9876bf82af94fa99d3da75328d4f030,4
+piku,best actor,"Amitabh Bachchan, one of the actors in the Indian Hindi-language comedy drama film Piku, was nominated for Best Actor at the 61st Filmfare Awards in 2015.",b9876bf82af94fa99d3da75328d4f030,4
+piku,best actress,"Deepika Padukone, one of the actors in the Indian Hindi-language comedy drama film Piku, won Best Actress at the 61st Filmfare Awards in 2015.",b9876bf82af94fa99d3da75328d4f030,4
+piku,best actor (critics),"Amitabh Bachchan, one of the actors in the Indian Hindi-language comedy drama film Piku, won Best Actor (Critics) at the 61st Filmfare Awards in 2015.",b9876bf82af94fa99d3da75328d4f030,4
+piku,national film award for best actor,"Amitabh Bachchan, one of the actors in the Indian Hindi-language comedy drama film Piku, won the National Film Award for Best Actor at the 63rd National Film Awards in 2015.",b9876bf82af94fa99d3da75328d4f030,4
+piku banerjee,bhashkor banerjee,father-daughter relationship,98c8060c0e1a4fd288b504360b9adda6,4
+bhashkor banerjee,chronic constipation,suffers from chronic constipation,98c8060c0e1a4fd288b504360b9adda6,4
+piku banerjee,caregiver role,takes care of Bhashkor Banerjee as he is a widower and has no spouse to take care of him,98c8060c0e1a4fd288b504360b9adda6,4
+bhashkor banerjee,hypochondriac,"is very anxious or worried about his health, especially related to digestion and bowel movements",98c8060c0e1a4fd288b504360b9adda6,4
+piku banerjee,frustration and irritability,"gets extremely irritated with Bhashkor's eccentricities, especially related to his health concerns",98c8060c0e1a4fd288b504360b9adda6,4
+bhashkor banerjee,opposition to marriage,is opposed to the institution of marriage for both himself and his daughter,98c8060c0e1a4fd288b504360b9adda6,4
+piku banerjee,late mother,"mother passed away at an unknown time, and her caregiving role has been replaced by Piku's in the absence of a spouse for Bhashkor",98c8060c0e1a4fd288b504360b9adda6,4
+chhobi maashi,marriage criticism,"criticises marriage and states that it is a low IQ decision, especially when related to taking care of elderly parents who have widowed",98c8060c0e1a4fd288b504360b9adda6,4
+chhobi maashi,prioritisation issues with daughter,"her own daughter was never a priority for her, as she married thrice",98c8060c0e1a4fd288b504360b9adda6,4
+piku,rana chaudhary,Piku is a difficult customer of Rana Chaudhary's taxi business.,2d4d56821cf94439af7dab7165cab542,4
+sayyed afroze,rana chaudhary,Sayyed Afroze is a good friend of Rana Chaudhary.,2d4d56821cf94439af7dab7165cab542,4
+piku,aniket,Piku goes on a date with Aniket.,2d4d56821cf94439af7dab7165cab542,4
+bhashkor banerjee,dr. srivastava,Bhashkor Banerjee consults Dr. Srivastava regarding his health concerns.,2d4d56821cf94439af7dab7165cab542,4
+rana chaudhary,taxi business owner,Rana Chaudhary is the owner of a taxi business.,2d4d56821cf94439af7dab7165cab542,4
+bhashkor,nabendu,relative relation between Bhashkor and Nabendu,610dd30b0dfc43c2aecae38d07858821,4
+champakunj,ancestral home,spatial relation between Champakunj and ancestral home,610dd30b0dfc43c2aecae38d07858821,4
+bhashkor,champakunj,ownership relation between Bhashkor and Champakunj,610dd30b0dfc43c2aecae38d07858821,4
+kolkata,bhashkor,destination relation between Kolkata and Bhashkor after his decision to visit Kolkata,610dd30b0dfc43c2aecae38d07858821,4
+piku,bhashkor,accompanying relation between Piku and Bhashkor due to his recent health scare,610dd30b0dfc43c2aecae38d07858821,4
+rana's taxi drivers,"piku, bhashkor","refusal relation between Rana's taxi drivers and Piku, Bhashkor due to their unwillingness to endure them",610dd30b0dfc43c2aecae38d07858821,4
+bhashkor,airplane,preference relation between Bhashkor and airplane due to his breathing problem,610dd30b0dfc43c2aecae38d07858821,4
+bhashkor,train,preference relation between Bhashkor and train due to his constipation,610dd30b0dfc43c2aecae38d07858821,4
+rana,"piku, bhashkor","personal arrival relation between Rana and Piku, Bhashkor without informing his mother and sister about the trip",610dd30b0dfc43c2aecae38d07858821,4
+bhashkor,lavatory chair,usage relation between Bhashkor and lavatory chair during the car journey,610dd30b0dfc43c2aecae38d07858821,4
+bhashkor,champakunj,Bhashkor's younger brother and sister-in-law still reside in Champakunj.,d3494e18a1f4486da401d0fb41f88243,4
+piku,rana,Piku and Rana spend time with each other in the city and gradually grow close.,d3494e18a1f4486da401d0fb41f88243,4
+piku,champakunj,Discussion about selling Champakunj.,d3494e18a1f4486da401d0fb41f88243,4
+rana,piku,Subtly hints Piku to not sell Champakunj during a discussion.,d3494e18a1f4486da401d0fb41f88243,4
+bhashkor,rana,Rana advises Bhashkor to stop his eccentricities which he eventually agrees to.,d3494e18a1f4486da401d0fb41f88243,4
+bhashkor,constipation,Bhashkor's constipation is cleared after bicycling.,d3494e18a1f4486da401d0fb41f88243,4
+bhashkor,street food,Piku berates Bhashkor for eating street food and being irresponsible.,d3494e18a1f4486da401d0fb41f88243,4
+bhashkor,rana,Remembers Rana having advised him to eat everything and not to be dependent on anyone.,d3494e18a1f4486da401d0fb41f88243,4
+bhashkor,piku,"parent-child relationship, Piku took care of her father like an ideal daughter until his death",53ee14526447499e949724dd1ef5a28e,4
+bhashkor,delhi residence,"place where Bhashkor lived before his death, renamed as 'Bhashkor Villa' in his memory by Piku",53ee14526447499e949724dd1ef5a28e,4
+bhashkor,maid,"former employee who left due to Bhashkor's tantrums, returns to work after Bhashkor's death",53ee14526447499e949724dd1ef5a28e,4
+bhashkor,constipation,health problem that Bhashkor had and was cleared on the day before his death,53ee14526447499e949724dd1ef5a28e,4
+piku,sayyed,"romantic relationship, ends after Sayyed reveals to Piku that he also has constipation and Bhashkor was aware of it for a long time",53ee14526447499e949724dd1ef5a28e,4
+rana,piku,"former business partner, Piku pays up whatever due she owes to him after her father's death and he appreciates her for having taken care of her father like an ideal daughter",53ee14526447499e949724dd1ef5a28e,4
+bhashkor,sleep apnea or cardiac arrhythmia,"likely cause of Bhashkor's death, revealed after his death by everyone who discovers it",53ee14526447499e949724dd1ef5a28e,4
+piku,shoojit sircar,"initial choices for the main cast were Parineeti Chopra, Amitabh Bachchan and Irrfan Khan for Piku role. Sircar gave them the script.",faf623a2c208470abaa1148dc71a46dc,4
+parineeti chopra,piku,"initially chose Parineeti Chopra to play the title role, but she turned down the part",faf623a2c208470abaa1148dc71a46dc,4
+deepika padukone,piku,finalised as the main cast to play Piku in mid-2014,faf623a2c208470abaa1148dc71a46dc,4
+amitabh bachchan,piku's father,essays the role of Piku's father,faf623a2c208470abaa1148dc71a46dc,4
+moushumi chatterjee,piku's maternal aunt,plays Piku's maternal aunt,faf623a2c208470abaa1148dc71a46dc,4
+jisshu sengupta,deepika padukone's character's best-friend,"early reports suggested Jisshu Sengupta was cast as the romantic lead opposite Deepika Padukone, but he plays Padukone's character's best-friend",faf623a2c208470abaa1148dc71a46dc,4
+irrfan khan,deepika padukone,plays the romantic lead opposite Deepika Padukone,faf623a2c208470abaa1148dc71a46dc,4
+delhi,piku,the film's first schedule took off in Kolkata and included indoor scenes in Delhi and Mumbai,faf623a2c208470abaa1148dc71a46dc,4
+kolkata,piku,"principal photography for Piku began in August 2014, when the film's first schedule took off in Kolkata. The second schedule of filming started on 30 October 2014 in Kolkata.",faf623a2c208470abaa1148dc71a46dc,4
+howrah bridge,piku,shooting took place at the Howrah Bridge in the city's Shyambazar neighbourhood and at Bishop Lefroy Road for Piku,faf623a2c208470abaa1148dc71a46dc,4
+delhi,gujarat (patdi near surendranagar),now shifted to Delhi and Patdi Near Surendranagar in Gujarat after completing Kolkata schedule,faf623a2c208470abaa1148dc71a46dc,4
+akshay oberoi,piku,was cast in a cameo for Piku,faf623a2c208470abaa1148dc71a46dc,4
+journey song,gujarat,"The ""Journey Song"" was shot in Gujarat.",81c9057036f3448da124f25fcb6edccf,4
+journey song,bhuj,"The ""Journey Song"" was shot in Gujarat, connecting Ahmedabad to Bhuj.",81c9057036f3448da124f25fcb6edccf,4
+gurgaon cyber hub,padukone and khan were seen filming.,Shooting in Delhi took place at Gurgaon cyber hub and city club where Padukone and Khan were seen filming.,81c9057036f3448da124f25fcb6edccf,4
+banaras,padukone and khan,Padukone and Khan shot on the ghats of Banaras under chilly conditions and attracted a crowd.,81c9057036f3448da124f25fcb6edccf,4
+cast,speak about what viewers can expect from the film.,The makers of the film released a video of day one on the sets of Piku which is called Piku Begins.,81c9057036f3448da124f25fcb6edccf,4
+deepika,revealed the poster of the film through her twitter handle.,"On 25 March 2015, as part of the promotion, Deepika revealed the poster of the film through her Twitter handle.",81c9057036f3448da124f25fcb6edccf,4
+piku,"₹2.0 crore (us$240,000)","On its opening day, Piku grossed ₹2.0 crore (US$240,000) in India.",f3ab2e19e72b4b9f9e878bf6f6a25bab,4
+piku,₹13 crore (us$1.6 million),"On Saturday, Piku earned ₹13 crore (US$1.6 million) in India.",f3ab2e19e72b4b9f9e878bf6f6a25bab,4
+piku,₹11 crore (us$1.3 million),"On Sunday, Piku earned ₹11 crore (US$1.3 million) in India.",f3ab2e19e72b4b9f9e878bf6f6a25bab,4
+piku,₹24.5 crore (us$2.9 million),Piku's domestic weekend total was ₹24.5 crore (US$2.9 million).,f3ab2e19e72b4b9f9e878bf6f6a25bab,4
+piku,over us$2 million,"Piku had the biggest opening weekend for a Hindi film of 2015, earning over US$2 million internationally.",f3ab2e19e72b4b9f9e878bf6f6a25bab,4
+box office india,₹60 crore (us$7.2 million),"Piku eventually earned ₹60 crore (US$7.2 million) at the end of its first week in India, according to Box Office India.",f3ab2e19e72b4b9f9e878bf6f6a25bab,4
+box office india,₹80 crore (us$9.6 million),Box Office India projected that the film would earn around ₹80 crore (US$9.6 million) domestically at the end of its theatrical run.,f3ab2e19e72b4b9f9e878bf6f6a25bab,4
+rotten tomatoes,89%,The movie has an approval score of 89% on Rotten Tomatoes.,f3ab2e19e72b4b9f9e878bf6f6a25bab,4
+rotten tomatoes,19 reviews,The movie has an approval score of 89% on the basis of 19 reviews on Rotten Tomatoes.,f3ab2e19e72b4b9f9e878bf6f6a25bab,4
+rotten tomatoes,7.4 out of 10,The movie has an average rating of 7.4 out of 10 on Rotten Tomatoes.,f3ab2e19e72b4b9f9e878bf6f6a25bab,4
+piku,tremendous heart,Raja Sen of Rediff.com stated that Piku is a 'film with tremendous heart',8663dde7816c4698a92b5423bfd2f5fc,4
+piku,guffaw,Raja Sen of Rediff.com mentioned guffaw while describing Piku,8663dde7816c4698a92b5423bfd2f5fc,4
+piku,tears,Raja Sen of Rediff.com stated that Piku made him 'weep',8663dde7816c4698a92b5423bfd2f5fc,4
+piku,smiling wide,Raja Sen of Rediff.com mentioned smiling wide while thinking about Piku,8663dde7816c4698a92b5423bfd2f5fc,4
+piku,sharp film,The author from The Times of India described Piku as a 'sharp film',8663dde7816c4698a92b5423bfd2f5fc,4
+piku,nuanced details,The author from The Times of India mentioned nuanced details while discussing Piku,8663dde7816c4698a92b5423bfd2f5fc,4
+piku,insightful writing,The author from The Times of India highlighted 'insightful writing' in relation to Piku,8663dde7816c4698a92b5423bfd2f5fc,4
+piku,average 7/10,Pratim D. Gupta from The Telegraph India rated Piku with an average of 7/10,8663dde7816c4698a92b5423bfd2f5fc,4
+piku,broad smile,Gayatri Sankar from Zee News stated that Piku will make you wear a 'broad smile',8663dde7816c4698a92b5423bfd2f5fc,4
+piku,must watch,Taran Adarsh from Bollywood Hungama described Piku as a 'must watch this season',8663dde7816c4698a92b5423bfd2f5fc,4
+piku,comedy,"Piku, directed by Shoojit Sircar, is a charming, unpredictable comedy that – like Sircar's Vicky Donor – mines humor from the unlikeliest of places",ce862a293eeb48679275b9008fd8552d,4
+piku,slice of life,"A slice of life that deals with the practical difficulties in loving your aging parents in a light-hearted, feel good way, Piku is a progressive piece of cinema that brings the parent back into the picture",ce862a293eeb48679275b9008fd8552d,4
+piku,realistic view of a typical indian family,"Sweta Kaushal of Hindustan Times praised the portrayal of a strong, independent female protagonist and noted on how well Sircar presents a 'realistic view of a typical Indian family'",ce862a293eeb48679275b9008fd8552d,4
+piku,delightful film,"Anupama Chopra gave 4 out of 5 stars and said 'Piku is a delightful film about very little and yet it says so much. This isn't a movie focused on reaching a destination. This is a movie about the journey, both literal and emotional'",ce862a293eeb48679275b9008fd8552d,4
+piku,feminist tone,Tanmaya Nanda of Business Standard praised the film for its feminist tone,ce862a293eeb48679275b9008fd8552d,4
+piku,unique approach in dealing with scatological humour,Tanmaya Nanda of Business Standard praised the film for its unique approach in dealing with scatological humour,ce862a293eeb48679275b9008fd8552d,4
+piku,memorably unique movie experience,Saibal Chatterjee of NDTV gave 3.5 stars out of 5 and called it a 'magnificently original film that delivers a memorably unique movie experience',ce862a293eeb48679275b9008fd8552d,4
+mainstream film,"plot-driven, high on drama rule",breaks the,498a1c2b33014e3d9da91c9fcbe491d9,4
+mainstream film,slice-of-life film,is a type of,498a1c2b33014e3d9da91c9fcbe491d9,4
+slice-of-life film,"real and evoke empathy in viewers—be they aging parents or their caregivers""","has characters, relationships and interactions that feel real and evoke empathy in viewers",498a1c2b33014e3d9da91c9fcbe491d9,4
+slice-of-life film,high on drama rule,does not follow the,498a1c2b33014e3d9da91c9fcbe491d9,4

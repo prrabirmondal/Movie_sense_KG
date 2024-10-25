@@ -1,0 +1,30 @@
+node_1,node_2,edge,chunk_id,count
+bhaiaji superhit,don lal bhaisahab dubey,"Bhaiaji Superhit is an Indian Hindi-language action comedy film featuring Don Lal Bhaisahab Dubey, who dreams of seeing himself on the big screen.",f6ad2bbfe8b647a293ebdafae0e1a7a0,4
+don lal bhaisahab dubey,goldie kapoor,"Don Lal Bhaisahab Dubey seeks the services of Goldie Kapoor, who is playing a director in this film.",f6ad2bbfe8b647a293ebdafae0e1a7a0,4
+don lal bhaisahab dubey,tarun porno ghosh,"Don Lal Bhaisahab Dubey seeks the services of Tarun Porno Ghosh, who is playing a writer in this film.",f6ad2bbfe8b647a293ebdafae0e1a7a0,4
+goldie kapoor,bhaiaji superhit,Goldie Kapoor is playing the director of Bhaiaji Superhit.,f6ad2bbfe8b647a293ebdafae0e1a7a0,4
+tarun porno ghosh,bhaiaji superhit,Tarun Porno Ghosh is playing the writer of Bhaiaji Superhit.,f6ad2bbfe8b647a293ebdafae0e1a7a0,4
+preity g zinta,don lal bhaisahab dubey's wife,Preity G Zinta plays the don's wife in Bhaiaji Superhit.,f6ad2bbfe8b647a293ebdafae0e1a7a0,4
+shreyas talpade,kapoor (initial cast),Shreyas Talpade replaced Kapoor due to schedule conflicts.,f6ad2bbfe8b647a293ebdafae0e1a7a0,4
+side.,context,containment relation,085b4d795af044e7860fe6c460aba8b8,4
+shreyas talpade,kapoor,replacement relation,085b4d795af044e7860fe6c460aba8b8,4
+zinta,production,participation relation,085b4d795af044e7860fe6c460aba8b8,4
+zinta,don's wife,role relation,085b4d795af044e7860fe6c460aba8b8,4
+dhariwal,deol,dispute relation,085b4d795af044e7860fe6c460aba8b8,4
+dharival,verma,consultation relation,085b4d795af044e7860fe6c460aba8b8,4
+kharaj mukherjee,police inspector role,role and association relation,085b4d795af044e7860fe6c460aba8b8,4
+evelyn sharma,hindi language learning,cause-effect relation,085b4d795af044e7860fe6c460aba8b8,4
+deol,double role,role relation,085b4d795af044e7860fe6c460aba8b8,4
+context,stalled project for 4 years,temporal relation,085b4d795af044e7860fe6c460aba8b8,4
+context,resumed filming in july 2015,temporal relation,085b4d795af044e7860fe6c460aba8b8,4
+context,scheduled for release in october 2018,temporal relation,085b4d795af044e7860fe6c460aba8b8,4
+context,"composed by jeet gannguli, raghav sachar, amjad nadeem, sanjeev–darshan and neerraj pathak",composition relation,085b4d795af044e7860fe6c460aba8b8,4
+context,"written by amjad nadeem, shabbir ahmed, kumaar,",writing relation,085b4d795af044e7860fe6c460aba8b8,4
+aamir khan,producer,"Aamir Khan, who is known for his acting skills in the Indian film industry, has also ventured into producing films. 'Talaash' is one such movie produced by him along with Aditya Dev and Chandan Saxena.",511b53497d454643b1371ecc9e03e5db,4
+aditya dev,producer,"Aditya Dev, who has established himself as a renowned actor in Bollywood, has also tried his hand at producing movies. 'Talaash' is one of the films produced by him along with Aamir Khan and Chandan Saxena.",511b53497d454643b1371ecc9e03e5db,4
+chandan saxena,producer,"Chandan Saxena, who has worked in various capacities in the film industry, including acting and directing, has now turned producer. 'Talaash' is one of the movies produced by him along with Aamir Khan and Aditya Dev.",511b53497d454643b1371ecc9e03e5db,4
+amjad nadeem,lyricist,"Amjad Nadeem is a prominent lyricist in the Hindi film industry. He has written the lyrics for some of the songs in 'Talaash' along with Shabbir Ahmed, Kumaar, Neerraj Pathak and Sanjeev Chaturvedi.",511b53497d454643b1371ecc9e03e5db,4
+shabbir ahmed,lyricist,"Shabbir Ahmed is a renowned lyricist who has written the lyrics for many popular songs in Bollywood. He has also contributed to the lyrics of 'Talaash' along with Amjad Nadeem, Kumaar, Neerraj Pathak and Sanjeev Chaturvedi.",511b53497d454643b1371ecc9e03e5db,4
+kumaar,lyricist,"Kumaar is a well-known lyricist in the Indian film industry. He has written the lyrics for many hit songs and has also contributed to the lyrics of 'Talaash' along with Amjad Nadeem, Shabbir Ahmed, Neerraj Pathak and Sanjeev Chaturvedi.",511b53497d454643b1371ecc9e03e5db,4
+neerraj pathak,lyricist,"Neerraj Pathak is an upcoming lyricist who has worked on the lyrics of 'Talaash' along with Amjad Nadeem, Shabbir Ahmed, Kumaar and Sanjeev Chaturvedi.",511b53497d454643b1371ecc9e03e5db,4
+sanjeev chaturvedi,lyricist,"Sanjeev Chaturvedi is a new name in the world of lyricists. He has contributed to the lyrics of 'Talaash' alongside Amjad Nadeem, Shabbir Ahmed, Kumaar and Neerraj Pathak.",511b53497d454643b1371ecc9e03e5db,4

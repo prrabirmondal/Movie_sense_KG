@@ -1,0 +1,59 @@
+node_1,node_2,edge,chunk_id,edge1,edge2,count
+hot pursuit,american,Hot Pursuit is an American action comedy film directed by Anne Fletcher and distributed by Warner Bros. Pictures.,297a6600deac47b2a406e436a846a245,,,4
+anne fletcher,director,"Anne Fletcher is the director of Hot Pursuit, an American action comedy film.",297a6600deac47b2a406e436a846a245,,,4
+warner bros. pictures,distributor,Hot Pursuit is distributed by Warner Bros. Pictures.,297a6600deac47b2a406e436a846a245,,,4
+reese witherspoon,actress,"Reese Witherspoon stars in Hot Pursuit, an American action comedy film.",297a6600deac47b2a406e436a846a245,,,4
+sofía vergara,actress,"Sofía Vergara also stars in Hot Pursuit, an American action comedy film.",297a6600deac47b2a406e436a846a245,,,4
+san antonio,location,Rose Cooper is a San Antonio Police Department officer whose work ethic is too intense.,297a6600deac47b2a406e436a846a245,,,4
+san antonio police department,organization,Rose Cooper is a member of the San Antonio Police Department.,297a6600deac47b2a406e436a846a245,,,4
+police officer,job title,Rose Cooper is a Police Officer.,297a6600deac47b2a406e436a846a245,,,4
+efficient,adjective,"Following an incident in which Cooper sets the mayor's son on fire by tasing him while he carried an alcoholic drink (after he yelled ""shotgun!""), her work ethic is too intense.",297a6600deac47b2a406e436a846a245,,,4
+mayor,job title,The mayor's son is referred to in the context.,297a6600deac47b2a406e436a846a245,,,4
+assassins,group of people,A pair of masked assassins and a different pair of assassins kill Jackson and Felipe while Cooper and Daniella are upstairs.,297a6600deac47b2a406e436a846a245,,,4
+marshall,job title,U.S. Marshal Jackson is protecting Felipe Riva.,297a6600deac47b2a406e436a846a245,,,4
+felipe riva,person,Felipe Riva must testify against cartel leader Vicente Cortez.,297a6600deac47b2a406e436a846a245,,,4
+cartel leader,job title,Vicente Cortez is a cartel leader who is opposed by Felipe Riva.,297a6600deac47b2a406e436a846a245,,,4
+daniella,person,"Daniella grabs one suitcase, containing many pairs of shoes, and the women flee in Riva's car.",297a6600deac47b2a406e436a846a245,,,4
+commanding officer,job title,Captain Emmett is Cooper's commanding officer.,297a6600deac47b2a406e436a846a245,,,4
+cooper,daniella,"Daniella hires men to 'kidnap' Cooper before she was escorted out of her house. Daniella and Cooper encounter each other multiple times while pursuing different agendas. Daniella reveals her intention to kill Vincente Cortez, but Cooper stops her. However, when Cooper draws a gun, Daniella tries to kill him, and Cooper shoots her husband dead.",e9d8bf5368174c8dad0f0fa3dc1cc879,,,4
+cooper,captain emmett,"Captain Emmett advises Cooper to let the FBI take care of Cortez, but Cooper ignores him. While investigating Cortez's daughter's quinceañera, Cooper discovers that Captain Emmett is working for Cortez and confronts him.",e9d8bf5368174c8dad0f0fa3dc1cc879,,,4
+cooper,assassins,Daniela is working with the assassins to murder Vincente Cortez as revenge for killing her brother. Cooper learns about Daniela's alliance with the assassins while trying to stop them.,e9d8bf5368174c8dad0f0fa3dc1cc879,,,4
+daniella,cortez,"Daniella wants to kill Cortez for killing her brother. She corners him at his daughter's quinceañera, but Cooper stops her and ultimately kills him.",e9d8bf5368174c8dad0f0fa3dc1cc879,,,4
+daniella,assassins,Daniela hires the assassins to 'kidnap' her before she was escorted out of her house. Daniela is working with the assassins to murder Vincente Cortez as revenge for killing her brother.,e9d8bf5368174c8dad0f0fa3dc1cc879,,,4
+cooper,cortez,"Cooper tries to stop Daniella from killing Cortez, but ultimately kills him in self-defense.",e9d8bf5368174c8dad0f0fa3dc1cc879,,,4
+emmett,cooper,"Captain Emmett advises Cooper to let the FBI take care of Cortez, but Cooper ignores him. While investigating Cortez's daughter's quinceañera, Cooper discovers that Captain Emmett is working for Cortez and confronts him.",e9d8bf5368174c8dad0f0fa3dc1cc879,,,4
+daniella,assassins,"The assassins try to stop Daniella from revealing their alliance with her, but ultimately fail.",e9d8bf5368174c8dad0f0fa3dc1cc879,,,4
+daniella,cortez,Daniella corners Cortez and reveals her intentions to kill him.,a523ae1587d741b598720b1c142c4821,,,4
+cooper,daniella,Cooper arrives and stops Daniella.,a523ae1587d741b598720b1c142c4821,Cooper draws a gun and Cooper shoots him dead.,,4
+cooper (3 months later),daniella,She surprises Daniella with her old pairs of very valuable shoes.,a523ae1587d741b598720b1c142c4821,Randy is in the car with her.,,4
+cooper (3 months later),daniella,Daniella likes Cooper's new 'wild side',a523ae1587d741b598720b1c142c4821,,They drive off together.,4
+hot pursuit,box office,Hot Pursuit grossed $34.6 million in the US and Canada.,a523ae1587d741b598720b1c142c4821,,,4
+hot pursuit,box office (other territories),Hot Pursuit grossed $16.9 million in other territories.,a523ae1587d741b598720b1c142c4821,,,4
+hot pursuit,worldwide total,Hot Pursuit grossed $51.5 million worldwide.,a523ae1587d741b598720b1c142c4821,,,4
+hot pursuit,"may 8, 2015","Hot Pursuit released in theaters on May 8, 2015.",a523ae1587d741b598720b1c142c4821,,,4
+hot pursuit,"july 28, 2015","It was then released on Digital Download on July 28, 2015.",a523ae1587d741b598720b1c142c4821,,,4
+hot pursuit,"august 11, 2015","The DVD and Blu-ray were released on August 11, 2015.",a523ae1587d741b598720b1c142c4821,,,4
+hot pursuit,"february 12, 2015","The film's first trailer was released on February 12, 2015.",a523ae1587d741b598720b1c142c4821,,,4
+hot pursuit,"may 12, 2014","Principal photography began on May 12, 2014 in New Orleans, Louisiana.",a523ae1587d741b598720b1c142c4821,,,4
+hot pursuit,avengers: age of ultron,"In its opening weekend, the film grossed $13.9 million, finishing second at the box office behind Avengers: Age of Ultron.",a523ae1587d741b598720b1c142c4821,,,4
+hot pursuit,approval rating,"Hot Pursuit has an approval rating of 8% based on 179 reviews, with an average rating of 3.17/10.",5a2bdce234fa4103b358f3566ec9bae4,,,4
+hot pursuit,critical consensus,"The website's critical consensus reads, ""Shrill and unfunny, Hot Pursuit bungles what should have been an easy opportunity to showcase Reese Witherspoon and Sofia Vergara's likable odd-couple chemistry."" ",5a2bdce234fa4103b358f3566ec9bae4,,,4
+rotten tomatoes,hot pursuit,"On Rotten Tomatoes, Hot Pursuit has an approval rating of 8% based on 179 reviews, with an average rating of 3.17/10.",5a2bdce234fa4103b358f3566ec9bae4,,,4
+reese witherspoon,choice movie actress: comedy,"Reese Witherspoon received a nomination at the Teen Choice Awards for performances in this film, for Choice Movie Actress: Comedy.",5a2bdce234fa4103b358f3566ec9bae4,,,4
+reese witherspoon,choice movie: hissy fit,"Reese Witherspoon received a nomination at the Teen Choice Awards for performances in this film, for Choice Movie: Hissy Fit.",5a2bdce234fa4103b358f3566ec9bae4,,,4
+sofía vergara,choice movie actress: comedy,"Actresses received four nominations at the Teen Choice Awards for performances in this film. Sofía Vergara received a nomination, for Choice Movie Actress: Comedy.",5a2bdce234fa4103b358f3566ec9bae4,,,4
+sofía vergara,choice movie: hissy fit,"Actresses received four nominations at the Teen Choice Awards for performances in this film. Sofía Vergara received a nomination, for Choice Movie: Hissy Fit.",5a2bdce234fa4103b358f3566ec9bae4,,,4
+reese witherspoon,sofía vergara,"Reese Witherspoon and Sofía Vergara also received two nominations as a pair, for Choice Movie: Chemistry and Choice Movie: Liplock.",5a2bdce234fa4103b358f3566ec9bae4,,,4
+choice movie: chemistry,hot pursuit,"Actresses received four nominations at the Teen Choice Awards for performances in this film. Reese Witherspoon and Sofía Vergara also received two nominations as a pair, for Choice Movie: Chemistry.",5a2bdce234fa4103b358f3566ec9bae4,,,4
+choice movie: liplock,hot pursuit,"Actresses received four nominations at the Teen Choice Awards for performances in this film. Reese Witherspoon and Sofía Vergara also received two nominations as a pair, for Choice Movie: Liplock.",5a2bdce234fa4103b358f3566ec9bae4,,,4
+choice movie: chemistry,reese witherspoon,"Actresses received four nominations at the Teen Choice Awards for performances in this film. Reese Witherspoon and Sofía Vergara also received two nominations as a pair, for Choice Movie: Chemistry.",5a2bdce234fa4103b358f3566ec9bae4,,,4
+choice movie: liplock,reese witherspoon,"Actresses received four nominations at the Teen Choice Awards for performances in this film. Reese Witherspoon and Sofía Vergara also received two nominations as a pair, for Choice Movie: Liplock.",5a2bdce234fa4103b358f3566ec9bae4,,,4
+choice movie: liplock,sofía vergara,"Actresses received four nominations at the Teen Choice Awards for performances in this film. Reese Witherspoon and Sofía Vergara also received two nominations as a pair, for Choice Movie: Liplock.",5a2bdce234fa4103b358f3566ec9bae4,,,4
+peter travers,hot pursuit,"Peter Travers of Rolling Stone gave it 1 out of 4 stars and wrote: ""It’s all stupefyingly unfunny. Hot Pursuit is one hot mess.""",5a2bdce234fa4103b358f3566ec9bae4,,,4
+richard roeper,hot pursuit,"Richard Roeper of the Chicago Sun-Times called it ""proof two females can make a bickering-opposites-action-comedy that’s just as lousy and sour as any clunker starring two guys."" ",5a2bdce234fa4103b358f3566ec9bae4,,,4
+stephanie zacharek,hot pursuit,"Actresses received four nominations at the Teen Choice Awards for performances in this film. Stephanie Zacharek wrote: ""Hot Pursuit is one hot mess.""",5a2bdce234fa4103b358f3566ec9bae4,,,4
+stephanie zacharek,choice movie: liplock,"Actresses received four nominations at the Teen Choice Awards for performances in this film. Stephanie Zacharek wrote: ""Hot Pursuit is one hot mess.""",5a2bdce234fa4103b358f3566ec9bae4,,,4
+stephanie zacharek,choice movie: hissy fit,"Actresses received four nominations at the Teen Choice Awards for performances in this film. Stephanie Zacharek wrote: ""Hot Pursuit is one hot mess.""",5a2bdce234fa4103b358f3566ec9bae4,,,4
+stephanie zacharek,choice movie: chemistry,"Actresses received four nominations at the Teen Choice Awards for performances in this film. Stephanie Zacharek wrote: ""Hot Pursuit is one hot mess.""",5a2bdce234fa4103b358f3566ec9bae4,,,4
+stephanie zacharek,choice movie: comedy,"Actresses received four nominations at the Teen Choice Awards for performances in this film. Stephanie Zacharek wrote: ""Hot Pursuit is one hot mess.""",5a2bdce234fa4103b358f3566ec9bae4,,,4
+metacritic,hot pursuit,"""Hot Pursuit"" currently holds a score of 41 out of 100 on Metacritic.",5a2bdce234fa4103b358f3566ec9bae4,,,4

@@ -1,0 +1,100 @@
+node_1,node_2,edge,chunk_id,count
+ssp vikram,vedha betal,opponent,7c781cd3c4e24529962e9a55673f34af,4
+ssp abbas,encounter unit,leads,7c781cd3c4e24529962e9a55673f34af,4
+encounter unit,ssp vikram,part of,7c781cd3c4e24529962e9a55673f34af,4
+vikram's best friend ssp abbas,encounter unit,related to,7c781cd3c4e24529962e9a55673f34af,4
+parshuram pandey,vedha betal,boss-subordinate,7c781cd3c4e24529962e9a55673f34af,4
+babloo,shatak,forcer to commit crime,7c781cd3c4e24529962e9a55673f34af,4
+ssp vikram,chor-chor,related to,7c781cd3c4e24529962e9a55673f34af,4
+vedha,babloo,"Relationship between Vedha and Babloo is unknown, but Vedha asks if she should kill Babloo or Shiv Prasad",add68127afc44de0a1f8ee9be190931c,4
+vedha,shiv prasad,Vedha implies that she killed Shiv Prasad,add68127afc44de0a1f8ee9be190931c,4
+shiv prasad,culprit,Shiv Prasad was the real culprit,add68127afc44de0a1f8ee9be190931c,4
+vikram,priya,Vikram's wife Priya intervenes and bails Vedha out,add68127afc44de0a1f8ee9be190931c,4
+shatak,unarmed criminal,The unarmed criminal framed by them for avoiding inquiry was actually Shatak based on the mark in his hand,add68127afc44de0a1f8ee9be190931c,4
+vikram,abbas,"Worried that Vedha might try to kill Abbas out of revenge, Vikram rushes to save Abbas, but finds him and Chanda shot dead",add68127afc44de0a1f8ee9be190931c,4
+ig,botted encounter,The IG dismisses it as a botched encounter,add68127afc44de0a1f8ee9be190931c,4
+vikram,priya,Priya refuses to divulge Vedha's whereabouts to Vikram,add68127afc44de0a1f8ee9be190931c,4
+shatak,vedha,Offers to launder Vedha's income by investing it in shares,add68127afc44de0a1f8ee9be190931c,4
+pandey,shatak,"Invested ₹1 crore (US$120,000) in this venture",add68127afc44de0a1f8ee9be190931c,4
+chanda,money,Chanda steals the money to start a new life but comes back because she loves Shatak,add68127afc44de0a1f8ee9be190931c,4
+pandey,chanda,Orders Vedha to kill Chanda,add68127afc44de0a1f8ee9be190931c,4
+vikram,pandey,"Pandey gives Vikram an order, Vikram has to decide whether to respect or disobey",d1d8e271a8974c96961f4d0c0033a01c,4
+vikram,shatak,"Vikram decides to support Shatak instead of following Pandey's order, causing Vikram to stumble momentarily",d1d8e271a8974c96961f4d0c0033a01c,4
+vedha,pandey,Pandey is respected by Vedha,d1d8e271a8974c96961f4d0c0033a01c,4
+shatak,innocence,Realizing Shatak's innocence causes Vikram to stumble momentarily,d1d8e271a8974c96961f4d0c0033a01c,4
+vedha,shatak,"Vedha attacks and subdues Shatak to escape, but tells him to investigate Shatak's and Abbas's deaths",d1d8e271a8974c96961f4d0c0033a01c,4
+abbas' informant,shatak's hideout,Led Vikram's unit to Shatak's hideout,d1d8e271a8974c96961f4d0c0033a01c,4
+informer,dead,The informer is killed during the investigation,d1d8e271a8974c96961f4d0c0033a01c,4
+vikram,gang leader from vedha's story,"Vikram apprehends and fights the gang leader, but the gang leader almost kills Vikram before being killed by Deepak",d1d8e271a8974c96961f4d0c0033a01c,4
+babloo,encounter,Babloo is behind Abbas' encounter,d1d8e271a8974c96961f4d0c0033a01c,4
+vikram,frustrated,Vikram is frustrated on being unable to determine Abbas' killer,d1d8e271a8974c96961f4d0c0033a01c,4
+vedha,babloo,Brings Babloo to an abandoned factory,d1d8e271a8974c96961f4d0c0033a01c,4
+vikram,vedha,"Meets Vedha at his restaurant, who kills Babloo",d1d8e271a8974c96961f4d0c0033a01c,4
+marijuana,cigar,The cigarette is filled with marijuana instead of tobacco in Babloo's cigar,d1d8e271a8974c96961f4d0c0033a01c,4
+vedha,babloo,"feud, targeted and eliminated by cops (except Pandey's men)",7e67e83e5ac54050ae2e348145527746,4
+sanki,abbas,"chase, intercepted",7e67e83e5ac54050ae2e348145527746,4
+vikram,babloo,"unit bribed by Babloo, intended abduction to lure Shatak and Vedha out of hiding",7e67e83e5ac54050ae2e348145527746,4
+abbas,chanda,saved by Abbas but killed by unit,7e67e83e5ac54050ae2e348145527746,4
+vedha,vikram,"escape, standoff between Vedha and Vikram (criminal vs heroic action)",7e67e83e5ac54050ae2e348145527746,4
+aamir,hrithik roshan,"After production delays due to the COVID-19 pandemic, during which the writers also re-worked the script, Aamir left the project and was shortly thereafter replaced by Hrithik Roshan.",245e48c253d44ee1921fcf7d81317bc4,4
+vedha,hrithik roshan,"In Saif's upcoming movie, Vedha is from Kanpur and Roshan decided to speak with an Awadhi accent while playing the character.",245e48c253d44ee1921fcf7d81317bc4,4
+saif,hrithik roshan,This would mark the second time Saif and Roshan share screen space after Na Tum Jaano Na Hum.,245e48c253d44ee1921fcf7d81317bc4,4
+radhika apte,vikram's lawyer wife,"In July, Radhika Apte was cast as Vikram's lawyer wife in the movie.",245e48c253d44ee1921fcf7d81317bc4,4
+rohit saraf,vedha's brother,"In August, Rohit Saraf signed on to play Vedha's brother in the movie.",245e48c253d44ee1921fcf7d81317bc4,4
+sharib hashmi,babloo,"By November 2021, Sharib Hashmi was confirmed to be in the film as Babloo.",245e48c253d44ee1921fcf7d81317bc4,4
+yogita bihani,chanda,"In March 2022, Yogita Bihani was chosen to play Chanda in the movie.",245e48c253d44ee1921fcf7d81317bc4,4
+principal photography,february 2021,"Initially planned to begin in February 2021, but the actual start of principal photography was affected by cast changes.",48970411941045fe93d5f231984a43c0,4
+principal photography,june 2021,"After Roshan replaced Aamir Khan, it was planned to begin in June 2021, but the actual start of principal photography was affected by logistical reasons.",48970411941045fe93d5f231984a43c0,4
+abu dhabi,united arab emirates (uae),"The first schedule for the movie was held in Abu Dhabi, UAE, due to infrastructure requirements and health protocols.",48970411941045fe93d5f231984a43c0,4
+lucknow,abu dhabi,"To resemble Lucknow, sets originally built for Tiger Zinda Hai were reworked by Vikram Vedha's crew in Abu Dhabi.",48970411941045fe93d5f231984a43c0,4
+kanpur,abu dhabi,Sets for Kanpur were also created in Abu Dhabi for the movie.,48970411941045fe93d5f231984a43c0,4
+reliance entertainment,actors,"The film's shooting locations and budgetary decisions are not controlled by actors, as explained by Reliance Entertainment.",48970411941045fe93d5f231984a43c0,4
+saif ali khan,lucknow,Saif Ali Khan finished his portions of the schedule in Lucknow during the second schedule.,48970411941045fe93d5f231984a43c0,4
+roshan,aamir khan,Roshan replaced Aamir Khan for principal photography due to unknown reasons.,48970411941045fe93d5f231984a43c0,4
+vikram vedha,film,"The songs featured in the film are composed by Vishal–Shekhar and Sam C. S., the latter who scored the original Tamil film.",24a687164fc64bfbb46a162128986011,4
+vikram vedha,release,"Vikram Vedha was theatrically released worldwide on 30 September 2022, during the Navratri, Gandhi Jayanti and pre-Dussehra occasions.",24a687164fc64bfbb46a162128986011,4
+vikram vedha,copyright protection,"Ahead of the release, Reliance Entertainment obtained a wide-ranging injunction from the Madras High Court to protect the film's copyright.",24a687164fc64bfbb46a162128986011,4
+vikram vedha,composer,The songs featured in the film are composed by Vishal–Shekhar and Sam C. S.,24a687164fc64bfbb46a162128986011,4
+alcoholia,first single,"The first single 'Alcoholia' was released on 17 September 2022,",24a687164fc64bfbb46a162128986011,4
+bande,second single,The second single 'Bande' on 26 September 2022.,24a687164fc64bfbb46a162128986011,4
+alcoholia,arranger,The songs 'Alcoholia' and 'Oo Saahiba' are arranged and produced by music producer Meghdeep Bose.,24a687164fc64bfbb46a162128986011,4
+vikram vedha,teaser trailer,The film's teaser trailer was released on 24 August 2022.,24a687164fc64bfbb46a162128986011,4
+vikram vedha,injunction,Reliance Entertainment obtained a wide-ranging injunction from the Madras High Court to protect the film's copyright.,24a687164fc64bfbb46a162128986011,4
+vikram vedha,blocking,"Indian internet service providers were ordered by the court to preemptively block over 13,000 websites that Reliance believed were likely to host illegal copies of the film based on their histories of 'non-compliant' operations, even before it was publicly released.",24a687164fc64bfbb46a162128986011,4
+vikram vedha,premiered,The film premiered on JioCinema on 12 May 2023 in Hindi and dubbed versions of Bengali and Marathi languages.,24a687164fc64bfbb46a162128986011,4
+vikram vedha,teaser trailer,"The film's teaser trailer was released on 24 August 2022, and it received over one million likes in less than 24 hours.",24a687164fc64bfbb46a162128986011,4
+vikram vedha,composer,The film score too is composed by Sam.,24a687164fc64bfbb46a162128986011,4
+manoj muntashir,lyrics writer,All lyrics are written by Manoj Muntashir.,24a687164fc64bfbb46a162128986011,4
+vikram vedha,jiocinema,The film premiered on JioCinema on 12 May 2023 in Hindi and dubbed versions of Bengali and Marathi languages.,c62461e257924c28b113d72748ca2bb8,4
+vikram vedha,₹79 crore (us$9.5 million),"As of 9 November 2022, the film grossed over ₹79 crore (US$9.5 million) in India for a worldwide gross collection of over ₹135.03 crore (US$16 million).",c62461e257924c28b113d72748ca2bb8,4
+vikram vedha,ponniyin selvan: i,"The film underperformed at the box office, which Ganesh Aaglave of Firstpost attributed to audiences possibly having seen the original Tamil film with subtitles or its dubbed Hindi version, while Kusumika Das of Zoom believes it was due to a box office clash with Ponniyin Selvan: I.",c62461e257924c28b113d72748ca2bb8,4
+vikram vedha,positive reviews,Received positive reviews from critics and audience.,c62461e257924c28b113d72748ca2bb8,4
+vikram vedha,rotten tomatoes,"On the review aggregator website Rotten Tomatoes, 78% of 18 critics' reviews are positive, with an average rating of 6.7/10.",c62461e257924c28b113d72748ca2bb8,4
+vikram vedha,brilliant massy fare,"Vikram Vedha is a brilliant massy fare that works due to the strong writing, unpredictable moments, Hrithik Roshan and Saif Ali Khan's outstanding performances and the electrifying background score",5d3d858d4db14cbd89fc36c9ecc687c0,4
+4 out of 5 stars,bollywood hungama,Bollywood Hungama rated the film 4 out of 5 stars,5d3d858d4db14cbd89fc36c9ecc687c0,4
+sanchita jhunjhunwala,times now,"Sanchita Jhunjhunwala of Times Now rated the film 4 out of 5 stars and wrote ""There are ample of highs in the movie, including the narrative that builds up, the setting that the makers have put together, and the so many characters involved. The film boasts of some absolutely mind-blowing shots, and due credits to the director duo for the same""",5d3d858d4db14cbd89fc36c9ecc687c0,4
+tushar joshi,india today,"Tushar Joshi of India Today rated the film 3.5 out of 5 stars and wrote ""Vikram Vedha is unapologetically massy. It's also a lot of fun, and with two rock-solid performers like Hrithik and Saif""",5d3d858d4db14cbd89fc36c9ecc687c0,4
+rachana dubey,the times of india,"Rachana Dubey of The Times of India rated the film 3.5 out of 5 stars and wrote ""Hrithik is menacing, ruthless and extremely emotional in parts. Pushkar-Gayathri, have pretty much stuck to the blue-print they created for the original, It's a plus that they haven't changed the roadmap too much""",5d3d858d4db14cbd89fc36c9ecc687c0,4
+dishya sharma,news18,"Dishya Sharma of News18 rated the film 3.5 out of 5 stars and wrote ""Vikram Vedha is a massy film that serves as a fun single-screen theatre experience. I'd suggest caving into Pushkar and Gayathri's make-believe world and joining Vikram and Vedha's cat and mouse chase""",5d3d858d4db14cbd89fc36c9ecc687c0,4
+mugdha kapoor,dna india,"Mugdha Kapoor of DNA India rated the film 3.5 out of 5 stars and wrote ""Hrithik Roshan and Saif Ali Khan""",5d3d858d4db14cbd89fc36c9ecc687c0,4
+vikram vedha,mass entertainer,the film Vikram Vedha is described as a mass entertainer by Ritika Handoo of Zee News.,938c88d83d89427598bbd7147443f595,4
+vikram vedha,complete masala entertainer,Mahpara Kabir of ABP News labels the film Vikram Vedha as a complete masala entertainer.,938c88d83d89427598bbd7147443f595,4
+vikram vedha,thriving in high-octane action,Mahpara Kabir of ABP News mentions that the film Vikram Vedha thrives in high-octane action.,938c88d83d89427598bbd7147443f595,4
+vikram vedha,delight to watch hrithik roshan and saif ali khan on the big screen after a long time,Mahpara Kabir of ABP News describes Vikram Vedha as a delight to watch Hrithik Roshan and Saif Ali Khan on the big screen after a long time.,938c88d83d89427598bbd7147443f595,4
+vikram vedha,"balance of visuals, story and performances","Sanyukta Thakare of Mashable mentions the rare balance of visuals, story and performances in Vikram Vedha.",938c88d83d89427598bbd7147443f595,4
+mass entertainer,complete masala entertainer,"In the given context, 'mass entertainer' and 'complete masala entertainer' are used interchangeably by Mahpara Kabir of ABP News to describe Vikram Vedha.",938c88d83d89427598bbd7147443f595,4
+vikram vedha,screenplay and superstar in perfect tandem,Sukanya Verma of Rediff.com explains that the film Vikram Vedha has a screenplay and superstar (Hrithik Roshan) in perfect tandem.,938c88d83d89427598bbd7147443f595,4
+vikram vedha,self-assured presence,Stutee Ghosh of The Quint highlights the self-assured presence of both Hrithik Roshan and Saif Ali Khan in Vikram Vedha.,938c88d83d89427598bbd7147443f595,4
+vikram vedha,pitchy camerawork,Ritika Handoo of Zee News mentions the pithy camerawork in Vikram Vedha.,938c88d83d89427598bbd7147443f595,4
+vikram vedha,holding the pulse of the leading lines in his frames,Ritika Handoo of Zee News mentions that the cinematographer P.S. Vinod holds the pulse of the leading lines in his frames while filming Vikram Vedha.,938c88d83d89427598bbd7147443f595,4
+vikram,saif ali khan,"Saif Ali Khan delivers a convincing performance as Vikram, making him a better fit for the character.",81a35f2eaa004cac9e4d3be012a724be,4
+vedha,hrithik roshan,Hrithik Roshan harnesses his star appeal and screen presence to deliver a satisfactory performance as Vedha.,81a35f2eaa004cac9e4d3be012a724be,4
+compelling performances,"saif ali khan, hrithik roshan",The compelling performances of Saif Ali Khan and Hrithik Roshan in the film are commendable.,81a35f2eaa004cac9e4d3be012a724be,4
+signature background score,husband-and-wife duo,"The film features a signature background score played out with the unique, layered style of the husband-and-wife duo.",81a35f2eaa004cac9e4d3be012a724be,4
+thriller,masala action flick,The film successfully balances between a thriller and a masala action flick.,81a35f2eaa004cac9e4d3be012a724be,4
+story,film,"After a long time, two top-flight stars such as Hrithik Roshan and Saif Ali Khan sink their teeth into a proper story which comes before them in the film.",81a35f2eaa004cac9e4d3be012a724be,4
+action,visuals,The film features awesome action and visuals.,81a35f2eaa004cac9e4d3be012a724be,4
+shortcomings,"length, music-choreography",The film has a few shortcomings in its length and music-choreography.,81a35f2eaa004cac9e4d3be012a724be,4
+entertainment quotient,priority,The film gives the highest priority to entertainment quotient.,81a35f2eaa004cac9e4d3be012a724be,4
+vikram vedha,tamil original,Retains the swag of the Tamil original,74d7e8f5cdfd40faad83bf473968c5a6,4
+north indian viewers,assessment of north indian viewers,Some minor changes in it are curious in what they reveal,74d7e8f5cdfd40faad83bf473968c5a6,4

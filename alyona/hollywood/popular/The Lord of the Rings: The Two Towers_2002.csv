@@ -1,0 +1,166 @@
+node_1,node_2,edge,chunk_id,node_3,count
+the two towers,the lord of the rings trilogy,The Two Towers is the second instalment in The Lord of the Rings trilogy directed by Peter Jackson.,66a32e8786504d2daa88e516b2a2b3af,,4
+elijah wood,frodo,"Elijah Wood portrays Frodo, one of the main characters in The Lord of the Rings trilogy.",66a32e8786504d2daa88e516b2a2b3af,,4
+ian mckellen,gandalf,"Ian McKellen plays Gandalf, a major character in J. R. R. Tolkien's novel The Lord of the Rings.",66a32e8786504d2daa88e516b2a2b3af,,4
+cate blanchett,queen galadriel,"Cate Blanchett portrays Queen Galadriel, an Elf ruler in J. R. R. Tolkien's legendarium.",66a32e8786504d2daa88e516b2a2b3af,,4
+viggo mortensen,aragorn,"Viggo Mortensen acts as Aragorn, a protagonist in J. R. R. Tolkien's novel The Lord of the Rings.",66a32e8786504d2daa88e516b2a2b3af,,4
+sean astin,samwise gamgee,"Sean Astin performs Samwise Gamgee, a hobbit and Frodo's loyal companion in The Lord of the Rings trilogy.",66a32e8786504d2daa88e516b2a2b3af,,4
+liv tyler,arwen undómiel,"Liv Tyler portrays Arwen Undómiel, a princess and daughter of Elrond in J. R. R. Tolkien's novels.",66a32e8786504d2daa88e516b2a2b3af,,4
+john rhys-davies,gimli,"John Rhys-Davies appears as Gimli, a dwarf character in J. R. R. Tolkien's legendarium.",66a32e8786504d2daa88e516b2a2b3af,,4
+bernard hill,théoden,"Bernard Hill portrays Théoden, the King of Rohan in The Lord of the Rings trilogy.",66a32e8786504d2daa88e516b2a2b3af,,4
+christopher lee,saruman,"Christopher Lee acts as Saruman, a wizard and antagonist in J. R. R. Tolkien's novels.",66a32e8786504d2daa88e516b2a2b3af,,4
+billy boyd,peregrin 'pippin' took,"Billy Boyd performs Peregrin 'Pippin' Took, a hobbit and friend of Frodo in The Lord of the Rings trilogy.",66a32e8786504d2daa88e516b2a2b3af,,4
+dominic monaghan,meriadoc 'merry' brandybuck,"Dominic Monaghan appears as Meriadoc 'Merry' Brandybuck, a hobbit and fellow traveler with Frodo in The Lord of the Rings trilogy.",66a32e8786504d2daa88e516b2a2b3af,,4
+orlando bloom,legolas,"Orlando Bloom acts as Legolas, an Elf archer and member of the Fellowship in J. R. R. Tolkien's novels.",66a32e8786504d2daa88e516b2a2b3af,,4
+hugo weaving,elrond,"Hugo Weaving portrays Elrond, an Elf and one of the main characters in J. R. R. Tolkien's novels.",66a32e8786504d2daa88e516b2a2b3af,,4
+miranda otto,éowyn,"Miranda Otto performs Éowyn, a shieldmaiden and Théoden's daughter in The Lord of the Rings trilogy.",66a32e8786504d2daa88e516b2a2b3af,,4
+david wenham,faramir,"David Wenham appears as Faramir, a character from J. R. R. Tolkien's novel The Lord of the Rings.",66a32e8786504d2daa88e516b2a2b3af,,4
+brad dourif,gríma wormtongue,"Brad Dourif acts as Gríma Wormtongue, Saruman's servant and advisor in J. R. R. Tolkien's novels.",66a32e8786504d2daa88e516b2a2b3af,,4
+karl urban,éomer,"Karl Urban appears as Éomer, the brother of Éowyn and Théoden's nephew in The Lord of the Rings trilogy.",66a32e8786504d2daa88e516b2a2b3af,,4
+andy serkis,gollum,"Andy Serkis plays Gollum, a character from J. R. R. Tolkien's novel The Lord of the Rings.",66a32e8786504d2daa88e516b2a2b3af,,4
+frodo baggins,gollum,"Former bearer of the One Ring, Gollum captures Frodo and Sam after they become lost in the Emyn Muil near Mordor. Frodo shows mercy towards Gollum and allows him to guide them towards Mordor.",f5fbbef21a5a4044a16877d6423ee5c2,,4
+merry,pippin,Both Merry and Pippin are captured by a band of Uruk-hai while traveling with Frodo and Sam. They escape after being ambushed by a group of Rohirrim.,f5fbbef21a5a4044a16877d6423ee5c2,,4
+aragorn,legolas,"The trio pursues a band of Uruk-hai to save their companions, Merry and Pippin, who have been captured by the Uruk-hai while traveling with Frodo and Sam.",f5fbbef21a5a4044a16877d6423ee5c2,Gimli,4
+éomer,aragorn's group,"Éomer explains that he and his men have been exiled by Rohan's king, Théoden, who is under the control of Saruman and his servant Gríma Wormtongue. Éomer believes Merry and Pippin were killed during the raid but leaves Aragorn's group with two horses.",f5fbbef21a5a4044a16877d6423ee5c2,,4
+théoden,éomer,"The leader of Rohan, Théoden is under the control of Saruman and his servant Gríma Wormtongue.",f5fbbef21a5a4044a16877d6423ee5c2,,4
+aragorn's group,gandalf,"After being resurrected as Gandalf the White following his fight against the Balrog, Gandalf encounters Aragorn's group in Fangorn Forest.",f5fbbef21a5a4044a16877d6423ee5c2,,4
+aragorn's group,rohirrim's leader éomer,"In Fangorn Forest, Aragorn's group meets the Rohirrim's leader Éomer, who explains that he and his men have been exiled by Rohan's king, Théoden, who is under the control of Saruman and his servant Gríma Wormtongue.",f5fbbef21a5a4044a16877d6423ee5c2,,4
+gandalf,théoden,Gandalf frees Théoden from Saruman's control in Edoras.,6b60d92c3cc54e738d0159ef80c402bb,,4
+wormtongue,théoden,"Théoden tries to execute Wormtongue, but Aragorn stops him.",6b60d92c3cc54e738d0159ef80c402bb,,4
+saruman's plans,rohan,"Saruman intends to destroy Rohan with his Uruk-hai army, which Théoden learns of and evacuates the citizens.",6b60d92c3cc54e738d0159ef80c402bb,,4
+éomer,gandalf,Gandalf hopes that Éomer and his followers will fight for their restored king.,6b60d92c3cc54e738d0159ef80c402bb,,4
+éowyn,aragorn,"Théoden's niece, Éowyn, becomes infatuated with Aragorn in Rohan.",6b60d92c3cc54e738d0159ef80c402bb,,4
+aragorn,rohirrim refugees,"The refugees travelling to Helm's Deep are attacked by Saruman's Warg-riding Orcs, and Aragorn falls from a cliff, but is found by Théodred's horse Brego and rides to Helm's Deep.",6b60d92c3cc54e738d0159ef80c402bb,,4
+elrond,arwen,"Elrond tells Arwen that Aragorn will not return, and she reluctantly departs for Valinor.",6b60d92c3cc54e738d0159ef80c402bb,,4
+elrond,galadriel,"Elrond is contacted by Galadriel of Lothlórien, who convinces him to honour their alliance to men and dispatches a company of Elves to Helm's Deep.",6b60d92c3cc54e738d0159ef80c402bb,,4
+aragorn,théoden,Aragorn arrives at Helm's Deep and warns Théoden of Saruman's army approaching. Théoden prepares for battle despite being vastly outnumbered.,f2d06b8631f241d3a1682452aad06135,,4
+saruman's army,helm's deep,"The Uruk-hai breach the outer wall with explosives and during the ensuing charge, kill the Elves' commander, Haldir.",f2d06b8631f241d3a1682452aad06135,,4
+lothlorien elves,helm's deep,"A company of Lothlorien Elves arrives to aid the people of Rohan, shortly before Saruman's army attacks the fortress.",f2d06b8631f241d3a1682452aad06135,,4
+saruman,isengard,Merry and Pippin witness the deforestation caused by Saruman's war effort in Isengard.,f2d06b8631f241d3a1682452aad06135,,4
+treebeard,merry,"Merry and Pippin meet Treebeard, an Ent, in Fangorn.",f2d06b8631f241d3a1682452aad06135,,4
+treebeard,pippin,"Merry and Pippin meet Treebeard, an Ent, in Fangorn.",f2d06b8631f241d3a1682452aad06135,,4
+treebeard,isengard,"Convincing Treebeard that they are allies, they are brought to an Ent Council, where the Ents decide not to take part in the coming war. Pippin asks Treebeard to take them in the direction of Isengard.",f2d06b8631f241d3a1682452aad06135,,4
+ents,isengard,"Treebeard and the Ents storm Isengard, trapping Saruman in his tower.",f2d06b8631f241d3a1682452aad06135,,4
+saruman,tower,Saruman is trapped in his tower after Treebeard and the Ents storm Isengard.,f2d06b8631f241d3a1682452aad06135,,4
+gandalf,rohirrim,"Gandalf warns that Sauron will retaliate. Gandalf and Éomer arrive with the Rohirrim, turning the tide of the battle.",f2d06b8631f241d3a1682452aad06135,,4
+uruk-hai,fangorn forest,The surviving Uruk-hai flee into Fangorn Forest and are killed by the trees.,f2d06b8631f241d3a1682452aad06135,,4
+gollum,mordor,recommends entering by another route,08e819ccb92b49bdb06cc68b8506f3cc,,4
+frodo,mordor,"led through Dead Marshes to Black Gate, but captured by Rangers of Ithilien",08e819ccb92b49bdb06cc68b8506f3cc,,4
+rangers of ithilien,frodo,captured led by Faramir,08e819ccb92b49bdb06cc68b8506f3cc,,4
+faramir,gollum,catches to save from being killed by Rangers,08e819ccb92b49bdb06cc68b8506f3cc,,4
+denethor,frodo,brings Ring to bring in Gondor,08e819ccb92b49bdb06cc68b8506f3cc,,4
+osgiliath,frodo,passing through besieged city,08e819ccb92b49bdb06cc68b8506f3cc,,4
+nazgûl,frodo,nearly captures but saved by Sam,08e819ccb92b49bdb06cc68b8506f3cc,,4
+shelob,gollum,decides to lead Frodo and Sam for reclaiming Ring,08e819ccb92b49bdb06cc68b8506f3cc,,4
+faramir,ring,"takes captives to bring the Ring to his father Denethor, learns of the One Ring",08e819ccb92b49bdb06cc68b8506f3cc,,4
+boromir,ring,"driven mad by its power, explained by Sam",08e819ccb92b49bdb06cc68b8506f3cc,,4
+conversation scene,a conversation between arwen and elrond in rivendell,the conversation scene in the context is edited to be a flashback to this conversation between arwen and elrond on the evening before the fellowship's departure.,042aa16b6972487e97821d1e2353e5fe,,4
+conversation scene,a conversation between arwen and elrond in rivendell,"this conversation scene reveals that arwen is leaving for the west, as a result of a larger change originally planned in the script.",042aa16b6972487e97821d1e2353e5fe,,4
+larger change,arwen and elrond visiting galadriel,"the larger change was that arwen and elrond would visit galadriel, as originally planned in the script.",042aa16b6972487e97821d1e2353e5fe,,4
+script changes,better ideas to portray the romance between aragorn and arwen,"the script changes were a result of poor fan reaction, as well as writers coming up with better ideas to portray the romance between aragorn and arwen.",042aa16b6972487e97821d1e2353e5fe,,4
+elven warriors fighting at helm's deep,the elven warriors fighting at helm's deep,"although jackson and boyens found this romantic and stirring, it was a result of a major change already filmed that could not be reversed.",042aa16b6972487e97821d1e2353e5fe,,4
+tension,treebeard not immediately deciding to go to war,"this adds to the tension, and boyens describes it as making merry and pippin 'more than luggage'.",042aa16b6972487e97821d1e2353e5fe,,4
+galadriel and elves fighting at dol guldur,"galadriel and the elves of lotlórien, and thranduil of mirkwood were first attacked by an army out of dol guldur in mirkwood, and then later counter-attacked and assaulted the fortress itself.","this is a reference to how, in the appendices of 'the return of the king', galadriel and the elves of lotlórien, and thranduil of mirkwood were first attacked by an army out of dol guldur in mirkwood, and then later counter-attacked and assaulted the fortress itself.",042aa16b6972487e97821d1e2353e5fe,,4
+faramir,ring,"In the film adaptation, Faramir initially decides that the Ring shall go to Gondor and his father Denethor as a way to prove his worth. However, after seeing how strongly the Ring affects Frodo during the Nazgûl attack, Faramir changes his mind and lets them go.",e6e251c48eb44393a169bd4bd31ec4ac,,4
+faramir,denethor,"In the film adaptation, Faramir takes Frodo, Sam, and the Ring to the Battle of Osgiliath at the urging of his father Denethor.",e6e251c48eb44393a169bd4bd31ec4ac,,4
+faramir,boromir,"In the book version, Faramir's contrast with Boromir is highlighted, as Boromir attempted to take the Ring for himself. However, in the film adaptation, it is actually their father who wants the Ring and urges Boromir to get it, while Faramir only wants to prove himself to his father.",e6e251c48eb44393a169bd4bd31ec4ac,,4
+helm's deep,the two towers,"The meaning of the title 'The Two Towers' includes Helm's Deep, as it is one of the two towers identified by Tolkien in his note included at the end of The Fellowship of the Ring. However, in Jackson's film adaptation, The Two Towers are renamed to Orthanc and Barad-dûr, with Helm's Deep not explicitly mentioned as a tower associated with Sauron.",c9cafb328e2d4cb58d9f440b41a9cfb8,,4
+helm's deep,minas morgul,"In Tolkien's note included at the end of The Fellowship of the Ring, Helm's Deep and Minas Morgul are both identified as two towers. However, in Jackson's film adaptation, Barad-dûr is renamed instead.",c9cafb328e2d4cb58d9f440b41a9cfb8,,4
+helm's deep,sauron,"In Tolkien's novel, the association between Helm's Deep and Sauron is not explicitly stated. However, in Jackson's film adaptation, Saruman openly presents himself as Sauron's servant, implying a possible alliance between Helm's Deep and Sauron.",c9cafb328e2d4cb58d9f440b41a9cfb8,,4
+helm's deep,rohan and gondor,Gandalf and Aragorn in the chapter 'The White Rider' state that there is a rivalry between Saruman and Sauron regarding Rohan and Gondor. This suggests that Helm's Deep may not necessarily have any explicit association with these two kingdoms.,c9cafb328e2d4cb58d9f440b41a9cfb8,,4
+helm's deep,saruman,"In Jackson's film adaptation, Saruman is explicitly presented as Sauron's servant, thereby implying a possible alliance between Helm's Deep and Saruman.",c9cafb328e2d4cb58d9f440b41a9cfb8,,4
+helm's deep,dry creek quarry,"Helm's Deep, a pivotal part of the film's narrative, was built at Dry Creek Quarry",3726a71c3fac45a0a5580f79fc1a86be,,4
+helm's deep,gate,Helm's Deep has a gate,3726a71c3fac45a0a5580f79fc1a86be,,4
+helm's deep,ramp,Helm's Deep has a ramp,3726a71c3fac45a0a5580f79fc1a86be,,4
+helm's deep,wall,Helm's Deep has a wall,3726a71c3fac45a0a5580f79fc1a86be,,4
+helm's deep,removable section,Helm's Deep has a removable section in its wall,3726a71c3fac45a0a5580f79fc1a86be,,4
+helm's deep,tower on a second level,Helm's Deep has a tower on a second level,3726a71c3fac45a0a5580f79fc1a86be,,4
+miniature of helm's deep,forced perspective shots,The 1:4-scale miniature of Helm's Deep was used for forced perspective shots,3726a71c3fac45a0a5580f79fc1a86be,,4
+helm's deep,explosion sequence,The major explosion sequence was filmed at Helm's Deep,3726a71c3fac45a0a5580f79fc1a86be,,4
+john howe,evil forces of middle earth,John Howe was the basic designer of the evil forces of Middle Earth,3726a71c3fac45a0a5580f79fc1a86be,,4
+uruk-hai,john howe,John Howe designed a special crossbow for the Uruk-Hai characters,3726a71c3fac45a0a5580f79fc1a86be,,4
+elves,helm's deep,Two hundred and fifty suits were made for the Elves at Helm's Deep,3726a71c3fac45a0a5580f79fc1a86be,,4
+autumnal colours,elven suits of armor,Emphasis was placed on Autumnal colours due to the theme of Elves leaving Middle-earth for the Elven suits of armor,3726a71c3fac45a0a5580f79fc1a86be,,4
+rohan,designs,The designs for Rohan were based on Germanic and Anglo-Saxon patterns,3726a71c3fac45a0a5580f79fc1a86be,,4
+weapons,rohan,Most of the weapons designed by John Howe were forged for Rohan,3726a71c3fac45a0a5580f79fc1a86be,,4
+swords,rohirrim,"Two hundred and fifty suits were made for the Rohirrim, and each sword took 3 to 6 days to make",3726a71c3fac45a0a5580f79fc1a86be,,4
+barad-dûr,mordor,"Barad-dûr, the stronghold of Sauron, is located in Mordor as seen in a tracking shot in 'The Lord of the Rings: The Return of the King'.",2d06ec4a573d4d3d8129ea35a547cfba,,4
+gondor,barad-dûr,"Barad-dûr, the stronghold of Sauron, poses a threat to Gondor as depicted in 'The Lord of the Rings: The Return of the King'.",2d06ec4a573d4d3d8129ea35a547cfba,,4
+osgiliath,gondor,"Osgiliath, a ruined city, reflects the destruction wreaked on Gondor in 'The Lord of the Rings: The Return of the King'.",2d06ec4a573d4d3d8129ea35a547cfba,,4
+london,osgiliath,"Lee and Howe created Osgiliath, a ruined city in 'The Lord of the Rings: The Return of the King', which resembles London during the Blitz.",2d06ec4a573d4d3d8129ea35a547cfba,,4
+berlin,osgiliath,"Lee and Howe created Osgiliath, a ruined city in 'The Lord of the Rings: The Return of the King', which resembles Berlin in 1945.",2d06ec4a573d4d3d8129ea35a547cfba,,4
+rohirrim's capital,edoras,"The exterior of the Rohirrim's capital, Edoras, took six months to build on Mount Sunday as depicted in 'The Lord of the Rings: The Return of the King'.",2d06ec4a573d4d3d8129ea35a547cfba,,4
+interior,buildings,The interior of the buildings doubled as offices and lunch halls in 'The Lord of the Rings: The Return of the King'.,2d06ec4a573d4d3d8129ea35a547cfba,,4
+hill,wrinkles,"During the possession scene in 'The Lord of the Rings: The Return of the King', Hill endured heavy make-up for increased wrinkles.",2d06ec4a573d4d3d8129ea35a547cfba,,4
+dourif,eyebrows,Dourif shaved off his eyebrows during 'The Lord of the Rings: The Return of the King' for unnerving effect.,2d06ec4a573d4d3d8129ea35a547cfba,,4
+dourif,potato flakes,"During 'The Lord of the Rings: The Return of the King', Dourif put potato flakes as dandruff in his hair for an unnerving effect.",2d06ec4a573d4d3d8129ea35a547cfba,,4
+the two towers,the fellowship of the ring,both films are part of the trilogy 'The Lord of the Rings' and were filmed simultaneously.,461554795b174ef49ffa381331b91fa5,,4
+rohan,the two towers,scenes set in Rohan were filmed earlier during production and are a part of 'The Two Towers'.,461554795b174ef49ffa381331b91fa5,,4
+mortensen,orc helmet,"Mortensen kicked an Orc helmet while filming the scene, which resulted in him breaking two toes.",461554795b174ef49ffa381331b91fa5,,4
+legolas,mortensen,Mortensen played the character Legolas in 'The Lord of the Rings' trilogy.,461554795b174ef49ffa381331b91fa5,,4
+gimli,mortensen,"Mortensen, Legolas, and Gimli found the remains of Uruk-hai in the scene.",461554795b174ef49ffa381331b91fa5,,4
+merry and pippin,the remains of uruk-hai,"Mortensen, Legolas, and Gimli believed that Merry and Pippin were dead when they found the remains of Uruk-hai.",461554795b174ef49ffa381331b91fa5,,4
+bloom,his horse,"While filming, Bloom fell off his horse and cracked three ribs.",461554795b174ef49ffa381331b91fa5,,4
+brett beattie,knee,"During filming of 'The Two Towers', Brett Beattie dislocated his knee.",461554795b174ef49ffa381331b91fa5,,4
+mortensen,bloom and brett beattie,"Both Mortensen, Orlando Bloom, and John Rhys-Davies's stunt double Brett Beattie sustained many injuries while filming.",461554795b174ef49ffa381331b91fa5,,4
+pain,"mortensen, orlando bloom, and john rhys-davies's stunt double brett beattie",The actors suffered from pain for two days during the running sequence in 'The Two Towers' due to their injuries.,461554795b174ef49ffa381331b91fa5,,4
+jackson,"mortensen, orlando bloom, and john rhys-davies's stunt double brett beattie",Peter Jackson jokingly referred to them as 'The Walking Wounded' due to their injuries.,461554795b174ef49ffa381331b91fa5,,4
+gollum,serkis,"Serkis 'played' Gollum by providing his voice and movements on set, as well as performing in the motion capture suit later on. Gollum was originally set to be solely a CGI character, but Serkis' audition tape impressed Jackson so much that they used him on set as well.",237e1b4808ab4305b90693f099e3dec6,,4
+gollum,cgi model,"The CGI model for Gollum was redesigned in 2001 when Serkis was cast as Sméagol, Gollum's former self, to give the impression that Andy Serkis as Sméagol transforms into the CGI Gollum.",237e1b4808ab4305b90693f099e3dec6,,4
+gollum,serkis (upside-down scenes),"For some difficult shots, such as Gollum crawling upside down, Serkis' motion capture was not used to animate his body.",237e1b4808ab4305b90693f099e3dec6,,4
+gollum,gollum's face,Gollum's face was animated manually using recordings of Serkis as a guide.,237e1b4808ab4305b90693f099e3dec6,,4
+serkis,gollum's body (most shots),Serkis' motion capture was generally used to animate Gollum's body in most shots.,237e1b4808ab4305b90693f099e3dec6,,4
+sméagol,gollum's former self,"Serkis was cast as Sméagol, Gollum's former self, which led to the redesign of the CGI model for Gollum.",237e1b4808ab4305b90693f099e3dec6,,4
+gollum,cgi model (original),The original CGI model for Gollum can still be glimpsed briefly in the first film.,237e1b4808ab4305b90693f099e3dec6,,4
+serkis,gollum's scenes,"Serkis' scenes with Gollum were filmed twice, with and without him.",237e1b4808ab4305b90693f099e3dec6,,4
+london philharmonic orchestra,abbey road studios,The soundtrack for The Lord of the Rings: The Two Towers was recorded at Abbey Road Studios by the London Philharmonic Orchestra.,bf75b150478841b3adfcdc8d23125a65,,4
+london voices,london oratory school schola,Both London Voices and the London Oratory School Schola are mentioned in the context as groups that perform music in The Lord of the Rings: The Two Towers.,bf75b150478841b3adfcdc8d23125a65,,4
+isabel bayrakdarian,london philharmonic orchestra,"Isabel Bayrakdarian and the London Philharmonic Orchestra both appear in The Lord of the Rings: The Two Towers as vocal and instrumental soloists, respectively.",bf75b150478841b3adfcdc8d23125a65,,4
+dermot crehan,london philharmonic orchestra,"Dermot Crehan is also a member of the London Philharmonic Orchestra, in addition to being an Irish fiddler and violinist who plays alongside them.",bf75b150478841b3adfcdc8d23125a65,,4
+éowyn,théodred,Éowyn sings a traditional Rohirric funeral song during the entombment of her cousin Théodred in The Lord of the Rings: The Two Towers.,bf75b150478841b3adfcdc8d23125a65,,4
+rohirric,old english,"The lyrics for Éowyn's funeral song in Rohirric are written by Philippa Boyens, while the text for other parts of The Lord of the Rings: The Two Towers is represented by Old English.",bf75b150478841b3adfcdc8d23125a65,,4
+icelandic folk tradition,theme of the rímur,"The tune for Éowyn's funeral song in The Lord of the Rings: The Two Towers is based on a variation of a theme from the Icelandic folk tradition, specifically the rímur.",bf75b150478841b3adfcdc8d23125a65,,4
+men in black ii,teaser trailer,The teaser trailer for The Lord of the Rings: The Two Towers was first shown in theatres alongside Men in Black II.,bf75b150478841b3adfcdc8d23125a65,,4
+red dragon,theatrical trailer,The theatrical trailer for The Lord of the Rings: The Two Towers was then released in cinemas before screenings of Red Dragon.,bf75b150478841b3adfcdc8d23125a65,,4
+two towers,dvd release,The Two Towers was released on DVD.,7866d70139454a2b95abb4825c59ec84,,4
+two towers,vhs and dvd release,The Two Towers was released on VHS and DVD.,7866d70139454a2b95abb4825c59ec84,,4
+united states,new line home entertainment,New Line Home Entertainment released The Two Towers on VHS and DVD in the United States.,7866d70139454a2b95abb4825c59ec84,,4
+"august 26, 2003",the two towers,"The Two Towers was released on VHS and DVD on August 26, 2003.",7866d70139454a2b95abb4825c59ec84,,4
+bank holiday weekend,entertainment in video,"Some British outlets began selling DVDs of The Two Towers four days earlier due to a bank holiday weekend, causing the UK distributor, Entertainment in Video, to threaten to withhold advance supplies of subsequent DVD releases.",7866d70139454a2b95abb4825c59ec84,,4
+december 2003,the two towers,"By December 2003, The Two Towers sold 16.4 million copies and earned $305.4 million in sales revenue.",7866d70139454a2b95abb4825c59ec84,,4
+"november 18, 2003",extended edition of two towers,"An extended edition of The Two Towers was released on VHS and DVD on November 18, 2003.",7866d70139454a2b95abb4825c59ec84,,4
+new material,the two towers,An extended edition of The Two Towers included 45 minutes of new material.,7866d70139454a2b95abb4825c59ec84,,4
+special effects,the two towers,An extended edition of The Two Towers included added special effects.,7866d70139454a2b95abb4825c59ec84,,4
+music,the two towers,An extended edition of The Two Towers included added music.,7866d70139454a2b95abb4825c59ec84,,4
+fan-club credits,the two towers,An extended edition of The Two Towers included 11 minutes of fan-club credits.,7866d70139454a2b95abb4825c59ec84,,4
+two towers,rentals,The Two Towers generated $22.8 million in rentals.,7866d70139454a2b95abb4825c59ec84,,4
+the lord of the rings,two towers,"The theatrical Blu-ray version of The Lord of the Rings was released in April 2010, and the individual disc of Two Towers was released in September 2010 with similar special features. This indicates a relation between the two movies as part of the same franchise.",76253393f44a4bc2abfca732d07aa354,,4
+two towers,extended blu-ray editions,"The extended Blu-ray editions were released in June 2011, which includes both theatrical and extended cuts. This implies that the extended edition of Two Towers is part of the extended Blu-ray editions.",76253393f44a4bc2abfca732d07aa354,,4
+two towers,ultra hd blu-ray,"Two Towers was released in Ultra HD Blu-ray on 30 November 2020 in the United Kingdom and on 1 December 2020 in the United States, along with the other instalments. This suggests that Two Towers is also available in Ultra HD format.",76253393f44a4bc2abfca732d07aa354,,4
+the two towers,opening day,"grossed $26 million during its opening day on December 18, 2002.",89f6bffdfc3840b78dcac49b1a9b33ae,,4
+the two towers,opening weekend,"earned $62 million in its opening weekend in the US and Canada, becoming the fifth-highest opening weekend of that year.",89f6bffdfc3840b78dcac49b1a9b33ae,,4
+the two towers,opening wednesday,"grossed $26 million during its opening Wednesday, making it the second-highest opening Wednesday behind Star Wars: Episode I – The Phantom Menace.",89f6bffdfc3840b78dcac49b1a9b33ae,,4
+the two towers,number one spot at the box office,"beat Maid in Manhattan, Two Weeks Notice, Gangs of New York and The Wild Thornberrys Movie during its debut and reached the number one spot at the box office upon its debut.",89f6bffdfc3840b78dcac49b1a9b33ae,,4
+the two towers,box office,topped the box office for three weekends until it was dethroned by Just Married.,89f6bffdfc3840b78dcac49b1a9b33ae,,4
+opening wednesday,second-highest opening wednesday,behind Star Wars: Episode I – The Phantom Menace.,89f6bffdfc3840b78dcac49b1a9b33ae,,4
+the two towers,$936.7 million,The film went on to gross $936.7 million worldwide against a budget of $94 million.,aec703f2e6f54b04ad184e027b9a25ef,,4
+the two towers,$345.5 million,"Following subsequent reissues, The Two Towers has grossed $345.5 million in the United States and Canada.",aec703f2e6f54b04ad184e027b9a25ef,,4
+the two towers,$606 million,The film has grossed $606 million in the rest of the world.,aec703f2e6f54b04ad184e027b9a25ef,,4
+the two towers,highest-grossing film of 2002 worldwide,The Two Towers was the highest-grossing film of 2002 worldwide.,aec703f2e6f54b04ad184e027b9a25ef,,4
+the two towers,over 57 million sold tickets in the us,Box Office Mojo estimates over 57 million sold tickets in the US in its initial theatrical run.,aec703f2e6f54b04ad184e027b9a25ef,,4
+the two towers,95% approval rating,"On review aggregator Rotten Tomatoes, The Two Towers holds an approval rating of 95%",aec703f2e6f54b04ad184e027b9a25ef,,4
+the two towers,average grade of 'a',Audiences polled by CinemaScore gave the film an average grade of 'A',aec703f2e6f54b04ad184e027b9a25ef,,4
+the two towers,one of the greatest sequels in cinema history,The film received universal critical acclaim and is widely considered to be one of the greatest sequels in cinema history.,e98a57a6d4d94d1caf6d5513112b3d68,,4
+roger ebert,the chicago sun-times,"Ebert, a critic from The Chicago Sun-Times, gave the film three stars out of four and described it as 'one of the most spectacular swashbucklers ever made'.",e98a57a6d4d94d1caf6d5513112b3d68,,4
+tolkien,misplaces much of the charm and whimsy of the books,The film was criticized by Roger Ebert for 'misplacing much of the charm and whimsy of the books'.,e98a57a6d4d94d1caf6d5513112b3d68,,4
+nev pierce,the bbc,"Pierce, a critic from the BBC, gave the film four stars out of five and described it as 'in terms of wit, action and narrative drive, it surpasses The Fellowship of the Ring.'",e98a57a6d4d94d1caf6d5513112b3d68,,4
+gollum,the first believable cg character',"According to Nev Pierce from the BBC, Gollum is 'the first believable CG character'.",e98a57a6d4d94d1caf6d5513112b3d68,,4
+the battle of helm's deep,"one of the finest, most expansive combat sequences ever filmed'","According to Nev Pierce from the BBC, the Battle of Helm's Deep is 'one of the finest, most expansive combat sequences ever filmed'.",e98a57a6d4d94d1caf6d5513112b3d68,,4
+philip french,the observer,"French, a critic from The Observer, described The Two Towers as 'a stunning visual epic'.",e98a57a6d4d94d1caf6d5513112b3d68,,4
+caspar david friedrich,art nouveau illustrations for children's books,"According to Philip French from The Observer, the visual style of the film is similar to 'Caspar David Friedrich, the Pre-Raphaelites, Art Nouveau illustrations for children's books, and the apocalyptic biblical landscapes ... of the Victorian visionary John Martin'.",e98a57a6d4d94d1caf6d5513112b3d68,,4
+battle of helm's deep,epic proportions,"Morgenstern highlighted the singular claim on movie history that 'The Lord of the Rings' continues to stake with 'The Two Towers', specifically citing the Battle of Helm's Deep as probably the greatest battlepiece composed for the screen since Eisenstein's Ivan the Terrible. This highlights how the epic scale and significance of the battle contributes to the overall importance and acclaim of 'The Lord of the Rings' trilogy.",d8af8b64cdfc49b188d772a4c5d5c497,,4
+chivalric and quixotic,majestic proportion,"Walker described the majestic proportion of 'The Two Towers' as chivalric and quixotic. This suggests a connection between the two concepts, potentially relating to the knightly and idealistic themes explored in the film.",d8af8b64cdfc49b188d772a4c5d5c497,,4
+battle scenes,digital effects,"Morgenstern also highlighted the digital effects and the battle scenes, indicating a connection between these two elements. This could suggest that the digital effects contribute to the overall spectacle and intensity of the battle scenes.",d8af8b64cdfc49b188d772a4c5d5c497,,4
+joe morgenstern,wall street journal,"Morgenstern, as a respected film critic for The Wall Street Journal, is related to the publication where his review was published.",d8af8b64cdfc49b188d772a4c5d5c497,,4
+the battle of helm's deep,greatest screen battles of all time,named by CNN,d9febcae11564bea8bf6ac04abf7c761,,4
+gollum,favourite computer-generated film character,named as the third favourite by Entertainment Weekly in 2007,d9febcae11564bea8bf6ac04abf7c761,,4

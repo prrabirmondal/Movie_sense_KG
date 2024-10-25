@@ -1,0 +1,98 @@
+node_1,node_2,edge,chunk_id,count
+mulk,indian hindi-language legal drama,"Mulk is a 2018 Indian Hindi-language legal drama written, produced and directed by Anubhav Sinha.",de0f56df43f84481a4fe6a7f6f099674,4
+mulk,muslim family,"The story centers around the life of a Muslim family, who tries to reclaim its lost honor after its patriarch Murad Ali Mohammed (Kapoor) gets involved in terrorism.",de0f56df43f84481a4fe6a7f6f099674,4
+murad ali mohammed,muslim family,"The story centers around the life of a Muslim family, who tries to reclaim its lost honor after its patriarch Murad Ali Mohammed (Kapoor) gets involved in terrorism.",de0f56df43f84481a4fe6a7f6f099674,4
+murad ali mohammed,terrorism,Murad Ali Mohammed (Kapoor) gets involved in terrorism.,de0f56df43f84481a4fe6a7f6f099674,4
+muslim family,lost honor,The Muslim family tries to reclaim its lost honor after Murad Ali Mohammed (Kapoor) gets involved in terrorism.,de0f56df43f84481a4fe6a7f6f099674,4
+mulk,failure to recoup its budget,"Though failing commercially to recoup its budget, Mulk earned widespread acclaim for its story, screenplay, execution and cast portrayals and has received awards such as the Best Story and Best Film at Filmfare Awards.",de0f56df43f84481a4fe6a7f6f099674,4
+murad ali mohammed,varanasi,Murad Ali Mohammed lives in a densely-populated diverse locality of Varanasi.,1312e3e6816d49bfbeaf4b634904b06e,4
+mosque,murad ali mohammed,Murad Ali Mohammed visits the nearby mosque to offer Namaz.,1312e3e6816d49bfbeaf4b634904b06e,4
+tea stall,murad ali mohammed,Murad Ali Mohammed enjoys chit-chat over a cup of tea from a nearby tea stall managed by one of his close Hindu neighbors.,1312e3e6816d49bfbeaf4b634904b06e,4
+neena gupta,tabassum,"Neena Gupta plays the role of Tabassum, Murad Ali Mohammed's wife.",1312e3e6816d49bfbeaf4b634904b06e,4
+manoj pahwa,bilaal,"Manoj Pahwa plays the role of Bilaal, Murad Ali Mohammed's brother who owns a mobile phone shop.",1312e3e6816d49bfbeaf4b634904b06e,4
+prachee shah pandya,chhoti-tabassum,"Prachee Shah Pandya plays the role of Chhoti-Tabassum, Murad Ali Mohammed's sister-in-law.",1312e3e6816d49bfbeaf4b634904b06e,4
+indraneil sengupta,aftab,"Indraneil Sengupta plays the role of Aftab, Murad Ali Mohammed's son who lives abroad.",1312e3e6816d49bfbeaf4b634904b06e,4
+taapsee pannu,aarti,"Taapsee Pannu plays the role of Aarti, Murad Ali Mohammed's estranged daughter-in-law who is also a lawyer.",1312e3e6816d49bfbeaf4b634904b06e,4
+sumit kaul,mehfooz alam,"Sumit Kaul plays the role of Mehfooz Alam, the wanted leader of a terrorist organization.",1312e3e6816d49bfbeaf4b634904b06e,4
+prateik babbar,shahid,"Prateik Babbar plays the role of Shahid, Murad Ali Mohammed's nephew who joins hands with a terrorist organization.",1312e3e6816d49bfbeaf4b634904b06e,4
+eshita singh,aayat,"Eshita Singh (credited as Vartika Singh) plays the role of Aayat, Murad Ali Mohammed's niece.",1312e3e6816d49bfbeaf4b634904b06e,4
+allahabad,shahid,Shahid leaves early morning for Allahabad to execute the bomb blast as planned.,1312e3e6816d49bfbeaf4b634904b06e,4
+ssp danish,javed (rajat kapoor),Danish is assigned to investigate the attack and ultimately tracks down Javed and kills him when he tries to escape instead of surrendering.,8021f66f09c441b08d92ad8ce8822a72,4
+ssp danish,shahid,"Danish corners Shahid during the investigation, but Shahid tries to escape instead of surrendering and is shot dead by Danish.",8021f66f09c441b08d92ad8ce8822a72,4
+bilaal,ssp danish,"Danish interrogates Bilaal for over 17 hours during the investigation, but gets no useful information.",8021f66f09c441b08d92ad8ce8822a72,4
+aarti,bilaal,Aarti steps up as Bilaal's defense lawyer during the investigation.,8021f66f09c441b08d92ad8ce8822a72,4
+police,murad's house,"The police arrive at Murad's house and start interrogating the family members, turning the place upside down to gather evidence during the investigation.",8021f66f09c441b08d92ad8ce8822a72,4
+murad,situation around murad's neighborhood,"Within a matter of hours, the situation around Murad's neighborhood changes drastically.",1bdeb49d88c04715942d313134e170bf,4
+murad,everyone whom murad had known for decades,"Starts looking at him as a terrorist, with his life's reputation and goodwill shattered in a day.",1bdeb49d88c04715942d313134e170bf,4
+bilaal,court,Judge Harish Madhok denies his bail and grants police custody of him for 7 days for further interrogation.,1bdeb49d88c04715942d313134e170bf,4
+shahid's body,murad,Which he refuses to accept.,1bdeb49d88c04715942d313134e170bf,4
+extremist muslims,murad,"Try to convince Murad that Shahid has sacrificed his life in the name of Jihad and all the Muslims should rise up against the Hindu dominant society, but Murad strongly opposes this.",1bdeb49d88c04715942d313134e170bf,4
+shahid,terrorist activities,evidence presented by public prosecutor Santosh Anand shows that Shahid's home was the den of terrorist operations and his family was aware and complicit in these activities.,26f42f8d22b04377bc7d72f32c9f8dee,4
+shahid,bomb-making procedures,detailed procedures for making bombs found on Shahid's laptop,26f42f8d22b04377bc7d72f32c9f8dee,4
+murad's family,terrorist activities,public prosecutor Santosh Anand argues that every single member of Murad's family was aware of and complicit in Shahid's activities,26f42f8d22b04377bc7d72f32c9f8dee,4
+murad's home,den of terrorist operations,public prosecutor Santosh Anand presents transmitter installed at Murad's home for communicating with terrorists via private frequencies,26f42f8d22b04377bc7d72f32c9f8dee,4
+bilaal,sim cards,CCTV footage shows Bilaal selling SIM cards to terrorists without asking for any valid documents,26f42f8d22b04377bc7d72f32c9f8dee,4
+terrorism,family members aside from shahid,Aarti justifies in court that there is no concrete evidence any of the family members aside from Shahid were involved with terrorism.,62685838876f466a812944e9a2fd1193,4
+laptop,shahid,Shahid was the only person in the household who knew how to use a laptop and the transmitter was installed by him under the excuse of boosting their cable TV signal.,62685838876f466a812944e9a2fd1193,4
+sim cards,shahid,"Since he had access to his father's mobile shop, Shahid took those SIM cards without any documents and used them to communicate with the terrorists.",62685838876f466a812944e9a2fd1193,4
+friend,bilaal,"When he came to meet Shahid, Bilaal assumed him to be his son's friend and offered him a ride to the railway station since he was also heading in the same direction.",62685838876f466a812944e9a2fd1193,4
+muslims,terrorists,"Aarti argues that it has become accepted for people to generalize all Muslims as terrorists, to the point someone just growing a beard or practicing Islam becomes a terrorist in the public eye.",62685838876f466a812944e9a2fd1193,4
+trauma,murad and his family,"Due to this established taboo, Murad and his family are going through a horrible trauma and humiliation, which even claimed Bilaal's life.",62685838876f466a812944e9a2fd1193,4
+proof,santosh,Santosh fails to produce any further proof,62685838876f466a812944e9a2fd1193,4
+change, judge madhok,"Judge Madhok dismisses the case, stating that the main problem is with people's mentality and everyone irrespective of their religion should fight against it to bring a change.",62685838876f466a812944e9a2fd1193,4
+thinking,us and them,The movie ends with the moral that we should change our way of thinking from 'Us and Them' to 'We'.,62685838876f466a812944e9a2fd1193,4
+movie,us and them,"The movie portrays the concept of 'Us' and 'Them'. This highlights the division and segregation present in society. The audience is left with a moral message to overcome this mindset and adopt a more inclusive approach, represented by 'We'.",e99a9c23e4b04d2e8eb523ffd4588076,4
+us and them,we,"The moral message conveyed by the movie encourages viewers to shift their perspective from 'Us and Them' to 'We'. This promotes unity, togetherness, and solidarity amongst individuals and communities.",e99a9c23e4b04d2e8eb523ffd4588076,4
+anubhav sinha,mulk,Anubhav Sinha developed the idea for Mulk based on a newspaper report he read. The film is an adaptation of this concept.,e99a9c23e4b04d2e8eb523ffd4588076,4
+anubhav sinha,friends,"Anubhav Sinha shared the idea for Mulk with his friends and received positive feedback, which motivated him to further develop the script.",e99a9c23e4b04d2e8eb523ffd4588076,4
+anubhav sinha,shoojit sircar,"Anubhav Sinha narrated the story of Mulk to Shoojit Sircar, who appreciated it and encouraged him to move forward with the project.",e99a9c23e4b04d2e8eb523ffd4588076,4
+newspaper report,mulk,A newspaper report served as the inspiration for Anubhav Sinha's idea for Mulk.,e99a9c23e4b04d2e8eb523ffd4588076,4
+muslim terrorist,prateik babbar,"Prateik Babbar, who was to play the role of a Muslim terrorist in the film Mulk, was asked to watch the documentary Among the Believers and read extensively about David Headley, who is an American terrorist of Pakistani origin, for an appropriate portrayal.",8cefd515cef142b9a9357051ada066a0,4
+muslim rituals,rishi kapoor,"In the film Mulk, a religious Muslim scholar from Malihabad was called in to supervise the Muslim rituals involving Rishi Kapoor.",8cefd515cef142b9a9357051ada066a0,4
+defence lawyer,tapsee pannu,"For their courtroom sequences in the film Mulk, Tapsee Pannu who plays defence lawyer was provided guidance by retired High Court Judge Nadeem Siddiqi from Lucknow.",8cefd515cef142b9a9357051ada066a0,4
+public prosecutor,ashutosh rana,"In the film Mulk, Ashutosh Rana who plays public prosecutor was provided guidance by retired High Court Judge Nadeem Siddiqi from Lucknow for their courtroom sequences.",8cefd515cef142b9a9357051ada066a0,4
+anubhav sinha,mulk,director Anubhav Sinha signed on for his next film called Mulk in July 2017,fc4e7e9ee24a4e70b24168d4bb8bcc8c,4
+rishi kapoor,mulk,actor Rishi Kapoor was signed by Anubhav Sinha for his next film called Mulk in July 2017,fc4e7e9ee24a4e70b24168d4bb8bcc8c,4
+taapsee pannu,mulk,actress Taapsee Pannu was signed by Anubhav Sinha for his next film called Mulk in July 2017,fc4e7e9ee24a4e70b24168d4bb8bcc8c,4
+prateik babbar,mulk,actor Prateik Babbar had been signed by Anubhav Sinha for his next film called Mulk in July 2017,fc4e7e9ee24a4e70b24168d4bb8bcc8c,4
+neena gupta,mulk,actress Neena Gupta was cast as the wife of Murad Ali in Anubhav Sinha's film Mulk in September 2017,fc4e7e9ee24a4e70b24168d4bb8bcc8c,4
+eshita singh,mulk,"actress Eshita Singh, daughter of AAP leader Sanjay Singh and a member of Asmita Theatre Group, was added to the cast of Anubhav Sinha's film Mulk",fc4e7e9ee24a4e70b24168d4bb8bcc8c,4
+anubhav sinha,rajat kapoor,"initially Rajat Kapoor was supposed to play the role of Rishi Kapoor's brother in Anubhav Sinha's film Mulk, but after the arrival of both actors on set, director Anubhav Sinha realized that both actors should be playing different roles and not the ones assigned to them",fc4e7e9ee24a4e70b24168d4bb8bcc8c,4
+anubhav sinha,manoj pahwa,"initially actor Manoj Pahwa was assigned the role of Police Officer Danish Javed in Anubhav Sinha's film Mulk, but after the arrival of both actors on set, director Anubhav Sinha realized that both actors should be playing different roles and not the ones assigned to them",fc4e7e9ee24a4e70b24168d4bb8bcc8c,4
+rajat kapoor,manoj pahwa,"after realizing that both Rajat Kapoor and Manoj Pahwa should be playing different roles in Anubhav Sinha's film Mulk, they swapped each other's roles",fc4e7e9ee24a4e70b24168d4bb8bcc8c,4
+mulk,principal photography,began in October 2017,b050b5dc8154474aabb817a309ffc089,4
+mulk,lucknow,shown as Varanasi in the film while some part of the movie was also shot in Varanasi for two days,b050b5dc8154474aabb817a309ffc089,4
+mulk,principal photography (lucknow),continued for the next 27 days.,b050b5dc8154474aabb817a309ffc089,4
+background score,mangesh dhakde,composed the background score of the film Mulk,b050b5dc8154474aabb817a309ffc089,4
+songs,"prasad sashte, anurag saikia",composed the songs of the film Mulk,b050b5dc8154474aabb817a309ffc089,4
+lyrics,shakeel azmi,wrote the lyrics for the songs of the film Mulk,b050b5dc8154474aabb817a309ffc089,4
+mulk,pakistan,banned after banning the trailer in Pakistan,b050b5dc8154474aabb817a309ffc089,4
+director anubhav sinha,citizens of pakistan,wrote a letter to the citizens of Pakistan regarding the ban on Mulk in Pakistan,b050b5dc8154474aabb817a309ffc089,4
+"central board of film censors, pakistan",mulk trailer,"banned for flouting the Censorship of Film Code, 1980",b050b5dc8154474aabb817a309ffc089,4
+mulk,"central board of film censors, pakistan","not banned yet as the film is yet to be submitted to the board for review,",b050b5dc8154474aabb817a309ffc089,4
+mulk,highly positive response,The movie Mulk received highly positive response from critics in India.,56744e8fe42c42a08d9acbb36a0208b9,4
+mulk,critics,Critics in India gave highly positive response to the movie Mulk.,56744e8fe42c42a08d9acbb36a0208b9,4
+mulk,anubhav sinha,Director Anubhav Sinha made the movie Mulk.,56744e8fe42c42a08d9acbb36a0208b9,4
+mulk,india,The movie Mulk received highly positive response from critics in India.,56744e8fe42c42a08d9acbb36a0208b9,4
+37,highly positive response,The movie Mulk received highly positive response with a citation number of 37.,56744e8fe42c42a08d9acbb36a0208b9,4
+38,highly positive response,The movie Mulk received highly positive response with a citation number of 38.,56744e8fe42c42a08d9acbb36a0208b9,4
+taran adarsh,mulk,Critic Taran Adarsh wrote about the movie Mulk on Twitter.,56744e8fe42c42a08d9acbb36a0208b9,4
+taran adarsh,#mulk,Critic Taran Adarsh used the hashtag #Mulk to write about the movie Mulk on Twitter.,56744e8fe42c42a08d9acbb36a0208b9,4
+taran adarsh,critics,Critic Taran Adarsh is a part of the group of critics who gave highly positive response to the movie Mulk.,56744e8fe42c42a08d9acbb36a0208b9,4
+bollywood hungama,mulk,Media outlet Bollywood Hungama wrote about the movie Mulk.,56744e8fe42c42a08d9acbb36a0208b9,4
+bollywood hungama,taran adarsh,Critic Taran Adarsh is associated with media outlet Bollywood Hungama.,56744e8fe42c42a08d9acbb36a0208b9,4
+rishi kapoor,mulk,Actor Rishi Kapoor was a part of the movie Mulk.,56744e8fe42c42a08d9acbb36a0208b9,4
+taapsee,mulk,Actor Taapsee was a part of the movie Mulk.,56744e8fe42c42a08d9acbb36a0208b9,4
+supporting cast,mulk,The movie Mulk had a supporting cast which added strength to it.,56744e8fe42c42a08d9acbb36a0208b9,4
+manoj pahwa,mulk,Actor Manoj Pahwa was a part of the movie Mulk.,56744e8fe42c42a08d9acbb36a0208b9,4
+ashutosh rana,mulk,Actor Ashutosh Rana was a part of the movie Mulk.,56744e8fe42c42a08d9acbb36a0208b9,4
+rajat kapoor,mulk,Actor Rajat Kapoor was a part of the movie Mulk.,56744e8fe42c42a08d9acbb36a0208b9,4
+kumud mishra,mulk,Actor Kumud Mishra was a part of the movie Mulk.,56744e8fe42c42a08d9acbb36a0208b9,4
+prateik babbar,mulk,Actor Prateik Babbar was a part of the movie Mulk.,56744e8fe42c42a08d9acbb36a0208b9,4
+prachee shah paandya,mulk,Actor Prachee Shah Paandya was a part of the movie Mulk.,56744e8fe42c42a08d9acbb36a0208b9,4
+india,muslims,The movie Mulk depicts ordinary Indian Muslims.,56744e8fe42c42a08d9acbb36a0208b9,4
+shekhar gupta,mulk,Journalist Shekhar Gupta praised the movie Mulk for breaking the mold of portraying Muslims.,56744e8fe42c42a08d9acbb36a0208b9,4
+mulk,fearless and courageous film,"Khaleej Times, a daily English language newspaper published in United Arab Emirates, rates the film 3 out of 5 and states that 'Mulk' dares to tell a story not many filmmakers might want to associate themselves with, making it a fearless and courageous film. This edge represents the reviewer's opinion and the critical acclaim received by the movie.",bb9f4745c2f24b71bb46bb8e95993798,4
+mulk,story not many filmmakers might want to associate themselves with,"'Mulk' dares to tell a story not many filmmakers might want to associate themselves with, as mentioned by Khaleej Times, a daily English language newspaper published in United Arab Emirates.",bb9f4745c2f24b71bb46bb8e95993798,4
+anubhav sinha,conviction to tell us the story,"The one who emerges as a hero is the script, strong performances, and Anubhav Sinha's conviction to tell us the story, as stated by Khaleej Times, a daily English language newspaper published in United Arab Emirates.",bb9f4745c2f24b71bb46bb8e95993798,4
+mulk,hero,"'Mulk' dares to tell a story not many filmmakers might want to associate themselves with, and the script, strong performances, and Anubhav Sinha's conviction to tell us the story emerge as heroes in this context.",bb9f4745c2f24b71bb46bb8e95993798,4

@@ -1,0 +1,83 @@
+node_1,node_2,edge,chunk_id,count
+the goldfinch,donna tartt,The Goldfinch is a novel written by Donna Tartt.,5e96116c80f840eba66f6725c9081676,4
+warner bros.,the goldfinch,Warner Bros. Purchased the film rights for The Goldfinch in July 2014.,5e96116c80f840eba66f6725c9081676,4
+ansel elgort,theodore decker,Ansel Elgort portrays Theodore Decker in the film adaptation of The Goldfinch.,5e96116c80f840eba66f6725c9081676,4
+oakes fegley,young theo decker,Oakes Fegley plays a younger version of Theodore Decker in the film.,5e96116c80f840eba66f6725c9081676,4
+aneurin barnard,boris,Aneurin Barnard portrays Boris in The Goldfinch.,5e96116c80f840eba66f6725c9081676,4
+finn wolfhard,young boris,Finn Wolfhard plays a younger version of Boris in The Goldfinch.,5e96116c80f840eba66f6725c9081676,4
+sarah paulson,xandra wolfe,Sarah Paulson portrays Xandra Wolfe in The Goldfinch.,5e96116c80f840eba66f6725c9081676,4
+luke wilson,james reardon,Luke Wilson plays James Reardon in The Goldfinch.,5e96116c80f840eba66f6725c9081676,4
+jeffrey wright,agent t.,Jeffrey Wright portrays Agent T. In The Goldfinch.,5e96116c80f840eba66f6725c9081676,4
+nicole kidman,larry decker,Nicole Kidman plays Larry Decker in The Goldfinch.,5e96116c80f840eba66f6725c9081676,4
+the goldfinch,bombing at the metropolitan museum of art,The Goldfinch was present in the Metropolitan Museum of Art during the bombing.,ad11b35350a84d2ebd59b16037c8dcb0,4
+theodore decker,bombing at the metropolitan museum of art,Theodore Decker's mother was killed in the Bombing at the Metropolitan Museum of Art.,ad11b35350a84d2ebd59b16037c8dcb0,4
+the goldfinch,death of theo's mother,Theo's mother died while protecting The Goldfinch during the bombing.,ad11b35350a84d2ebd59b16037c8dcb0,4
+theodore decker,barbour family,Theodore Decker was placed into foster care with the Barbour Family.,ad11b35350a84d2ebd59b16037c8dcb0,4
+mrs. barbour,interest in antiques and art,Mrs. Barbour encouraged Theodore Decker's interest in antiques and art.,ad11b35350a84d2ebd59b16037c8dcb0,4
+theodore decker,principal of school,Theodore Decker and classmate Tom Cable were supposed to see the Principal of School that day because they were caught smoking cigarettes.,ad11b35350a84d2ebd59b16037c8dcb0,4
+death of theo's mother,blame on theodore decker,Theo blames himself for his mother's death due to their early arrival at the museum.,ad11b35350a84d2ebd59b16037c8dcb0,4
+death of theo's mother,donna tartt (author),"Donna Tartt, the author, reportedly hated the adaptation to the point of firing her longtime agent over it and made it clear she would not sell the rights to any of her work for films again because of the portrayal of Theo's mother's death.",ad11b35350a84d2ebd59b16037c8dcb0,4
+theo,james 'hobie' hobart,Theo locates the antiques shop of James 'Hobie' Hobart,bdfba9e325764842973a7222d94af5e8,4
+welton 'welty' blackwell,pippa,Welton 'Welty' Blackwell gave the ring to Theo to return and Pippa was injured in the bombing,bdfba9e325764842973a7222d94af5e8,4
+theo,pippa,Theo visits Pippa at Hobie's antiques shop,bdfba9e325764842973a7222d94af5e8,4
+andy,theo,Andy hints that his parents are considering adopting Theo,bdfba9e325764842973a7222d94af5e8,4
+larry,theo,Larry arrives with his girlfriend Xandra to relocate Theo to Las Vegas,bdfba9e325764842973a7222d94af5e8,4
+boris,theo,Theo befriends Boris in Las Vegas,bdfba9e325764842973a7222d94af5e8,4
+larry,xandra,Larry ends up in gambling debt and tries to have Theo transfer his education fund to a banking account but ultimately fails with Xandra,bdfba9e325764842973a7222d94af5e8,4
+theo,goldfinch,Theo keeps The Goldfinch hidden,bdfba9e325764842973a7222d94af5e8,4
+boris,larry,Boris kisses Theo and runs away after Larry is killed in a drunk-driving crash,bdfba9e325764842973a7222d94af5e8,4
+xandra,theo,"Xandra berates Theo for his apparently apathetic response to his father's death and Theo runs away to New York, taking Xandra's dog Popper and the painting",bdfba9e325764842973a7222d94af5e8,4
+hobie,theo,Hobie allows Theo to live with him in New York,bdfba9e325764842973a7222d94af5e8,4
+theo,hobie's shop,"Theo has made Hobie’s shop successful, selling his restored antiques.",4d4c1f4776ca44eba05246d636855ecf,4
+theo,platt,"Theo runs into Andy's older brother Platt,",4d4c1f4776ca44eba05246d636855ecf,4
+theo,mrs. barbour,Theo visits the ailing Mrs. Barbour and reconnects with her daughter Kitsey.,4d4c1f4776ca44eba05246d636855ecf,4
+reeve,theo,"Reeve confronts Theo for selling him a fake,",4d4c1f4776ca44eba05246d636855ecf,4
+theo,storage locker,"Having deduced that Theo stole The Goldfinch, Reeve accuses him of using it as collateral to finance his shop.",4d4c1f4776ca44eba05246d636855ecf,4
+kitsey,theo,"Theo becomes engaged to Andy's younger sister Kitsey,",4d4c1f4776ca44eba05246d636855ecf,4
+kitsey,tom cable,"Theo catches Kitsey cheating on him with Tom Cable,",4d4c1f4776ca44eba05246d636855ecf,4
+hobie,theo,Hobie confronts Theo for the theft and loss of The Goldfinch.,4d4c1f4776ca44eba05246d636855ecf,4
+boris,the goldfinch,"Boris reveals he had stolen The Goldfinch from Theo years prior,",4d4c1f4776ca44eba05246d636855ecf,4
+boris,criminal career,"and had used it as collateral to finance his criminal career,",4d4c1f4776ca44eba05246d636855ecf,4
+pippa,theo,"Pippa visits Theo and they confess their feelings for each other,",4d4c1f4776ca44eba05246d636855ecf,4
+pippa,instability,"but she tearfully rejects him, citing the instability caused by their shared childhood trauma.",4d4c1f4776ca44eba05246d636855ecf,4
+the goldfinch,amsterdam,Boris seizes The Goldfinch at gunpoint in Amsterdam during a plan to recover it with Theo's assistance.,b3bd30676d7645c0aeb7eb869cb6ce55,4
+amsterdam,another pair of criminals,Boris and Theo are ambushed by another pair of criminals in Amsterdam during their mission to recover The Goldfinch.,b3bd30676d7645c0aeb7eb869cb6ce55,4
+theo,suicide,Theo attempts suicide in his hotel room after being forced to kill one of the assailants in Amsterdam.,b3bd30676d7645c0aeb7eb869cb6ce55,4
+boris,death,Boris is shot during their mission to recover The Goldfinch in Amsterdam and later dies.,b3bd30676d7645c0aeb7eb869cb6ce55,4
+theo,rescue,Boris rescues Theo after his suicide attempt in the hotel room in Amsterdam.,b3bd30676d7645c0aeb7eb869cb6ce55,4
+boris,greater good,Boris persuades Theo that their actions to recover The Goldfinch and other stolen art in Amsterdam were for the greater good after calling in a tip to the police.,b3bd30676d7645c0aeb7eb869cb6ce55,4
+warner bros. pictures,film rights,"In July 2014, film rights to The Goldfinch were sold to Warner Bros. Pictures in a deal brokered by ICM Partners.",b3bd30676d7645c0aeb7eb869cb6ce55,4
+warner bros.,distribution,Warner Bros. Will distribute the film adaptation of The Goldfinch worldwide.,b3bd30676d7645c0aeb7eb869cb6ce55,4
+amazon studios,co-financing,"In August 2017, Amazon Studios finalized a deal with Warner Bros. To co-finance the adaptation of The Goldfinch where Amazon would invest in more than a third of the project's budget and obtain streaming rights for Prime service.",b3bd30676d7645c0aeb7eb869cb6ce55,4
+ansel elgort,the goldfinch,"On October 4, 2017, after a two-month casting search, Ansel Elgort was cast in the lead role of Theodore 'Theo' Decker in The Goldfinch.",4d67d20ceae34668b35e527ec19a5bf9,4
+theodore 'theo' decker,ansel elgort,Ansel Elgort was cast in the lead role of Theodore 'Theo' Decker in The Goldfinch.,4d67d20ceae34668b35e527ec19a5bf9,4
+"october 4, 2017",ansel elgort,"On October 4, 2017, Ansel Elgort was cast in the lead role of Theodore 'Theo' Decker in The Goldfinch.",4d67d20ceae34668b35e527ec19a5bf9,4
+"october 4, 2017",the goldfinch,"On October 4, 2017, after a two-month casting search, Ansel Elgort was cast in the lead role of Theodore 'Theo' Decker in The Goldfinch.",4d67d20ceae34668b35e527ec19a5bf9,4
+ansel elgort,baby driver,"After his breakout turn in Baby Driver,",4d67d20ceae34668b35e527ec19a5bf9,4
+roger deakins,the goldfinch,"On the same day, cinematographer Roger Deakins revealed to Variety that The Goldfinch was his next project after Blade Runner 2049.",4d67d20ceae34668b35e527ec19a5bf9,4
+"october 4, 2017",roger deakins,"On the same day, cinematographer Roger Deakins revealed to Variety that The Goldfinch was his next project after Blade Runner 2049.",4d67d20ceae34668b35e527ec19a5bf9,4
+ansel elgort,boris,"In light of his recent performance in Dunkirk, Aneurin Barnard was cast as Boris.",4d67d20ceae34668b35e527ec19a5bf9,4
+aneurin barnard,the goldfinch,"In light of his recent performance in Dunkirk, Aneurin Barnard was cast as Boris in The Goldfinch.",4d67d20ceae34668b35e527ec19a5bf9,4
+sarah paulson,xandra,"By late November 2017, Sarah Paulson was cast as Xandra.",4d67d20ceae34668b35e527ec19a5bf9,4
+trevor gureckis,the goldfinch,"In late November 2017, Trevor Gureckis was hired as the film's composer.",4d67d20ceae34668b35e527ec19a5bf9,4
+willa fitzgerald,the goldfinch,"During the same month, Willa Fitzgerald and Ashleigh Cummings joined the cast.",4d67d20ceae34668b35e527ec19a5bf9,4
+ashleigh cummings,the goldfinch,"During the same month, Willa Fitzgerald and Ashleigh Cummings joined the cast.",4d67d20ceae34668b35e527ec19a5bf9,4
+kelley dixon,the goldfinch,"In January 2018, Jeffrey Wright, Luke Wilson, Finn Wolfhard, and Luke Kleintank joined the cast.",4d67d20ceae34668b35e527ec19a5bf9,4
+kelley dixon,the goldfinch,"Later that month, the rest of the cast was announced as principal production commenced.",4d67d20ceae34668b35e527ec19a5bf9,4
+"january 23, 2018",the goldfinch,"Principal photography began in New York on January 23, 2018,",4d67d20ceae34668b35e527ec19a5bf9,4
+albuquerque,the goldfinch,"Before moving to Albuquerque on April 3, 2018 for the rest of production.",4d67d20ceae34668b35e527ec19a5bf9,4
+the goldfinch,principal photography,"Principal photography began in New York on January 23, 2018, for the upcoming film The Goldfinch.",bd340e36ed28430cb6c23056796a534f,4
+albuquerque,the goldfinch,"After moving to Albuquerque on April 3, 2018, production continued for the upcoming film The Goldfinch.",bd340e36ed28430cb6c23056796a534f,4
+footage,the goldfinch,"Footage from the film was first shown at CinemaCon on April 2, 2019, for The Goldfinch.",bd340e36ed28430cb6c23056796a534f,4
+images,the goldfinch,"The first official images of the upcoming film The Goldfinch were released on May 28, 2019.",bd340e36ed28430cb6c23056796a534f,4
+teaser poster,the goldfinch,"The first official teaser poster of the upcoming film The Goldfinch was released on May 28, 2019.",bd340e36ed28430cb6c23056796a534f,4
+trailer,the goldfinch,"The first official trailer for the upcoming film The Goldfinch was released on May 29, 2019.",bd340e36ed28430cb6c23056796a534f,4
+toronto international film festival,the goldfinch,"The Goldfinch premiered at the Toronto International Film Festival on September 8, 2019.",bd340e36ed28430cb6c23056796a534f,4
+united states,the goldfinch,"The Goldfinch was released in cinemas in the United States on September 13, 2019.",bd340e36ed28430cb6c23056796a534f,4
+worldwide total,the goldfinch,"As of [insert latest date], The Goldfinch has grossed a worldwide total of $9.4 million at the box office.",bd340e36ed28430cb6c23056796a534f,4
+production budget,the goldfinch,The production budget for The Goldfinch is estimated to be around $45 million.,bd340e36ed28430cb6c23056796a534f,4
+the goldfinch,box-office bomb,"Following its poor opening, many publications labeled The Goldfinch a box-office bomb and estimated it would lose as much as $50 million.",d6902600012d4f25ba40c4efa44c318d,4
+the goldfinch,uninvolving disappointment,"The critical consensus reads, 'Beautifully filmed yet mostly inert, The Goldfinch mishandles its source material, flattening a complex narrative into a largely uninvolving disappointment.'",d6902600012d4f25ba40c4efa44c318d,4
+the goldfinch,poor opening,"After making just $870,000 on its first day, estimates were lowered to below $3 million.",d6902600012d4f25ba40c4efa44c318d,4
+the goldfinch,loss,Many publications had already labeled the film a box-office bomb and estimated it would lose as much as $50 million ($25–30 million for Warner Bros. And $16–18 million for Amazon Studios).,d6902600012d4f25ba40c4efa44c318d,4
+the goldfinch,uninvolving,"The film plunged 71% in its second weekend to $770,000.",d6902600012d4f25ba40c4efa44c318d,4

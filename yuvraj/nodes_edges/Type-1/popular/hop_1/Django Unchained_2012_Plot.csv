@@ -1,0 +1,33 @@
+node_1,node_2,edge
+django,broomhilda von shaft,Django was separated from his wife Broomhilda von Shaft and sold off in the context provided.
+schultz,django,"Schultz seeks to buy Django for his knowledge of the three outlaw Brittle brothers, implying that there is a relation between Schultz and Django in the context."
+brittle brothers,schultz,"Schultz has a warrant for the arrests of the Brittle brothers, indicating a relation between Schultz and the Brittle brothers in the context."
+ace,schultz,"Ace refuses to sell Django to Schultz and threatens him, indicating a relation between Ace and Schultz in the context."
+dicky,schultz,"Schultz kills Ace and shoots Dicky's horse to pin him to the ground, indicating a relation between Dicky and Schultz in the context."
+shackled black slaves,django,"Among them is Django, sold off and separated from his wife Broomhilda von Shaft, implying a relation between the shackled black slaves and Django in the context."
+broomhilda von shaft,shackled black slaves,"One of the shackled black slaves is Broomhilda von Shaft, a house slave who speaks German and English, indicating a relation between Broomhilda von Shaft and the shackled black slaves in the context."
+django,bennett,"Django and Schultz kill the Brittle brothers at Spencer ""Big Daddy"" Bennett's Tennessee plantation. In turn, Bennett pursues them with an armed posse. Schultz ambushes the posse with explosives, and Django kills Bennett."
+django,schultz,"Feeling responsible for Django, Schultz agrees to help him find and rescue Broomhilda, and Schultz trains Django to become a bounty hunter."
+broomhilda,candie,"Broomhilda's new owner is Calvin J. Candie, owner of the ""Candyland"" plantation."
+django,handbill,"Django collects his first bounty, keeping the handbill as a memento and for good luck."
+schultz,candie,Candie and Schultz engage in a business transaction involving the sale of Broomhilda.
+broomhilda,schultz,Schultz plans to purchase Broomhilda as his escort during negotiations with Candie.
+django,schultz,Schultz and Django work together to execute a plan involving the sale of Broomhilda.
+candie,stephen,Stephen is suspicious of Candie's loyalty towards him and deduces Schultz and Django's plan to purchase Broomhilda.
+django,d'artagnan,Django intervenes to save D'Artagnan when Schultz tries to buy him from Candie's trackers.
+candie,guard dogs,"Candie orders his guard dogs to maul D'Artagnan, angering Schultz."
+broomhilda,schultz,"Enraged, Candie tells Schultz at gunpoint that he won't sell Broomhilda for less than $12,000; Schultz reluctantly agrees. Candie threatens to kill Broomhilda if Schultz does not shake his hand to seal the deal."
+schultz,candie,"Enraged, Candie tells Schultz at gunpoint that he won't sell Broomhilda for less than $12,000; Schultz reluctantly agrees. Candie threatens to kill Broomhilda if Schultz does not shake his hand to seal the deal."
+candie,pooch,"Butch Pooch, Candie's bodyguard, kills Schultz, and Django kills Pooch, Candie's lawyer Leonide Moguy, and many of Candie's henchmen in a prolonged gunfight."
+candie,moguy,"Butch Pooch, Candie's bodyguard, kills Schultz, and Django kills Pooch, Candie's lawyer Leonide Moguy, and many of Candie's henchmen in a prolonged gunfight."
+django,candie,"Butch Pooch, Candie's bodyguard, kills Schultz, and Django kills Pooch, Candie's lawyer Leonide Moguy, and many of Candie's henchmen in a prolonged gunfight."
+django,moguy,"Butch Pooch, Candie's bodyguard, kills Schultz, and Django kills Pooch, Candie's lawyer Leonide Moguy, and many of Candie's henchmen in a prolonged gunfight."
+django,escorts,"En route to the mines along with other slaves, Django devises an escape plan. He uses his first handbill to prove to his escorts that he is a bounty hunter. He claims that the men on the handbill are at Candyland, and promises the escorts a share of the reward money."
+django,schultz's corpse,"Recovering Broomhilda's freedom papers from Schultz's corpse, Django avenges his deceased mentor by taking the necessary documents from his lifeless body."
+django,broomhilda,"Django frees Broomhilda, the woman he loves and previously lost to slavery."
+django,candie's mourners,"As Candie's mourners return from his burial, Django ensures their arrival won't disrupt his mission to rescue Broomhilda."
+django,lara,Django kills Lara as part of his plan to free Broomhilda and avenge Schultz.
+django,crash,"Django also eliminates Crash, another obstacle in his quest for freedom for himself and Broomhilda."
+django,henchmen,"The remaining henchmen are similarly dispatched by Django, leaving the mansion empty except for Stephen."
+stephen,django,"As Stephen returns to the mansion, Django cripples him before setting the dynamite he had planted throughout the mansion alight and leaving the place behind."
+broomhilda,django,"As the mansion explodes, Django and Broomhilda watch from a distance before finally riding off together as a free couple."

@@ -1,0 +1,13 @@
+node_1,node_2,node_3,node_4,edge_1,edge_2,edge_3
+rebecca,irene,sara,irene,Rebecca moves to smother Irene,"Bound and helpless, Irene pleads for Sara to save herself",Sara attempts to stop Rebecca from smothering Irene
+rebecca,irene,sara,phone,Rebecca moves to smother Irene,"Bound and helpless, Irene pleads for Sara to save herself","Sara tries to call for help, but the phone is dead"
+rebecca,irene,sara,window,Rebecca moves to smother Irene,"Bound and helpless, Irene pleads for Sara to save herself",Sara tries to get out the window to get help
+rebecca,irene,sara,dorm,Rebecca moves to smother Irene,"Bound and helpless, Irene pleads for Sara to save herself",Sara moves back into her dorm
+rebecca,irene,sara,extra bed,Rebecca moves to smother Irene,"Bound and helpless, Irene pleads for Sara to save herself","Sara moves the extra bed out of her room with the help of Stephen, proclaiming that she does not want anyone as a roommate for a while"
+sara,irene,sara,irene,Sara attempts to stop Rebecca from smothering Irene,"Bound and helpless, Irene pleads for Sara to save herself",Sara attempts to stop Rebecca from smothering Irene
+sara,irene,sara,phone,Sara attempts to stop Rebecca from smothering Irene,"Bound and helpless, Irene pleads for Sara to save herself","Sara tries to call for help, but the phone is dead"
+sara,irene,sara,window,Sara attempts to stop Rebecca from smothering Irene,"Bound and helpless, Irene pleads for Sara to save herself",Sara tries to get out the window to get help
+sara,irene,sara,dorm,Sara attempts to stop Rebecca from smothering Irene,"Bound and helpless, Irene pleads for Sara to save herself",Sara moves back into her dorm
+sara,irene,sara,extra bed,Sara attempts to stop Rebecca from smothering Irene,"Bound and helpless, Irene pleads for Sara to save herself","Sara moves the extra bed out of her room with the help of Stephen, proclaiming that she does not want anyone as a roommate for a while"
+irene,sara,irene,sara,"Bound and helpless, Irene pleads for Sara to save herself",Sara attempts to stop Rebecca from smothering Irene,"Bound and helpless, Irene pleads for Sara to save herself"
+stephen,rebecca,irene,sara,Stephen briefly disarms Rebecca but is knocked unconscious,Rebecca moves to smother Irene,"Bound and helpless, Irene pleads for Sara to save herself"

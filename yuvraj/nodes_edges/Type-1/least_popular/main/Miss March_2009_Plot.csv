@@ -1,0 +1,20 @@
+node_1,node_2,edge,chunk_id,count
+tucker,eugene,Tucker invites Eugene to an after prom party where Eugene falls into a coma for four years after being given too many shots of hard alcohol by Tucker. Tucker later wakes Eugene from the coma.,3aa9938441094613a8bd39dad1629571,4
+eugene,cindi whitehall,"Eugene and Cindi Whitehall are in a romantic relationship and plan to have sex at Tucker's party, but Eugene falls into a coma before they can.",3aa9938441094613a8bd39dad1629571,4
+tucker,playboy mansion,Tucker devises a plan to go cross country to the Playboy Mansion and crash Playboy's annual Birthday bash in order to reunite Eugene with his old girlfriend.,3aa9938441094613a8bd39dad1629571,4
+candace,tucker,"Tucker's girlfriend, Candace, begins hunting him down after an incident where he stabbed her during an epileptic seizure while performing fellatio.",3aa9938441094613a8bd39dad1629571,4
+rick,candace,"Candace's brother, Rick, leads a group of local firefighters who begin targeting Tucker after he loses them in the chase.",3aa9938441094613a8bd39dad1629571,4
+tucker,firefighters,"The local firefighters led by Candace's brother, Rick, begin targeting Tucker and place a bounty on his head after losing him in the chase.",3aa9938441094613a8bd39dad1629571,4
+eugene,firefighters,Accidentally burning down a hotel room results in firefighters hunting Eugene and Tucker down.,c9f970cca5e24406adf8db80d47ddee9,4
+tucker,firefighters,"Loses the tail and the firefighters reach out to other firefighters across the country, placing a bounty on Tucker's head.",c9f970cca5e24406adf8db80d47ddee9,4
+eugene,horsedick,"Argues with Horsedick, resulting in Eugene defecating on board.",c9f970cca5e24406adf8db80d47ddee9,4
+tucker,hugh hefner,Runs into Hugh Hefner and has a discussion about Tucker's issues with Hugh Hefner telling Tucker about the first woman he ever fell in love with.,c9f970cca5e24406adf8db80d47ddee9,4
+tucker,firefighters,Tucker was handed over to the firefighters for a beheading.,fdab11cd0ca84491a8a58a28237ce964,4
+candace,tucker,"Tucker apologizes to Candace begging for a second chance with her, and she decides to give him another shot.",fdab11cd0ca84491a8a58a28237ce964,4
+rick,candace,Rick is infuriated when Candace gives Tucker another chance.,fdab11cd0ca84491a8a58a28237ce964,4
+eugene,cindi,Cindi tells Eugene that the money she made modeling and being a Playboy Bunny was sent to help pay for Eugene's hospital bills after his neglectful father wanted to permanently move him into a low-grade hospital.,fdab11cd0ca84491a8a58a28237ce964,4
+eugene,cindi,"In the context provided, Eugene tells Tucker that Cindi is waiting upstairs for him, implying a romantic or intimate relationship between Eugene and Cindi. This suggests a relation of 'romantic partner' or 'lover' between these two nodes.",797dc80476b94d37969ff38cbf6e6f65,4
+eugene,tucker,"In the context provided, Eugene and Tucker find themselves in the Mansion's kitchen. During their interaction, Eugene mentions that Cindi is waiting upstairs for him, implying a connection between these two nodes. Furthermore, after having sex, Eugene 'overexerts' himself which could indicate fatigue or exhaustion resulting from sexual activity with Cindi. This implies a relation of 'sexual partner' or 'lover' between Eugene and Tucker.",797dc80476b94d37969ff38cbf6e6f65,4
+crystal,tucker,"During the credits, Crystal is shown in a coma state, and the doctor attempts to resuscitate her using a baseball bat. However, before striking her, Crystal wakes up and threatens Tucker with death. This implies a relation of 'enemy' or 'opponent' between Crystal and Tucker.",797dc80476b94d37969ff38cbf6e6f65,4
+hefner,eugene,"After Eugene's embarrassing incident in front of Hefner, Hefner allows everyone back into the Mansion. This suggests a relation of 'host' or 'inviter' between Hefner and Eugene.",797dc80476b94d37969ff38cbf6e6f65,4
+eugene,horsedick,"In the context provided, Horsedick leaves embarrassed and ashamed after Eugene's incident. This implies a relation of 'witness' or 'observer' between Horsedick and Eugene.",797dc80476b94d37969ff38cbf6e6f65,4

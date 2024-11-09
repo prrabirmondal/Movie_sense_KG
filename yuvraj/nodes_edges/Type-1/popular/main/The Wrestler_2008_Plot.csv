@@ -1,0 +1,19 @@
+node_1,node_2,edge,chunk_id,count
+randy 'the ram' robinson,professional wrestler,Randy 'The Ram' Robinson is a professional wrestler.,e9f39dae3b084e1eba919abfd5a80330,4
+robin ramzinski,randy 'the ram' robinson,"Robin Ramzinski, better known by his ring name Randy 'The Ram' Robinson,",e9f39dae3b084e1eba919abfd5a80330,4
+new jersey,randy 'the ram' robinson,Randy 'The Ram' Robinson wrestles on weekends for independent promotions in New Jersey.,e9f39dae3b084e1eba919abfd5a80330,4
+trailer park,randy 'the ram' robinson,Randy 'The Ram' Robinson lives in a trailer park.,e9f39dae3b084e1eba919abfd5a80330,4
+son,cassidy,Cassidy reveals that she has a son.,e9f39dae3b084e1eba919abfd5a80330,4
+stephanie,randy,"gift giver and recipient, Stephanie initially expects gift from Randy but later he gives it to his daughter",2e400a0a34ee45c8898e5448f19f650e,4
+cassidy,stephanie,"employer-employee relationship, Cassidy is Stephanie's boss at the store",2e400a0a34ee45c8898e5448f19f650e,4
+cassidy,randy,"romantic advances and rejection, Randy tries to court Cassidy but she rejects him due to job",2e400a0a34ee45c8898e5448f19f650e,4
+cassidy,stephanie,"job-related interaction, Stephanie asks Cassidy to find her a gift for Stephanie's birthday",2e400a0a34ee45c8898e5448f19f650e,4
+cassidy,son,"parent-child relationship, Cassidy has a son",2e400a0a34ee45c8898e5448f19f650e,4
+randy,daughter,"parent-child relationship, Randy reveals having a daughter",2e400a0a34ee45c8898e5448f19f650e,4
+randy,prostitute,"sexual interaction, Randy has sex with a prostitute in a women's restroom",2e400a0a34ee45c8898e5448f19f650e,4
+customer,randy,"recognition, customer recognizes Randy as wrestler at the deli counter",2e400a0a34ee45c8898e5448f19f650e,4
+randy,deli counter,"location, Randy goes to a deli counter to apologize to Stephanie",2e400a0a34ee45c8898e5448f19f650e,4
+customer,randy,"insulting interaction, Randy insults customers and Wayne at the store after cutting his hand on the slicer",2e400a0a34ee45c8898e5448f19f650e,4
+randy,heart condition,"Randy has a heart condition that causes chest pain and unsteadiness during his wrestling match, despite Cassidy's pleas to cancel the match.",411bdefac8dd4339ac3fb829667a7015,4
+cassidy,randy,"Cassidy accompanies Randy to the wrestling event and tries to persuade him not to participate because of his heart condition. However, Randy ignores her request.",411bdefac8dd4339ac3fb829667a7015,4
+the ayatollah,randy,"The Ayatollah advises Randy to end the match due to his chest pain and unsteadiness, but Randy disregards this advice.",411bdefac8dd4339ac3fb829667a7015,4

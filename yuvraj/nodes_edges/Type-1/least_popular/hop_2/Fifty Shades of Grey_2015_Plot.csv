@@ -1,0 +1,25 @@
+node_1,node_2,node_3,edge_1,edge_2
+christian,ana,christian,"Christian asks Ana out for coffee, but leaves abruptly after she confesses to being a romantic, saying he is not the man for her.","Christian bestows gifts and favors upon Ana, such as a new car and a laptop"
+christian,ana,kate,"Christian asks Ana out for coffee, but leaves abruptly after she confesses to being a romantic, saying he is not the man for her.",Ana and Kate move to Seattle
+christian,ana,christian,"Christian asks Ana out for coffee, but leaves abruptly after she confesses to being a romantic, saying he is not the man for her.",Ana and Christian have a night in his Red Room.
+christian,ana,rule-breaking,"Christian asks Ana out for coffee, but leaves abruptly after she confesses to being a romantic, saying he is not the man for her.","In an effort to understand Christian's psychology, Ana asks him to demonstrate the worst punishment he would inflict on her for rule-breaking."
+christian,ana,christian,"After considering the non-disclosure agreement and negotiating her own terms, Ana and Christian spend the night together.","Christian bestows gifts and favors upon Ana, such as a new car and a laptop"
+christian,ana,kate,"After considering the non-disclosure agreement and negotiating her own terms, Ana and Christian spend the night together.",Ana and Kate move to Seattle
+christian,ana,christian,"After considering the non-disclosure agreement and negotiating her own terms, Ana and Christian spend the night together.",Ana and Christian have a night in his Red Room.
+christian,ana,rule-breaking,"After considering the non-disclosure agreement and negotiating her own terms, Ana and Christian spend the night together.","In an effort to understand Christian's psychology, Ana asks him to demonstrate the worst punishment he would inflict on her for rule-breaking."
+ana,christian,ana,"Christian bestows gifts and favors upon Ana, such as a new car and a laptop","Christian asks Ana out for coffee, but leaves abruptly after she confesses to being a romantic, saying he is not the man for her."
+ana,christian,ana,"Christian bestows gifts and favors upon Ana, such as a new car and a laptop","After considering the non-disclosure agreement and negotiating her own terms, Ana and Christian spend the night together."
+red room,ana,christian,Ana enters Christian's Red Room after returning home.,"Christian bestows gifts and favors upon Ana, such as a new car and a laptop"
+red room,ana,kate,Ana enters Christian's Red Room after returning home.,Ana and Kate move to Seattle
+red room,ana,christian,Ana enters Christian's Red Room after returning home.,Ana and Christian have a night in his Red Room.
+red room,ana,rule-breaking,Ana enters Christian's Red Room after returning home.,"In an effort to understand Christian's psychology, Ana asks him to demonstrate the worst punishment he would inflict on her for rule-breaking."
+ana,christian,ana,Ana and Christian have a night in his Red Room.,"Christian asks Ana out for coffee, but leaves abruptly after she confesses to being a romantic, saying he is not the man for her."
+ana,christian,ana,Ana and Christian have a night in his Red Room.,"After considering the non-disclosure agreement and negotiating her own terms, Ana and Christian spend the night together."
+belt,ana,christian,"Christian whips Ana with his belt, making her count each stroke out loud.","Christian bestows gifts and favors upon Ana, such as a new car and a laptop"
+belt,ana,kate,"Christian whips Ana with his belt, making her count each stroke out loud.",Ana and Kate move to Seattle
+belt,ana,christian,"Christian whips Ana with his belt, making her count each stroke out loud.",Ana and Christian have a night in his Red Room.
+belt,ana,rule-breaking,"Christian whips Ana with his belt, making her count each stroke out loud.","In an effort to understand Christian's psychology, Ana asks him to demonstrate the worst punishment he would inflict on her for rule-breaking."
+depressed,ana,christian,"Devastated and depressed, Ana leaves Christian,","Christian bestows gifts and favors upon Ana, such as a new car and a laptop"
+depressed,ana,kate,"Devastated and depressed, Ana leaves Christian,",Ana and Kate move to Seattle
+depressed,ana,christian,"Devastated and depressed, Ana leaves Christian,",Ana and Christian have a night in his Red Room.
+depressed,ana,rule-breaking,"Devastated and depressed, Ana leaves Christian,","In an effort to understand Christian's psychology, Ana asks him to demonstrate the worst punishment he would inflict on her for rule-breaking."

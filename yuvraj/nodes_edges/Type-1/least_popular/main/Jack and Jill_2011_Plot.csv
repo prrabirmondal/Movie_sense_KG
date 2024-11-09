@@ -1,0 +1,16 @@
+node_1,node_2,edge,chunk_id,count
+movie,plot,"MOVIE's PLOT is a sequence of events, situations or circumstances that form the storyline of a MOVIE",0ae900e839904e549451baf12de76fa3,4
+jack,erin,Spousal relationship. Jack is married to Erin.,fc55926d84bb4cd195fa4dc80eb76c60,4
+erin,sofia,Parent-child relationship. Sofia is the biological daughter of Jack and Erin.,fc55926d84bb4cd195fa4dc80eb76c60,4
+erin,gary,Adoptive parent-child relationship. Gary is an adoptive Hindu son of Jack and Erin.,fc55926d84bb4cd195fa4dc80eb76c60,4
+erin,carter and bitsy simmons,"In-law relationship. Erin's parents, Carter and Bitsy Simmons, visit during Thanksgiving dinner.",fc55926d84bb4cd195fa4dc80eb76c60,4
+jill,online dating,"Deciding that Jill needs a romantic partner, Jack encourages her to try online dating",203ca8fd56b84b88983d33ef6fb0b7c5,4
+jill,disgrace,"Jill disgraces herself along with Jack and his colleagues, resulting in her ejection",203ca8fd56b84b88983d33ef6fb0b7c5,4
+mexican food,severe case of diarrhea,She suffers a severe case of diarrhea after trying Mexican food for the first time at Felipe's family fiesta,203ca8fd56b84b88983d33ef6fb0b7c5,4
+pacino,dunkaccino advertisement,Pacino agrees to work on the Dunkaccino advertisement on the condition that he has another date with Jill,203ca8fd56b84b88983d33ef6fb0b7c5,4
+jill,poopsie,"Despite the cruise line's strict policy against pets, Jill insists on bringing Poopsie along, irritating everyone onboard.",ab594b6e0e2e4d67997ada6a125fbe82,4
+jill,pacino,"Jill repeatedly rebuffs Pacino, causing suspicion that her invitation was just to convince him to do the advertisement.",ab594b6e0e2e4d67997ada6a125fbe82,4
+jill,jack,"Jill phones Jack and hears Pacino in the background, dejected she returns home.",ab594b6e0e2e4d67997ada6a125fbe82,4
+jill,monica,"Jill encounters her former schoolmate Monica, who attacks Erin but Jill defends her.",ab594b6e0e2e4d67997ada6a125fbe82,4
+pacino,jill,"At a restaurant in the Bronx on New Year's Eve, Pacino arrives dressed as Don Quixote and reminds Jill that he cares about her but other men deserve her more than he does.",ab594b6e0e2e4d67997ada6a125fbe82,4
+jill,erin,"Monica attacks Erin, but Jill defends her.",ab594b6e0e2e4d67997ada6a125fbe82,4

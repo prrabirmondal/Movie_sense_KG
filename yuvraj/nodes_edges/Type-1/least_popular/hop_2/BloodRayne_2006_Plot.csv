@@ -1,0 +1,11 @@
+node_1,node_2,node_3,edge_1,edge_2
+monastery,talisman,monk,"the monastery is where the talisman is guarded by a hammer-wielding, deformed monk","the talisman is guarded by a hammer-wielding, deformed monk"
+monastery,talisman,holy water,"the monastery is where the talisman is guarded by a hammer-wielding, deformed monk",lifting the talisman from its pedestal causes the chamber to flood with holy water
+rayne,talisman,monk,rayne takes the talisman,"the talisman is guarded by a hammer-wielding, deformed monk"
+rayne,talisman,holy water,rayne takes the talisman,lifting the talisman from its pedestal causes the chamber to flood with holy water
+eyeball,rayne,talisman,the eyeball becomes absorbed into rayne's own eye,rayne takes the talisman
+eyeball,rayne,heart talisman,the eyeball becomes absorbed into rayne's own eye,rayne takes the heart talisman
+eyeball,rayne,katarin,the eyeball becomes absorbed into rayne's own eye,rayne kills katarin and takes the heart talisman
+heart,talisman,monk,the heart talisman is one of three body parts which came from an ancient vampire called Belial,"the talisman is guarded by a hammer-wielding, deformed monk"
+heart,talisman,holy water,the heart talisman is one of three body parts which came from an ancient vampire called Belial,lifting the talisman from its pedestal causes the chamber to flood with holy water
+rayne,katarin,heart talisman,rayne kills katarin and takes the heart talisman,the location of the heart talisman is known to katarin as her grandfather hid it in water-filled caves

@@ -1,0 +1,20 @@
+node_1,node_2,edge,chunk_id,relationship,count
+movie,summary,"The given context provides a detailed description of a movie, and the term 'summary' represents an essential aspect of this description.",6aee0297168d42f4b7452b1b0b47633f,,4
+dhampir,rayne,"Rayne is an unholy breed of human and vampire, known simply as a ""dhampir"".",0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+video game character,bloodrayne,BloodRayne is a video game character,0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+belial,ancient vampire,named as an ancient vampire called Belial,6868ffb8a29d4d4a8ccc4014a51ff4ce,,4
+body parts,belial,"the artifact is one of three body parts which came from an ancient vampire called Belial, who had found a way to overcome the weaknesses of a vampire.",6868ffb8a29d4d4a8ccc4014a51ff4ce,,4
+rayne,kagan,"antagonistic relationship between Rayne and Kagan during the battle; Kagan catches Rayne's father's last bolt fired by Sebastian, indicating his superiority and ultimately defeating Sebastian. Rayne avenges her father's death by plunging a bolt into Kagan's heart.",db3229f11cfb46e5a768c3ffaa466650,,4
+sebastian,rayne,father-daughter relationship between Sebastian and Rayne; Sebastian chooses to die rather than let Rayne save him in the aftermath of the battle.,db3229f11cfb46e5a768c3ffaa466650,,4
+guinevere turner,boll,"collaborative relationship between screenwriter Guinevere Turner and director Uwe Boll; Boll accepted Turner's first draft, made many of his own changes, and then asked the actors to contribute.",db3229f11cfb46e5a768c3ffaa466650,,4
+boll,zane,"business relationship between director Uwe Boll and actor Billy Zane; Zane was involved with distributor Romar Entertainment, and Boll later sued him for revenue owed.",db3229f11cfb46e5a768c3ffaa466650,,4
+boll,romania,"location-based relationship between director Uwe Boll and the country of Romania; filming took place in Romania, specifically in the Carpathian Mountains.",db3229f11cfb46e5a768c3ffaa466650,,4
+bloodrayne,uwe boll,"The film BloodRayne, which grossed $3,591,980 against a production budget of $25 million and has a 4% approval rating on Rotten Tomatoes, is associated with director Uwe Boll.",84c65fbacdd249d9a99bc994d02f07cb,,4
+bloodrayne,rotten tomatoes,"The film BloodRayne, which grossed $3,591,980 against a production budget of $25 million and has a 4% approval rating, is mentioned on the review aggregator Rotten Tomatoes.",84c65fbacdd249d9a99bc994d02f07cb,,4
+bloodrayne,2000s,"The film BloodRayne, which grossed $3,591,980 against a production budget of $25 million and has a 4% approval rating on Rotten Tomatoes, was ranked 48th in Rotten Tomatoes's list of worst reviewed films from the 2000s.",84c65fbacdd249d9a99bc994d02f07cb,,4
+bloodrayne,june 2006,"The film BloodRayne, which grossed $3,591,980 against a production budget of $25 million and has a 4% approval rating on Rotten Tomatoes, ended up grossing this amount in June 2006.",84c65fbacdd249d9a99bc994d02f07cb,,4
+bloodrayne,distinguished cast,"The film BloodRayne, which grossed $3,591,980 against a production budget of $25 million and has a 4% approval rating on Rotten Tomatoes, features a distinguished cast.",84c65fbacdd249d9a99bc994d02f07cb,,4
+bloodrayne,overwhelming dislike,"The film BloodRayne, which grossed $3,591,980 against a production budget of $25 million and has a 4% approval rating on Rotten Tomatoes, received overwhelming dislike according to Metacritic.",84c65fbacdd249d9a99bc994d02f07cb,,4
+bloodrayne,joe leydon,"The film BloodRayne, which grossed $3,591,980 against a production budget of $25 million and has a 4% approval rating on Rotten Tomatoes, is associated with Variety critic Joe Leydon.",84c65fbacdd249d9a99bc994d02f07cb,,4
+bloodrayne,tv guide,"The film BloodRayne, which grossed $3,591,980 against a production budget of $25 million and has a 4% approval rating on Rotten Tomatoes, is mentioned in an article by TV Guide critic Maitland McDonagh.",84c65fbacdd249d9a99bc994d02f07cb,,4
+bloodrayne,romar,"Both BloodRayne movies were distributed by Romar, but this relationship ended due to negative critical reception.",916dce450d184b9698d77f0e8224d8d6,,4

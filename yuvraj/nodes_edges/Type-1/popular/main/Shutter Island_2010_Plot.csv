@@ -1,0 +1,15 @@
+node_1,node_2,edge,chunk_id,count
+edward 'teddy' daniels,ashecliffe hospital,Edward 'Teddy' Daniels travels to Ashecliffe Hospital for a case investigation.,e8afa4c9d1754e5d96c9beb0adb477e2,4
+chuck aule,ashecliffe hospital,Chuck Aule travels with Edward 'Teddy' Daniels to Ashecliffe Hospital for the same case investigation.,e8afa4c9d1754e5d96c9beb0adb477e2,4
+rachel solando,ashecliffe hospital,Rachel Solando is a patient in Ashecliffe Hospital who has gone missing during the time of Edward 'Teddy' Daniels and Chuck Aule's investigation.,e8afa4c9d1754e5d96c9beb0adb477e2,4
+dr. john cawley,ashecliffe hospital,Dr. John Cawley is the psychiatrist in charge of Ashecliffe Hospital during Edward 'Teddy' Daniels and Chuck Aule's investigation.,e8afa4c9d1754e5d96c9beb0adb477e2,4
+lester sheehan,ashecliffe hospital,Lester Sheehan was treating Rachel Solando at Ashecliffe Hospital before going on vacation during her disappearance.,e8afa4c9d1754e5d96c9beb0adb477e2,4
+dolores daniels,edward 'teddy' daniels,Dolores Daniels is Edward 'Teddy' Daniels' wife who died in a fire.,e8afa4c9d1754e5d96c9beb0adb477e2,4
+andrew laeddis,edward 'teddy' daniels,Edward 'Teddy' Daniels believes Andrew Laeddis is involved in Rachel Solando's disappearance.,e8afa4c9d1754e5d96c9beb0adb477e2,4
+lighthouse,ashecliffe hospital,"Patients at Ashecliffe Hospital are being taken to a lighthouse to be lobotomized, according to George Noyce.",e8afa4c9d1754e5d96c9beb0adb477e2,4
+teddy,andrew laeddis,"Teddy is the alias used by Andrew Laeddis, a U.S. Marshal who was incarcerated at Ashecliffe for murdering his manic depressive wife after she drowned their three children.",3d32d68928474c73b9756495f8efda7a,4
+cawley,teddy,"The relationship between Cawley and Teddy, where Cawley believes that Teddy does not have a partner and insists that he arrived on the island alone.",3d32d68928474c73b9756495f8efda7a,4
+chuck,teddy,"The relationship between Chuck and Teddy, where Chuck arrives at the lighthouse and reveals himself to be Dr. Sheehan.",3d32d68928474c73b9756495f8efda7a,4
+solando,teddy,"The relationship between Solando and Teddy, where she claims to be a former psychiatrist who discovered clandestine experiments to develop mind control but was forcibly committed.",3d32d68928474c73b9756495f8efda7a,4
+cawley,solando,"The relationship between Cawley and Solando, where Cawley denies the existence of Solando when Teddy confronts him.",3d32d68928474c73b9756495f8efda7a,4
+naehring,teddy,"The relationship between Naehring and Teddy, where he attempts to sedate him when Teddy breaks into the lighthouse.",3d32d68928474c73b9756495f8efda7a,4

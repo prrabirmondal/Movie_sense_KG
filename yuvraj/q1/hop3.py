@@ -3,7 +3,7 @@
 from openai import OpenAI
 
 # please don't share the open_key to anyone. Accessing the open_key is chargeable
-open_key = "sk-proj-JjiOFaKSpvBoI0tIrCs4T3BlbkFJa7921lrxpQfKqG1sXS9H"
+open_key = "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"
 
 
 def get_completion(prompt, api_key, model):

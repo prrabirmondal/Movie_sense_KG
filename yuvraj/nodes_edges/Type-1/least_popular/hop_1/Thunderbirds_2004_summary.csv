@@ -1,0 +1,62 @@
+node_1,node_2,edge
+movies,summary,"MOVIES have a SUMMARY associated with them, which is briefly provided to give an idea about the plot and storyline of the movie."
+thunderbirds,international rescue,"Thunderbirds is a science fiction action-adventure film based on the television series created by Gerry and Sylvia Anderson. In this film, International Rescue (IR), led by widowed former astronaut Jeff Tracy, operates as a secret organisation that aids those in need."
+thunderbirds,jeff tracy,"In the film Thunderbirds, Jeff Tracy leads the International Rescue organisation that operates as a secret organisation to aid those in need."
+thunderbirds,hood,The Hood traps International Rescue (IR) leader Jeff Tracy and four of his sons on board the damaged Thunderbird 5 to steal the other Thunderbirds vehicles and commit heists that IR will be blamed for.
+thunderbirds,thunderbirds vehicles,The Hood steals the other Thunderbirds vehicles in the film Thunderbirds to commit heists that International Rescue (IR) will be blamed for.
+thunderbirds,alan tracy,"In the film Thunderbirds, Alan Tracy and his friends Tin-Tin and Fermat stop The Hood who has trapped International Rescue (IR) leader Jeff Tracy and four of his sons on board the damaged Thunderbird 5 to steal the other Thunderbirds vehicles and commit heists that IR will be blamed for."
+thunderbirds,tin-tin,"In the film Thunderbirds, Tin-Tin helps Alan Tracy stop The Hood who has trapped International Rescue (IR) leader Jeff Tracy and four of his sons on board the damaged Thunderbird 5 to steal the other Thunderbirds vehicles and commit heists that IR will be blamed for."
+thunderbirds,fermat,"In the film Thunderbirds, Fermat helps Alan Tracy stop The Hood who has trapped International Rescue (IR) leader Jeff Tracy and four of his sons on board the damaged Thunderbird 5 to steal the other Thunderbirds vehicles and commit heists that IR will be blamed for."
+thunderbirds,busted,The pop-rock band Busted's song 'Thunderbirds Are Go' is featured in the soundtrack of the film Thunderbirds.
+jeff tracy,widowed former astronaut,"In the film Thunderbirds, Jeff Tracy is a widowed former astronaut who leads International Rescue (IR), a secret organisation that operates to aid those in need."
+tracy family,jeff tracy,widowed former astronaut Jeff Tracy is a part of the Tracy family
+thunderbirds,international rescue (ir),technologically advanced machines called Thunderbirds are operated by International Rescue (IR)
+fermat hackenbacker,brains,son of the Thunderbirds’ resident engineer Brains is Fermat Hackenbacker
+aloysius parker,lady penelope creighton-ward,valet of Lady Penelope Creighton-Ward is Aloysius Parker
+tin-tin,tracy family butler kyrano,daughter of the Tracy family butler Kyrano is Tin-Tin
+the hood,thunderbirds,psychic criminal mastermind The Hood targets Thunderbirds
+thunderbird 3,jeff tracy,"[{'src': 'Jeff Tracy', 'dst': 'Thunderbird 3'}, {'src': 'Scott Tracy', 'dst': 'Thunderbird 3'}, {'src': 'Virgil Tracy', 'dst': 'Thunderbird 3'}]"
+john tracy,gordon tracy,"[{'src': 'John Tracy', 'dst': 'Thunderbird 5'}, {'src': 'Gordon Tracy', 'dst': 'Thunderbird 5'}, {'src': 'Virgil Tracy', 'dst': 'Thunderbird 5'}, {'src': 'International Rescue (IR)', 'dst': 'Thunderbird 5'}]"
+submarine,the hood,"off shore from a submarine, The Hood fires a missile into space at the orbiting Thunderbird 5"
+thunderbird 5,hood,"The Hood takes over the island's command center and shuts off power to Thunderbird 5, trapping International Rescue all inside."
+fermat,thunderbird 2's guidance chip,"Fermat removes Thunderbird 2's guidance chip, delaying the Hood's plan."
+hood,alan's captured friends,The Hood threatens to hurt Alan's captured friends.
+alan,guidance chip,Alan complies and gives up the guidance chip in response to The Hood's threats.
+hood,walk-in freezer,Alan and company are locked in the compound's walk-in freezer by The Hood.
+monorail line,thames,The Hood sinks a monorail line into the Thames and drills into the Bank of England’s vaults.
+alan,submerged monorail car,Alan and Tin-Tin rescue the submerged monorail car using Thunderbird 4 before pursuing The Hood.
+thunderbird 3,rest of the tracy family,The rest of the Tracy family return from space in Thunderbird 3 and
+alan,the hood,"while Alan fights The Hood on a catwalk over the moving drill of The Mole, The Hood is defeated by Tin-Tin."
+alan,the hood,"The Hood taunts Alan to let him die as his father did, but Alan rescues him, knowing that his father had actually tried unsuccessfully to save the Hood."
+alan,tracy family,"The rest of the Tracy family return from space in Thunderbird 3 and confront The Hood at the Bank, where he captures Jeff and Lady Penelope and challenges Alan to defeat him."
+thunderbirds series,peter hewitt,"faithful director of the Thunderbirds series, Peter Hewitt was signed on to direct the movie adaptation."
+thunderbirds series,karey kirkpatrick,"faithful writer of the Thunderbirds series, Karey Kirkpatrick was signed on to write the movie adaptation. Although he was not a lifelong fan of the series, Kirkpatrick watched all 32 episodes of the original series to immerse himself within the lore of the series."
+peter hewitt,jonathan frakes,Jonathan Frakes replaced Peter Hewitt as director due to his dislike for the new direction the film was taking.
+telehandler,original pod vehicle,relation between the two concepts is that 'Telehandler' is an example of an original pod vehicle.
+brady corbet,protagonist alan tracy,Brady Corbet played the role of protagonist Alan Tracy in the film.
+bill paxton,alan's father jeff tracy,Bill Paxton portrayed Alan's father Jeff Tracy in the movie.
+bill paxton,jeff tracy's character,Bill Paxton portrayed Jeff Tracy's character in the film.
+ben kingsley,the hood,Ben Kingsley played the role of The Hood in the movie.
+sophia myles,lady penelope,Sophia Myles acted as Lady Penelope in the film.
+frakes,lovely,The relation between Frakes and 'lovely' is that Frakes was described as 'lovely' by Sophia Myles while working on the set.
+hyde park,oxford street,The author and his five sons met at a hotel located near Hyde Park and walked to Oxford Street.
+author,five sons,The author pretended that these were his five sons while meeting them at a hotel near Hyde Park and walking to Oxford Street.
+alan,jeff,"In Bill Paxton's preparation for his role in the film, he invited Alan (played by Harry Potter actor Rupert Grint), Jeff (played by Luke Skywalker actor Mark Hamill), and three other actors to a meal. Paxton called this experience empowering and said it helped him know Jeff better. This event further strengthens the relationship between these two characters."
+alan's school,wharton academy,"In the movie, Alan's school is shown as Wharton Academy. The filming for this scene took place at Wellington College in Berkshire."
+lady penelope's mansion,cliveden house,The exterior of Lady Penelope's mansion is shown as Cliveden House in the movie. This location was chosen for its grandeur and beauty.
+bank of london,university college london,"In the movie, the exterior of the Bank of London is shown as University College London. The filmmakers chose this location due to its distinctive architecture."
+tracy island,named in dialogue,"In the film, Tracy Island is named in dialogue whereas it was not explicitly mentioned in the original series."
+hood,named in dialogue,"In the film, the Hood is named in dialogue whereas it was not explicitly mentioned in the original series."
+international rescue,now referred to as 'thunderbirds',"In the film, International Rescue is now referred to as 'Thunderbirds' by the general public whereas it was not explicitly mentioned in the original series."
+thunderbirds,box office bomb,"The Thunderbirds movie was a box office bomb, grossing $28,283,637 worldwide against an estimated $57 million budget."
+film,tv series,entire trend of making films based on decades-old TV series is good-intentioned but misguided
+thunderbirds,negative reputation,"The statement, 'Thunderbirds has had a negative reputation with many fans of the original franchise,' implies that there were negative views about 'Thunderbirds' among fans who enjoyed the earlier version."
+cast members,devoted fans,"Cast members frequently speak about the film having devoted fans, especially those who were children when the film was released.'"
+thunderbirds,new version,"She stated, 'For me it was one of the best times of my life.' This implies that the character associated with 'Thunderbirds' was satisfied with the new version."
+thunderbirds,london premiere,"She attended the London premiere, suggesting a direct association between 'Thunderbirds' and this event."
+thunderbird 3,trafalgar square,"The 60-foot model of Thunderbird 3, based on Dominic Lavery's design for the film, was displayed in Trafalgar Square close to the film's release. This shows the promotional efforts made for the film in the iconic location."
+thunderbird 3,blackpool,"The model of Thunderbird 3, based on Dominic Lavery's design for the film, was displayed in Blackpool. This indicates that the promotional efforts made for the film were not limited to London and extended to other locations."
+thunderbird 3,pablo picasso's guernica,"At one point, the model of Thunderbird 3 based on Dominic Lavery's design for the film was decorated with images from Pablo Picasso's Guernica in Blackpool. This highlights the creative elements used to promote the film."
+thunderbird 3,eastern airways,"In early 2008, the model of Thunderbird 3 based on Dominic Lavery's design for the film was purchased by Eastern Airways. This shows that the promotional efforts made for the film had a lasting impact."
+primary sources,context,The context provided includes primary sources such as quotes from Dominic Colenso and references to locations where the model of Thunderbird 3 was displayed. This indicates the significance of these sources in understanding the ontology of terms related to the film.
+secondary sources,context,The context provided also includes references to secondary sources such as 'dominic colenso' and 'eastern airways'. This indicates that these sources are related to the film and contribute to its ontology.

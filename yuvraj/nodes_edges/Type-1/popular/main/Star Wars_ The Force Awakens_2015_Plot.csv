@@ -1,0 +1,22 @@
+node_1,node_2,edge,chunk_id,node_3,count
+first order,new republic,The First Order has risen from the fallen Galactic Empire and seeks to end the New Republic.,8541e8e431e542b0afa4c46a1101baa9,,4
+rey,bb-8,"Rey, Finn, and BB-8 steal the Millennium Falcon and escape Jakku. Rey, Finn, and BB-8 encounter each other.",8541e8e431e542b0afa4c46a1101baa9,,4
+han solo,falcon,Han Solo discovered and boarded the Falcon.,bc9419c52441431c9349c55da17ea53b,,4
+falcon,gangs seeking to settle debts with han,Gangs seeking to settle debts with Han attacked the Falcon but the group escaped in it.,bc9419c52441431c9349c55da17ea53b,,4
+luke,jedi order,Luke attempted to rebuild the Jedi Order.,bc9419c52441431c9349c55da17ea53b,,4
+luke,apprentice,"An apprentice turned to the dark side, destroyed Luke's temple, and slaughtered the other apprentices.",bc9419c52441431c9349c55da17ea53b,,4
+rey,childhood memory,Rey experiences a childhood memory of a ship leaving her on Jakku.,bc9419c52441431c9349c55da17ea53b,,4
+rey,secluded vault,The Force draws Rey to a secluded vault.,bc9419c52441431c9349c55da17ea53b,,4
+rey,anakin skywalker's lightsaber,Rey finds Anakin Skywalker's lightsaber in a secluded vault.,bc9419c52441431c9349c55da17ea53b,,4
+maz kanata,cantina,Maz Kanata owns a cantina.,bc9419c52441431c9349c55da17ea53b,,4
+supreme leader snoke,general hux,General Hux requests to use the weapon for the first time on the New Republic and Supreme Leader Snoke approves it.,bc9419c52441431c9349c55da17ea53b,,4
+kylo,emotions,"Snoke questions Kylo's ability to deal with emotions surrounding his father, Han Solo.",bc9419c52441431c9349c55da17ea53b,,4
+han,chewbacca,"Using the Falcon, Han, Chewbacca, and Finn infiltrate the facility,",b198185035bf4a82aebeba03e63fbcea,Finn,4
+rey,han,"Finds Rey, who had been seen by Han.",b198185035bf4a82aebeba03e63fbcea,,4
+rey,kylo,Kylo pursues Rey and Finn into the woods and incapacitates Rey.,18989e2deb52439c83e86bd68dfac5fc,,4
+finn,kylo,"While trying to escape with Rey, Finn gets defeated by Kylo.",18989e2deb52439c83e86bd68dfac5fc,,4
+rey,kylo,Rey awakens and takes the lightsaber from Kylo after defeating him in a duel.,18989e2deb52439c83e86bd68dfac5fc,,4
+hux,snoke,Snoke orders Hux to evacuate and bring Kylo to him to complete his training.,18989e2deb52439c83e86bd68dfac5fc,,4
+chewbacca,rey,Chewbacca saves Rey and the injured Finn from Kylo's clutches.,18989e2deb52439c83e86bd68dfac5fc,,4
+finn,rey,"While trying to escape with Rey, Finn gets defeated by Kylo.",18989e2deb52439c83e86bd68dfac5fc,,4
+luke,rey,Rey finds Luke atop a cliff on a remote island and presents him with his lightsaber.,18989e2deb52439c83e86bd68dfac5fc,,4

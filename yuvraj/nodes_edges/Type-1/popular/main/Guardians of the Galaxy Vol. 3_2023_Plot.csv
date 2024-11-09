@@ -1,0 +1,37 @@
+node_1,node_2,edge,chunk_id,node_3,edge1,edge2,count
+adam warlock,guardians of the galaxy,"Adam Warlock, a Sovereign warrior created by High Priestess Ayesha, attacks the Guardians of the Galaxy at their new headquarters on Knowhere.",3aff46f4db064457a8fbb29a1013c402,,,,4
+rocket,guardians of the galaxy,"The Guardians of the Galaxy are critically wounded when attacked by Adam Warlock, but Rocket's wounds prove more severe due to a kill switch embedded in him by Orgocorp.",3aff46f4db064457a8fbb29a1013c402,,,,4
+rocket,orgocorp,Orgocorp's med-packs are ineffective at healing Rocket's wounds due to a kill switch embedded in him by the organization.,3aff46f4db064457a8fbb29a1013c402,,,,4
+high evolutionary,rocket,"Rocket was found as a baby raccoon and experimented on by the High Evolutionary, who sought to enhance and anthropomorphize animal lifeforms.",3aff46f4db064457a8fbb29a1013c402,,,,4
+high evolutionary,lylla,The otter Lylla was also found and experimented on by the High Evolutionary alongside Rocket.,3aff46f4db064457a8fbb29a1013c402,,,,4
+high evolutionary,teefs,The walrus Teefs was also found and experimented on by the High Evolutionary alongside Rocket.,3aff46f4db064457a8fbb29a1013c402,,,,4
+high evolutionary,floor,The rabbit Floor was also found and experimented on by the High Evolutionary alongside Rocket.,3aff46f4db064457a8fbb29a1013c402,,,,4
+high evolutionary,rocket,"As Rocket's intelligence grew, the High Evolutionary became envious and planned to harvest his brain for further research before exterminating Batch 89.",3aff46f4db064457a8fbb29a1013c402,,,,4
+high evolutionary,lylla,The High Evolutionary was impressed by Lylla's growing intelligence and used it to fix a defect in later Humanimal batches.,3aff46f4db064457a8fbb29a1013c402,,,,4
+high evolutionary,teefs,The High Evolutionary was impressed by Teefs' growing intelligence and used it to fix a defect in later Humanimal batches.,3aff46f4db064457a8fbb29a1013c402,,,,4
+high evolutionary,floor,The High Evolutionary was impressed by Floor's growing intelligence and used it to fix a defect in later Humanimal batches.,3aff46f4db064457a8fbb29a1013c402,,,,4
+rocket,lylla,"Rocket attempted to free Lylla and his fellow Batch 89 test subjects from the High Evolutionary's clutches, but he was mocked and Lylla was killed.",3aff46f4db064457a8fbb29a1013c402,,,,4
+high evolutionary,rocket,"When Rocket showed grief over Lylla's death, the High Evolutionary killed her as a lesson to the other test subjects.",3aff46f4db064457a8fbb29a1013c402,,,,4
+rocket,high evolutionary,enemy relationship; High Evolutionary's henchmen killed Rocket's friends and Rocket mauled High Evolutionary in revenge,adfbd557874d480cade0dcbba2b99b7a,,,,4
+gamora,ravagers,member relationship; alternate version of Gamora joined the Ravagers,adfbd557874d480cade0dcbba2b99b7a,,,,4
+ayesha,adam,follower relationship; Ayesha and Adam followed the Guardians to find Rocket at the request of High Evolutionary,adfbd557874d480cade0dcbba2b99b7a,,,,4
+drax,mantis,protector relationship; Drax tricked Mantis into pursuing Quill's group and Gamora saved Rocket from Adam and War Pig,adfbd557874d480cade0dcbba2b99b7a,,,,4
+nebula,guards,barrier relationship; Nebula was forced to wait outside by guards due to her cybernetic enhancements,adfbd557874d480cade0dcbba2b99b7a,,,,4
+quill,groot,team relationship; Quill and Groot entered Arête together,adfbd557874d480cade0dcbba2b99b7a,,,,4
+nebula,drax,"rescue relationship; Nebula, Drax, and Mantis boarded to rescue Quill and Groot",adfbd557874d480cade0dcbba2b99b7a,Mantis,,,4
+theel,high evolutionary's code,possessor relationship; Theel had the High Evolutionary's code,adfbd557874d480cade0dcbba2b99b7a,,,,4
+quill,rocket,friendship relationship; Rocket flatlined before Quill and Groot used the code,adfbd557874d480cade0dcbba2b99b7a,,,,4
+quill,adam,"Quill nearly dies trying to reach Knowhere, but is saved by Adam, whom Groot had rescued earlier from Arête's destruction.",312970001bd14fb5beff40c8e3492a58,,,,4
+groot,adam,Groot had rescued Adam earlier from Arête's destruction.,312970001bd14fb5beff40c8e3492a58,,,,4
+drax,high evolutionary's next batch of test subjects,"Drax, Nebula, and Mantis encounter the High Evolutionary's next batch of test subjects, genetically modified humanoid children.",312970001bd14fb5beff40c8e3492a58,,,,4
+high evolutionary's crew,mutiny,"The High Evolutionary's crew mutiny,",312970001bd14fb5beff40c8e3492a58,,,,4
+high evolutionary,rocket,"Rocket discovers imprisoned animals on the ship and is confronted by the High Evolutionary,",312970001bd14fb5beff40c8e3492a58,,,,4
+guardians,high evolutionary's forces,"The other Guardians stage a rescue, leading to a battle against the High Evolutionary's forces.",312970001bd14fb5beff40c8e3492a58,,,,4
+drax,nebula,"Drax, Nebula, and Mantis encounter the High Evolutionary's next batch of test subjects, genetically modified humanoid children, before being captured.",312970001bd14fb5beff40c8e3492a58,,,,4
+adam,groot,"Adam saved Groot, whom Groot had rescued earlier from Arête's destruction.",e6a94bfdb6ea41b88e2b42b61c55633d,,,,4
+quill,guardians,Quill decides to leave the Guardians.,e6a94bfdb6ea41b88e2b42b61c55633d,,,,4
+rocket,new captain,Quill names Rocket as the new captain.,e6a94bfdb6ea41b88e2b42b61c55633d,,,,4
+mantis,abilisks,Mantis embarks on a journey of self-discovery with the Abilisks.,e6a94bfdb6ea41b88e2b42b61c55633d,,,,4
+gamora,ravagers,Gamora rejoins the Ravagers.,e6a94bfdb6ea41b88e2b42b61c55633d,,,,4
+nebula,knowhere,Nebula and Drax remain on Knowhere to raise the rescued children.,e6a94bfdb6ea41b88e2b42b61c55633d,,,,4
+phyla,new guardians,Phyla (one of the rescued children) becomes a part of the new Guardians.,e6a94bfdb6ea41b88e2b42b61c55633d,,,,4

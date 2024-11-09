@@ -1,0 +1,17 @@
+node_1,node_2,edge,chunk_id,node_3,node_4,description,count
+draco malfoy,bellatrix lestrange,"Belonged to Bellatrix Lestrange and Draco Malfoy, wandmaker Ollivander senses Draco's wand has changed its allegiance to Harry Potter.",fdd309355e2e449cbc828632fec3c130,,,,4
+gringotts bank,security,Trapped by security while trying to escape from Gringotts bank after breaking into Bellatrix Lestrange's vault at Gringotts bank.,fdd309355e2e449cbc828632fec3c130,,,,4
+gringotts bank,dragon guardian,Released the dragon guardian and fled Gringotts bank on its back while trying to escape from Gringotts bank after breaking into Bellatrix Lestrange's vault at Gringotts bank.,fdd309355e2e449cbc828632fec3c130,,,,4
+harry potter,lord voldemort,Harry Potter has a vision of Lord Voldemort at Gringotts during the plot details.,fdd309355e2e449cbc828632fec3c130,,,,4
+nagini,final horcrux,Harry realises that Voldemort's snake Nagini is the final Horcrux,09f1ea080dfe4e839b02afd656b02f3f,,,,4
+elder wand,snape,Voldemort tells Snape that the Elder Wand cannot serve Voldemort until Snape dies; Nagini then viciously attacks Snape,09f1ea080dfe4e839b02afd656b02f3f,,,,4
+albus dumbledore,snape,"Following her death, Snape worked with Albus Dumbledore as a double agent amongst the Death Eaters, to protect Harry from Voldemort",09f1ea080dfe4e839b02afd656b02f3f,,,,4
+lily,snape,"Snape despised Harry's late father James, who bullied him, but he loved Harry's mother Lily",09f1ea080dfe4e839b02afd656b02f3f,,,,4
+snape,patronus doe,"causal relation, Snape conjured the Patronus doe",e7d2e11ab3e4438081a52ee70854b902,,,,4
+harry,horcrux,"accidental relation, Harry became an Horcrux by accident",e7d2e11ab3e4438081a52ee70854b902,,,,4
+voldemort's curse,harry,"informational relation, Voldemort's curse originally failed to kill Harry",e7d2e11ab3e4438081a52ee70854b902,,,,4
+dumbledore's spirit,harry,"informational relation, Dumbledore's spirit meets Harry",e7d2e11ab3e4438081a52ee70854b902,,,,4
+molly,bellatrix,"destructive relation, Molly kills Bellatrix",e7d2e11ab3e4438081a52ee70854b902,,,,4
+neville,sword of gryffindor,"causal relation, Neville draws the Sword of Gryffindor from the Sorting Hat in defiance",e7d2e11ab3e4438081a52ee70854b902,,,,4
+harry,voldemort,"final confrontation and killing relation, Harry finally kills Voldemort after his Expelliarmus charm...",e7d2e11ab3e4438081a52ee70854b902,,,,4
+elder wand,voldemort,"informational relation, Voldemort never commanded the Elder Wand",e7d2e11ab3e4438081a52ee70854b902,,,,4

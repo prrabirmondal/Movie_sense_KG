@@ -1,0 +1,20 @@
+node_1,node_2,edge,chunk_id,count
+dia,sever,ex-DIA agent Sever kidnaps DIA director Robert Gant's son Michael and wipes out his security detail in the process.,3a1ea25493594b8bb353545bc739f2bf,4
+sever,dia,"Former DIA agent Sever was adopted and trained by the agency as a covert operative and assassin with 'no fear, no conscience, and no morality.'",3a1ea25493594b8bb353545bc739f2bf,4
+jeremiah ecks,fbi,Former FBI agent Jeremiah Ecks left the agency after his wife Rayne was killed in a car bombing.,3a1ea25493594b8bb353545bc739f2bf,4
+ecks,julio martin,Ecks' old boss Julio Martin asks him to investigate the Gant case and claims that Michael's mother Vin is still alive if Ecks helps take down Sever.,3a1ea25493594b8bb353545bc739f2bf,4
+ross,sever,"Robert Gant's elite agents led by A.J. Ross pursue Sever and try to rescue Michael, but she wipes out Ross's forces in a lengthy gun battle.",3a1ea25493594b8bb353545bc739f2bf,4
+martin,sever,Sever shoots Ecks' old boss Julio Martin during their pursuit.,3a1ea25493594b8bb353545bc739f2bf,4
+ecks,ross,Ecks wipes out Ross's forces in a lengthy gun battle.,8e528a55526c473ab1de0aedd31e084b,4
+sever,martin,"Sever shoots Martin,",8e528a55526c473ab1de0aedd31e084b,4
+ecks,sever,"Ecks pursues Sever, climaxing with a fight that's cut off when Ross starts shooting at them with an M60 machine gun, giving Sever a chance to escape.",8e528a55526c473ab1de0aedd31e084b,4
+vancouver police department,ecks,Ecks is arrested by the Vancouver Police Department under the false pretense that he killed Martin.,8e528a55526c473ab1de0aedd31e084b,4
+sever,ecks,"During a car chase, Sever throws a piece of paper at Ecks and tells him to ask Gant about his wife.",8e528a55526c473ab1de0aedd31e084b,4
+rayne,ecks,"Meeting at an aquarium, it's revealed that Rayne's 'death' was orchestrated by Gant. Rayne ended up believing Ecks had died while he believed that she had. Rayne then married Gant under the name Vinn.",8e528a55526c473ab1de0aedd31e084b,4
+sever,michael,Sever's kidnapping was for Michael's protection.,8e528a55526c473ab1de0aedd31e084b,4
+ecks,sever,"In the final battle, Ecks and Sever eventually gain the upper hand and Sever kills Ross in a fight in the bunker.",8e528a55526c473ab1de0aedd31e084b,4
+gant,michael,Gant tries to retrieve the Softkill in Michael's arm but is surprised to find it's not there.,8e528a55526c473ab1de0aedd31e084b,4
+sever,gant,"During the final battle, Sever kills Gant using a Softkill-loaded bullet and escapes as the police arrive.",8e528a55526c473ab1de0aedd31e084b,4
+ecks,police,Ecks escapes as the police arrive.,d4411544f70e4f58a154093ac21a8a08,4
+gant,softkill-loaded bullet,Kills Gant using a Softkill-loaded bullet.,d4411544f70e4f58a154093ac21a8a08,4
+ecks,family,The film concludes with Ecks and Sever looking over the sea and Ecks thanking Sever for reuniting him with his family.,d4411544f70e4f58a154093ac21a8a08,4

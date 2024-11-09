@@ -1,0 +1,39 @@
+node_1,node_2,edge,chunk_id,count
+margot robbie,barbie,"Margot Robbie portrays Barbie, a doll who is often referred to as 'Stereotypical Barbie' in the movie.",00bf4e3d11424bf5a27678a70f2fe509,4
+issa rae,president barbie,"Issa Rae plays President Barbie, the ruler of Barbieland, in the movie.",00bf4e3d11424bf5a27678a70f2fe509,4
+kate mckinnon,weird barbie,"Kate McKinnon portrays Weird Barbie, the outcast deformed Barbie who lives in the Weird House and has knowledge of the lands outside of Barbieland, in the movie.",00bf4e3d11424bf5a27678a70f2fe509,4
+alexandra shipp,writer barbie,"Alexandra Shipp plays Writer Barbie, one of the variations of Barbie, in the movie.",00bf4e3d11424bf5a27678a70f2fe509,4
+emma mackey,physicist barbie,"Emma Mackey portrays Physicist Barbie, another variation of Barbie, in the movie.",00bf4e3d11424bf5a27678a70f2fe509,4
+hari nef,dr. barbie,"Hari Nef plays Dr. Barbie, a character in the movie.",00bf4e3d11424bf5a27678a70f2fe509,4
+sharon rooney,lawyer barbie,"Sharon Rooney portrays Lawyer Barbie, another variation of Barbie, in the movie.",00bf4e3d11424bf5a27678a70f2fe509,4
+ana cruz kayne,judge barbie,"Ana Cruz Kayne plays Judge Barbie, a character in the movie.",00bf4e3d11424bf5a27678a70f2fe509,4
+ritu arya,journalist barbie,"Ritu Arya portrays Journalist Barbie, one of the variations of Barbie, in the movie.",00bf4e3d11424bf5a27678a70f2fe509,4
+dua lipa,mermaid barbie,"Dua Lipa plays Mermaid Barbie, a character in the movie.",00bf4e3d11424bf5a27678a70f2fe509,4
+nicola coughlan,diplomat barbie,"Nicola Coughlan portrays Diplomat Barbie, another variation of Barbie, in the movie.",00bf4e3d11424bf5a27678a70f2fe509,4
+ryan gosling,ken,"Ryan Gosling portrays Ken, often referred to as 'Beach Ken', in the movie.",00bf4e3d11424bf5a27678a70f2fe509,4
+simu liu,tourist ken,"Simu Liu plays Tourist Ken, another variation of Ken, in the movie.",00bf4e3d11424bf5a27678a70f2fe509,4
+kingsley ben-adir,basketball ken,"Kingsley Ben-Adir portrays Basketball Ken, a character in the movie.",00bf4e3d11424bf5a27678a70f2fe509,4
+ncuti gatwa,artist ken,"Ncuti Gatwa plays Artist Ken, another variation of Ken, in the movie.",00bf4e3d11424bf5a27678a70f2fe509,4
+scott evans,stereotypical ken,"Scott Evans portrays Stereotypical Ken, a character in the movie.",00bf4e3d11424bf5a27678a70f2fe509,4
+john cena,kenmaid,"John Cena plays Kenmaid, a merman Ken, in the movie.",00bf4e3d11424bf5a27678a70f2fe509,4
+america ferrera,gloria,"America Ferrera plays Gloria, a Mattel employee who helps Barbie in the real world, in the movie.",00bf4e3d11424bf5a27678a70f2fe509,4
+ariana greenblatt,sasha,"Ariana Greenblatt plays Sasha, Gloria's daughter, in the movie.",00bf4e3d11424bf5a27678a70f2fe509,4
+helen mirren,narrator,Helen Mirren as the voice of the narrator,8ab87baba39742daac45f5ca388df8e3,4
+will ferrell,ceo of mattel,Will Ferrell as the unnamed CEO of Mattel,8ab87baba39742daac45f5ca388df8e3,4
+connor swindells,aaron dinkins,"Connor Swindells as Aaron Dinkins, a low-level Mattel employee who informs the CEO of Barbie's appearance in Los Angeles",8ab87baba39742daac45f5ca388df8e3,4
+emerald fennell,midge,"Emerald Fennell as Midge, a pregnant doll in Barbieland who lives near Stereotypical Barbie despite being discontinued",8ab87baba39742daac45f5ca388df8e3,4
+asim chaudhry,mattel warehouse employee,Asim Chaudhry as a Mattel warehouse employee,8ab87baba39742daac45f5ca388df8e3,4
+ray fearon,dan at the fbi,Ray Fearon as Dan at the FBI,8ab87baba39742daac45f5ca388df8e3,4
+erica ford,skipper,"Erica Ford as Skipper, one of Barbie's neighbors",8ab87baba39742daac45f5ca388df8e3,4
+mette narrative,barbie video girl,"Mette Narrative as Barbie Video Girl, a doll with a TV on her back who is among the discontinued dolls living with Weird Barbie",8ab87baba39742daac45f5ca388df8e3,4
+marisa abela,teen talk barbie,"Marisa Abela as Teen Talk Barbie, a teen-talking doll who is among the discontinued dolls living with Weird Barbie",8ab87baba39742daac45f5ca388df8e3,4
+lucy boynton,proust barbie,"Lucy Boynton as Proust Barbie, one of the discontinued dolls who lives with Weird Barbie. Boynton was meant to have more scenes, but test audiences' unfamiliarity with Marcel Proust, and thus inability to appreciate the humor associated with the Proust Barbie character, meant that she only appears in a brief cameo in the finished film.",8ab87baba39742daac45f5ca388df8e3,4
+rob brydon,sugar daddy ken,"In the given context, Rob Brydon plays the character Sugar Daddy Ken, who is one of the discontinued dolls that lives with Weird Barbie. Therefore, their relationship can be represented as a pair of nodes and an edge that indicates their association in the given context.",bb1b5426273546b69dc71edc29b8c93a,4
+sugar,rob brydon,"In the context, it is mentioned that Sugar Daddy Ken's toy puppy is named Sugar. This implies that Sugar and Rob Brydon's character have a relation in this specific context.",bb1b5426273546b69dc71edc29b8c93a,4
+tom stourton,earring magic ken,"The provided context mentions that Tom Stourton portrays Earring Magic Ken, who is one of the discontinued dolls living with Weird Barbie. This indicates a connection between Tom Stourton and Earring Magic Ken in this specific context.",bb1b5426273546b69dc71edc29b8c93a,4
+weird barbie,tom stourton,"As per the given context, Tom Stourton's character Earring Magic Ken lives with Weird Barbie. Hence, a relation exists between Weird Barbie and Tom Stourton in this specific context.",bb1b5426273546b69dc71edc29b8c93a,4
+ann roth,the woman on the bench,"According to the provided context, Ann Roth is portraying 'The woman on the bench'. This indicates a connection between Ann Roth and 'The woman on the bench' in this specific context.",bb1b5426273546b69dc71edc29b8c93a,4
+annie mumolo,anxiety mom,"In the given context, Annie Mumolo is playing the role of 'Anxiety Mom'. This implies a relation between Annie Mumolo and 'Anxiety Mom' in this specific context.",bb1b5426273546b69dc71edc29b8c93a,4
+lauren holt,time mom,"As mentioned in the provided context, Lauren Holt is portraying 'Time Mom'. This indicates a connection between Lauren Holt and 'Time Mom' in this specific context.",bb1b5426273546b69dc71edc29b8c93a,4
+ryan piers williams,gloria's husband,The given context reveals that Ryan Piers Williams is playing the character 'Gloria's husband'. This implies a connection between Ryan Piers Williams and 'Gloria's husband' in this specific context.,bb1b5426273546b69dc71edc29b8c93a,4
+tanner,weird barbie,"The provided context mentions that Tanner, a discontinued toy dog with a defecating feature, lives with Weird Barbie. This indicates a relation between Tanner and Weird Barbie in this specific context.",bb1b5426273546b69dc71edc29b8c93a,4

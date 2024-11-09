@@ -1,0 +1,18 @@
+node_1,node_2,node_3,edge_1,edge_2
+penny,lenny,keith,Penny's lifelong obsession with Lenny angers Roxanne.,Lenny's younger son Keith struggles with his own bully Duffy.
+penny,lenny,roxanne,Penny's lifelong obsession with Lenny angers Roxanne.,relationship: Lenny tells Roxanne that she is pregnant.
+penny,lenny,kyle,Penny's lifelong obsession with Lenny angers Roxanne.,"relationship: Lenny does not have an affair with Kyle, who has repaired Becky's stuffed animal."
+penny,lenny,tommy,Penny's lifelong obsession with Lenny angers Roxanne.,relationship: Lenny challenges Tommy to a fight.
+penny,lenny,roxanne,Penny's lifelong obsession with Lenny angers Roxanne.,"relationship: Lenny and Roxanne reconcile, looking forward to their growing family."
+lenny,kyle,roxanne,"relationship: Lenny does not have an affair with Kyle, who has repaired Becky's stuffed animal.","Lenny becomes suspicious of Kyle's relationship with Roxanne,"
+lenny,tommy,lenny,relationship: Lenny challenges Tommy to a fight.,relationship: Tommy takes a dive to allow Lenny to look tough in front of his bullied son.
+tommy,lenny,keith,relationship: Tommy takes a dive to allow Lenny to look tough in front of his bullied son.,Lenny's younger son Keith struggles with his own bully Duffy.
+tommy,lenny,roxanne,relationship: Tommy takes a dive to allow Lenny to look tough in front of his bullied son.,relationship: Lenny tells Roxanne that she is pregnant.
+tommy,lenny,kyle,relationship: Tommy takes a dive to allow Lenny to look tough in front of his bullied son.,"relationship: Lenny does not have an affair with Kyle, who has repaired Becky's stuffed animal."
+tommy,lenny,tommy,relationship: Tommy takes a dive to allow Lenny to look tough in front of his bullied son.,relationship: Lenny challenges Tommy to a fight.
+tommy,lenny,roxanne,relationship: Tommy takes a dive to allow Lenny to look tough in front of his bullied son.,"relationship: Lenny and Roxanne reconcile, looking forward to their growing family."
+eric's mother,lenny,keith,relationship: Eric's mother reassures Lenny about his new baby.,Lenny's younger son Keith struggles with his own bully Duffy.
+eric's mother,lenny,roxanne,relationship: Eric's mother reassures Lenny about his new baby.,relationship: Lenny tells Roxanne that she is pregnant.
+eric's mother,lenny,kyle,relationship: Eric's mother reassures Lenny about his new baby.,"relationship: Lenny does not have an affair with Kyle, who has repaired Becky's stuffed animal."
+eric's mother,lenny,tommy,relationship: Eric's mother reassures Lenny about his new baby.,relationship: Lenny challenges Tommy to a fight.
+eric's mother,lenny,roxanne,relationship: Eric's mother reassures Lenny about his new baby.,"relationship: Lenny and Roxanne reconcile, looking forward to their growing family."

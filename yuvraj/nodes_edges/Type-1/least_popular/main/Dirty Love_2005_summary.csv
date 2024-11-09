@@ -1,0 +1,8 @@
+node_1,node_2,edge,chunk_id,count
+here,details,Here is used as a spatial locator to indicate the proximity of the details being discussed.,5b3a8d40225a487dbba538b743733c39,4
+dirty love,jenny mccarthy,"Dirty Love is a 2005 American romantic comedy film written by Jenny McCarthy and directed by John Mallory Asher. At the time of filming, McCarthy and Asher were married; they divorced the month the film was released.",344551cf39eb4d33940d9fc1c028170b,4
+dirty love,movie,Dirty Love is a movie mentioned in the context.,af8c14c85fea43909fa9cc9429223d8d,4
+jeremy c. fox,person,"Jeremy C. Fox, a person mentioned in the context, gave his opinion about the movie Dirty Love.",af8c14c85fea43909fa9cc9429223d8d,4
+pajiba,website,The website Pajiba is mentioned as the source of Jeremy C. Fox's commentary on Dirty Love.,af8c14c85fea43909fa9cc9429223d8d,4
+critics,group,Jeremy C. Fox refers to a group of people called movie critics in the context.,af8c14c85fea43909fa9cc9429223d8d,4
+love,emotion,"Jeremy C. Fox mentions his emotions towards the movie Dirty Love, 'I kinda love it'.",af8c14c85fea43909fa9cc9429223d8d,4

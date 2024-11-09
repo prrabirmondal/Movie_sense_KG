@@ -1,0 +1,3 @@
+node_1,node_2,edge,chunk_id,node_3,node_4,count
+mike myers,cat in the hat,"Mike Myers portrays the character of Cat in the Hat, an anthropomorphic and large humanoid wise-cracking cat who wears an oversized red bow-tie and a magical red-and-white striped top-hat that reveals many humorous gadgets.",9c51f7c4653f429cb7e88ed51db8c557,,,4
+danielle chuchran,taylor rice,"[{'source': 'Thing 1', 'target': 'Danielle Chuchran'}, {'source': 'Thing 2', 'target': 'Taylor Rice'}]",3489c185981c4513a78242a25cc790b6,Thing 1,Thing 2,4

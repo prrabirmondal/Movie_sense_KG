@@ -1,0 +1,39 @@
+node_1,node_2,node_3,edge_1,edge_2
+little,juan,teresa,Little hides from bullies at a crackhouse and spends the night with Juan and his girlfriend Teresa. Juan teaches Little the basics of life and helps him cope with being tormented by peers. Juan berates Little's mother Paula for neglecting him due to her addiction and argues with her about Chiron's upbringing.,Juan lets Little spend the night with him and his girlfriend Teresa.
+little,paula,chiron,Little's mother Paula is addicted to crack and neglects him. She implies that Little gets tormented by his peers because of 'the way he walks.',Paula asks Chiron to visit her at the drug treatment center where she is living.
+little,chiron,teresa,Little goes by the nickname Chiron.,"Chiron spends time with Teresa, who has lived alone since Juan's death."
+little,chiron,paula,Little goes by the nickname Chiron.,Paula forces Chiron to give her the money he receives from Teresa because she has turned to prostitution due to her worsening addiction.
+little,chiron,kevin,Little goes by the nickname Chiron.,Chiron's childhood friend Kevin tells him about a detention he received for being caught having sex with a girl in a school stairwell.
+little,chiron,terrel,Little goes by the nickname Chiron.,Terrel manipulates Kevin into participating in a hazing ritual against Chiron.
+little,chiron,principal,Little goes by the nickname Chiron.,"The principal urges Chiron to reveal his attackers' identities, but Chiron refuses."
+chiron,paula,chiron,Paula forces Chiron to give her the money he receives from Teresa because she has turned to prostitution due to her worsening addiction.,Paula asks Chiron to visit her at the drug treatment center where she is living.
+chiron,kevin,chiron,Chiron's childhood friend Kevin tells him about a detention he received for being caught having sex with a girl in a school stairwell.,"Kevin visits Chiron at the beach near his house and kisses him before they go all the way, sexually."
+chiron,kevin,chiron,Chiron's childhood friend Kevin tells him about a detention he received for being caught having sex with a girl in a school stairwell.,Kevin invites Chiron to see him in Miami.
+chiron,terrel,other boys,Terrel manipulates Kevin into participating in a hazing ritual against Chiron.,Terrel and other boys savagely attack Chiron during a hazing ritual.
+kevin,chiron,teresa,"Kevin visits Chiron at the beach near his house and kisses him before they go all the way, sexually.","Chiron spends time with Teresa, who has lived alone since Juan's death."
+kevin,chiron,paula,"Kevin visits Chiron at the beach near his house and kisses him before they go all the way, sexually.",Paula forces Chiron to give her the money he receives from Teresa because she has turned to prostitution due to her worsening addiction.
+kevin,chiron,kevin,"Kevin visits Chiron at the beach near his house and kisses him before they go all the way, sexually.",Chiron's childhood friend Kevin tells him about a detention he received for being caught having sex with a girl in a school stairwell.
+kevin,chiron,terrel,"Kevin visits Chiron at the beach near his house and kisses him before they go all the way, sexually.",Terrel manipulates Kevin into participating in a hazing ritual against Chiron.
+kevin,chiron,principal,"Kevin visits Chiron at the beach near his house and kisses him before they go all the way, sexually.","The principal urges Chiron to reveal his attackers' identities, but Chiron refuses."
+black,chiron,teresa,"Black is an adult version of Chiron, who deals drugs in Atlanta.","Chiron spends time with Teresa, who has lived alone since Juan's death."
+black,chiron,paula,"Black is an adult version of Chiron, who deals drugs in Atlanta.",Paula forces Chiron to give her the money he receives from Teresa because she has turned to prostitution due to her worsening addiction.
+black,chiron,kevin,"Black is an adult version of Chiron, who deals drugs in Atlanta.",Chiron's childhood friend Kevin tells him about a detention he received for being caught having sex with a girl in a school stairwell.
+black,chiron,terrel,"Black is an adult version of Chiron, who deals drugs in Atlanta.",Terrel manipulates Kevin into participating in a hazing ritual against Chiron.
+black,chiron,principal,"Black is an adult version of Chiron, who deals drugs in Atlanta.","The principal urges Chiron to reveal his attackers' identities, but Chiron refuses."
+paula,chiron,teresa,Paula asks Chiron to visit her at the drug treatment center where she is living.,"Chiron spends time with Teresa, who has lived alone since Juan's death."
+paula,chiron,paula,Paula asks Chiron to visit her at the drug treatment center where she is living.,Paula forces Chiron to give her the money he receives from Teresa because she has turned to prostitution due to her worsening addiction.
+paula,chiron,kevin,Paula asks Chiron to visit her at the drug treatment center where she is living.,Chiron's childhood friend Kevin tells him about a detention he received for being caught having sex with a girl in a school stairwell.
+paula,chiron,terrel,Paula asks Chiron to visit her at the drug treatment center where she is living.,Terrel manipulates Kevin into participating in a hazing ritual against Chiron.
+paula,chiron,principal,Paula asks Chiron to visit her at the drug treatment center where she is living.,"The principal urges Chiron to reveal his attackers' identities, but Chiron refuses."
+kevin,chiron,teresa,Kevin invites Chiron to see him in Miami.,"Chiron spends time with Teresa, who has lived alone since Juan's death."
+kevin,chiron,paula,Kevin invites Chiron to see him in Miami.,Paula forces Chiron to give her the money he receives from Teresa because she has turned to prostitution due to her worsening addiction.
+kevin,chiron,kevin,Kevin invites Chiron to see him in Miami.,Chiron's childhood friend Kevin tells him about a detention he received for being caught having sex with a girl in a school stairwell.
+kevin,chiron,terrel,Kevin invites Chiron to see him in Miami.,Terrel manipulates Kevin into participating in a hazing ritual against Chiron.
+kevin,chiron,principal,Kevin invites Chiron to see him in Miami.,"The principal urges Chiron to reveal his attackers' identities, but Chiron refuses."
+mother,chiron,teresa,Chiron's mother apologizes for not loving him when he needed it most and tells him she loves him even if he does not love her back.,"Chiron spends time with Teresa, who has lived alone since Juan's death."
+mother,chiron,paula,Chiron's mother apologizes for not loving him when he needed it most and tells him she loves him even if he does not love her back.,Paula forces Chiron to give her the money he receives from Teresa because she has turned to prostitution due to her worsening addiction.
+mother,chiron,kevin,Chiron's mother apologizes for not loving him when he needed it most and tells him she loves him even if he does not love her back.,Chiron's childhood friend Kevin tells him about a detention he received for being caught having sex with a girl in a school stairwell.
+mother,chiron,terrel,Chiron's mother apologizes for not loving him when he needed it most and tells him she loves him even if he does not love her back.,Terrel manipulates Kevin into participating in a hazing ritual against Chiron.
+mother,chiron,principal,Chiron's mother apologizes for not loving him when he needed it most and tells him she loves him even if he does not love her back.,"The principal urges Chiron to reveal his attackers' identities, but Chiron refuses."
+barbara lewis,kevin,chiron,"Kevin plays 'Hello Stranger' by Barbara Lewis on the jukebox, the song that made him think of Chiron.","Kevin visits Chiron at the beach near his house and kisses him before they go all the way, sexually."
+barbara lewis,kevin,chiron,"Kevin plays 'Hello Stranger' by Barbara Lewis on the jukebox, the song that made him think of Chiron.",Kevin invites Chiron to see him in Miami.

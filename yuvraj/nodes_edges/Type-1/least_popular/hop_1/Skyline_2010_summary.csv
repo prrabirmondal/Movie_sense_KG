@@ -1,0 +1,4 @@
+node_1,node_2,edge
+movie,summary,"A movie consists of a summary that provides an overview of its plot, themes, and other important details."
+summary,details,The details included in a summary provide more specific information about the events and characters in the movie.
+message,displayed,"When this message is displayed, it may be indicating that the user has accessed the details of a particular movie's summary."

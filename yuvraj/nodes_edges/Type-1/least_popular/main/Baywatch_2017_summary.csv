@@ -1,0 +1,24 @@
+node_1,node_2,edge,chunk_id,count
+movies,details,MOVIES have DETAILS associated with them.,1d5eae10536d481696accb3a8bb372f1,4
+summary,details,Each MOVIE has a SUMMARY that is part of its DETAILS.,1d5eae10536d481696accb3a8bb372f1,4
+baywatch,mitch buchannon,"Baywatch is a 2017 American action comedy film directed by Seth Gordon, with Mitch Buchannon as the lead character in this movie based on the television series of the same name.",0441afdd08a348339f22de08dfd38712,4
+patrol,baywatch team,"The context involves a scene where Mitch is on patrol and he meets Matt Brody, who later joins the Baywatch team.",84d9f34445634ac4a4bf04cbde844320,4
+mitch,victoria leeds,"Mitch finds a small pouch of flakka near the Huntley Club, owned by Victoria Leeds.",84d9f34445634ac4a4bf04cbde844320,4
+victoria leeds,drugs,The context suggests that drugs are being retrieved from barrels of fish at the Huntley Club owned by Victoria Leeds.,84d9f34445634ac4a4bf04cbde844320,4
+mitch,rodriguez,Mitch and his team continue to investigate Rodriguez's murder.,84d9f34445634ac4a4bf04cbde844320,4
+leeds,drugs,The context suggests that drugs are being retrieved from barrels of fish at the Huntley Club owned by Victoria Leeds.,84d9f34445634ac4a4bf04cbde844320,4
+brody,olympic gold medal-winning swimmer,"Mitch meets Matt Brody, an entitled Olympic gold medal-winning swimmer who expects to make the Baywatch team without trying out.",84d9f34445634ac4a4bf04cbde844320,4
+thorpe,mitch,"Thorpe fires Mitch, naming Brody the new lieutenant.",84d9f34445634ac4a4bf04cbde844320,4
+brody,sand grifters,Brody later sees 'sand grifters (beach thieves)' steal bags using a cooler. He orders them off the beach.,84d9f34445634ac4a4bf04cbde844320,4
+kelly rohrbach,c. j. parker,Kelly Rohrbach's casting as C. J. Parker was confirmed by Johnson's Instagram post.,571bc467ccf746a6a41b95becf59e829,4
+johnson,dany garcia,"Johnson's partner Dany Garcia, through their Seven Bucks Productions,",571bc467ccf746a6a41b95becf59e829,4
+damian shannon,mark swift,"Damian Shannon and Mark Swift wrote the screenplay,",571bc467ccf746a6a41b95becf59e829,4
+ilfenesh hadera,johnson's love interest,"On January 20, 2016, Johnson again posted on his Instagram about casting Ilfenesh Hadera as Johnson's love interest.",571bc467ccf746a6a41b95becf59e829,4
+hannibal buress,community local,"On February 12, 2016, Hannibal Buress joined the cast of the film to play a bay community local.",571bc467ccf746a6a41b95becf59e829,4
+priyanka chopra,antagonist,"On February 17, 2016, Priyanka Chopra signed on to star as the antagonist in the film.",571bc467ccf746a6a41b95becf59e829,4
+yahya abdul-mateen ii,ellerbee,"In March 2016, Yahya Abdul-Mateen II joined the cast as Ellerbee, a police officer who is constantly reminding Mitch that being a lifeguard, he has no actual jurisdiction on the beach.",571bc467ccf746a6a41b95becf59e829,4
+baywatch,deerfield beach,"Principal photography on the film Baywatch began in Deerfield Beach, Florida.",64005009cbce49a3aa8f45d2ad024fb8,4
+terminator genisys,baywatch,"In January 2016, Paramount Pictures scheduled Baywatch for a May 19, 2017 release, which was originally scheduled for a sequel to Terminator Genisys.",64005009cbce49a3aa8f45d2ad024fb8,4
+baywatch,digital hd,"Baywatch was released on Digital HD on August 15, 2017.",64005009cbce49a3aa8f45d2ad024fb8,4
+baywatch,blu-ray and dvd,"Baywatch was released on Blu-ray and DVD on August 29, 2017.",64005009cbce49a3aa8f45d2ad024fb8,4
+sequel,remaining cast,while the remaining cast were expected to also return in the potential sequel.,c4b2da782aef49e7a51557b5f41dc8f8,4

@@ -1,0 +1,2 @@
+node_1,node_2,edge
+chvrches,banks,"[{'node_1': 'Chvrches', 'node_2': 'Banks'}, {'node_1': 'Chvrches', 'node_2': 'Bastille'}, {'node_1': 'Chvrches', 'node_2': 'Eric Prydz'}, {'node_1': 'Chvrches', 'node_2': 'SBTRKT'}, {'node_1': 'Banks', 'node_2': 'Bastille'}, {'node_1': 'Banks', 'node_2': 'Eric Prydz'}, {'node_1': 'Banks', 'node_2': 'SBTRKT'}, {'node_1': 'Bastille', 'node_2': 'Eric Prydz'}, {'node_1': 'Bastille', 'node_2': 'SBTRKT'}, {'node_1': 'Eric Prydz', 'node_2': 'SBTRKT'}]"

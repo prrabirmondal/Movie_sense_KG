@@ -1,0 +1,66 @@
+node_1,node_2,node_3,edge_1,edge_2
+kelly,justin,luke,"The characters, Kelly and Justin, connect during their time on the boat and make plans to meet at the beach the following night.","Luke appears and claims that Kelly is his girlfriend, causing confusion for Justin."
+kelly,justin,alexa,"The characters, Kelly and Justin, connect during their time on the boat and make plans to meet at the beach the following night.","Alexa lies, claiming that Justin called her and said he only wanted to be with Alexa."
+kelly,justin,kelly,"The characters, Kelly and Justin, connect during their time on the boat and make plans to meet at the beach the following night.",Kelly realizes something is amiss as Justin storms off.
+kelly,justin,kelly,"The characters, Kelly and Justin, connect during their time on the boat and make plans to meet at the beach the following night.",Alexa arranges for Justin and Kelly to reunite.
+kelly,justin,kelly,"The characters, Kelly and Justin, connect during their time on the boat and make plans to meet at the beach the following night.","The following day, Justin and Kelly dance together at a pool party."
+alexa,kelly,justin,Alexa pretends to be Kelly and instructs Justin to meet her at a bar instead of the beach.,"The characters, Kelly and Justin, connect during their time on the boat and make plans to meet at the beach the following night."
+alexa,kelly,alexa,Alexa pretends to be Kelly and instructs Justin to meet her at a bar instead of the beach.,"Kelly witnesses Alexa kissing someone, which is Carlos."
+alexa,kelly,justin,Alexa pretends to be Kelly and instructs Justin to meet her at a bar instead of the beach.,Kelly realizes something is amiss as Justin storms off.
+alexa,kelly,alexa,Alexa pretends to be Kelly and instructs Justin to meet her at a bar instead of the beach.,"Kelly reveals what Alexa told her, and they argue."
+justin,luke,justin,"Luke appears and claims that Kelly is his girlfriend, causing confusion for Justin.","Luke and Justin decide to settle their differences through a hovercraft race, but Luke gets injured during the race."
+alexa,justin,luke,"Alexa gives advice to Justin on how to win Kelly back, but Alexa also kisses Justin, which Kelly witnesses.","Luke appears and claims that Kelly is his girlfriend, causing confusion for Justin."
+alexa,justin,alexa,"Alexa gives advice to Justin on how to win Kelly back, but Alexa also kisses Justin, which Kelly witnesses.","Alexa lies, claiming that Justin called her and said he only wanted to be with Alexa."
+alexa,justin,kelly,"Alexa gives advice to Justin on how to win Kelly back, but Alexa also kisses Justin, which Kelly witnesses.",Kelly realizes something is amiss as Justin storms off.
+alexa,justin,kelly,"Alexa gives advice to Justin on how to win Kelly back, but Alexa also kisses Justin, which Kelly witnesses.",Alexa arranges for Justin and Kelly to reunite.
+alexa,justin,kelly,"Alexa gives advice to Justin on how to win Kelly back, but Alexa also kisses Justin, which Kelly witnesses.","The following day, Justin and Kelly dance together at a pool party."
+kaya,carlos,kaya,"Kaya complains to Carlos' boss about his mistreatment, resulting in Carlos being fired.",Carlos becomes angry with Kaya for interfering in his life.
+kaya,carlos,boss,"Kaya complains to Carlos' boss about his mistreatment, resulting in Carlos being fired.",Carlos should have stood up to his boss earlier.
+kaya,carlos,boss,"Kaya complains to Carlos' boss about his mistreatment, resulting in Carlos being fired.","Later, Carlos becomes angry with his boss again."
+luke,justin,luke,"Luke and Justin decide to settle their differences through a hovercraft race, but Luke gets injured during the race.","Luke appears and claims that Kelly is his girlfriend, causing confusion for Justin."
+luke,justin,alexa,"Luke and Justin decide to settle their differences through a hovercraft race, but Luke gets injured during the race.","Alexa lies, claiming that Justin called her and said he only wanted to be with Alexa."
+luke,justin,kelly,"Luke and Justin decide to settle their differences through a hovercraft race, but Luke gets injured during the race.",Kelly realizes something is amiss as Justin storms off.
+luke,justin,kelly,"Luke and Justin decide to settle their differences through a hovercraft race, but Luke gets injured during the race.",Alexa arranges for Justin and Kelly to reunite.
+luke,justin,kelly,"Luke and Justin decide to settle their differences through a hovercraft race, but Luke gets injured during the race.","The following day, Justin and Kelly dance together at a pool party."
+kelly,alexa,kelly,"Kelly witnesses Alexa kissing someone, which is Carlos.",Alexa pretends to be Kelly and instructs Justin to meet her at a bar instead of the beach.
+kelly,alexa,justin,"Kelly witnesses Alexa kissing someone, which is Carlos.","Alexa gives advice to Justin on how to win Kelly back, but Alexa also kisses Justin, which Kelly witnesses."
+kelly,alexa,kelly,"Kelly witnesses Alexa kissing someone, which is Carlos.","Alexa approaches, pretending to want food. Kelly confronts her about Luke and Justin."
+kelly,alexa,kelly,"Kelly witnesses Alexa kissing someone, which is Carlos.",Alexa tells Kelly she stopped Justin and admits to being jealous of the attention Kelly receives from guys.
+carlos,kaya,carlos,Carlos becomes angry with Kaya for interfering in his life.,"Kaya complains to Carlos' boss about his mistreatment, resulting in Carlos being fired."
+carlos,kaya,carlos,Carlos becomes angry with Kaya for interfering in his life.,"Later, Carlos realizes he should have stood up to his boss earlier and apologizes to Kaya by arranging a romantic dinner for them in a pool."
+kaya,carlos,kaya,"Later, Carlos realizes he should have stood up to his boss earlier and apologizes to Kaya by arranging a romantic dinner for them in a pool.",Carlos becomes angry with Kaya for interfering in his life.
+kaya,carlos,boss,"Later, Carlos realizes he should have stood up to his boss earlier and apologizes to Kaya by arranging a romantic dinner for them in a pool.",Carlos should have stood up to his boss earlier.
+kaya,carlos,boss,"Later, Carlos realizes he should have stood up to his boss earlier and apologizes to Kaya by arranging a romantic dinner for them in a pool.","Later, Carlos becomes angry with his boss again."
+alexa,kelly,justin,"Alexa approaches, pretending to want food. Kelly confronts her about Luke and Justin.","The characters, Kelly and Justin, connect during their time on the boat and make plans to meet at the beach the following night."
+alexa,kelly,alexa,"Alexa approaches, pretending to want food. Kelly confronts her about Luke and Justin.","Kelly witnesses Alexa kissing someone, which is Carlos."
+alexa,kelly,justin,"Alexa approaches, pretending to want food. Kelly confronts her about Luke and Justin.",Kelly realizes something is amiss as Justin storms off.
+alexa,kelly,alexa,"Alexa approaches, pretending to want food. Kelly confronts her about Luke and Justin.","Kelly reveals what Alexa told her, and they argue."
+justin,alexa,kelly,"Alexa lies, claiming that Justin called her and said he only wanted to be with Alexa.",Alexa pretends to be Kelly and instructs Justin to meet her at a bar instead of the beach.
+justin,alexa,justin,"Alexa lies, claiming that Justin called her and said he only wanted to be with Alexa.","Alexa gives advice to Justin on how to win Kelly back, but Alexa also kisses Justin, which Kelly witnesses."
+justin,alexa,kelly,"Alexa lies, claiming that Justin called her and said he only wanted to be with Alexa.","Alexa approaches, pretending to want food. Kelly confronts her about Luke and Justin."
+justin,alexa,kelly,"Alexa lies, claiming that Justin called her and said he only wanted to be with Alexa.",Alexa tells Kelly she stopped Justin and admits to being jealous of the attention Kelly receives from guys.
+kelly,justin,luke,Kelly realizes something is amiss as Justin storms off.,"Luke appears and claims that Kelly is his girlfriend, causing confusion for Justin."
+kelly,justin,alexa,Kelly realizes something is amiss as Justin storms off.,"Alexa lies, claiming that Justin called her and said he only wanted to be with Alexa."
+kelly,justin,kelly,Kelly realizes something is amiss as Justin storms off.,Kelly realizes something is amiss as Justin storms off.
+kelly,justin,kelly,Kelly realizes something is amiss as Justin storms off.,Alexa arranges for Justin and Kelly to reunite.
+kelly,justin,kelly,Kelly realizes something is amiss as Justin storms off.,"The following day, Justin and Kelly dance together at a pool party."
+kelly,alexa,kelly,"Kelly reveals what Alexa told her, and they argue.",Alexa pretends to be Kelly and instructs Justin to meet her at a bar instead of the beach.
+kelly,alexa,justin,"Kelly reveals what Alexa told her, and they argue.","Alexa gives advice to Justin on how to win Kelly back, but Alexa also kisses Justin, which Kelly witnesses."
+kelly,alexa,kelly,"Kelly reveals what Alexa told her, and they argue.","Alexa approaches, pretending to want food. Kelly confronts her about Luke and Justin."
+kelly,alexa,kelly,"Kelly reveals what Alexa told her, and they argue.",Alexa tells Kelly she stopped Justin and admits to being jealous of the attention Kelly receives from guys.
+justin,kelly,justin,Kelly realizes something is amiss as Justin storms off.,"The characters, Kelly and Justin, connect during their time on the boat and make plans to meet at the beach the following night."
+justin,kelly,alexa,Kelly realizes something is amiss as Justin storms off.,"Kelly witnesses Alexa kissing someone, which is Carlos."
+justin,kelly,justin,Kelly realizes something is amiss as Justin storms off.,Kelly realizes something is amiss as Justin storms off.
+justin,kelly,alexa,Kelly realizes something is amiss as Justin storms off.,"Kelly reveals what Alexa told her, and they argue."
+alexa,kelly,justin,Alexa tells Kelly she stopped Justin and admits to being jealous of the attention Kelly receives from guys.,"The characters, Kelly and Justin, connect during their time on the boat and make plans to meet at the beach the following night."
+alexa,kelly,alexa,Alexa tells Kelly she stopped Justin and admits to being jealous of the attention Kelly receives from guys.,"Kelly witnesses Alexa kissing someone, which is Carlos."
+alexa,kelly,justin,Alexa tells Kelly she stopped Justin and admits to being jealous of the attention Kelly receives from guys.,Kelly realizes something is amiss as Justin storms off.
+alexa,kelly,alexa,Alexa tells Kelly she stopped Justin and admits to being jealous of the attention Kelly receives from guys.,"Kelly reveals what Alexa told her, and they argue."
+justin,kelly,justin,Alexa arranges for Justin and Kelly to reunite.,"The characters, Kelly and Justin, connect during their time on the boat and make plans to meet at the beach the following night."
+justin,kelly,alexa,Alexa arranges for Justin and Kelly to reunite.,"Kelly witnesses Alexa kissing someone, which is Carlos."
+justin,kelly,justin,Alexa arranges for Justin and Kelly to reunite.,Kelly realizes something is amiss as Justin storms off.
+justin,kelly,alexa,Alexa arranges for Justin and Kelly to reunite.,"Kelly reveals what Alexa told her, and they argue."
+justin,kelly,justin,"The following day, Justin and Kelly dance together at a pool party.","The characters, Kelly and Justin, connect during their time on the boat and make plans to meet at the beach the following night."
+justin,kelly,alexa,"The following day, Justin and Kelly dance together at a pool party.","Kelly witnesses Alexa kissing someone, which is Carlos."
+justin,kelly,justin,"The following day, Justin and Kelly dance together at a pool party.",Kelly realizes something is amiss as Justin storms off.
+justin,kelly,alexa,"The following day, Justin and Kelly dance together at a pool party.","Kelly reveals what Alexa told her, and they argue."

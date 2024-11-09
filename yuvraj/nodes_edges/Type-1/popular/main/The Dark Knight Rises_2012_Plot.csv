@@ -1,0 +1,17 @@
+node_1,node_2,edge,chunk_id,count
+bane,league of shadows,Bane was formerly a member of the League of Shadows.,c3b037bff7314c9098da147655c8d65a,4
+dr. leonid pavel,bane,Bane abducts Dr. Leonid Pavel from a CIA plane.,c3b037bff7314c9098da147655c8d65a,4
+dr. leonid pavel,nuclear physicist,Dr. Leonid Pavel is a nuclear physicist who was abducted by Bane from a CIA plane.,c3b037bff7314c9098da147655c8d65a,4
+harvey dent,organized crime,The death of Harvey Dent led to the eradication of organized crime in Gotham City through the Dent Act.,c3b037bff7314c9098da147655c8d65a,4
+james gordon,harvey dent,James Gordon kept Harvey Dent's killing spree a secret and allowed the blame for his crimes to fall on Batman.,c3b037bff7314c9098da147655c8d65a,4
+bruce wayne,rachel dawes,Bruce Wayne is still mourning the death of Rachel Dawes.,c3b037bff7314c9098da147655c8d65a,4
+wayne enterprises,bruce wayne,"Bruce Wayne is a reclusive owner of Wayne Enterprises, which has stagnated since Rachel Dawes' death.",c3b037bff7314c9098da147655c8d65a,4
+john daggett,wayne enterprises board member,"Bane conspires to help John Daggett, a Wayne Enterprises board member, take over the company.",c3b037bff7314c9098da147655c8d65a,4
+selina kyle,wayne manor,"Selina Kyle steals Bruce's prints from Wayne Manor for John Daggett, a Wayne Enterprises board member.",c3b037bff7314c9098da147655c8d65a,4
+john blake,orphan,Officer John Blake is an orphan who has deduced Bruce Wayne's secret identity.,c3b037bff7314c9098da147655c8d65a,4
+bruce,batman,Bruce escapes captivity and returns to Gotham as Batman.,5b1b98025fec4262bc0ff7b5f52ab79e,4
+bane,bruce,Bane's army clashes with Batman in the streets after Bruce escapes captivity.,5b1b98025fec4262bc0ff7b5f52ab79e,4
+catwoman,bane,Catwoman kills Bane during the battle with Batman's army.,5b1b98025fec4262bc0ff7b5f52ab79e,4
+gordon,bomb,"Gordon blocks the signal, preventing the bomb from exploding.",5b1b98025fec4262bc0ff7b5f52ab79e,4
+alfred,bruce,Alfred discovers that Bruce is alive and in a relationship with Selina.,5b1b98025fec4262bc0ff7b5f52ab79e,4
+blake,robin,"Blake, whose legal first name is revealed as Robin, resigns from the GCPD and receives a package leading him to the Batcave.",737f1276f32e45eca8c942c12b40b4cd,4

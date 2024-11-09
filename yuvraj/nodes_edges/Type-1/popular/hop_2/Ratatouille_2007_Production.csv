@@ -1,0 +1,6 @@
+node_1,node_2,node_3,edge_1,edge_2
+films,brad bird,brad lewis,"director Brad Bird is associated with the production of this movie, 'films'.",both Brad Bird and Brad Lewis are producers for this movie.
+brad bird,brad lewis,paris,both Brad Bird and Brad Lewis are producers for this movie.,"Director Brad Bird, producer Brad Lewis and some of the crew spent a week in Paris to properly understand its environment,"
+city,brad bird,brad lewis,Brad Bird went to the city to understand its environment for better portrayal in the movie.,both Brad Bird and Brad Lewis are producers for this movie.
+motorcycle tour,city,brad bird,exploring the city through a motorcycle tour helped Brad Bird and his crew to understand the environment more accurately.,Brad Bird went to the city to understand its environment for better portrayal in the movie.
+seine,linguini,remy,linguini jumps into the seine to fetch remy in one of the scenes from the movie.,"linguini and remy are two characters from the movie, 'films'."

@@ -1,0 +1,28 @@
+node_1,node_2,node_3,edge_1,edge_2
+han solo,falcon,gangs seeking to settle debts with han,Han Solo discovered and boarded the Falcon.,Gangs seeking to settle debts with Han attacked the Falcon but the group escaped in it.
+han,chewbacca,rey,"Using the Falcon, Han, Chewbacca, and Finn infiltrate the facility,",Chewbacca saves Rey and the injured Finn from Kylo's clutches.
+rey,han,chewbacca,"Finds Rey, who had been seen by Han.","Using the Falcon, Han, Chewbacca, and Finn infiltrate the facility,"
+rey,kylo,emotions,Kylo pursues Rey and Finn into the woods and incapacitates Rey.,"Snoke questions Kylo's ability to deal with emotions surrounding his father, Han Solo."
+finn,kylo,emotions,"While trying to escape with Rey, Finn gets defeated by Kylo.","Snoke questions Kylo's ability to deal with emotions surrounding his father, Han Solo."
+rey,kylo,emotions,Rey awakens and takes the lightsaber from Kylo after defeating him in a duel.,"Snoke questions Kylo's ability to deal with emotions surrounding his father, Han Solo."
+chewbacca,rey,bb-8,Chewbacca saves Rey and the injured Finn from Kylo's clutches.,"Rey, Finn, and BB-8 steal the Millennium Falcon and escape Jakku. Rey, Finn, and BB-8 encounter each other."
+chewbacca,rey,childhood memory,Chewbacca saves Rey and the injured Finn from Kylo's clutches.,Rey experiences a childhood memory of a ship leaving her on Jakku.
+chewbacca,rey,secluded vault,Chewbacca saves Rey and the injured Finn from Kylo's clutches.,The Force draws Rey to a secluded vault.
+chewbacca,rey,anakin skywalker's lightsaber,Chewbacca saves Rey and the injured Finn from Kylo's clutches.,Rey finds Anakin Skywalker's lightsaber in a secluded vault.
+chewbacca,rey,han,Chewbacca saves Rey and the injured Finn from Kylo's clutches.,"Finds Rey, who had been seen by Han."
+chewbacca,rey,kylo,Chewbacca saves Rey and the injured Finn from Kylo's clutches.,Kylo pursues Rey and Finn into the woods and incapacitates Rey.
+chewbacca,rey,kylo,Chewbacca saves Rey and the injured Finn from Kylo's clutches.,Rey awakens and takes the lightsaber from Kylo after defeating him in a duel.
+finn,rey,bb-8,"While trying to escape with Rey, Finn gets defeated by Kylo.","Rey, Finn, and BB-8 steal the Millennium Falcon and escape Jakku. Rey, Finn, and BB-8 encounter each other."
+finn,rey,childhood memory,"While trying to escape with Rey, Finn gets defeated by Kylo.",Rey experiences a childhood memory of a ship leaving her on Jakku.
+finn,rey,secluded vault,"While trying to escape with Rey, Finn gets defeated by Kylo.",The Force draws Rey to a secluded vault.
+finn,rey,anakin skywalker's lightsaber,"While trying to escape with Rey, Finn gets defeated by Kylo.",Rey finds Anakin Skywalker's lightsaber in a secluded vault.
+finn,rey,han,"While trying to escape with Rey, Finn gets defeated by Kylo.","Finds Rey, who had been seen by Han."
+finn,rey,kylo,"While trying to escape with Rey, Finn gets defeated by Kylo.",Kylo pursues Rey and Finn into the woods and incapacitates Rey.
+finn,rey,kylo,"While trying to escape with Rey, Finn gets defeated by Kylo.",Rey awakens and takes the lightsaber from Kylo after defeating him in a duel.
+luke,rey,bb-8,Rey finds Luke atop a cliff on a remote island and presents him with his lightsaber.,"Rey, Finn, and BB-8 steal the Millennium Falcon and escape Jakku. Rey, Finn, and BB-8 encounter each other."
+luke,rey,childhood memory,Rey finds Luke atop a cliff on a remote island and presents him with his lightsaber.,Rey experiences a childhood memory of a ship leaving her on Jakku.
+luke,rey,secluded vault,Rey finds Luke atop a cliff on a remote island and presents him with his lightsaber.,The Force draws Rey to a secluded vault.
+luke,rey,anakin skywalker's lightsaber,Rey finds Luke atop a cliff on a remote island and presents him with his lightsaber.,Rey finds Anakin Skywalker's lightsaber in a secluded vault.
+luke,rey,han,Rey finds Luke atop a cliff on a remote island and presents him with his lightsaber.,"Finds Rey, who had been seen by Han."
+luke,rey,kylo,Rey finds Luke atop a cliff on a remote island and presents him with his lightsaber.,Kylo pursues Rey and Finn into the woods and incapacitates Rey.
+luke,rey,kylo,Rey finds Luke atop a cliff on a remote island and presents him with his lightsaber.,Rey awakens and takes the lightsaber from Kylo after defeating him in a duel.

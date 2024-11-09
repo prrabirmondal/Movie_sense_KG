@@ -1,0 +1,25 @@
+node_1,node_2,edge,chunk_id,count
+cobb,saito,Cobb is hired by Saito for a new job.,843dec79fabb4da7bb6e96a09e2828c9,4
+cobb,arthur,Cobb and Arthur are extractors who perform corporate espionage together.,843dec79fabb4da7bb6e96a09e2828c9,4
+eames,cobb,Eames is part of Cobb's team for the new job.,843dec79fabb4da7bb6e96a09e2828c9,4
+yusuf,cobb,Yusuf is part of Cobb's team for the new job.,843dec79fabb4da7bb6e96a09e2828c9,4
+ariadne,cobb,Ariadne is assigned to design the dream's architecture because Cobb cannot do it himself due to his past with Mal.,843dec79fabb4da7bb6e96a09e2828c9,4
+robert fischer,maurice fischer,Robert Fischer is the son of Maurice Fischer.,843dec79fabb4da7bb6e96a09e2828c9,4
+maurice fischer,saito,Maurice Fischer is a competitor of Saito's.,843dec79fabb4da7bb6e96a09e2828c9,4
+cobb,mal,"Cobb's late wife, Mal, appears in his mind's projection and poses a risk during the new job.",843dec79fabb4da7bb6e96a09e2828c9,4
+eames,ariadne,Eames and Ariadne are both part of Cobb's team for the new job.,843dec79fabb4da7bb6e96a09e2828c9,4
+yusuf,ariadne,Yusuf and Ariadne are both part of Cobb's team for the new job.,843dec79fabb4da7bb6e96a09e2828c9,4
+mal,limbo,"Cobb tells Ariadne that he and Mal entered Limbo while experimenting with dream-sharing, experiencing fifty years in one night due to the time dilation with reality. Attempting to 'wake up', she committed suicide and framed Cobb for her murder to force him to do the same.",dc35e5c54e524f36b2dbc02d9df81097,4
+cobb,mal,"Mal still believed she was dreaming after waking up, as Cobb fled the U.S., leaving his children behind and framing him for her murder to force him to do the same.",dc35e5c54e524f36b2dbc02d9df81097,4
+cobb,robert,"Cobb persuades Robert that Browning has kidnapped him to stop the dissolution and that Cobb is a defensive projection, leading Robert to another third level deeper as part of a ruse to enter Robert's subconscious.",dc35e5c54e524f36b2dbc02d9df81097,4
+the team,alpine fortress with a projection of maurice inside,"In the third level, the team infiltrates an alpine fortress with a projection of Maurice inside, where the inception itself can be performed.",dc35e5c54e524f36b2dbc02d9df81097,4
+mal,cobb,"Relationship between Mal and Cobb in the given context involves Mal refusing to return to reality in Limbo, which led to her death. Cobb makes peace with his part in Mal's death.",ad68f1b6b32e4aed96156bc5ca03bcb0,4
+robert,mal,"In the given context, Robert is subjected to an inception by Mal, but she kills him before he can be fully incepted. This leads to Cobb and Ariadne rescuing them both in time for Robert's inception.",ad68f1b6b32e4aed96156bc5ca03bcb0,4
+saito,cobb,"In the given context, there is an agreement between Cobb and Saito that is fulfilled in Limbo. Cobb finds an aged Saito in Limbo and reminds him of their agreement.",ad68f1b6b32e4aed96156bc5ca03bcb0,4
+ariadne,mal's projection,"In the given context, Ariadne kills Mal's projection to rescue Robert and Eames from Limbo.",ad68f1b6b32e4aed96156bc5ca03bcb0,4
+robert,father,"In the given context, Cobb's father-in-law reveals to Robert that his dying father told him to create something for himself in a dream. This planted idea is awakened in Robert upon waking from his inception.",ad68f1b6b32e4aed96156bc5ca03bcb0,4
+eames,water,"In the given context, Eames's kick hits the water by rigging an elevator with explosives to improvise a new set of kicks synchronized with Arthur's hit on the water.",ad68f1b6b32e4aed96156bc5ca03bcb0,4
+arthur,water,"In the given context, Arthur hits the water while Eames synchronizes his kick with an elevator rigged with explosives to improvise a new set of kicks.",ad68f1b6b32e4aed96156bc5ca03bcb0,4
+cobb,top,"In the given context, Cobb uses Mal's spinning top as a test to determine if he is in the real world. However, he chooses not to observe the result and instead joins his children.",ad68f1b6b32e4aed96156bc5ca03bcb0,4
+cobb,father-in-law,"In the given context, Cobb's father-in-law accompanies him to his home after waking from the dream.",ad68f1b6b32e4aed96156bc5ca03bcb0,4
+saito,phone,"In the given context, Saito makes a phone call after waking up from the dream.",ad68f1b6b32e4aed96156bc5ca03bcb0,4

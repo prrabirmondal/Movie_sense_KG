@@ -1,0 +1,17 @@
+node_1,node_2,edge,chunk_id,count
+jan pinkava,pixar,Jan Pinkava departed Pixar in 2005 while Peterson left the film to return to work on Up.,3b0d1c53f05b4624a2a5e2ffd13bf20e,4
+brad lewis,paris,"Director Brad Bird, producer Brad Lewis and some of the crew spent a week in Paris to properly understand its environment,",3b0d1c53f05b4624a2a5e2ffd13bf20e,4
+films,brad bird,"director Brad Bird is associated with the production of this movie, 'films'.",40bd14250dfa4e368b0de83c126f592c,4
+brad bird,brad lewis,both Brad Bird and Brad Lewis are producers for this movie.,40bd14250dfa4e368b0de83c126f592c,4
+city,brad bird,Brad Bird went to the city to understand its environment for better portrayal in the movie.,40bd14250dfa4e368b0de83c126f592c,4
+motorcycle tour,city,exploring the city through a motorcycle tour helped Brad Bird and his crew to understand the environment more accurately.,40bd14250dfa4e368b0de83c126f592c,4
+linguini,remy,"linguini and remy are two characters from the movie, 'films'.",40bd14250dfa4e368b0de83c126f592c,4
+seine,linguini,linguini jumps into the seine to fetch remy in one of the scenes from the movie.,40bd14250dfa4e368b0de83c126f592c,4
+confit byaldi,ratatouille dish,"the movie's take on the traditional ratatouille dish is called 'confit byaldi', suggested by gourmet chef thomas keller.",40bd14250dfa4e368b0de83c126f592c,4
+french laundry kitchen,thomas keller,producer brad lewis interned in thomas keller's french laundry kitchen for the movie's climax.,40bd14250dfa4e368b0de83c126f592c,4
+art department,michael warch,"michael warch, a culinary-academy-trained professional chef before working at pixar, helped teach and consult animators from the art department.",40bd14250dfa4e368b0de83c126f592c,4
+confit byaldi,title dish,"Keller suggested a fancy, layered version of the title dish called 'confit byaldi' for the rat characters to cook in the film's climax.",89d376e43b824ac5ae656b69aa7b4529,4
+french accents,rat characters,The cast members strove to make their French accents authentic yet understandable for the rat characters.,89d376e43b824ac5ae656b69aa7b4529,4
+anton ego,vulture,Pinkava designed Anton Ego to resemble a vulture.,89d376e43b824ac5ae656b69aa7b4529,4
+french laundry kitchen,producer brad lewis,Keller allowed producer Brad Lewis to intern in his French Laundry kitchen.,89d376e43b824ac5ae656b69aa7b4529,4
+human characters,toes,"To save time, human characters were designed and animated without toes.",355b37de3b644565b82ca3cd78032498,4

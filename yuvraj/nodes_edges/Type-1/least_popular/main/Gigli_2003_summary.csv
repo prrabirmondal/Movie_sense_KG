@@ -1,0 +1,13 @@
+node_1,node_2,edge,chunk_id,count
+movies,details,MOVIES and DETAILS are related in this context as the text mentions 'HERE IS THE DETAILS OF MOVIE'S SUMMARY',0186690be3c3438487029c2d38c56542,4
+gigli,ricki,Gigli is attracted to Ricki,94a0a6cf7f6a49a483dd4956f8b8302b,4
+gigli,louis,Gigli resents Louis' lack of faith in him,94a0a6cf7f6a49a483dd4956f8b8302b,4
+ricki,louis,"Ricki is a woman, and Gigli resents both Louis' lack of faith in him and having to take orders from her",94a0a6cf7f6a49a483dd4956f8b8302b,4
+brian,gigli,Gigli is frustrated by Brian's insistence on going to 'the Baywatch',94a0a6cf7f6a49a483dd4956f8b8302b,4
+gigli,ending,original ending featured Gigli being killed,3925cba02b8b41ddb426a97e8cf5f48e,4
+gigli,most expensive box office flops of all time,Gigli's worldwide gross of $7.7 million against a $75.6 million budget made it one of the most expensive box office flops of all time.,ff14a8682ddd47499e46876f770e6b2e,4
+gigli,panned by critics,Gigli was panned by critics as stated in the context.,ff14a8682ddd47499e46876f770e6b2e,4
+gigli,bradley cooper and jennifer lopez,Gigli stars Bradley Cooper and Jennifer Lopez lacked chemistry as mentioned in the context.,ff14a8682ddd47499e46876f770e6b2e,4
+bad boys ii and s.w.a.t.,sony pictures,"During the same period as mentioned in the context, Sony Pictures had successful movies Bad Boys II and S.W.A.T.",ff14a8682ddd47499e46876f770e6b2e,4
+gigli,the onion,"Was the subject of an article in satirical newspaper, The Onion, titled 'Gigli focus groups demand new ending in which Affleck and Lopez die.'",260feb86a95b4849a9beda7988afdab5,4
+affleck,member of the filming crew,"in this movie, Affleck is portrayed as a member of the filming crew parodying his role in Argo",2d5edc69ab3742cfbdd3fbad976274d9,4

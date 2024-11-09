@@ -1,0 +1,17 @@
+node_1,node_2,edge
+jan pinkava,pixar,Jan Pinkava departed Pixar in 2005 while Peterson left the film to return to work on Up.
+brad lewis,paris,"Director Brad Bird, producer Brad Lewis and some of the crew spent a week in Paris to properly understand its environment,"
+films,brad bird,"director Brad Bird is associated with the production of this movie, 'films'."
+brad bird,brad lewis,both Brad Bird and Brad Lewis are producers for this movie.
+city,brad bird,Brad Bird went to the city to understand its environment for better portrayal in the movie.
+motorcycle tour,city,exploring the city through a motorcycle tour helped Brad Bird and his crew to understand the environment more accurately.
+linguini,remy,"linguini and remy are two characters from the movie, 'films'."
+seine,linguini,linguini jumps into the seine to fetch remy in one of the scenes from the movie.
+confit byaldi,ratatouille dish,"the movie's take on the traditional ratatouille dish is called 'confit byaldi', suggested by gourmet chef thomas keller."
+french laundry kitchen,thomas keller,producer brad lewis interned in thomas keller's french laundry kitchen for the movie's climax.
+art department,michael warch,"michael warch, a culinary-academy-trained professional chef before working at pixar, helped teach and consult animators from the art department."
+confit byaldi,title dish,"Keller suggested a fancy, layered version of the title dish called 'confit byaldi' for the rat characters to cook in the film's climax."
+french accents,rat characters,The cast members strove to make their French accents authentic yet understandable for the rat characters.
+anton ego,vulture,Pinkava designed Anton Ego to resemble a vulture.
+french laundry kitchen,producer brad lewis,Keller allowed producer Brad Lewis to intern in his French Laundry kitchen.
+human characters,toes,"To save time, human characters were designed and animated without toes."

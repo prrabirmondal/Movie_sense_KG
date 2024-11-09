@@ -1,0 +1,15 @@
+node_1,node_2,node_3,edge_1,edge_2
+dmitri,madame d.,gustave h.,Dmitri is the son of Madame D.,Madame D. Has a nearly two-decade affair with Gustave H.
+dmitri,madame d.,second will,Dmitri is the son of Madame D.,Madame D. Had a missing second will that would only take effect if she was murdered.
+dmitri,madame d.,gustave,Dmitri is the son of Madame D.,"Madame D. leaves Gustave as the beneficiary of her hotel and fortune in her second will, which is discovered later by the group."
+serge x,madame d.,gustave h.,Serge X is the butler of Madame D.,Madame D. Has a nearly two-decade affair with Gustave H.
+serge x,madame d.,second will,Serge X is the butler of Madame D.,Madame D. Had a missing second will that would only take effect if she was murdered.
+serge x,madame d.,gustave,Serge X is the butler of Madame D.,"Madame D. leaves Gustave as the beneficiary of her hotel and fortune in her second will, which is discovered later by the group."
+mendl's,pastries,convicts,"Mendl's is a well-known bakery, and Gustave provided the gang with pastries from there during his imprisonment.","The guards responsible for checking contraband couldn't bring themselves to break open the pastries since Mendl's pastries are works of art, and some convicts used them as a means to smuggle in tools during the prison break."
+gustave,dmitri,madame d.,"Dmitri is the real killer of Gustave, but Gustave later finds out that Dmitri also has a missing second will.",Dmitri is the son of Madame D.
+madame d.,gustave,arrested,"Madame D. leaves Gustave as the beneficiary of her hotel and fortune in her second will, which is discovered later by the group.",Inspector Alfred J. Henckels arrested Gustave for Madame D.'s murder.
+madame d.,gustave,dmitri,"Madame D. leaves Gustave as the beneficiary of her hotel and fortune in her second will, which is discovered later by the group.","Dmitri is the real killer of Gustave, but Gustave later finds out that Dmitri also has a missing second will."
+zero,gustave,arrested,Zero is a trusted friend of Gustave who helps him escape from Jopling and saves his life multiple times.,Inspector Alfred J. Henckels arrested Gustave for Madame D.'s murder.
+zero,gustave,dmitri,Zero is a trusted friend of Gustave who helps him escape from Jopling and saves his life multiple times.,"Dmitri is the real killer of Gustave, but Gustave later finds out that Dmitri also has a missing second will."
+agatha,gustave,arrested,"Agatha is the love interest of Gustave, and they are married eventually.",Inspector Alfred J. Henckels arrested Gustave for Madame D.'s murder.
+agatha,gustave,dmitri,"Agatha is the love interest of Gustave, and they are married eventually.","Dmitri is the real killer of Gustave, but Gustave later finds out that Dmitri also has a missing second will."

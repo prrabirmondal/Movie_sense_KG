@@ -1,0 +1,24 @@
+node_1,node_2,edge,chunk_id,count
+jeb,hex,"Hex's best friend Jeb draws a pistol on Hex, resulting in Hex being forced to kill him after refusing an order from Quentin Turnbull.",66c9661326044c88a8cce1316f6e23bc,4
+turnbull,jeb,"Turnbull's son Jeb draws a pistol on Hex, resulting in Hex being forced to kill him after refusing an order from Quentin Turnbull.",66c9661326044c88a8cce1316f6e23bc,4
+hex,lilah,"Found near death and healed by the Crow people, Hex's experience leaves him with the ability to speak to the dead. In a brothel with a prostitute named Lilah, his men find him.",66c9661326044c88a8cce1316f6e23bc,4
+grass,hex,Army Lieutenant Grass realizes that Turnbull is planning to rebuild the weapon and use it to attack the U.S. On the Fourth of July. Grant instructs Army Lieutenant Grass to find Hex and hire him to track down and stop Turnbull.,66c9661326044c88a8cce1316f6e23bc,4
+hex,slocum,"Confronts former Confederate Colonel Slocum, who refuses to reveal Turnbull’s location and sarcastically suggests Hex asks his dead friend Jeb.",66c9661326044c88a8cce1316f6e23bc,4
+turnbull,president ulysses s. grant,President Ulysses S. Grant realizes that Turnbull is planning to rebuild the weapon and use it to attack the U.S. On the Fourth of July.,66c9661326044c88a8cce1316f6e23bc,4
+turnbull,weapon,A gang of men led by Turnbull hijack a train carrying components of an experimental weapon invented by Eli Whitney.,66c9661326044c88a8cce1316f6e23bc,4
+whitney,weapon,Eli Whitney invents an experimental weapon.,66c9661326044c88a8cce1316f6e23bc,4
+hex,turnbull,"enemy relationship between Hex and Turnbull, as they fight each other in multiple instances",64d87a285d4d4b3b8c6e76368ceb0712,4
+lilah,hex,"belonging relationship between Lilah and Hex, as she is kidnapped by Burke at Turnbull's orders",64d87a285d4d4b3b8c6e76368ceb0712,4
+burke,hex,"enemy relationship between Burke and Hex, as Burke helps kill Hex's family and later tries to bring something Hex loves to Turnbull",64d87a285d4d4b3b8c6e76368ceb0712,4
+turnbull,lilah,"possession relationship between Turnbull and Lilah, as he holds her captive",64d87a285d4d4b3b8c6e76368ceb0712,4
+grass,turnbull,"enemy relationship between Grass and Turnbull, as Grass attempts to arrest Turnbull at the end",64d87a285d4d4b3b8c6e76368ceb0712,4
+lilah,grass,"unspecified relationship between Lilah and Grass, as they are both present during the final battle",64d87a285d4d4b3b8c6e76368ceb0712,4
+turnbull,weapon,"possession relationship between Turnbull and the weapon, as he conducts a test on a small town in Georgia",64d87a285d4d4b3b8c6e76368ceb0712,4
+crow people,hex,"relationship between Hex and the Crow people, as Hex travels back to find them after learning about his father's location from Jeb",64d87a285d4d4b3b8c6e76368ceb0712,4
+slocum,turnbull,"enemy relationship between Slocum and Turnbull, as Turnbull orders Burke to track down something Hex loves from Slocum",64d87a285d4d4b3b8c6e76368ceb0712,4
+jeb,hex,"relationship between Jeb and Hex, as Jeb briefly fights with Hex before accepting his apology for killing him and revealing his father's location",64d87a285d4d4b3b8c6e76368ceb0712,4
+jeb,turnbull,"enemy relationship between Jeb and Turnbull, as Turnbull orders Burke to find something Hex loves from him",64d87a285d4d4b3b8c6e76368ceb0712,4
+hex,weapon,Hex jams the weapon with a hatchet before locking Turnbull's neck in the machine.,ef038c2fd76d4509801236e533c24611,4
+hex,turnbull,Hex and Turnbull engage in a fight where Hex uses his abilities to disable Turnbull and escape with Lilah.,ef038c2fd76d4509801236e533c24611,4
+turnbull,weapon,"Turnbull attempts to use the weapon against Hex, but it backfires and explodes, killing Turnbull and his men.",ef038c2fd76d4509801236e533c24611,4
+jeb's grave,hex,"After leaving the city with Lilah, Hex visits Jeb's grave to pay his respects for his father's death and apologizes for any pain caused.",ef038c2fd76d4509801236e533c24611,4

@@ -1,0 +1,3 @@
+node_1,node_2,node_3,node_4,edge_1,edge_2,edge_3
+petrovich,sanjay,petrovich,sanjay,"In original ending, Petrovich is killed by Sanjay.","In original ending, Sanjay kills Petrovich.","In original ending, Petrovich is killed by Sanjay."
+sanjay,petrovich,sanjay,petrovich,"In original ending, Sanjay kills Petrovich.","In original ending, Petrovich is killed by Sanjay.","In original ending, Sanjay kills Petrovich."

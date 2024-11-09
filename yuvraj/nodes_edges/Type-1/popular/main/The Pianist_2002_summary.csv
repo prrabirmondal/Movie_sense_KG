@@ -1,0 +1,32 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,A MOVIE is represented by its SUMMARY.,967e44454884484386a0179d6ccbe0e8,4
+władysław szpilman,"polish-jewish pianist, composer and holocaust survivor","Władysław Szpilman was a Polish-Jewish pianist, composer and Holocaust survivor who played live on the radio in Warsaw during Nazi Germany's invasion of Poland. His family rejoiced when they learned that Britain and France had declared war on Germany, but the promised aid did not come.",07696f001d5247a5b3159d37bf738ab9,4
+nazi germany,germany's invasion of poland,"During Nazi Germany's invasion of Poland, Władysław Szpilman played live on the radio in Warsaw.",07696f001d5247a5b3159d37bf738ab9,4
+britain and france,declared war on germany,"When Britain and France declared war on Germany, Władysław Szpilman's family rejoiced, but the promised aid did not come.",07696f001d5247a5b3159d37bf738ab9,4
+ss,family,killing another family in an apartment across the street during a round-up,6199dea76d56414c998773c561577fd4,4
+german work certificate,szpilman,Szpilman possesses a German work certificate.,de628a680e304c61bfe064fcdde24513,4
+szpilman,umschlagplatz,"At the Umschlagplatz, Szpilman is about to board the train when a friend from the Jewish Ghetto Police leads him away from his family.",de628a680e304c61bfe064fcdde24513,4
+szpilman,jewish revolt,Szpilman learns of an upcoming Jewish revolt and helps the resistance by smuggling weapons into the ghetto hidden inside bags of food.,de628a680e304c61bfe064fcdde24513,4
+szpilman,friend from the jewish ghetto police,A friend from the Jewish Ghetto Police leads Szpilman away from his family at the Umschlagplatz.,de628a680e304c61bfe064fcdde24513,4
+szpilman,resistance,Szpilman aids the resistance by smuggling weapons into the ghetto hidden inside bags of food.,de628a680e304c61bfe064fcdde24513,4
+szpilman,doctor,Dorota and her husband provide Szpilman a doctor to treat his illness.,de628a680e304c61bfe064fcdde24513,4
+szpilman,hiding place,Szpilman's old friend Dorota provides him with another hiding place after he flees the apartment and meets her.,de628a680e304c61bfe064fcdde24513,4
+szpilman,abandoned hospital,"Over the course of the following, Szpilman's hideout is destroyed by a German tank shell, forcing him to flee and hide in an abandoned hospital.",de628a680e304c61bfe064fcdde24513,4
+schutzpolizei building,home army,The Home Army attacks the Schutzpolizei building across the street from Szpilman's hideout during the Warsaw Uprising.,de628a680e304c61bfe064fcdde24513,4
+szpilman,hospital,"Szpilman's hideout is destroyed by a German tank shell, forcing him to flee and hide in an abandoned hospital. Over the course of the following months, Warsaw is destroyed. The Hospital is a location where Szpilman sought refuge during this time.",57d4d13d69584eb89bcaa72c33000e71,4
+hospital,german troops burning the hospital with flamethrowers,"Upon noticing German troops burning the hospital with flamethrowers, Szpilman escapes and wanders through the city's ruins.",57d4d13d69584eb89bcaa72c33000e71,4
+szpilman,warsaw,"While Szpilman's hideout is destroyed by a German tank shell, forcing him to flee and hide in an abandoned hospital, Warsaw is also being destroyed over the course of the following months.",57d4d13d69584eb89bcaa72c33000e71,4
+szpilman,chopin's 'ballade no. 1 in g minor',Hosenfeld learns that Szpilman is a pianist and asks him to play on a grand piano in the house. Chopin's 'Ballade No. 1 in G minor' is the piece Szpilman manages to play.,57d4d13d69584eb89bcaa72c33000e71,4
+hosenfeld,szpilman,"Hosenfeld lets Szpilman hide in the attic of the house, which is being used as his center of operations, and supplies food for him.",57d4d13d69584eb89bcaa72c33000e71,4
+hosenfeld,szpilman,"In January 1945, the Germans are retreating from the Soviet offensive. Hosenfeld meets Szpilman for the last time, promising he will listen to him on Polish Radio after the war.",57d4d13d69584eb89bcaa72c33000e71,4
+szpilman,ambush,Surviving concentration camp inmates pass by a Soviet camp holding captured German soldiers and verbally abuse them; one lamenting over his former career as a violinist. Szpilman narrowly survives an ambush by several People's Army troops who mistook him for a German.,57d4d13d69584eb89bcaa72c33000e71,4
+hosenfeld,violinist,"The violinist later encounters Hosenfeld, being one of the captives, and requests Szpilman to rescue him.",57d4d13d69584eb89bcaa72c33000e71,4
+surrounding city,babelsberg studio,"during the war, the surrounding city was recreated on the backlot of Babelsberg Studio as they would have looked during the war.",6cf6bfe2dfc44ed4b78120cf5019870c,4
+old soviet army barracks,ruined city,"they were going to be destroyed anyway, and old Soviet Army barracks were used to create the ruined city in the film.",6cf6bfe2dfc44ed4b78120cf5019870c,4
+polanski's artistic redemption,polanski,Polanski's artistic redemption is related to Polanski,ed5c1682316445419d3c748fe5f24cff,4
+warsaw,a world of color bombed into black-and-white devastation,"Mick LaSalle's statement that in the course of showing us a struggle for survival, in all its animal simplicity, Polanski also gives us humanity, in all its complexity, contains a relation between Warsaw and a world of color bombed into black-and-white devastation",ed5c1682316445419d3c748fe5f24cff,4
+szpilman,gaunt existential clown,A.O. Scott felt that Szpilman 'comes to resemble one of Samuel Beckett's gaunt existential clowns',ed5c1682316445419d3c748fe5f24cff,4
+di factory,studiocanal,"DI Factory is a production company, while StudioCanal is a film distribution and production company. In the given context, DI Factory has received assistance from StudioCanal's cinematographer Paweł Edelman for a specific film release.",e9aedbba37b34e3783f9d86feda3dfd6,4
+studiocanal,germany,"StudioCanal released the given film on 4K UHD in Germany on September 21, 2023.",e9aedbba37b34e3783f9d86feda3dfd6,4
+studiocanal,france,"StudioCanal released the given film on 4K UHD in France on September 27, 2023.",e9aedbba37b34e3783f9d86feda3dfd6,4
+studiocanal,uk,"StudioCanal released the given film on 4K UHD in the UK on October 2, 2023.",e9aedbba37b34e3783f9d86feda3dfd6,4

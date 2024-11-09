@@ -1,0 +1,11 @@
+node_1,node_2,node_3,edge_1,edge_2
+rebecca,irene,sara,Rebecca moves to smother Irene,"Bound and helpless, Irene pleads for Sara to save herself"
+sara,irene,sara,Sara attempts to stop Rebecca from smothering Irene,"Bound and helpless, Irene pleads for Sara to save herself"
+irene,sara,irene,"Bound and helpless, Irene pleads for Sara to save herself",Sara attempts to stop Rebecca from smothering Irene
+irene,sara,phone,"Bound and helpless, Irene pleads for Sara to save herself","Sara tries to call for help, but the phone is dead"
+irene,sara,window,"Bound and helpless, Irene pleads for Sara to save herself",Sara tries to get out the window to get help
+irene,sara,dorm,"Bound and helpless, Irene pleads for Sara to save herself",Sara moves back into her dorm
+irene,sara,extra bed,"Bound and helpless, Irene pleads for Sara to save herself","Sara moves the extra bed out of her room with the help of Stephen, proclaiming that she does not want anyone as a roommate for a while"
+stephen,rebecca,sara matthews,Stephen briefly disarms Rebecca but is knocked unconscious,Rebecca and Sara Matthews begin to bond.
+stephen,rebecca,tracy,Stephen briefly disarms Rebecca but is knocked unconscious,Rebecca attacks Tracy in the shower.
+stephen,rebecca,irene,Stephen briefly disarms Rebecca but is knocked unconscious,Rebecca moves to smother Irene

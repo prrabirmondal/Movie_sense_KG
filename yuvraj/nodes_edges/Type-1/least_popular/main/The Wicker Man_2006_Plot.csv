@@ -1,0 +1,5 @@
+node_1,node_2,edge,chunk_id,weight,count
+two men carrying a large bag,edward,Edward later sees two men carrying a large bag that appears to be dripping blood.,37284af3b50544359239b5f8216a784f,,4
+willow,rowan,"When Edward questions Willow about the grave, she reveals that Rowan is their daughter together.",9fe5d62479e6435e9477adabae867434,0.8,4
+sister rose,rowan,"Edward asks how Rowan died and Sister Rose tells him, ""She'll burn to death.""",9fe5d62479e6435e9477adabae867434,0.9,4
+sister summersisle,rowan,"Sister Summersisle thanks Rowan for her help, and Edward realizes that the search for Rowan was a setup the whole time.",9fe5d62479e6435e9477adabae867434,0.9,4

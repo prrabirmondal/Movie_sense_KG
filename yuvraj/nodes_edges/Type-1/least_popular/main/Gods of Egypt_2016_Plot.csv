@@ -1,0 +1,29 @@
+node_1,node_2,edge,chunk_id,count
+horus,osiris,Horus is the son of Osiris who was killed by his brother Set during the coronation.,cb3685033d694a36939e47de1ab4046b,4
+set,osiris,Set is the jealous brother of Osiris who killed him during the coronation.,cb3685033d694a36939e47de1ab4046b,4
+horus,set,Horus lost his eyes to Set after he defeated Horus and proclaimed himself the new king.,cb3685033d694a36939e47de1ab4046b,4
+bek,horus,Bek steals one of Horus's eyes from Set's treasure vault and promises to find the other if Horus brings Zaya back from the dead.,cb3685033d694a36939e47de1ab4046b,4
+zaya,horus,"Zaya gives plans for Set's pyramid to Bek, who uses them to infiltrate Set's treasure vault and steal Horus's eye.",cb3685033d694a36939e47de1ab4046b,4
+urshu,bek,"Urshu catches Bek and Zaya while they are escaping after stealing Set's eye, and kills Zaya with an arrow.",cb3685033d694a36939e47de1ab4046b,4
+ra,horus,Ra allows Horus to take a vial of divine waters to weaken Set after he visits Ra's divine vessel.,cb3685033d694a36939e47de1ab4046b,4
+thoth,set's pyramid,"Thoth solves the riddle of the guardian sphinx while Bek, Horus, and Hathor plan to infiltrate Set's pyramid.",cb3685033d694a36939e47de1ab4046b,4
+horus,ra,"Horus believes that fulfilling his destiny means avenging his parents' deaths, as explained by Ra.",cb3685033d694a36939e47de1ab4046b,4
+set,hathor,"Set asks Hathor to take him to the underworld, but she refuses and joins up with Bek and Horus.",cb3685033d694a36939e47de1ab4046b,4
+horus,set,"enemy relationship between Horus and Set, as seen in their battle atop an obelisk. Horus tries to stop Set from destroying the afterlife and freeing Apophis.",1784aa42ad474056929b7fce7ee2523b,4
+bek,horus,"assistant relationship between Bek and Horus, as seen when Bek returns to the mortal world to help Horus stop Set. Bek defeats Urshu before he removes Horus's other eye from Set's armor.",1784aa42ad474056929b7fce7ee2523b,4
+bek,horus,"friendship relationship between Bek and Horus, as seen when Horus saves Bek from falling over retrieving his eye and they both fall from great height.",1784aa42ad474056929b7fce7ee2523b,4
+thoth,set,"victim relationship between Thoth and Set, as seen when Set destroys the divine water and takes Thoth's brain.",1784aa42ad474056929b7fce7ee2523b,4
+horus,nephthys,"relative relationship between Horus and Nephthys, as seen when Set absorbs Thoth's brain, Osiris's heart, and Horus's eye and wings from Nephthys.",1784aa42ad474056929b7fce7ee2523b,4
+ra,set,"student-mentor relationship between Ra and Set, as seen when Ra explains Set's mistreatment were tests to prepare him to take Ra's place as defender of the world against Apophis.",1784aa42ad474056929b7fce7ee2523b,4
+apophis,set,"follower relationship between Apophis and Set, as seen when Set frees Apophis to consume the mortal and underworld realms.",1784aa42ad474056929b7fce7ee2523b,4
+zaya,bek,"relative relationship between Zaya and Bek, as seen when Zaya encourages Bek to return to the mortal world and help Horus stop Set.",1784aa42ad474056929b7fce7ee2523b,4
+hathor,bek,"friendship relationship between Hathor and Bek, as seen when Hathor calls on Anubis to take Bek to the underworld.",1784aa42ad474056929b7fce7ee2523b,4
+hathor,bek,"sacrificer relationship between Hathor and Bek, as seen when Hathor offers her bracelet as Zaya's payment for passage to the afterlife, sacrificing herself as doing so exiles her to the underworld.",1784aa42ad474056929b7fce7ee2523b,4
+ra,set,"enemy relationship between Ra and Set (continued), as seen when Set confronts Ra aboard his solar barge.",1784aa42ad474056929b7fce7ee2523b,4
+horus,set,"Horus and Set engage in a fierce battle for power, with Horus ultimately overcoming and killing Set to save his people.",3604b8773ca745f181dcb60bf12c467c,4
+bek,horus,"Horus saves Bek from falling while retrieving his eye, demonstrating his role as a protector of his people.",3604b8773ca745f181dcb60bf12c467c,4
+ra,apophis,"With Ra wounded in the aether, Horus returns his spear, allowing Ra to repel Apophis and save Egypt from destruction.",3604b8773ca745f181dcb60bf12c467c,4
+horus,ra,"After Horus saves Ra from danger, the sun god offers him any power he desires. Horus asks for the restoration of Bek and Zaya to life.",3604b8773ca745f181dcb60bf12c467c,4
+horus,bek,"When Bek becomes chief advisor to Horus, their relationship grows stronger.",3604b8773ca745f181dcb60bf12c467c,4
+hathor's bracelet,bek,"As a sign of gratitude and respect, Bek gives Horus Hathor's bracelet as a gift.",3604b8773ca745f181dcb60bf12c467c,4
+horus,hathor's bracelet,"After receiving Hathor's bracelet from Bek, Horus leaves to rescue Hathor from the underworld.",3604b8773ca745f181dcb60bf12c467c,4

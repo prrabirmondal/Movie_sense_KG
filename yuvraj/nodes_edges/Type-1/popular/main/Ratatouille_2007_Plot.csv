@@ -1,0 +1,13 @@
+node_1,node_2,edge,chunk_id,count
+remy,linguini,"Remy can understand him, and he convinces Remy to help him cook. Remy controls Linguini's movements like a marionette by pulling on his hair while hiding under his toque.",b51bcbaaeb244cde809f9bdaed3d3435,4
+linguini,colette,"Colette begrudgingly trains Linguini, but steadily comes to appreciate him heeding her advice.",b51bcbaaeb244cde809f9bdaed3d3435,4
+skinner,linguini,"Skinner discovers a letter from Linguini's late mother stating that Linguini is Gusteau's illegitimate son, and the rightful owner of the restaurant. Skinner is shocked and enraged about this revelation,",b51bcbaaeb244cde809f9bdaed3d3435,4
+remy,django,"After Remy tells Django that he intends to stay at the restaurant,",b51bcbaaeb244cde809f9bdaed3d3435,4
+linguini,colette,Linguini develops a romantic relationship with Colette.,b51bcbaaeb244cde809f9bdaed3d3435,4
+anton ego,linguini,"Food critic Anton Ego announces to Linguini that he will review the restaurant,",b51bcbaaeb244cde809f9bdaed3d3435,4
+remy,ego,"Remy creates a variation of ratatouille which reminds Ego of his mother's cooking. Ego asks to meet the chef, and is stunned upon being introduced to Remy after the restaurant closes for the day.",df39c7d30a5b44859f7771b29da1ca84,4
+linguini,remy,"Linguini takes credit for Remy's cooking at a press conference, leading to a falling out between them.",df39c7d30a5b44859f7771b29da1ca84,4
+remy,skinner,"Remy leads his clan to raid the restaurant's pantries, and Skinner attempts to interfere but is locked in the pantry by the rats.",df39c7d30a5b44859f7771b29da1ca84,4
+remy,colette,"Remy and Colette reconcile after a falling out, and Colette returns to help the clan cook under Remy's direction.",df39c7d30a5b44859f7771b29da1ca84,4
+linguini,gusteau's,"Linguini waits tables after revealing Remy to his staff, who all immediately quit. Gusteau's is shut down and stripped of its credibility.",df39c7d30a5b44859f7771b29da1ca84,4
+la ratatouille,ego,"After the release of Remy and his friends, they inform the authorities and Gusteau's is shut down, stripping Ego of his job and credibility. However, Remy, Linguini, and Colette open a new bistro called La Ratatouille, which Ego invests in and frequently visits.",e5aa909bed1e4174800e76b4ec818c79,4

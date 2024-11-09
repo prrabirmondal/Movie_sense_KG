@@ -1,0 +1,29 @@
+node_1,node_2,edge,chunk_id,count
+frank costello,colin sullivan,Frank Costello introduces himself to a young Colin Sullivan.,cdcdcaf443f44b4e9a6dba597b1a2edc,4
+colin sullivan,special investigation unit (siu),Colin Sullivan joins the Special Investigation Unit (SIU).,cdcdcaf443f44b4e9a6dba597b1a2edc,4
+billy costigan,captain queenan,Captain Queenan and Sergeant Dignam select Billy Costigan to go undercover as a criminal.,cdcdcaf443f44b4e9a6dba597b1a2edc,4
+costigan,costello,"one night, costigan follows costello into an adult theater and witnesses him giving sullivan an envelope containing information of his crew.",61f877f75a31494c84db7f43797d3488,4
+costello,sullivan,costigan witnesses costello giving sullivan an envelope containing information of his crew.,61f877f75a31494c84db7f43797d3488,4
+queenan,sullivan,queenan advises sullivan to follow costello to find the msp mole.,61f877f75a31494c84db7f43797d3488,4
+costigan,queenan,"costigan calls queenan and sets up a meeting to end the undercover operation,",61f877f75a31494c84db7f43797d3488,4
+sullivan,queenan,"sullivan has queenan followed, lying to the other officers that queenan may be the spy.",61f877f75a31494c84db7f43797d3488,4
+costello's gang,meeting location,sullivan calls in costello's gang to the meeting location.,61f877f75a31494c84db7f43797d3488,4
+costello's men,police,Causes a firefight between police and Costello's men due to Queenan's murder,3e79f10bcf364efa91ccc5311f0fb479,4
+delahunt,costello,"Costello suspects the police department made up the claim so he would stop looking for the mole, as revealed through Delahunt's statement",3e79f10bcf364efa91ccc5311f0fb479,4
+sullivan,costello,"Deciding to turn on him, Sullivan directs the MSP to tail Costello, causing a gunfight that kills most of Costello's crew",3e79f10bcf364efa91ccc5311f0fb479,4
+costello,sullivan,"Sullivan confronts a wounded Costello, who admits to being an FBI informant",3e79f10bcf364efa91ccc5311f0fb479,4
+costigan,sullivan,"Costigan goes to Sullivan to reveal his undercover status, still unaware of the other's true identity.",86d8b51fa45b470b87bfdcf960b296d2,4
+sullivan,costigan,"His assignment finished, Costigan goes to Sullivan to reveal his undercover status, still unaware of the other's true identity.",86d8b51fa45b470b87bfdcf960b296d2,4
+costigan,sullivan,"After Sullivan goes to another room, Costigan notices the same envelope from the theater on his desk.",86d8b51fa45b470b87bfdcf960b296d2,4
+sullivan,costigan,"After Sullivan goes to another room, Costigan notices the same envelope from the theater on his desk.",86d8b51fa45b470b87bfdcf960b296d2,4
+costigan,sullivan,"Costigan realizes that Sullivan was Costello's mole,",86d8b51fa45b470b87bfdcf960b296d2,4
+sullivan,costigan,"Costigan realizes that Sullivan was Costello's mole,",86d8b51fa45b470b87bfdcf960b296d2,4
+costigan,sullivan,"Sullivan returns to find Costigan gone,",86d8b51fa45b470b87bfdcf960b296d2,4
+sullivan,costigan,"Sullivan returns to find Costigan gone,",86d8b51fa45b470b87bfdcf960b296d2,4
+costigan,madden,"Costigan visits Madden,",86d8b51fa45b470b87bfdcf960b296d2,4
+madden,costigan,"Costigan visits Madden,",86d8b51fa45b470b87bfdcf960b296d2,4
+madden,sullivan,"Madden has revealed that she's pregnant to Sullivan but not to Costigan knowing that Sullivan may not be the father,",86d8b51fa45b470b87bfdcf960b296d2,4
+sullivan,madden,"Madden has revealed that she's pregnant to Sullivan but not to Costigan knowing that Sullivan may not be the father,",86d8b51fa45b470b87bfdcf960b296d2,4
+costigan,sullivan,"Costigan says that he has evidence tying Sullivan to Costello. Sullivan shoots Barrigan dead, allowing him to denounce Barrigan as the mole while removing suspicion from himself at Costigan's funeral.",d01540e6d15a4e51afbd0514b17fad54,4
+sullivan,madden,"At Costigan's funeral, Sullivan and Madden stand by his grave. As Madden silently cries, Sullivan realizes that they were involved.",d01540e6d15a4e51afbd0514b17fad54,4
+dignam,sullivan,"Dignam is waiting for Sullivan inside and, after Sullivan indifferently accepts his fate, Dignam shoots him in the head, avenging Queenan’s and Costigan’s deaths.",d01540e6d15a4e51afbd0514b17fad54,4

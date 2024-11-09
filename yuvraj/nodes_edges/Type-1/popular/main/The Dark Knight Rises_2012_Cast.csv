@@ -1,0 +1,39 @@
+node_1,node_2,edge,chunk_id,count
+bruce wayne,batman,"Christian Bale plays both Bruce Wayne and Batman in The Dark Knight Rises. Nolan has stated that due to the eight-year gap between The Dark Knight and this film, Bruce Wayne is older and not in a great state. Additionally, Bale employed the Keysi Fighting Method for this film's fight scenes, which has been modified for both Wayne's current state and Bane's style.",3ad7de6facdb44a9854b1d29f1bdfe18,4
+alfred pennyworth,bruce wayne,"In The Dark Knight Rises, Michael Caine returns as Alfred Pennyworth, Bruce Wayne's trusted butler and confidant who acts as a father figure to Wayne. Christopher Nolan has emphasized the emotional bond between these characters, stating that their relationship will be strained in this film as it never has been before.",3ad7de6facdb44a9854b1d29f1bdfe18,4
+gary oldman,james gordon,Gary Oldman is portraying the character of James Gordon in the given context.,73880b49a5694923b01229456acdc61d,4
+gotham city police department,james gordon,James Gordon is the Commissioner of the Gotham City Police Department as mentioned in the context.,73880b49a5694923b01229456acdc61d,4
+honest police officers,james gordon,James Gordon is one of the few honest police officers as stated in the context.,73880b49a5694923b01229456acdc61d,4
+gotham city,james gordon,"James Gordon works in cleaning up Gotham City, as per the given context.",73880b49a5694923b01229456acdc61d,4
+world-weary,james gordon,"The character of James Gordon has left him world-weary, according to the provided context.",73880b49a5694923b01229456acdc61d,4
+slightly bored,james gordon,"As mentioned in the given context, the character of James Gordon feels slightly bored due to his work in cleaning up Gotham City.",73880b49a5694923b01229456acdc61d,4
+harvey dent,james gordon,"According to the context, James Gordon is involved in covering up Harvey Dent's crimes.",73880b49a5694923b01229456acdc61d,4
+mayor,james gordon,The given context states that the mayor is planning to dismiss James Gordon from his job.,73880b49a5694923b01229456acdc61d,4
+wife,james gordon,"As per the provided context, James Gordon's wife has left him and taken their children.",73880b49a5694923b01229456acdc61d,4
+bane,villain,Bane is a mysterious and physically imposing villain who was excommunicated from the League of Shadows.,bdcea469adc846eeb1844eae03a6feac,4
+bane,liberator of pain,Bane portrays himself as a 'liberator of pain' and revolutionary.,bdcea469adc846eeb1844eae03a6feac,4
+bane,desperate to continue ra's al ghul's legacy,Bane is desperate to continue Ra's al Ghul's legacy by destroying Gotham.,bdcea469adc846eeb1844eae03a6feac,4
+league of shadows,excommunicated from,Bane was excommunicated from the League of Shadows.,bdcea469adc846eeb1844eae03a6feac,4
+gotham,destroying gotham,Bane is desperate to continue Ra's al Ghul's legacy by destroying Gotham.,bdcea469adc846eeb1844eae03a6feac,4
+ben mendelsohn,john daggett,"Ben Mendelsohn portrays John Daggett, a rival billionaire socialite in 'The Dark Knight Rises'.",dbfbce59a9954481a16a30d5e118df68,4
+burn gorman,philip stryver,"Burn Gorman portrays Philip Stryver, Daggett's assistant and senior executive vice president of Daggett Industries in 'The Dark Knight Rises'.",dbfbce59a9954481a16a30d5e118df68,4
+nestor carbonell,anthony garcia,"Nestor Carbonell reprises his role as Gotham City's mayor, Anthony Garcia, in 'The Dark Knight Rises'.",dbfbce59a9954481a16a30d5e118df68,4
+juno temple,jen,"Juno Temple portrays Jen, Selina Kyle's friend and accomplice in 'The Dark Knight Rises'.",dbfbce59a9954481a16a30d5e118df68,4
+josh stewart,barsad,"Josh Stewart portrays Barsad, Bane's right-hand man in 'The Dark Knight Rises'.",dbfbce59a9954481a16a30d5e118df68,4
+alon aboutboul,dr. leonid pavel,"Alon Aboutboul portrays Dr. Leonid Pavel, a Russian nuclear physicist who is kidnapped by Bane and the League of Shadows in order to convert a fusion reactor funded by Bruce Wayne and Miranda Tate into a weapon to be used for the destruction of Gotham City in 'The Dark Knight Rises'.",dbfbce59a9954481a16a30d5e118df68,4
+aidan gillen,bill wilson,"Aidan Gillen portrays Bill Wilson, a CIA operative who was tasked with extracting Pavel from Uzbekistan and tracking down Bane for terrorist activities before his appearance in Gotham City. (Bill is referred to solely as ""CIA"" in the film's dialogue; the character's name is revealed in the film's novelization.)",dbfbce59a9954481a16a30d5e118df68,4
+brett cullen,byron gilley,"Brett Cullen portrays Byron Gilley, a U.S. congressman who is kidnapped by Kyle in 'The Dark Knight Rises'.",dbfbce59a9954481a16a30d5e118df68,4
+chris ellis,father reilly,"Chris Ellis portrays Father Reilly, a priest at the orphanage that Blake grew up in in 'The Dark Knight Rises'.",dbfbce59a9954481a16a30d5e118df68,4
+chris ellis,father reilly,"relationship between Chris Ellis and Father Reilly, as both are characters mentioned in the same context",9c71d58b52a7423da95e3db14005a078,4
+blake,chris ellis or father reilly,"Blake grew up in the orphanage that Chris Ellis or Father Reilly worked at, indicating a possible relationship between Blake and either Chris Ellis or Father Reilly",9c71d58b52a7423da95e3db14005a078,4
+liam neeson,ra's al ghul,"relationship between Liam Neeson and Ra's al Ghul, as both are mentioned in the same context (cameo appearance)",9c71d58b52a7423da95e3db14005a078,4
+josh pence,young ra's al ghul,"relationship between Josh Pence and young Ra's al Ghul, as both are mentioned in the same context (scenes set thirty years before the events of Batman Begins)",9c71d58b52a7423da95e3db14005a078,4
+cillian murphy,dr. jonathan crane,"relationship between Cillian Murphy and Dr. Jonathan Crane, as both are mentioned in the same context (reprises role from Batman Begins and The Dark Knight)",9c71d58b52a7423da95e3db14005a078,4
+john nolan,douglas fredericks,"relationship between John Nolan and Douglas Fredericks, as both are mentioned in the same context (reprises role from Batman Begins)",9c71d58b52a7423da95e3db14005a078,4
+william devane,president of the united states,"relationship between William Devane and the President of the United States, as both are mentioned in the same context",9c71d58b52a7423da95e3db14005a078,4
+rob brown,police officer,"relationship between Rob Brown and a police officer, as both are mentioned in the same context",9c71d58b52a7423da95e3db14005a078,4
+will estes,police officer,"relationship between Will Estes and a police officer, as both are mentioned in the same context",9c71d58b52a7423da95e3db14005a078,4
+desmond harrington,police officer,"relationship between Desmond Harrington and a police officer, as both are mentioned in the same context",9c71d58b52a7423da95e3db14005a078,4
+christopher judge,one of bane's henchmen,"relationship between Christopher Judge and one of Bane's henchmen, as both are mentioned in the same context",9c71d58b52a7423da95e3db14005a078,4
+thomas lennon,doctor,"relationship between Thomas Lennon and a doctor, as both are mentioned in the same context (repeats role from Nolan's 2000 film Memento)",9c71d58b52a7423da95e3db14005a078,4
+glen powell,stock exchange trader that gets knocked out by bane,"relationship between Glen Powell and a stock exchange trader that gets knocked out by Bane, as both are mentioned in the same context",9c71d58b52a7423da95e3db14005a078,4

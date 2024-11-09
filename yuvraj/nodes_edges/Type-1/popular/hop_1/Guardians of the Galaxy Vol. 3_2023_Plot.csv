@@ -1,0 +1,37 @@
+node_1,node_2,edge
+adam warlock,guardians of the galaxy,"Adam Warlock, a Sovereign warrior created by High Priestess Ayesha, attacks the Guardians of the Galaxy at their new headquarters on Knowhere."
+rocket,guardians of the galaxy,"The Guardians of the Galaxy are critically wounded when attacked by Adam Warlock, but Rocket's wounds prove more severe due to a kill switch embedded in him by Orgocorp."
+rocket,orgocorp,Orgocorp's med-packs are ineffective at healing Rocket's wounds due to a kill switch embedded in him by the organization.
+high evolutionary,rocket,"Rocket was found as a baby raccoon and experimented on by the High Evolutionary, who sought to enhance and anthropomorphize animal lifeforms."
+high evolutionary,lylla,The otter Lylla was also found and experimented on by the High Evolutionary alongside Rocket.
+high evolutionary,teefs,The walrus Teefs was also found and experimented on by the High Evolutionary alongside Rocket.
+high evolutionary,floor,The rabbit Floor was also found and experimented on by the High Evolutionary alongside Rocket.
+high evolutionary,rocket,"As Rocket's intelligence grew, the High Evolutionary became envious and planned to harvest his brain for further research before exterminating Batch 89."
+high evolutionary,lylla,The High Evolutionary was impressed by Lylla's growing intelligence and used it to fix a defect in later Humanimal batches.
+high evolutionary,teefs,The High Evolutionary was impressed by Teefs' growing intelligence and used it to fix a defect in later Humanimal batches.
+high evolutionary,floor,The High Evolutionary was impressed by Floor's growing intelligence and used it to fix a defect in later Humanimal batches.
+rocket,lylla,"Rocket attempted to free Lylla and his fellow Batch 89 test subjects from the High Evolutionary's clutches, but he was mocked and Lylla was killed."
+high evolutionary,rocket,"When Rocket showed grief over Lylla's death, the High Evolutionary killed her as a lesson to the other test subjects."
+rocket,high evolutionary,enemy relationship; High Evolutionary's henchmen killed Rocket's friends and Rocket mauled High Evolutionary in revenge
+gamora,ravagers,member relationship; alternate version of Gamora joined the Ravagers
+ayesha,adam,follower relationship; Ayesha and Adam followed the Guardians to find Rocket at the request of High Evolutionary
+drax,mantis,protector relationship; Drax tricked Mantis into pursuing Quill's group and Gamora saved Rocket from Adam and War Pig
+nebula,guards,barrier relationship; Nebula was forced to wait outside by guards due to her cybernetic enhancements
+quill,groot,team relationship; Quill and Groot entered Arête together
+nebula,drax,"rescue relationship; Nebula, Drax, and Mantis boarded to rescue Quill and Groot"
+theel,high evolutionary's code,possessor relationship; Theel had the High Evolutionary's code
+quill,rocket,friendship relationship; Rocket flatlined before Quill and Groot used the code
+quill,adam,"Quill nearly dies trying to reach Knowhere, but is saved by Adam, whom Groot had rescued earlier from Arête's destruction."
+groot,adam,Groot had rescued Adam earlier from Arête's destruction.
+drax,high evolutionary's next batch of test subjects,"Drax, Nebula, and Mantis encounter the High Evolutionary's next batch of test subjects, genetically modified humanoid children."
+high evolutionary's crew,mutiny,"The High Evolutionary's crew mutiny,"
+high evolutionary,rocket,"Rocket discovers imprisoned animals on the ship and is confronted by the High Evolutionary,"
+guardians,high evolutionary's forces,"The other Guardians stage a rescue, leading to a battle against the High Evolutionary's forces."
+drax,nebula,"Drax, Nebula, and Mantis encounter the High Evolutionary's next batch of test subjects, genetically modified humanoid children, before being captured."
+adam,groot,"Adam saved Groot, whom Groot had rescued earlier from Arête's destruction."
+quill,guardians,Quill decides to leave the Guardians.
+rocket,new captain,Quill names Rocket as the new captain.
+mantis,abilisks,Mantis embarks on a journey of self-discovery with the Abilisks.
+gamora,ravagers,Gamora rejoins the Ravagers.
+nebula,knowhere,Nebula and Drax remain on Knowhere to raise the rescued children.
+phyla,new guardians,Phyla (one of the rescued children) becomes a part of the new Guardians.

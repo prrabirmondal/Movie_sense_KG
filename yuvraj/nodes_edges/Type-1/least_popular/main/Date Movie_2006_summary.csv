@@ -1,0 +1,22 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,A movie is represented by its summary.,cbd1e0fa63894c39858c82d6cf040fdf,4
+date movie,parody film genre,"Date Movie is a parody film genre, referencing popular romantic comedy films such as My Big Fat Greek Wedding, Meet the Fockers, Hitch, Legally Blonde, and Bridget Jones's Diary.",5183cf7d21ba4a47ae60d4141774cc32,4
+tiffany & co.,julia,Grant takes Julia to Tiffany & Co. After their engagement,4ed8e7f5e2b448d99ecf0b09fffd091d,4
+julia,wedding dress,"Helps Julia shop for wedding dress at bridal shop, indicating a significant role of Andy in Julia's wedding preparations.",bcc0f7b8e1fa4ff3b26e4956e8ea369d,4
+julia,power box,"Hits head on power box and gains ability to read people's thoughts, revealing a causal relationship between Julia's action and her newfound skill.",bcc0f7b8e1fa4ff3b26e4956e8ea369d,4
+julia,andy,"Reads Andy's mind and realises his desire to get back together with Grant, indicating a potential threat to Julia's marriage with Grant.",bcc0f7b8e1fa4ff3b26e4956e8ea369d,4
+julia,grant,"Arrives late at wedding and witnesses Grant's kiss with Andy, causing emotional distress for Julia.",bcc0f7b8e1fa4ff3b26e4956e8ea369d,4
+julia,nicky,"Agrees to marry Nicky due to regret over marriage with Grant, indicating a shift in Julia's preference.",bcc0f7b8e1fa4ff3b26e4956e8ea369d,4
+julia,flashbacks,"Has flashbacks about her and Grant while standing at altar, indicating an ongoing emotional attachment between Julia and Grant.",bcc0f7b8e1fa4ff3b26e4956e8ea369d,4
+grant,julia,"Get back together and get married with Hitch officiating and now dating Jell-O. Julia arrives too late and sees Grant on the streets before she falls off the roof, though Grant conveniently catches her.",6a4a8934a6354664b67e03de2645e59c,4
+grant,king kong,"Grant and Julia go to Skull Island and film a woman tied between two poles. King Kong rips off her dress and gropes her, Anne says 'I like hairy boys', so King Kong flattens her.",6a4a8934a6354664b67e03de2645e59c,4
+anne,grant and julia,"Grant and Julia go to Skull Island and film a woman tied between two poles. King Kong rips off her dress and gropes her, Anne says 'I like hairy boys', so King Kong flattens her.",6a4a8934a6354664b67e03de2645e59c,4
+anne,king kong,"King Kong rips off her dress and gropes her, Anne says 'I like hairy boys', so King Kong flattens her.",6a4a8934a6354664b67e03de2645e59c,4
+skull island,grant and julia,Grant and Julia go to Skull Island and film a woman tied between two poles.,6a4a8934a6354664b67e03de2645e59c,4
+mockery,self,makes a mockery of itself,31d19741506446b9868920a81b45b17b,4
+scary movie 4,film,"In this film, Scary Movie 4, is a horror comedy movie released in 2006.",271fb33fd4cc4f87920ba7783666fa14,4
+jennifer coolidge,actor,Jennifer Coolidge is an actor who appeared in Scary Movie 4 and was nominated for Most Annoying Fake Female Accent at the 2006 Stinkers Bad Movie Awards.,271fb33fd4cc4f87920ba7783666fa14,4
+cindy cheung,actor,Cindy Cheung is an actor who appeared in Lady in the Water and won Most Annoying Fake Female Accent at the 2006 Stinkers Bad Movie Awards.,271fb33fd4cc4f87920ba7783666fa14,4
+lady in the water,film,Lady in the Water is a film that Cindy Cheung appeared in and won Most Annoying Fake Female Accent at the 2006 Stinkers Bad Movie Awards.,271fb33fd4cc4f87920ba7783666fa14,4
+worst screenplay,award,Scary Movie 4 won the award for Worst Screenplay at the 2006 Stinkers Bad Movie Awards.,271fb33fd4cc4f87920ba7783666fa14,4
+most painfully unfunny comedy,award,Scary Movie 4 won the award for Most Painfully Unfunny Comedy at the 2006 Stinkers Bad Movie Awards.,271fb33fd4cc4f87920ba7783666fa14,4

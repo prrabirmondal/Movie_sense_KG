@@ -1,0 +1,39 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,"A movie is presented in this context, and its summary is provided. The summary provides a brief overview of the movie's plot, characters, and other important aspects.",9dfb95e67656446cb9f31b5f3d1b4669,4
+gotti,john gotti,"Gotti is a biographical crime film about the life of John Gotti, portrayed by John Travolta in the movie.",88d27a12c62444f4a338b77dc2d3299b,4
+john gotti,victoria,"In the film, Victoria is played by Kelly Preston and portrays John Gotti's wife.",88d27a12c62444f4a338b77dc2d3299b,4
+gotti,mobster,"John Gotti was a notorious New York City mobster, and the film depicts his criminal activities.",88d27a12c62444f4a338b77dc2d3299b,4
+dellacroce,gotti,"senior member of the Gambino family, with Dellacroce informing Gotti of Castellano's plans and helping him secure approval to eliminate him",c4c5f2b1bc494b5796ac259e3927265b,4
+dellacroce,gotti,Gotti fails to attend Dellacroce's funeral two days after his death on December 2.,ca1c81fdab854608905ff7ed543cd33e,4
+castellano,gottí,"Gottí takes over the Gambino family, becoming 'the real-life Godfather' after Castellano and his bodyguard Thomas Bilotti are gunned down outside Sparks Steak House in midtown Manhattan, on December 16.",ca1c81fdab854608905ff7ed543cd33e,4
+gigante,casso,Rival boss Vincent 'The Chin' Gigante of the Genovese crime family plots with Casso to eliminate Gottí.,ca1c81fdab854608905ff7ed543cd33e,4
+decicco,gotti,"DeCicco is killed by a car bomb that Ruggiero believes was meant for Gotti on April 13, 1986.",ca1c81fdab854608905ff7ed543cd33e,4
+hydell,casso,Casso tracks down and tortures the hitman James Hydell into revealing he was sent by Ruggiero.,ca1c81fdab854608905ff7ed543cd33e,4
+gotti,gigante,Gotti reconciles with Gigante before excommunicating Ruggiero from his crew to shield him from further retribution.,ca1c81fdab854608905ff7ed543cd33e,4
+gotti,gravano,"Underboss Salvatore 'Sammy the Bull' Gravano testifies against Gotti, leading to his conviction and imprisonment in 1992.",ca1c81fdab854608905ff7ed543cd33e,4
+junior,gambino family,Junior is inducted into the Gambino family on Christmas Eve 1988.,ca1c81fdab854608905ff7ed543cd33e,4
+kim,junior,Junior marries his wife Kim in April 1990.,ca1c81fdab854608905ff7ed543cd33e,4
+victoria,kelly preston,"Gotti's wife Victoria, played by Kelly Preston.",5e6ccf7ba83147cb83805c34974beb57,4
+aniello dellacroce,stacy keach,"Aniello Dellacroce, the underboss of the Gambino crime family who mentored Gotti, played by Stacy Keach.",5e6ccf7ba83147cb83805c34974beb57,4
+father murphy,victor gojcaj,"Father Murphy, played by Victor Gojcaj.",5e6ccf7ba83147cb83805c34974beb57,4
+gotti,limited release,The film Gotti had a limited release.,1aebbd4dd0f5432fbbe929a869e255d2,4
+gotti,$4.3 million,The film Gotti grossed $4.3 million in the United States.,1aebbd4dd0f5432fbbe929a869e255d2,4
+gotti,503 theaters,Gotti began its limited release in 503 theaters.,1aebbd4dd0f5432fbbe929a869e255d2,4
+gotti,$1.7 million,"In its opening weekend, Gotti made $1.7 million at the box office.",1aebbd4dd0f5432fbbe929a869e255d2,4
+gotti,poorly written,"According to Jordan Mintzer's review in The Hollywood Reporter, the film Gotti is related to 'poorly written'.",076f6d5fa1274515a6555e73f6e95234,4
+gotti,devoid of tension,"According to Jordan Mintzer's review in The Hollywood Reporter, the film Gotti is related to 'devoid of tension'.",076f6d5fa1274515a6555e73f6e95234,4
+gotti,ridiculous,"According to Jordan Mintzer's review in The Hollywood Reporter, the film Gotti is related to 'ridiculous'.",076f6d5fa1274515a6555e73f6e95234,4
+gotti,dull,"According to Jordan Mintzer's review in The Hollywood Reporter, the film Gotti is related to 'just plain dull'.",076f6d5fa1274515a6555e73f6e95234,4
+john gotti jr.,victim,"According to Jordan Mintzer's review in The Hollywood Reporter, the film portrays John Gotti Jr. As a 'victim'.",076f6d5fa1274515a6555e73f6e95234,4
+john gotti,loving family man,"According to Jordan Mintzer's review in The Hollywood Reporter, the film mostly portrays John Gotti as a 'loving family man'.",076f6d5fa1274515a6555e73f6e95234,4
+rotten tomatoes,gotti,"The film Gotti on Rotten Tomatoes has an approval rating of 0% based on 58 reviews, with an average rating of 2.2/10, according to their website.",076f6d5fa1274515a6555e73f6e95234,4
+metacritic,gotti,"According to Metacritic, the film Gotti has a weighted average score of 24 out of 100 based on reviews from 16 critics, indicating 'generally unfavorable reviews'.",076f6d5fa1274515a6555e73f6e95234,4
+gotti jr.,victim of government persecution,"the fact that it mostly portrays John Gotti as a loving family man and altogether likable guy, and his son John Gotti Jr. As a victim of government persecution, may be a first in the history of the genre.",407753d8ea79450d9e9cbd686a60bf3f,4
+new york post,worst mob movie of all-time,'the worst mob movie of all-time' - according to Johnny Oleksinski's review in the New York Post,407753d8ea79450d9e9cbd686a60bf3f,4
+moviepass,gotti,MoviePass is the company responsible for distributing and marketing the film Gotti through its subsidiary MoviePass Ventures.,c2583b67ba34468e8551a1ce7941bd24,4
+accounts,first-time reviewers,"Of the 54 written reviews for Gotti, 32 were found to be from first-time reviewers on the site. These accounts also only left a review for Gotti itself.",c2583b67ba34468e8551a1ce7941bd24,4
+reviews,gotti,A total of 54 written reviews were found for the film Gotti on the site.,c2583b67ba34468e8551a1ce7941bd24,4
+reviews,american animals,"Many of the accounts that left reviews for Gotti also wrote a review for American Animals, which along with Gotti are the only films owned by MoviePass through its company MoviePass Ventures.",c2583b67ba34468e8551a1ce7941bd24,4
+accounts,first-time reviewers,"Additionally, 45 of the accounts created to leave reviews for Gotti were also first-time reviewers on the site and created their account in the same month.",c2583b67ba34468e8551a1ce7941bd24,4
+tickets,moviepass,MoviePass's business model of offering unlimited movies is responsible for 40% of the tickets sold.,c2583b67ba34468e8551a1ce7941bd24,4
+reviewers,first-time reviewers,Many of the first-time reviewers who left reviews for Gotti only wrote a review for Gotti and did not leave any other reviews on the site.,c2583b67ba34468e8551a1ce7941bd24,4

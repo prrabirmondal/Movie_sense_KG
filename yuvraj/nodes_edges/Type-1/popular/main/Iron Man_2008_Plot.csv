@@ -1,0 +1,11 @@
+node_1,node_2,edge,chunk_id,count
+suits,destroying,"After being rescued by Rhodes, Stark returns home and announces that his company will cease manufacturing weapons. The suits are mentioned in the same sentence as 'destroying' indicating a potential negative relation between them.",f45789c239f24455bce961c2d2646159,4
+stark industries,bankrupting,"Obadiah Stane, his father's old partner and the company's manager, advises Stark that this will bankrupt Stark Industies and ruin his father's legacy. The relation between 'Stark Industries' and 'bankrupting' is derived from the context.",f45789c239f24455bce961c2d2646159,4
+reactor,original,"Though Stane requests details, a suspicious Stark decides to keep his work to himself. The relation between 'reactor' and 'original' is derived from the context.",f45789c239f24455bce961c2d2646159,4
+stark industries,trafficking arms,"Obadiah Stane, who has been trafficking arms to the Ten Rings and has staged a coup to replace Stark as Stark Industries' CEO by hiring the Ten Rings to kill him.",f45789c239f24455bce961c2d2646159,4
+stark,intercepted,Stark is intercepted by the Air Force.,f45789c239f24455bce961c2d2646159,4
+iron man,stane,"Stane hires the Ten Rings to kill Iron Man, but they renege and Stane steals Iron Man's arc reactor. Iron Man replaces his original reactor and defeats Stane in a fight, causing him to fall into a large arc reactor and be killed.",755c7b471c454dea9b2c102490ed4da6,4
+potts,stark,"Stark sends Potts to hack into the database of his company to track its illegal shipments, and she discovers that Stane hired the Ten Rings to kill Stark.",755c7b471c454dea9b2c102490ed4da6,4
+coulson,potts,Potts meets with Coulson of S.H.I.E.L.D. To inform him of Stane's activities.,755c7b471c454dea9b2c102490ed4da6,4
+stark industries building,stark,"Stark instructs Potts to overload the large arc reactor powering the Stark Industries building, causing a massive electrical surge that kills Stane.",755c7b471c454dea9b2c102490ed4da6,4
+stark industries,stark,Potts discovers that Stane hired the Ten Rings to kill Stark while she is hacking into the database of Stark Industries.,755c7b471c454dea9b2c102490ed4da6,4

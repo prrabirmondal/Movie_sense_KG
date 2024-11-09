@@ -1,0 +1,29 @@
+node_1,node_2,edge
+horus,osiris,Horus is the son of Osiris who was killed by his brother Set during the coronation.
+set,osiris,Set is the jealous brother of Osiris who killed him during the coronation.
+horus,set,Horus lost his eyes to Set after he defeated Horus and proclaimed himself the new king.
+bek,horus,Bek steals one of Horus's eyes from Set's treasure vault and promises to find the other if Horus brings Zaya back from the dead.
+zaya,horus,"Zaya gives plans for Set's pyramid to Bek, who uses them to infiltrate Set's treasure vault and steal Horus's eye."
+urshu,bek,"Urshu catches Bek and Zaya while they are escaping after stealing Set's eye, and kills Zaya with an arrow."
+ra,horus,Ra allows Horus to take a vial of divine waters to weaken Set after he visits Ra's divine vessel.
+thoth,set's pyramid,"Thoth solves the riddle of the guardian sphinx while Bek, Horus, and Hathor plan to infiltrate Set's pyramid."
+horus,ra,"Horus believes that fulfilling his destiny means avenging his parents' deaths, as explained by Ra."
+set,hathor,"Set asks Hathor to take him to the underworld, but she refuses and joins up with Bek and Horus."
+horus,set,"enemy relationship between Horus and Set, as seen in their battle atop an obelisk. Horus tries to stop Set from destroying the afterlife and freeing Apophis."
+bek,horus,"assistant relationship between Bek and Horus, as seen when Bek returns to the mortal world to help Horus stop Set. Bek defeats Urshu before he removes Horus's other eye from Set's armor."
+bek,horus,"friendship relationship between Bek and Horus, as seen when Horus saves Bek from falling over retrieving his eye and they both fall from great height."
+thoth,set,"victim relationship between Thoth and Set, as seen when Set destroys the divine water and takes Thoth's brain."
+horus,nephthys,"relative relationship between Horus and Nephthys, as seen when Set absorbs Thoth's brain, Osiris's heart, and Horus's eye and wings from Nephthys."
+ra,set,"student-mentor relationship between Ra and Set, as seen when Ra explains Set's mistreatment were tests to prepare him to take Ra's place as defender of the world against Apophis."
+apophis,set,"follower relationship between Apophis and Set, as seen when Set frees Apophis to consume the mortal and underworld realms."
+zaya,bek,"relative relationship between Zaya and Bek, as seen when Zaya encourages Bek to return to the mortal world and help Horus stop Set."
+hathor,bek,"friendship relationship between Hathor and Bek, as seen when Hathor calls on Anubis to take Bek to the underworld."
+hathor,bek,"sacrificer relationship between Hathor and Bek, as seen when Hathor offers her bracelet as Zaya's payment for passage to the afterlife, sacrificing herself as doing so exiles her to the underworld."
+ra,set,"enemy relationship between Ra and Set (continued), as seen when Set confronts Ra aboard his solar barge."
+horus,set,"Horus and Set engage in a fierce battle for power, with Horus ultimately overcoming and killing Set to save his people."
+bek,horus,"Horus saves Bek from falling while retrieving his eye, demonstrating his role as a protector of his people."
+ra,apophis,"With Ra wounded in the aether, Horus returns his spear, allowing Ra to repel Apophis and save Egypt from destruction."
+horus,ra,"After Horus saves Ra from danger, the sun god offers him any power he desires. Horus asks for the restoration of Bek and Zaya to life."
+horus,bek,"When Bek becomes chief advisor to Horus, their relationship grows stronger."
+hathor's bracelet,bek,"As a sign of gratitude and respect, Bek gives Horus Hathor's bracelet as a gift."
+horus,hathor's bracelet,"After receiving Hathor's bracelet from Bek, Horus leaves to rescue Hathor from the underworld."

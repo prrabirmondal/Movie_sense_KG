@@ -1,0 +1,15 @@
+node_1,node_2,edge,chunk_id,count
+h.g. wells's the war of the worlds,league of extraordinary gentlemen,The League of Extraordinary Gentlemen takes part in events of H.G. Wells's The War of the Worlds.,60e31cf0e5504fae8fea59f630d3bb79,4
+campion bond,british intelligence,Campion Bond represents British Intelligence in recruiting Mina Murray and others for the League of Extraordinary Gentlemen.,60e31cf0e5504fae8fea59f630d3bb79,4
+fu manchu,gang war,"Fu Manchu participates in a gang war with Professor Moriarty, nemesis of Sherlock Holmes.",60e31cf0e5504fae8fea59f630d3bb79,4
+professor moriarty,gang war,Professor Moriarty participates in a gang war with Fu Manchu.,60e31cf0e5504fae8fea59f630d3bb79,4
+mina murray,immortality,Mina Murray achieves immortality after her adventure with the League of Extraordinary Gentlemen.,60e31cf0e5504fae8fea59f630d3bb79,4
+allan quatermain,immortality,Allan Quatermain achieves immortality after his adventure with the League of Extraordinary Gentlemen.,60e31cf0e5504fae8fea59f630d3bb79,4
+antichrist,moonchild,"Evil magicians create a Moonchild that might turn out to be the Antichrist during an adventure with Mina Murray, Allan Quatermain, and Orlando.",60e31cf0e5504fae8fea59f630d3bb79,4
+magical entities,earth dominated by magical entities,"Mina Murray escapes from an Earth dominated by magical entities during her immortal life on a space station with Orlando, Jack Nemo (great-grandson of Captain Nemo), and a clone.",60e31cf0e5504fae8fea59f630d3bb79,4
+space station,immortal life,The character is living out her immortal life on a space station.,b9ca1109d841432ab00b8fc99c82d785,4
+space station,orlando,Orlando is also residing on the space station with the character.,b9ca1109d841432ab00b8fc99c82d785,4
+space station,jack nemo,"Jack Nemo, who is a great-grandson of Captain Nemo, is present on the space station along with the character.",b9ca1109d841432ab00b8fc99c82d785,4
+space station,clone of mr. hyde,A clone of Mr. Hyde is also present on the space station as per the context.,b9ca1109d841432ab00b8fc99c82d785,4
+alien invasions,immortal life,"The context mentions multiple alien invasions, but despite their presence, the character is able to live out her immortal life unhindered.",b9ca1109d841432ab00b8fc99c82d785,4
+space station,alien invasions,"The context mentions that there have been various alien invasions, but the space station seems to be a secure location for the character and her companions.",b9ca1109d841432ab00b8fc99c82d785,4

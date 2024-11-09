@@ -1,0 +1,22 @@
+node_1,node_2,edge
+movie,summary,A movie is represented by its summary.
+date movie,parody film genre,"Date Movie is a parody film genre, referencing popular romantic comedy films such as My Big Fat Greek Wedding, Meet the Fockers, Hitch, Legally Blonde, and Bridget Jones's Diary."
+tiffany & co.,julia,Grant takes Julia to Tiffany & Co. After their engagement
+julia,wedding dress,"Helps Julia shop for wedding dress at bridal shop, indicating a significant role of Andy in Julia's wedding preparations."
+julia,power box,"Hits head on power box and gains ability to read people's thoughts, revealing a causal relationship between Julia's action and her newfound skill."
+julia,andy,"Reads Andy's mind and realises his desire to get back together with Grant, indicating a potential threat to Julia's marriage with Grant."
+julia,grant,"Arrives late at wedding and witnesses Grant's kiss with Andy, causing emotional distress for Julia."
+julia,nicky,"Agrees to marry Nicky due to regret over marriage with Grant, indicating a shift in Julia's preference."
+julia,flashbacks,"Has flashbacks about her and Grant while standing at altar, indicating an ongoing emotional attachment between Julia and Grant."
+grant,julia,"Get back together and get married with Hitch officiating and now dating Jell-O. Julia arrives too late and sees Grant on the streets before she falls off the roof, though Grant conveniently catches her."
+grant,king kong,"Grant and Julia go to Skull Island and film a woman tied between two poles. King Kong rips off her dress and gropes her, Anne says 'I like hairy boys', so King Kong flattens her."
+anne,grant and julia,"Grant and Julia go to Skull Island and film a woman tied between two poles. King Kong rips off her dress and gropes her, Anne says 'I like hairy boys', so King Kong flattens her."
+anne,king kong,"King Kong rips off her dress and gropes her, Anne says 'I like hairy boys', so King Kong flattens her."
+skull island,grant and julia,Grant and Julia go to Skull Island and film a woman tied between two poles.
+mockery,self,makes a mockery of itself
+scary movie 4,film,"In this film, Scary Movie 4, is a horror comedy movie released in 2006."
+jennifer coolidge,actor,Jennifer Coolidge is an actor who appeared in Scary Movie 4 and was nominated for Most Annoying Fake Female Accent at the 2006 Stinkers Bad Movie Awards.
+cindy cheung,actor,Cindy Cheung is an actor who appeared in Lady in the Water and won Most Annoying Fake Female Accent at the 2006 Stinkers Bad Movie Awards.
+lady in the water,film,Lady in the Water is a film that Cindy Cheung appeared in and won Most Annoying Fake Female Accent at the 2006 Stinkers Bad Movie Awards.
+worst screenplay,award,Scary Movie 4 won the award for Worst Screenplay at the 2006 Stinkers Bad Movie Awards.
+most painfully unfunny comedy,award,Scary Movie 4 won the award for Most Painfully Unfunny Comedy at the 2006 Stinkers Bad Movie Awards.

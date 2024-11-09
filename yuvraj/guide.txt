@@ -1,0 +1,24 @@
+nodes_edges -> all the node edge relations organized into different hops
+
+q1 -> Yes / No questions
+q2 -> single correct MCQ
+q3 -> multi correct MCQ
+q4 -> single word answer
+q5 -> single sentence answer
+q6 -> multi sentence answer
+
+questions-> all the generated questions organized as popularity->hop->type_of_question
+
+
+While changing normal prompt:-
+        -> take the response generated in JSON dictionary with separate variables for
+           question and answer, this will help to generate proper csv.
+        -> the prompts do not contain the movie name, context and year of release, that
+           is to be extracted from the input csv. 
+        -> Ensure the inclusion of following two statements:
+            "Don't allow any effect of your previous response\
+            Take your time as much as you require in generating the response\"
+
+The q2/hop1 contains all the above mentioned changes.
+
++91 6239847475 - Yuvraj Verma

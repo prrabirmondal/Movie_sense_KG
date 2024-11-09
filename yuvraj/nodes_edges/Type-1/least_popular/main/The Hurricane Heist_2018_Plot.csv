@@ -1,0 +1,18 @@
+node_1,node_2,edge,chunk_id,count
+hurricane andrew,"gulfport, alabama","In 1992, Hurricane Andrew hits the town of Gulfport, Alabama.",9889a0666fd64472abee27be87cb5136,4
+will rutledge,national weather service meteorologist,Will Rutledge is a National Weather Service meteorologist.,9889a0666fd64472abee27be87cb5136,4
+casey corbyn,randy moreno,Federal Reserve Treasury agent Casey Corbyn is ordered by fellow employee Randy Moreno to summon Breeze.,9889a0666fd64472abee27be87cb5136,4
+connor perkins,rogue treasury agents,Rogue Treasury agents led by Connor Perkins infiltrate the facility and hold Moreno hostage.,9889a0666fd64472abee27be87cb5136,4
+sasha,frears,Computer hackers Sasha and Frears are enlisted by Connor Perkins to crack the code of the vault.,9889a0666fd64472abee27be87cb5136,4
+corbyn,perkins,"While looting a mall, Corbyn calls Perkins and makes a deal for the release of Moreno and Breeze as long as she opens the vault and gets the money. When Perkins asks where the trade will be conducted, Corbyn tells him to meet them at the Gulfport mall.",983e515d3a1d44ca87559e7d8c249cb3,4
+corbyn,money,"When Perkins breaks his deal to release Moreno and kills him as revenge for the deaths of Jaqi and Xander, Corbyn gives himself up while Breeze rescues the stranded Will. Back at the Treasury facility as Corbyn and the remaining mercenaries arrive, Perkins and his men take the money, using three of the facility's truck trailers, along with Corbyn.",983e515d3a1d44ca87559e7d8c249cb3,4
+will,corbyn,"After Will talks to Breeze, who has arrived with the mercenaries, Corbyn shoots the glass roof, sucking the mercenaries out into the storm as planned. Corbyn, Will, and Breeze manage to hold on.",983e515d3a1d44ca87559e7d8c249cb3,4
+perkins,money,"With the eye of the storm passing, Perkins and his men take the money, using three of the facility's truck trailers, along with Corbyn.",983e515d3a1d44ca87559e7d8c249cb3,4
+breeze,will,"After a struggle with Perkins, the eye wall sucks the money out of one of the trucks and then the truck itself. Will and Breeze follow them.",983e515d3a1d44ca87559e7d8c249cb3,4
+breeze,truck,"With the eye wall on their tail, Will and Breeze take over a truck.",983e515d3a1d44ca87559e7d8c249cb3,4
+perkins,truck,"After Perkins' own detached trailer crushes him, the money is sucked into the storm along with one of the trucks.",983e515d3a1d44ca87559e7d8c249cb3,4
+william,corbyn,"both William and Corbyn successfully outran the storm, demonstrating their ability to manage in dangerous situations. This skill has enabled them to save $200 million by reaching a safe location promptly.",acbf85f8bbcc4008838b9fa4e1cf0765,4
+breeze,corbyn,"both Breeze and Corbyn escaped the storm unscathed, thanks to their efficient driving skills. This event demonstrates their shared ability to manage in hazardous situations.",acbf85f8bbcc4008838b9fa4e1cf0765,4
+$200 million,william,William's quick thinking and excellent driving abilities helped him save $200 million by reaching a safe location in a timely manner.,acbf85f8bbcc4008838b9fa4e1cf0765,4
+$200 million,breeze,Breeze's ability to manage in dangerous situations also enabled him to save $200 million by safely escaping the storm.,acbf85f8bbcc4008838b9fa4e1cf0765,4
+$200 million,corbyn,Corbyn's efficient driving skills and quick decision-making enabled him to save $200 million by safely escaping the storm.,acbf85f8bbcc4008838b9fa4e1cf0765,4

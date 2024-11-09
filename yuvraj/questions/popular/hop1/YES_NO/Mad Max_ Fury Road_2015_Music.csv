@@ -1,0 +1,21 @@
+Question,Answer
+"Question: ""Was the musical score for the 2015 movie 'Mad Max: Fury Road' written by a British composer?""
+Answer: NO
+
+Question: ""Was the musical score for 'Mad Max: Fury Road', released in 2015, written by the Dutch composer Junkie XL?""
+Answer: YES",
+"Question: [""Did Hans Zimmer compose the musical score for the 2015 movie Mad Max: Fury Road?""]
+Answer: [NO]
+
+Question: [""Was the musical score for the 2015 movie 'Mad Max: Fury Road' composed by the Dutch composer Junkie XL?""]
+Answer: [YES]",
+"Question: [""Was the soundtrack album for the movie 'Mad Max: Fury Road' released by a company other than WaterTower Music in 2015?""]
+Answer: [NO]
+
+Question: [""Was a soundtrack album released for the movie 'Mad Max: Fury Road' by WaterTower Music in 2015?""]
+Answer: [YES]",
+"Question: [""Was the soundtrack album for 'Mad Max: Fury Road' released by a company other than WaterTower Music in 2015?""]
+Answer: [NO]
+
+Question: [""Was the soundtrack album for 'Mad Max: Fury Road' released by WaterTower Music in 2015?""]
+Answer: [YES]",

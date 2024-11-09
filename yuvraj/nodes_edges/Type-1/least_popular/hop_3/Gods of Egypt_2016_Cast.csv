@@ -1,0 +1,9 @@
+node_1,node_2,node_3,node_4,edge_1,edge_2,edge_3
+hathor,horus,isis,osiris,"Hathor is the lover of Horus, the Egyptian God of Air",Horus is the son of Isis and Osiris,"Isis is the wife of Osiris, the king of Egypt"
+hathor,horus,isis,nephthys,"Hathor is the lover of Horus, the Egyptian God of Air",Horus is the son of Isis and Osiris,Isis and Nephthys are sisters and wives of Set
+zaya,bek,horus,isis,"Zaya is the lover of Bek, a young thief who allies with Horus","Bek allies with Horus, the Egyptian God of Air",Horus is the son of Isis and Osiris
+zaya,bek,horus,osiris,"Zaya is the lover of Bek, a young thief who allies with Horus","Bek allies with Horus, the Egyptian God of Air","Horus is the son of Osiris, the king of Egypt"
+thoth,horus,isis,osiris,"Thoth is the brother of Horus, the Egyptian God of Air",Horus is the son of Isis and Osiris,"Isis is the wife of Osiris, the king of Egypt"
+thoth,horus,isis,nephthys,"Thoth is the brother of Horus, the Egyptian God of Air",Horus is the son of Isis and Osiris,Isis and Nephthys are sisters and wives of Set
+bek,horus,isis,osiris,"Bek allies with Horus, the Egyptian God of Air",Horus is the son of Isis and Osiris,"Isis is the wife of Osiris, the king of Egypt"
+bek,horus,isis,nephthys,"Bek allies with Horus, the Egyptian God of Air",Horus is the son of Isis and Osiris,Isis and Nephthys are sisters and wives of Set

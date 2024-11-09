@@ -1,0 +1,25 @@
+node_1,node_2,edge,chunk_id,count
+nasa,cooper,Cooper was a former NASA test pilot,fd44f49fbb63405e80c53a43b1699830,4
+global blight,humanity,global blight causes extinction for humanity,fd44f49fbb63405e80c53a43b1699830,4
+cooper,endurance team,Cooper joins the Endurance team to search for habitable planets,fd44f49fbb63405e80c53a43b1699830,4
+endurance team,"scientists romilly, doyle, amelia brand, and robots tars and case","Endurance team consists of scientists Romilly, Doyle, Amelia Brand, and robots TARS and CASE",fd44f49fbb63405e80c53a43b1699830,4
+endurance team,planetary system,Endurance team arrives at a planetary system,fd44f49fbb63405e80c53a43b1699830,4
+planetary system,gargantua,planetary system consists of a supermassive black hole named Gargantua,fd44f49fbb63405e80c53a43b1699830,4
+endurance team,ocean world,Endurance team descends into the gravity well to survey an inhospitable ocean world,fd44f49fbb63405e80c53a43b1699830,4
+doyle,colossal wave,A colossal wave sweeps away Doyle during the Endurance team's survey of the first candidate planet,fd44f49fbb63405e80c53a43b1699830,4
+endurance team,time dilation,Endurance team loses 23 Earth-years due to severe time dilation caused by escaping the gravity well,fd44f49fbb63405e80c53a43b1699830,4
+romilly,endurance,Romilly remains aboard the Endurance while others descend into the black hole's gravity well to survey the first candidate planet,fd44f49fbb63405e80c53a43b1699830,4
+brand's father,professor brand,Amelia Brand's father is Professor Brand,fd44f49fbb63405e80c53a43b1699830,4
+brand's father,gravity equation,Brand's father helps with a gravity equation,fd44f49fbb63405e80c53a43b1699830,4
+brand's father,murph,Brand's father works with Murph,fd44f49fbb63405e80c53a43b1699830,4
+murph,childhood home,Murph visits her childhood home,fd44f49fbb63405e80c53a43b1699830,4
+cooper,endurance spaceship,"Cooper, the commander of the Endurance spaceship, leads the mission to search for a new home for humanity.",cc42ed0c15ed49e58666ffbc93063800,4
+mann,nasa explorer,Mann is a NASA explorer who landed on the first candidate planet decades ago and fell into a coma. The Endurance crew revives him.,cc42ed0c15ed49e58666ffbc93063800,4
+murph,cooper's daughter,"Cooper's daughter, Murph, wonders if Cooper knowingly abandoned her, but later helps complete Brand's equation.",cc42ed0c15ed49e58666ffbc93063800,4
+brand,scientist,Brand is a scientist who works on an equation to find a new home for humanity. Cooper continues his work.,cc42ed0c15ed49e58666ffbc93063800,4
+o'neill cylinder colony,tars,"In the year 2156, TARS is rescued by an O'Neill cylinder colony.",1e0a8ef49992430689a74eca7e368676,4
+cooper,murph,"In the context, Cooper reunites with Murph on her deathbed.",1e0a8ef49992430689a74eca7e368676,4
+amelia,helmet,"On the final candidate planet, Amelia removes her helmet and breathes in the air of the new habitable world.",1e0a8ef49992430689a74eca7e368676,4
+murph,cooper,"In the context, Cooper reunites with Murph.",1e0a8ef49992430689a74eca7e368676,4
+tars,o'neill cylinder colony,"In the year 2156, TARS is rescued by an O'Neill cylinder colony.",1e0a8ef49992430689a74eca7e368676,4
+amelia,new habitable world,"On the final candidate planet, Amelia discovers a new habitable world.",1e0a8ef49992430689a74eca7e368676,4

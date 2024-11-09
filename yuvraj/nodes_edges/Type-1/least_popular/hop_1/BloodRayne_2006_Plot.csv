@@ -1,0 +1,13 @@
+node_1,node_2,edge
+movie's,plot,"represents the key concepts of this context. MOVIE'S refers to a specific movie, while PLOT represents the storyline or sequence of events in that movie."
+monastery,talisman,"the monastery is where the talisman is guarded by a hammer-wielding, deformed monk"
+talisman,monk,"the talisman is guarded by a hammer-wielding, deformed monk"
+talisman,holy water,lifting the talisman from its pedestal causes the chamber to flood with holy water
+rayne,talisman,rayne takes the talisman
+eyeball,rayne,the eyeball becomes absorbed into rayne's own eye
+eye,holy water,the absorption of the eye allows rayne to be unaffected by holy water
+belial,body parts,the body parts came from an ancient vampire called Belial
+heart,talisman,the heart talisman is one of three body parts which came from an ancient vampire called Belial
+rayne,heart talisman,rayne takes the heart talisman
+katarin,heart talisman,the location of the heart talisman is known to katarin as her grandfather hid it in water-filled caves
+rayne,katarin,rayne kills katarin and takes the heart talisman

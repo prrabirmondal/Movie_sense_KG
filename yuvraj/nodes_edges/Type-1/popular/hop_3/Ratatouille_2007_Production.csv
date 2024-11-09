@@ -1,0 +1,4 @@
+node_1,node_2,node_3,node_4,edge_1,edge_2,edge_3
+films,brad bird,brad lewis,paris,"director Brad Bird is associated with the production of this movie, 'films'.",both Brad Bird and Brad Lewis are producers for this movie.,"Director Brad Bird, producer Brad Lewis and some of the crew spent a week in Paris to properly understand its environment,"
+city,brad bird,brad lewis,paris,Brad Bird went to the city to understand its environment for better portrayal in the movie.,both Brad Bird and Brad Lewis are producers for this movie.,"Director Brad Bird, producer Brad Lewis and some of the crew spent a week in Paris to properly understand its environment,"
+motorcycle tour,city,brad bird,brad lewis,exploring the city through a motorcycle tour helped Brad Bird and his crew to understand the environment more accurately.,Brad Bird went to the city to understand its environment for better portrayal in the movie.,both Brad Bird and Brad Lewis are producers for this movie.

@@ -1,0 +1,16 @@
+node_1,node_2,edge,chunk_id,node_3,count
+helm's deep,rohan,"Helm's Deep is a fortress located in Rohan, where Théoden evacuates his citizens during the attack by Saruman's Orcs.",0d691a6ef0784703af42cd326b067fa4,,4
+théoden,rohan,Théoden is the king of Rohan who evacuates his citizens to Helm's Deep during the attack by Saruman's Orcs.,0d691a6ef0784703af42cd326b067fa4,,4
+saruman's orcs,rohan,"Saruman's Orcs attack Rohan, forcing Théoden to evacuate his citizens to Helm's Deep.",0d691a6ef0784703af42cd326b067fa4,,4
+éowyn,aragorn,Éowyn becomes infatuated with Aragorn after he befriends her in the context.,0d691a6ef0784703af42cd326b067fa4,,4
+brego,aragorn,Théodred's horse Brego finds Aragorn after he falls from a cliff during the attack on the refugees travelling to Helm's Deep.,0d691a6ef0784703af42cd326b067fa4,,4
+galadriel,elves,Galadriel of Lothlórien convinces Elrond that the Elves should honour their alliance to men during the context.,0d691a6ef0784703af42cd326b067fa4,,4
+elrond,arwen,Elrond informs Arwen that Aragorn will not return in the context.,0d691a6ef0784703af42cd326b067fa4,,4
+treebeard,merry,"Treebeard meets Merry and Pippin in Fangorn during the context. Convinced that they are allies, he brings them to an Ent Council.",0d691a6ef0784703af42cd326b067fa4,Pippin,4
+treebeard,isengard,"Enraged by what he sees, Treebeard and the Ents storm Isengard during the context and trap Saruman in his tower.",0d691a6ef0784703af42cd326b067fa4,,4
+helm's deep,saruman's army approaching,warning Théoden of Saruman's army approaching at Helm's Deep,3434a3ff0a294bbb980ea11f8b377d76,,4
+frodo,middle-earth,Frodo is fighting to save Middle-earth from the corrupting influence of the Ring.,b8ab16b0fc174dd6bf4020cd572d6806,,4
+sam,frodo,"Sam saves Frodo when he is in danger, demonstrating his loyalty and devotion to Frodo's cause.",b8ab16b0fc174dd6bf4020cd572d6806,,4
+faramir,frodo,"Feeling impressed by Frodo's resolve, Faramir releases him rather than keeping him captive.",b8ab16b0fc174dd6bf4020cd572d6806,,4
+gollum,ring,"Determined to reclaim the Ring after feeling betrayed by his capture, Gollum decides to lead Frodo and Sam to Shelob.",b8ab16b0fc174dd6bf4020cd572d6806,,4
+faramir,middle-earth,"By releasing Frodo and Sam, Faramir demonstrates his allegiance to the good still left in Middle-earth.",b8ab16b0fc174dd6bf4020cd572d6806,,4

@@ -1,0 +1,14 @@
+node_1,node_2,edge,chunk_id,count
+bob harris,tokyo,Bob Harris arrives in Tokyo to appear in lucrative advertisements for Suntory's Hibiki whisky. He stays at the upscale Park Hyatt Tokyo and is miserable due to problems within his 25-year marriage and a midlife crisis.,d9d1317d36394ee28a5eb486c7fe25f3,4
+bob harris,hibiki whisky,Bob Harris appears in lucrative advertisements for Suntory's Hibiki whisky.,d9d1317d36394ee28a5eb486c7fe25f3,4
+charlotte,john,Charlotte is accompanying her husband John while he works as a celebrity photographer.,d9d1317d36394ee28a5eb486c7fe25f3,4
+charlotte,tokyo,"Another American staying at the hotel, Charlotte is feeling similarly disenchanted in Tokyo and passes the time loitering around the hotel.",d9d1317d36394ee28a5eb486c7fe25f3,4
+kelly,charlotte,"Charlotte is repelled by a vacuous Hollywood actress named Kelly, who is also at the hotel promoting a film.",d9d1317d36394ee28a5eb486c7fe25f3,4
+bob harris,charlotte,Bob Harris and Charlotte frequently cross paths in the hotel and eventually introduce themselves to each other in the hotel bar.,d9d1317d36394ee28a5eb486c7fe25f3,4
+john,charlotte,"When John is on assignment outside Tokyo, Charlotte invites Bob into the city to meet some local friends.",d9d1317d36394ee28a5eb486c7fe25f3,4
+karaoke box,bob harris,Bob Harris and Charlotte end up singing at a karaoke box.,d9d1317d36394ee28a5eb486c7fe25f3,4
+karaoke box,bob,Bob was up singing at a karaoke box.,aeda074f05204ad38c11efe4db2612e3,4
+bob,charlotte,"In the days that follow, Bob and Charlotte spend more time together, and their friendship strengthens.",aeda074f05204ad38c11efe4db2612e3,4
+hotel bar,bob,"Bob has a cold conversation with his wife, then spends the night with a jazz singer from the hotel bar.",aeda074f05204ad38c11efe4db2612e3,4
+airport,bob,"On Bob's taxi ride to the airport, he sees Charlotte on a crowded street, stops the car, and walks to her.",aeda074f05204ad38c11efe4db2612e3,4
+street,charlotte,"The next morning, when Bob is leaving the hotel, he and Charlotte share sincere but unsatisfactory goodbyes on a crowded street.",aeda074f05204ad38c11efe4db2612e3,4

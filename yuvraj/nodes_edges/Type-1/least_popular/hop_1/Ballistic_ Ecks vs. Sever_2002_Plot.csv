@@ -1,0 +1,20 @@
+node_1,node_2,edge
+dia,sever,ex-DIA agent Sever kidnaps DIA director Robert Gant's son Michael and wipes out his security detail in the process.
+sever,dia,"Former DIA agent Sever was adopted and trained by the agency as a covert operative and assassin with 'no fear, no conscience, and no morality.'"
+jeremiah ecks,fbi,Former FBI agent Jeremiah Ecks left the agency after his wife Rayne was killed in a car bombing.
+ecks,julio martin,Ecks' old boss Julio Martin asks him to investigate the Gant case and claims that Michael's mother Vin is still alive if Ecks helps take down Sever.
+ross,sever,"Robert Gant's elite agents led by A.J. Ross pursue Sever and try to rescue Michael, but she wipes out Ross's forces in a lengthy gun battle."
+martin,sever,Sever shoots Ecks' old boss Julio Martin during their pursuit.
+ecks,ross,Ecks wipes out Ross's forces in a lengthy gun battle.
+sever,martin,"Sever shoots Martin,"
+ecks,sever,"Ecks pursues Sever, climaxing with a fight that's cut off when Ross starts shooting at them with an M60 machine gun, giving Sever a chance to escape."
+vancouver police department,ecks,Ecks is arrested by the Vancouver Police Department under the false pretense that he killed Martin.
+sever,ecks,"During a car chase, Sever throws a piece of paper at Ecks and tells him to ask Gant about his wife."
+rayne,ecks,"Meeting at an aquarium, it's revealed that Rayne's 'death' was orchestrated by Gant. Rayne ended up believing Ecks had died while he believed that she had. Rayne then married Gant under the name Vinn."
+sever,michael,Sever's kidnapping was for Michael's protection.
+ecks,sever,"In the final battle, Ecks and Sever eventually gain the upper hand and Sever kills Ross in a fight in the bunker."
+gant,michael,Gant tries to retrieve the Softkill in Michael's arm but is surprised to find it's not there.
+sever,gant,"During the final battle, Sever kills Gant using a Softkill-loaded bullet and escapes as the police arrive."
+ecks,police,Ecks escapes as the police arrive.
+gant,softkill-loaded bullet,Kills Gant using a Softkill-loaded bullet.
+ecks,family,The film concludes with Ecks and Sever looking over the sea and Ecks thanking Sever for reuniting him with his family.

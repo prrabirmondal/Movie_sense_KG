@@ -1,0 +1,36 @@
+node_1,node_2,node_3,edge_1,edge_2
+storm,pi,hyena,Pi experienced the storm.,Pi retreats to the end of the boat because of the hyena.
+storm,pi,small raft,Pi experienced the storm.,Pi fashions a small raft and tethers it to the lifeboat.
+storm,pi,richard parker,Pi experienced the storm.,Pi trains Richard Parker to accept him in the boat.
+storm,pi,richard parker,Pi experienced the storm.,Pi and Richard Parker are in the lifeboat while Pi and the meerkats sleep in the trees.
+storm,pi,meerkats,Pi experienced the storm.,Pi and the meerkats eat edible plants on the island.
+storm,pi,richard parker,Pi experienced the storm.,"relationship between Pi and Richard Parker is that they both leave the island, but after reaching Mexico, Pi recovers in a hospital while Richard Parker disappears into the jungle without acknowledging Pi."
+lifeboat,pi,hyena,Pi is in the lifeboat after the storm.,Pi retreats to the end of the boat because of the hyena.
+lifeboat,pi,small raft,Pi is in the lifeboat after the storm.,Pi fashions a small raft and tethers it to the lifeboat.
+lifeboat,pi,richard parker,Pi is in the lifeboat after the storm.,Pi trains Richard Parker to accept him in the boat.
+lifeboat,pi,richard parker,Pi is in the lifeboat after the storm.,Pi and Richard Parker are in the lifeboat while Pi and the meerkats sleep in the trees.
+lifeboat,pi,meerkats,Pi is in the lifeboat after the storm.,Pi and the meerkats eat edible plants on the island.
+lifeboat,pi,richard parker,Pi is in the lifeboat after the storm.,"relationship between Pi and Richard Parker is that they both leave the island, but after reaching Mexico, Pi recovers in a hospital while Richard Parker disappears into the jungle without acknowledging Pi."
+zebra,lifeboat,pi,The zebra is in the lifeboat with Pi and the orangutan.,Pi is in the lifeboat after the storm.
+orangutan,lifeboat,pi,The orangutan is in the lifeboat with Pi and the zebra.,Pi is in the lifeboat after the storm.
+richard parker,lifeboat,pi,Richard Parker is in the lifeboat after Pi helps him in.,Pi is in the lifeboat after the storm.
+pi,richard parker,lifeboat,Pi trains Richard Parker to accept him in the boat.,Richard Parker is in the lifeboat after Pi helps him in.
+lush jungle,island,encounter,The island is a lush jungle of edible plants and freshwater pools.,Pi and Richard Parker encounter a floating island.
+lush jungle,island,carnivorous,The island is a lush jungle of edible plants and freshwater pools.,Pi deduces that the island is carnivorous after finding the human tooth embedded in a flower.
+meerkats,island,encounter,There is a large population of meerkats on the island.,Pi and Richard Parker encounter a floating island.
+meerkats,island,carnivorous,There is a large population of meerkats on the island.,Pi deduces that the island is carnivorous after finding the human tooth embedded in a flower.
+pi,richard parker,lifeboat,Pi and Richard Parker are in the lifeboat while Pi and the meerkats sleep in the trees.,Richard Parker is in the lifeboat after Pi helps him in.
+night,island,encounter,"At night, the island transforms into a hostile environment.",Pi and Richard Parker encounter a floating island.
+night,island,carnivorous,"At night, the island transforms into a hostile environment.",Pi deduces that the island is carnivorous after finding the human tooth embedded in a flower.
+pi,meerkats,island,Pi and the meerkats eat edible plants on the island.,There is a large population of meerkats on the island.
+freshwater pools,island,encounter,Freshwater pools are available for drinking water on the island.,Pi and Richard Parker encounter a floating island.
+freshwater pools,island,carnivorous,Freshwater pools are available for drinking water on the island.,Pi deduces that the island is carnivorous after finding the human tooth embedded in a flower.
+pi's mother,richard parker,lifeboat,"relationship between Pi's mother and Richard Parker is that they both leave the island, but Pi is heartbroken that Richard Parker does not acknowledge him before disappearing into the jungle.",Richard Parker is in the lifeboat after Pi helps him in.
+pi,richard parker,lifeboat,"relationship between Pi and Richard Parker is that they both leave the island, but after reaching Mexico, Pi recovers in a hospital while Richard Parker disappears into the jungle without acknowledging Pi.",Richard Parker is in the lifeboat after Pi helps him in.
+pi's mother,the cook,pi,"relationship between Pi's mother and The cook is that they both get killed in different incidents, Pi's mother by The cook, and Pi kills The cook later.",relationship between The cook and Pi in the second story is that they both replace each other's characters in Pi's retold story.
+the cook,pi,hyena,relationship between The cook and Pi in the second story is that they both replace each other's characters in Pi's retold story.,Pi retreats to the end of the boat because of the hyena.
+the cook,pi,small raft,relationship between The cook and Pi in the second story is that they both replace each other's characters in Pi's retold story.,Pi fashions a small raft and tethers it to the lifeboat.
+the cook,pi,richard parker,relationship between The cook and Pi in the second story is that they both replace each other's characters in Pi's retold story.,Pi trains Richard Parker to accept him in the boat.
+the cook,pi,richard parker,relationship between The cook and Pi in the second story is that they both replace each other's characters in Pi's retold story.,Pi and Richard Parker are in the lifeboat while Pi and the meerkats sleep in the trees.
+the cook,pi,meerkats,relationship between The cook and Pi in the second story is that they both replace each other's characters in Pi's retold story.,Pi and the meerkats eat edible plants on the island.
+the cook,pi,richard parker,relationship between The cook and Pi in the second story is that they both replace each other's characters in Pi's retold story.,"relationship between Pi and Richard Parker is that they both leave the island, but after reaching Mexico, Pi recovers in a hospital while Richard Parker disappears into the jungle without acknowledging Pi."

@@ -1,0 +1,17 @@
+node_1,node_2,edge
+draco malfoy,bellatrix lestrange,"Belonged to Bellatrix Lestrange and Draco Malfoy, wandmaker Ollivander senses Draco's wand has changed its allegiance to Harry Potter."
+gringotts bank,security,Trapped by security while trying to escape from Gringotts bank after breaking into Bellatrix Lestrange's vault at Gringotts bank.
+gringotts bank,dragon guardian,Released the dragon guardian and fled Gringotts bank on its back while trying to escape from Gringotts bank after breaking into Bellatrix Lestrange's vault at Gringotts bank.
+harry potter,lord voldemort,Harry Potter has a vision of Lord Voldemort at Gringotts during the plot details.
+nagini,final horcrux,Harry realises that Voldemort's snake Nagini is the final Horcrux
+elder wand,snape,Voldemort tells Snape that the Elder Wand cannot serve Voldemort until Snape dies; Nagini then viciously attacks Snape
+albus dumbledore,snape,"Following her death, Snape worked with Albus Dumbledore as a double agent amongst the Death Eaters, to protect Harry from Voldemort"
+lily,snape,"Snape despised Harry's late father James, who bullied him, but he loved Harry's mother Lily"
+snape,patronus doe,"causal relation, Snape conjured the Patronus doe"
+harry,horcrux,"accidental relation, Harry became an Horcrux by accident"
+voldemort's curse,harry,"informational relation, Voldemort's curse originally failed to kill Harry"
+dumbledore's spirit,harry,"informational relation, Dumbledore's spirit meets Harry"
+molly,bellatrix,"destructive relation, Molly kills Bellatrix"
+neville,sword of gryffindor,"causal relation, Neville draws the Sword of Gryffindor from the Sorting Hat in defiance"
+harry,voldemort,"final confrontation and killing relation, Harry finally kills Voldemort after his Expelliarmus charm..."
+elder wand,voldemort,"informational relation, Voldemort never commanded the Elder Wand"

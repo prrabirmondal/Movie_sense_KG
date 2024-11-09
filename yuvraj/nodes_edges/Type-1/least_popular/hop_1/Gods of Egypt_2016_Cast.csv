@@ -1,0 +1,14 @@
+node_1,node_2,edge
+horus,isis,Horus is the son of Isis and Osiris
+horus,osiris,"Horus is the son of Osiris, the king of Egypt"
+isis,osiris,"Isis is the wife of Osiris, the king of Egypt"
+set,osiris,"Set is the brother of Osiris, the king of Egypt"
+hathor,horus,"Hathor is the lover of Horus, the Egyptian God of Air"
+zaya,bek,"Zaya is the lover of Bek, a young thief who allies with Horus"
+ra,osiris,"Ra is the father of Osiris and Set, the king of Egypt"
+thoth,horus,"Thoth is the brother of Horus, the Egyptian God of Air"
+urshu,set,"Urshu is the second-in-command and architect of Set, the Egyptian God of the Desert"
+isis,nephthys,Isis and Nephthys are sisters and wives of Set
+astarte,set,"Astarte is one of the goddesses of war who are loyal to Set, the Egyptian God of the Desert"
+anat,set,"Anat is one of the goddesses of war who are loyal to Set, the Egyptian God of the Desert"
+bek,horus,"Bek allies with Horus, the Egyptian God of Air"

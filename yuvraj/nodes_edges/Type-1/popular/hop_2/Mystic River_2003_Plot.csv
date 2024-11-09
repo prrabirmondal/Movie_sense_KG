@@ -1,0 +1,19 @@
+node_1,node_2,node_3,edge_1,edge_2
+whitey,dave,katie,"Whitey suspects Dave, who keeps changing the story about how his hand got injured.","Dave reveals to Jimmy that he did kill someone that night, but it was not Katie."
+whitey,dave,sean,"Whitey suspects Dave, who keeps changing the story about how his hand got injured.","Sean is looking for Dave, who is wanted for questioning in the murder of a known child molester."
+celeste,dave,katie,"Dave continues to behave erratically, which upsets Celeste to the point that she leaves their home and tells Jimmy she suspects Dave is Katie's murderer.","Dave reveals to Jimmy that he did kill someone that night, but it was not Katie."
+celeste,dave,sean,"Dave continues to behave erratically, which upsets Celeste to the point that she leaves their home and tells Jimmy she suspects Dave is Katie's murderer.","Sean is looking for Dave, who is wanted for questioning in the murder of a known child molester."
+jimmy,celeste,dave,Celeste leaves their home and tells Jimmy she suspects Dave is Katie's murderer.,"Dave continues to behave erratically, which upsets Celeste to the point that she leaves their home and tells Jimmy she suspects Dave is Katie's murderer."
+jimmy,dave,katie,"Jimmy and his friends invite Dave to a local bar, get him drunk and confront him when he is about to vomit.","Dave reveals to Jimmy that he did kill someone that night, but it was not Katie."
+jimmy,dave,sean,"Jimmy and his friends invite Dave to a local bar, get him drunk and confront him when he is about to vomit.","Sean is looking for Dave, who is wanted for questioning in the murder of a known child molester."
+dave,katie,witness,"Dave reveals to Jimmy that he did kill someone that night, but it was not Katie.",A witness statement suggests that Katie may have known her killer.
+dave,katie,john,"Dave reveals to Jimmy that he did kill someone that night, but it was not Katie.",John and 'Silent Ray' confessed to killing Katie as part of a prank gone wrong.
+dave,katie,'silent ray',"Dave reveals to Jimmy that he did kill someone that night, but it was not Katie.",Brendan confronted 'Silent Ray' and John O'Shea about Katie's murder and tried to get them to admit their guilt.
+jimmy,dave,katie,"When Dave does so, Jimmy kills him and disposes of his body in the adjacent Mystic River.","Dave reveals to Jimmy that he did kill someone that night, but it was not Katie."
+jimmy,dave,sean,"When Dave does so, Jimmy kills him and disposes of his body in the adjacent Mystic River.","Sean is looking for Dave, who is wanted for questioning in the murder of a known child molester."
+dave,sean,lauren,"Sean is looking for Dave, who is wanted for questioning in the murder of a known child molester.",Sean reunites with Lauren after apologizing for pushing her away.
+dave,sean,jimmy,"Sean is looking for Dave, who is wanted for questioning in the murder of a known child molester.","Sean mimics a gunshot at Jimmy during a local parade, implying he is going to make Jimmy pay."
+sean,jimmy,celeste,"Sean mimics a gunshot at Jimmy during a local parade, implying he is going to make Jimmy pay.",Celeste leaves their home and tells Jimmy she suspects Dave is Katie's murderer.
+sean,jimmy,dave,"Sean mimics a gunshot at Jimmy during a local parade, implying he is going to make Jimmy pay.","Jimmy and his friends invite Dave to a local bar, get him drunk and confront him when he is about to vomit."
+sean,jimmy,dave,"Sean mimics a gunshot at Jimmy during a local parade, implying he is going to make Jimmy pay.","When Dave does so, Jimmy kills him and disposes of his body in the adjacent Mystic River."
+sean,jimmy,annabeth,"Sean mimics a gunshot at Jimmy during a local parade, implying he is going to make Jimmy pay.","Jimmy confesses what he's done to Annabeth and she tells him, 'a king knows what to do and does it. Even when it's hard.'"

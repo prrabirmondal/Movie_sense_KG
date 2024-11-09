@@ -1,0 +1,8 @@
+node_1,node_2,node_3,edge_1,edge_2
+elder wand,snape,patronus doe,Voldemort tells Snape that the Elder Wand cannot serve Voldemort until Snape dies; Nagini then viciously attacks Snape,"causal relation, Snape conjured the Patronus doe"
+albus dumbledore,snape,patronus doe,"Following her death, Snape worked with Albus Dumbledore as a double agent amongst the Death Eaters, to protect Harry from Voldemort","causal relation, Snape conjured the Patronus doe"
+lily,snape,patronus doe,"Snape despised Harry's late father James, who bullied him, but he loved Harry's mother Lily","causal relation, Snape conjured the Patronus doe"
+voldemort's curse,harry,horcrux,"informational relation, Voldemort's curse originally failed to kill Harry","accidental relation, Harry became an Horcrux by accident"
+voldemort's curse,harry,voldemort,"informational relation, Voldemort's curse originally failed to kill Harry","final confrontation and killing relation, Harry finally kills Voldemort after his Expelliarmus charm..."
+dumbledore's spirit,harry,horcrux,"informational relation, Dumbledore's spirit meets Harry","accidental relation, Harry became an Horcrux by accident"
+dumbledore's spirit,harry,voldemort,"informational relation, Dumbledore's spirit meets Harry","final confrontation and killing relation, Harry finally kills Voldemort after his Expelliarmus charm..."

@@ -1,0 +1,35 @@
+node_1,node_2,node_3,edge_1,edge_2
+gene,mel,smiler,"Parents of Gene, Mel and Mary are two meh emojis.",enemy relationship due to Smiler's threat to delete Mel
+gene,alex,addie,Gene is the emoji selected by Alex to send as a text message.,communication relationship between Alex and Addie through text message
+smiler,gene,mel,Smiler concludes that Gene is a 'malfunction' and therefore must be deleted.,"Parents of Gene, Mel and Mary are two meh emojis."
+smiler,gene,mary,Smiler concludes that Gene is a 'malfunction' and therefore must be deleted.,"Parents of Gene, Mel and Mary are two meh emojis."
+smiler,gene,alex,Smiler concludes that Gene is a 'malfunction' and therefore must be deleted.,Gene is the emoji selected by Alex to send as a text message.
+smiler,gene,smiler,Smiler concludes that Gene is a 'malfunction' and therefore must be deleted.,enemy relationship due to Smiler's threat to delete Gene
+hi-5,gene,mel,Hi-5 rescues Gene from bots sent by Smiler.,"Parents of Gene, Mel and Mary are two meh emojis."
+hi-5,gene,mary,Hi-5 rescues Gene from bots sent by Smiler.,"Parents of Gene, Mel and Mary are two meh emojis."
+hi-5,gene,alex,Hi-5 rescues Gene from bots sent by Smiler.,Gene is the emoji selected by Alex to send as a text message.
+hi-5,gene,smiler,Hi-5 rescues Gene from bots sent by Smiler.,enemy relationship due to Smiler's threat to delete Gene
+smiler,gene,mel,"Smiler sends more bots to look for Gene when she finds out that he has left Textopolis, as his actions have caused Alex to think that his phone needs to be fixed.","Parents of Gene, Mel and Mary are two meh emojis."
+smiler,gene,mary,"Smiler sends more bots to look for Gene when she finds out that he has left Textopolis, as his actions have caused Alex to think that his phone needs to be fixed.","Parents of Gene, Mel and Mary are two meh emojis."
+smiler,gene,alex,"Smiler sends more bots to look for Gene when she finds out that he has left Textopolis, as his actions have caused Alex to think that his phone needs to be fixed.",Gene is the emoji selected by Alex to send as a text message.
+smiler,gene,smiler,"Smiler sends more bots to look for Gene when she finds out that he has left Textopolis, as his actions have caused Alex to think that his phone needs to be fixed.",enemy relationship due to Smiler's threat to delete Gene
+jailbreak,gene,mel,The hacker emoji Jailbreak wants to reach Dropbox so that she can live in the cloud. Gene and Hi-5 come across her during their adventure.,"Parents of Gene, Mel and Mary are two meh emojis."
+jailbreak,gene,mary,The hacker emoji Jailbreak wants to reach Dropbox so that she can live in the cloud. Gene and Hi-5 come across her during their adventure.,"Parents of Gene, Mel and Mary are two meh emojis."
+jailbreak,gene,alex,The hacker emoji Jailbreak wants to reach Dropbox so that she can live in the cloud. Gene and Hi-5 come across her during their adventure.,Gene is the emoji selected by Alex to send as a text message.
+jailbreak,gene,smiler,The hacker emoji Jailbreak wants to reach Dropbox so that she can live in the cloud. Gene and Hi-5 come across her during their adventure.,enemy relationship due to Smiler's threat to delete Gene
+jailbreak,gene,mel,Jailbreak reveals that Gene can be fixed in the cloud.,"Parents of Gene, Mel and Mary are two meh emojis."
+jailbreak,gene,mary,Jailbreak reveals that Gene can be fixed in the cloud.,"Parents of Gene, Mel and Mary are two meh emojis."
+jailbreak,gene,alex,Jailbreak reveals that Gene can be fixed in the cloud.,Gene is the emoji selected by Alex to send as a text message.
+jailbreak,gene,smiler,Jailbreak reveals that Gene can be fixed in the cloud.,enemy relationship due to Smiler's threat to delete Gene
+candy crush,jailbreak,gene,escapes into the game Candy Crush and Jailbreak reveals being a princess emoji who fled home,The hacker emoji Jailbreak wants to reach Dropbox so that she can live in the cloud. Gene and Hi-5 come across her during their adventure.
+candy crush,jailbreak,gene,escapes into the game Candy Crush and Jailbreak reveals being a princess emoji who fled home,Jailbreak reveals that Gene can be fixed in the cloud.
+just dance app,gene,mel,go off into the Just Dance app with Gene,"Parents of Gene, Mel and Mary are two meh emojis."
+just dance app,gene,mary,go off into the Just Dance app with Gene,"Parents of Gene, Mel and Mary are two meh emojis."
+just dance app,gene,alex,go off into the Just Dance app with Gene,Gene is the emoji selected by Alex to send as a text message.
+just dance app,gene,smiler,go off into the Just Dance app with Gene,enemy relationship due to Smiler's threat to delete Gene
+just dance app,jailbreak,gene,escapes from being stereotyped in the Just Dance app as Jailbreak is revealed to be a princess emoji,The hacker emoji Jailbreak wants to reach Dropbox so that she can live in the cloud. Gene and Hi-5 come across her during their adventure.
+just dance app,jailbreak,gene,escapes from being stereotyped in the Just Dance app as Jailbreak is revealed to be a princess emoji,Jailbreak reveals that Gene can be fixed in the cloud.
+gene,smiler,gene,enemy relationship due to Smiler's threat to delete Gene,Smiler concludes that Gene is a 'malfunction' and therefore must be deleted.
+gene,smiler,gene,enemy relationship due to Smiler's threat to delete Gene,"Smiler sends more bots to look for Gene when she finds out that he has left Textopolis, as his actions have caused Alex to think that his phone needs to be fixed."
+mel,smiler,gene,enemy relationship due to Smiler's threat to delete Mel,Smiler concludes that Gene is a 'malfunction' and therefore must be deleted.
+mel,smiler,gene,enemy relationship due to Smiler's threat to delete Mel,"Smiler sends more bots to look for Gene when she finds out that he has left Textopolis, as his actions have caused Alex to think that his phone needs to be fixed."

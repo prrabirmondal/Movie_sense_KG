@@ -1,0 +1,28 @@
+node_1,node_2,edge
+storm,pi,Pi experienced the storm.
+lifeboat,pi,Pi is in the lifeboat after the storm.
+zebra,lifeboat,The zebra is in the lifeboat with Pi and the orangutan.
+orangutan,lifeboat,The orangutan is in the lifeboat with Pi and the zebra.
+pi,hyena,Pi retreats to the end of the boat because of the hyena.
+zebra,hyena,The hyena kills the zebra.
+orangutan,hyena,The hyena later kills the orangutan.
+pi,small raft,Pi fashions a small raft and tethers it to the lifeboat.
+richard parker,lifeboat,Richard Parker is in the lifeboat after Pi helps him in.
+humpback whale,raft,The humpback whale destroys the raft and its supplies.
+pi,richard parker,Pi trains Richard Parker to accept him in the boat.
+island,encounter,Pi and Richard Parker encounter a floating island.
+lush jungle,island,The island is a lush jungle of edible plants and freshwater pools.
+meerkats,island,There is a large population of meerkats on the island.
+pi,richard parker,Pi and Richard Parker are in the lifeboat while Pi and the meerkats sleep in the trees.
+night,island,"At night, the island transforms into a hostile environment."
+pi,meerkats,Pi and the meerkats eat edible plants on the island.
+freshwater pools,island,Freshwater pools are available for drinking water on the island.
+human tooth,flower,Pi finds a human tooth embedded in a flower on the island.
+island,carnivorous,Pi deduces that the island is carnivorous after finding the human tooth embedded in a flower.
+pi's mother,richard parker,"relationship between Pi's mother and Richard Parker is that they both leave the island, but Pi is heartbroken that Richard Parker does not acknowledge him before disappearing into the jungle."
+pi,richard parker,"relationship between Pi and Richard Parker is that they both leave the island, but after reaching Mexico, Pi recovers in a hospital while Richard Parker disappears into the jungle without acknowledging Pi."
+pi's mother,the cook,"relationship between Pi's mother and The cook is that they both get killed in different incidents, Pi's mother by The cook, and Pi kills The cook later."
+an amiable buddhist sailor,the zebra,relationship between An amiable Buddhist sailor and The zebra is that they both get replaced by humans in Pi's retold story.
+pi's mother,the hyena (cook),"relationship between Pi's mother and The hyena (cook) is that they both get killed by The cook, Pi's mother first, and then Pi kills The cook to survive."
+the cook,pi,relationship between The cook and Pi in the second story is that they both replace each other's characters in Pi's retold story.
+insurance agents for the japanese freighter company,the author,"relationship between Insurance agents for the Japanese freighter company and The author is that they both choose which story they prefer, and the author chooses Pi's first story."

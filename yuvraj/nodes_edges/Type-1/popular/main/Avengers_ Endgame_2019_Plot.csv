@@ -1,0 +1,15 @@
+node_1,node_2,edge,chunk_id,node_3,count
+carol danvers,tony stark,Carol Danvers rescues Tony Stark and Nebula from deep space.,c8962918ada24188b3e12c5ada489202,,4
+carol danvers,nebula,Carol Danvers rescues Tony Stark and Nebula from deep space.,c8962918ada24188b3e12c5ada489202,,4
+tony stark,nebula,Carol Danvers rescues Tony Stark and Nebula from deep space.,c8962918ada24188b3e12c5ada489202,,4
+thor,new asgardian refugee settlement,"Recruit an overweight, despondent Thor from the New Asgardian refugee settlement.",c8962918ada24188b3e12c5ada489202,,4
+banner,ancient one,Banner convinces the Ancient One to give him the Time Stone after,c8962918ada24188b3e12c5ada489202,,4
+loki's attack,new york city,"Banner, Lang, Rogers, and Stark time-travel to New York City during Loki's attack in 2012.",c8962918ada24188b3e12c5ada489202,,4
+stark tower,space stone,Failed attempt by Stark and Lang to steal the Space Stone from its location in Stark Tower.,f0920b29cf8d40d39b7f84e0330b6539,,4
+thanos,stones,Thanos uses the Stones to destroy the universe and create a new one.,90bb85a1d00644c3a1d856cc03acf663,,4
+stark,banner,"Stark, Banner, and Rocket build a gauntlet to place the Stones into for undoing Thanos's disintegrations.",90bb85a1d00644c3a1d856cc03acf663,Rocket,4
+banner,gauntlet,"Banner uses the gauntlet, as he has the most resistance to their radiation, to undo Thanos's disintegrations.",90bb85a1d00644c3a1d856cc03acf663,,4
+thor,mjolnir,Thor and a Mjolnir-wielding Rogers are overpowered by Thanos.,90bb85a1d00644c3a1d856cc03acf663,Rogers,4
+valkyrie,new asgard,Thor appoints Valkyrie as the new king of New Asgard.,90bb85a1d00644c3a1d856cc03acf663,,4
+carter,rogers,Rogers returns the Stones and Mjolnir to their proper timelines and remains in the past to live with Carter.,90bb85a1d00644c3a1d856cc03acf663,,4
+sam wilson,shield,"In the present, an elderly Rogers passes his shield to Sam Wilson.",90bb85a1d00644c3a1d856cc03acf663,,4

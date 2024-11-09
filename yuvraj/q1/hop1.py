@@ -1,63 +1,106 @@
-# the following code is to generate a yes or no question for a gives node edge relation
-
+import os
+import pandas as pd
 from openai import OpenAI
 
-# please don't share the open_key to anyone. Accessing the open_key is chargeable
-open_key = "sk-proj-JjiOFaKSpvBoI0tIrCs4T3BlbkFJa7921lrxpQfKqG1sXS9H"
-
+# Ensure you keep your API keys secure
+open_key = "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"
 
 def get_completion(prompt, api_key, model):
     client = OpenAI(api_key=api_key)
     messages = [{"role": "user", "content": prompt}]
-    response = client.chat.completions.create(
-    model = model,
-    messages=messages,
-    seed=42,
-    temperature = 0.5, # This is the degree of randomness
-)
-    return response.choices[0].message.content.strip()
+    try:
+        response = client.chat.completions.create(
+            model=model,
+            messages=messages,
+            seed=42,
+            temperature=0.5
+        )
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        print(f"Error generating completion: {e}")
+        return None
 
+def chat_gpt_response(prompt, api_key=open_key, model="gpt-4"):    
+    return get_completion(prompt, api_key, model)
 
-def chat_gpt_response(prompt, api_key = open_key, model= "gpt-3.5-turbo"):    
-    res =  get_completion(prompt, api_key, model)    
-    return res
-
-def get_aspect(node_1, node_2, edge):
+def get_aspect(node_1, node_2, edge, context, movie_name, year):
     triplet = {
         "Node_1": node_1,
         "Node_2": node_2,
-        "Edge" : edge
+        "Edge": edge
     }
-
+    
     prompt = f"""
-    Suppose you are good in analyzing the movie context from sentences and finding out the aspect present in it.
-    Consider two nodes: "Node_1", "Node_2" and the "Edge" information in the triplet delimited\
-    by the triple backticks. The "Edge" contains the information that justified how the two \
-    nodes are connected contextually. \
-    
-    Now, read the edge information, analyse its context and then create two questions based on the context of edge\
-    and node, such that the answer to the question1 is a NO only and the answer to question 2 is YES only\
-    Make sure that the answer should be YES or NO only.\
-    
-    Don't allow any effect of your previous response.
-    Take your time as much as you require in generating the response and generate proper two questions with answer as NO and YES respectively\
-    suitable for the given context in "Edge". Make sure the question revolves around both the nodes and the statement\
-    is structured based on the edge relation\
-    Generate the output as follows:
-    Question : ["actual question here"]
+    Suppose you have good knowledge of Hollywood movies and are able to generate meaningful questions from the given information. \
 
+    You are provided with information about a Hollywood movie in the form of a relationship between two elements of the movie. \
+    This relationship is described by two nodes ("Node_1" and "Node_2") and an "Edge" that defines how these nodes are connected. \
+    Additionally, you are given below the **movie context** (such as plot, theme, or characters), the **movie name**, and the **year of release**. \
+    Use these details to create questions that incorporate the movie name and release year for clarity.
+
+    Based on the provided edge relation, context, year of release, and movie name, generate two questions:
+    1. The answer to the first question should only be "NO".
+    2. The answer to the second question should only be "YES".
+
+    **Context**: "{context.capitalize()}"
+    **Movie Name**: "{movie_name}"
+    **Year of Release**: "{year}"
+
+    Ensure each question explicitly references the movie name "{movie_name}" and release year "{year}" so that it is clear and understandable even without additional information.
+
+    Triplet:
     ```{triplet}```
-    """
-#     print("hello I am leaving the get summary function")
-    aspect = chat_gpt_response(prompt)
-#     print(summary)
-    return aspect
-
-if __name__ == '__main__':
-    node_1 = "Rocky Aur Rani Ki Prem Kahani"
-    node_2 = "Ranveer Singh"
-    edge = "Ranveer Singh delivered a stellar performance in the movie Rocky Aur Rani Ki Prem Kahani, captivating audiences with his charisma and versatility."
     
-    # send the triplet and get the aspect
-    aspect = get_aspect(node_1, node_2, edge)
-    print(aspect)
+    Don't allow any effect of your previous response\
+    Take your time as much as you require in generating the response\
+    Format output as follows:
+    Question: ["actual question here"]
+    Answer: [YES/NO]
+    """
+    
+    response = chat_gpt_response(prompt)
+    if response:
+        return response
+    else:
+        return "Error in generating response"
+
+def process_csv(file_path, output_folder):
+    filename = os.path.splitext(os.path.basename(file_path))[0].split('_')
+    context = filename[-1]
+    year = filename[-2]
+    movie_name = ' '.join(filename[:-2])
+    
+    output_file_path = os.path.join(output_folder, os.path.basename(file_path))
+    if os.path.exists(output_file_path):
+        print(f"Skipping {file_path} as it already exists in the output folder.")
+        return
+    
+    df = pd.read_csv(file_path)
+    
+    questions_answers = []
+    
+    for _, row in df.iterrows():
+        node_1 = row['node_1']
+        node_2 = row['node_2']
+        edge = row['edge']
+        
+        aspect_qa = get_aspect(node_1, node_2, edge, context, movie_name, year)
+        
+        questions_answers.append({'Question': aspect_qa, 'Answer': ""})
+    
+    output_df = pd.DataFrame(questions_answers)
+    output_df.to_csv(output_file_path, index=False)
+    print(f"Processed and saved: {output_file_path}")
+
+def process_folder(input_folder, output_folder):
+    os.makedirs(output_folder, exist_ok=True)
+    
+    for filename in os.listdir(input_folder):
+        if filename.endswith(".csv"):
+            file_path = os.path.join(input_folder, filename)
+            process_csv(file_path, output_folder)
+
+input_folder = "/mnt/Data/prabirmondal/prabir/python_program/movie_sense/SRI_KG/Movie_sense_KG/Movie_sense_KG/yuvraj/final/Type-1/popular/hop_1"
+output_folder = "/mnt/Data/prabirmondal/prabir/python_program/movie_sense/SRI_KG/Movie_sense_KG/Movie_sense_KG/yuvraj/questions/popular/hop1"
+
+process_folder(input_folder, output_folder)

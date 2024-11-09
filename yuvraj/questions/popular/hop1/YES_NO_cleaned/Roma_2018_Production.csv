@@ -1,0 +1,21 @@
+Question,Answer
+"[""Was the movie 'Roma' released in 2018 filmed in a city outside of Mexico?""]",[NO]
+"[""Is Mexico City, the location where the 2018 movie 'Roma' was produced, located in Mexico?""]",[YES]
+"""Is Colonia Roma, the neighborhood featured in the 2018 movie 'Roma', not located within Mexico City?""",NO
+"""Is Colonia Roma, the setting of the 2018 movie 'Roma', a neighborhood located within Mexico City?""",YES
+"Is Tepeji Street, as featured in the 2018 movie ""Roma"", located outside of the Colonia Roma neighborhood of Mexico City?",NO
+"Is Tepeji Street, depicted in the 2018 movie ""Roma"", a real street within the Colonia Roma neighborhood of Mexico City?",YES
+"""Is it true that the director and writer of 'Roma', Alfonso Cuarón, did not have any association with the production company Esperanto Filmoj in 2018?""",NO
+"""Did Alfonso Cuarón, the director and writer of 'Roma' released in 2018, found the production company Esperanto Filmoj?""",YES
+"[""Did Yalitza Aparicio have a rich acting experience before being cast as Cleo in the 2018 movie 'Roma'?""]",[NO]
+"[""In the 2018 movie 'Roma', was the character Cleo played by Yalitza Aparicio, who had no formal acting training?""]",[YES]
+"""Did the movie 'Roma', released in 2018, feature the 'Cinepolis' as a recurring location?""",NO
+"""In the 2018 movie 'Roma', was the 'Teatro Metropólitan' used as a recurring movie theatre location?""",YES
+"[""Did the 2018 movie 'Roma' mention that shooting on soundstages is easy for first-time actors?""]",[NO]
+"[""In the context of the 2018 movie 'Roma', is there a relationship between the challenges of shooting on soundstages and first-time actors?""]",[YES]
+"[""Is the Teatro Metropólitan not a recurring location in the 2018 movie 'Roma'?""]",[NO]
+"[""Does the Teatro Metropólitan appear multiple times as a significant location in the 2018 movie 'Roma'?""]",[YES]
+"""Did the crew of the 2018 movie 'Roma' experience a robbery during the production phase?""",YES
+"""Was the robbery incident during the production of 'Roma' in 2018 unrelated to the crew?""",NO
+"[""Was the 2018 film 'Roma' produced without any conflict between the crew and city workers?""]",[NO]
+"[""Did a brawl occur between the crew and city workers during the production of 'Roma' in 2018?""]",[YES]

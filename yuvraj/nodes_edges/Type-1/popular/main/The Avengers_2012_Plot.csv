@@ -1,0 +1,15 @@
+node_1,node_2,edge,chunk_id,note,count
+loki,chitauri,"Exchange for obtaining the Tesseract, the representative of an extraterrestrial race known as the Chitauri promises to provide Loki with an army to conquer Earth.",6ceb0dfb6bda48c3959d7f940015da0f,,4
+loki,tesseract,"Loki steals the Tesseract and uses his scepter to enslave Selvig and other agents, including Clint Barton, to aid him.",6ceb0dfb6bda48c3959d7f940015da0f,,4
+nick fury,s.h.i.e.l.d.,"Director of the covert agency S.H.I.E.L.D., Nick Fury arrives at a remote research facility where physicist Dr. Erik Selvig is leading a team studying the Tesseract.",6ceb0dfb6bda48c3959d7f940015da0f,,4
+dr. erik selvig,tesseract,"Leading a team studying the Tesseract, Dr. Erik Selvig is enslaved by Loki using his scepter.",6ceb0dfb6bda48c3959d7f940015da0f,,4
+clint barton,loki,Agent Clint Barton is enslaved by Loki using his scepter.,6ceb0dfb6bda48c3959d7f940015da0f,,4
+steve rogers,loki,Steve Rogers has a confrontation with Loki in Stuttgart after he steals iridium needed to stabilize the Tesseract.,6ceb0dfb6bda48c3959d7f940015da0f,,4
+tony stark,loki,"Agent Phil Coulson visits Tony Stark so he can check Selvig's research, leading to a confrontation with Loki.",6ceb0dfb6bda48c3959d7f940015da0f,,4
+natasha romanoff,dr. bruce banner,Agent Natasha Romanoff travels to Kolkata to recruit Dr. Bruce Banner so he can trace the Tesseract through its gamma radiation emissions.,6ceb0dfb6bda48c3959d7f940015da0f,,4
+chitauri fleet,earth,"The missile destroys the Chitauri mothership and disables their forces on Earth, implying that the Chitauri fleet was attempting to invade or attack Earth.",5094bd4698a34d48b55f8b13920a4795,,4
+stark,earth,"Stark becomes unconscious, and his suit loses power, leaving him freefalling towards Earth.",5094bd4698a34d48b55f8b13920a4795,This implies that Stark was in a location close to Earth when he became unconscious and lost power.,4
+romanoff,loki's scepter,Romanoff uses Loki's scepter to close the wormhole.,5094bd4698a34d48b55f8b13920a4795,This suggests that Romanoff was in possession of Loki's scepter at the time and used it to carry out a specific action.,4
+thor,loki,Thor transports an imprisoned Loki and the Tesseract to Asgard.,5094bd4698a34d48b55f8b13920a4795,This implies that Thor had Loki in his custody and transported him along with the Tesseract to Asgard.,4
+loki,asgardian justice,"In Asgard, Loki will face Asgardian justice.",5094bd4698a34d48b55f8b13920a4795,This indicates that Loki's actions in Earth had consequences for him and he would be held accountable in Asgard.,4
+other,master[d],The Other confers with his master[d] about the failed attack on Earth.,5094bd4698a34d48b55f8b13920a4795,This implies that The Other was involved in the Chitauri invasion of Earth and sought guidance from a higher authority.,4

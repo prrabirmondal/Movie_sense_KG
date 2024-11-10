@@ -3,7 +3,7 @@ import pandas as pd
 from openai import OpenAI
 
 # Ensure you keep your API keys secure
-open_key = "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"
+open_key = "Enter your openai key here"
 
 def get_completion(prompt, api_key, model):
     client = OpenAI(api_key=api_key)

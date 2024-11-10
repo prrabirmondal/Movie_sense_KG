@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from openai import OpenAI
 
-open_key = "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"
+open_key = "Enter your openai key here"
 
 
 def get_completion(prompt, api_key, model):

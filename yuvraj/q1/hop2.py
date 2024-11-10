@@ -3,7 +3,7 @@
 from openai import OpenAI
 
 # please don't share the open_key to anyone. Accessing the open_key is chargeable
-# open_key = "Enter your openai key here"
+open_key = "Enter your openai key here"
 
 
 def get_completion(prompt, api_key, model):

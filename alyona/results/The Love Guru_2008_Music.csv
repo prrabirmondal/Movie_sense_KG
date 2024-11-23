@@ -1,0 +1,7 @@
+Question,Answer,generated_answer
+"Did Hans Zimmer compose the original score for ""The Love Guru 2008""?",no,yes
+"Was the original score for ""The Love Guru 2008"" composed by George S. Clinton?",yes,yes
+"""Did George S. Clinton compose the score for the Austin Powers films but not for 'The Love Guru 2008'?""",no,yes
+"""Did the composer George S. Clinton, known for the Austin Powers films, also work on 'The Love Guru 2008'?""",yes,yes
+"[""Did Mike Myers have no involvement in the Austin Powers films as mentioned in 'The Love Guru 2008'?""]",no,yes
+"[""In 'The Love Guru 2008', is it stated that Mike Myers starred, wrote, and produced the Austin Powers films?""]",yes,yes

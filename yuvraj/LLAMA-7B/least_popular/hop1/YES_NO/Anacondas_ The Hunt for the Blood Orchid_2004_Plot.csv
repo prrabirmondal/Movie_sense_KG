@@ -1,0 +1,28 @@
+Question,Answer,LLAMA_response
+"""In the plot of the movie 'Anacondas: The Hunt for the Blood Orchid 2004', does the anaconda eat the orchids?""",no,yes
+"""In the movie 'Anacondas: The Hunt for the Blood Orchid 2004', is a disemboweled anaconda with human legs hanging out of its abdomen found near the orchids?""",yes,yes
+"Does Gail in ""Anacondas The Hunt for the Blood Orchid 2004"" argue that the orchids are guaranteed to work on humans?",no,yes
+"In the movie ""Anacondas The Hunt for the Blood Orchid 2004"", does Gail have doubts that the orchids may not work on humans?",yes,yes
+"[""Does the movie 'Anacondas  The Hunt for the Blood Orchid 2004' depict the orchids growing below a pit where male anacondas are mating with the female?""]",no,yes
+"[""In the movie 'Anacondas  The Hunt for the Blood Orchid 2004', do the orchids grow above a pit where male anacondas are mating with the female?""]",yes,yes
+"[""Did Jack leave the party behind while going to the orchids in the movie 'Anacondas  The Hunt for the Blood Orchid 2004'?""]",no,yes
+"[""In the movie 'Anacondas  The Hunt for the Blood Orchid 2004', did Jack force the party to accompany him to the orchids?""]",yes,yes
+"Is Sam forced to avoid the pit in the movie ""Anacondas The Hunt for the Blood Orchid 2004""?",no,yes
+"In the movie ""Anacondas The Hunt for the Blood Orchid 2004"", does Sam cross a pit using a thin log to fill a backpack with orchids?",yes,yes
+"Did Sam from ""Anacondas The Hunt for the Blood Orchid 2004"" fill the backpack with snakes instead of orchids?",no,yes
+"In the movie ""Anacondas The Hunt for the Blood Orchid 2004"", does the log crack when Sam returns from filling the backpack with orchids?",yes,yes
+"Did Jack ask Sam to throw him a baseball in the movie ""Anacondas The Hunt for the Blood Orchid 2004""?",no,no
+"In the movie ""Anacondas The Hunt for the Blood Orchid 2004"", does Jack order Sam to throw him the backpack filled with orchids?",yes,yes
+"Does Sam fall into the pit as the anaconda tries to get her in the movie ""Anacondas: The Hunt for the Blood Orchid 2004""?",no,yes
+"Does Sam climb out of the pit as one of the anacondas tries to get her in the movie ""Anacondas: The Hunt for the Blood Orchid 2004""?",yes,yes
+"[""In the movie 'Anacondas The Hunt for the Blood Orchid 2004', does Gail trick the snake into biting someone else's fuel container?""]",no,yes
+"[""In the plot of 'Anacondas The Hunt for the Blood Orchid 2004', does Gail trick the snake into biting their fuel container?""]",yes,yes
+"Did Bill's gun have bullets when he tried to shoot in the movie ""Anacondas The Hunt for the Blood Orchid 2004""?",no,yes
+"In the movie ""Anacondas The Hunt for the Blood Orchid 2004"", did Bill attempt to shoot with his gun?",yes,yes
+"""In the movie 'Anacondas The Hunt for the Blood Orchid 2004', does Cole refuse to shoot a flare?""",no,yes
+"""Does Cole shoot a flare in the plot of 'Anacondas The Hunt for the Blood Orchid 2004'?""",yes,yes
+"Is the movie ""Anacondas The Hunt for the Blood Orchid 2004"" about an anaconda that doesn't interact with any objects?",no,yes
+"In the movie ""Anacondas The Hunt for the Blood Orchid 2004"", does the anaconda bite a fuel container as a result of Gail's trick?",yes,yes
+"[""Does the movie 'Anacondas The Hunt for the Blood Orchid 2004' depict the anaconda causing a flood that destroys the blood orchids?""]",no,yes
+"[""In the movie 'Anacondas The Hunt for the Blood Orchid 2004', does a landslide bury the blood orchids due to the presence of the anaconda?""]",yes,yes
+,,0.5384615384615384

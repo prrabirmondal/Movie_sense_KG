@@ -1,0 +1,16 @@
+Question,Answer,LLAMA_response
+"Does ""here"" in the movie ""Dirty Love 2005"" refer to a specific character's name?",no,yes
+"In the movie ""Dirty Love 2005"", is ""here"" used as a spatial locator to indicate the proximity of the details being discussed?",yes,yes
+"[""Is 'Dirty Love 2005' a horror film written by Jenny McCarthy?""]",no,yes
+"[""Was 'Dirty Love 2005' written by Jenny McCarthy and directed by John Mallory Asher?""]",yes,yes
+"Is ""Dirty Love 2005"" a book mentioned in the context?",no,yes
+"Is ""Dirty Love 2005"" a movie mentioned in the context?",yes,yes
+Did Jeremy C. Fox direct the movie Dirty Love 2005?,no,yes
+Is Jeremy C. Fox a person who gave his opinion about the movie Dirty Love 2005?,yes,no
+Is the website Pajiba never mentioned in the commentary of Dirty Love 2005 by Jeremy C. Fox?,no,yes
+Is Pajiba the source of Jeremy C. Fox's commentary on Dirty Love 2005?,yes,no
+"""Did Jeremy C. Fox refer to a group of people called movie producers in the context of 'Dirty Love 2005'?""",no,no
+"""In the context of 'Dirty Love 2005', did Jeremy C. Fox refer to a group of people called movie critics?""",yes,yes
+"Does Jeremy C. Fox express a negative emotion towards the movie ""Dirty Love 2005""?",no,no
+"Does Jeremy C. Fox express some form of affection for the movie ""Dirty Love 2005""?",yes,no
+,,0.42857142857142855

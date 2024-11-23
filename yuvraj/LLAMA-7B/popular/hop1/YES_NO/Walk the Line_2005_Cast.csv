@@ -1,0 +1,40 @@
+Question,Answer,LLAMA_response
+"""Did Joaquin Phoenix portray the role of Elvis Presley in the 2005 movie 'Walk the Line'?""",no,yes
+"""In the 2005 movie 'Walk the Line', did Joaquin Phoenix portray the role of Johnny Cash?""",yes,yes
+"[""Did Reese Witherspoon not play the character of June Carter in the 2005 movie, 'Walk the Line'?""]",no,yes
+"[""Did Reese Witherspoon play the character of June Carter in the 2005 movie, 'Walk the Line'?""]",yes,yes
+"""Did Ginnifer Goodwin play the role of Vivian Cash (née Liberto) in the 2005 movie 'Walk the Line'?""",yes,yes
+"""In the film 'Walk the Line' released in 2005, was the character of Vivian Cash (née Liberto) portrayed by an actress other than Ginnifer Goodwin?""",no,yes
+"""Did Robert Patrick portray a character named Ray Cash in the 2005 movie 'Walk the Line'?""",yes,yes
+"""In the 2005 movie 'Walk the Line', did Robert Patrick play the role of Johnny Cash instead of Ray Cash?""",no,no
+"""Did McGhee Monteith play the role of June Carter in the 2005 movie 'Walk the Line'?""",no,no
+"""In the 2005 film 'Walk the Line', did McGhee Monteith play the character Reba Cash?""",yes,yes
+"""Did Dallas Roberts portray Elvis Presley in the 2005 movie 'Walk the Line'?""",no,yes
+"""In the 2005 movie 'Walk the Line', did Dallas Roberts portray Sam Phillips?""",yes,yes
+"""In the 2005 movie 'Walk the Line', was the character Luther Perkins played by an actor named Dan John Miller?""",yes,yes
+"""Did Dan John Miller play the role of Johnny Cash in the 2005 movie 'Walk the Line'?""",no,yes
+"""In the 2005 film 'Walk the Line', was the character Marshall Grant portrayed by an actor other than Larry Bagby?""",no,yes
+"""In the movie 'Walk the Line' released in 2005, did Larry Bagby portray the character Marshall Grant?""",yes,yes
+"[""Did Shelby Lynne play the role of June Carter in the 2005 movie 'Walk the Line'?""]",no,yes
+"[""In the 2005 film 'Walk the Line', did Shelby Lynne portray the character Carrie Cash?""]",yes,yes
+"""Did Tyler Hilton portray a character other than Elvis Presley in the 2005 movie 'Walk the Line'?""",no,yes
+"""In the movie 'Walk the Line' released in 2005, did Tyler Hilton portray the role of Elvis Presley?""",yes,yes
+"""Did Waylon Payne play the role of Elvis Presley in the 2005 movie 'Walk the Line'?""",no,yes
+"""In the 2005 film 'Walk the Line', did Waylon Payne portray the character Jerry Lee Lewis?""",yes,yes
+"[""Did Shooter Jennings portray a character other than Waylon Jennings in the 2005 movie 'Walk the Line'?""]",no,yes
+"[""In the 2005 movie 'Walk the Line', did Shooter Jennings portray Waylon Jennings?""]",yes,yes
+"[""Did Sandra Ellis Lafferty play the role of Elvis Presley in the 2005 movie 'Walk the Line'?""]",no,no
+"[""In the 2005 movie 'Walk the Line', did Sandra Ellis Lafferty portray the character Maybelle Carter?""]",yes,yes
+"""Did Dan Beene portray the character of Ezra Carter in the 2005 movie 'Walk the Line'?""",yes,no
+"""In the 2005 movie 'Walk the Line', was the character of Ezra Carter played by an actor other than Dan Beene?""",no,no
+"""Did Clay Steakley portray the character of W.S. ""Fluke"" Holland in the 2005 movie 'Walk the Line'?""",yes,yes
+"""In the 2005 movie 'Walk the Line', was the role of W.S. ""Fluke"" Holland played by an actor other than Clay Steakley?""",no,yes
+"""Did Johnathan Rice portray the character of Elvis Presley in the 2005 movie 'Walk the Line'?""",no,yes
+"""In the 2005 movie 'Walk the Line', did Johnathan Rice portray the character of Roy Orbison?""",yes,yes
+"""In the 2005 film 'Walk the Line', was the character Carl Perkins played by Johnny Depp?""",no,yes
+"""In 'Walk the Line', released in 2005, did Johnny Holiday portray the character of Carl Perkins?""",yes,no
+"""In the 2005 movie 'Walk the Line', was the character young J.R. portrayed by an actor other than Ridge Canipe?""",no,yes
+"""Did Ridge Canipe portray the character of young J.R. in the 2005 movie 'Walk the Line'?""",yes,yes
+"""Did Lucas Till play the role of young Jack Cash in the movie 'Walk the Line' released in 2005?""",yes,no
+"""In the 2005 movie 'Walk the Line', was the role of young Jack Cash played by an actor other than Lucas Till?""",no,yes
+,,0.5263157894736842

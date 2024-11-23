@@ -1,0 +1,25 @@
+Question,Answer,generated_answer
+"[""Does the movie 'BloodRayne 2006' lack a plot or sequence of events?""]",no,yes
+"[""Does the term 'movie's' in the context of 'BloodRayne 2006' refer to the specific storyline or sequence of events?""]",yes,yes
+"Is the talisman in the movie ""BloodRayne 2006"" guarded by a sword-wielding, deformed monk at the monastery?",no,yes
+"In the movie ""BloodRayne 2006"", is the talisman guarded by a hammer-wielding, deformed monk at the monastery?",yes,yes
+"[""Does the talisman in the movie 'BloodRayne 2006' guard a hammer-wielding, deformed monk?""]",no,yes
+"[""In the movie 'BloodRayne 2006', is the talisman guarded by a hammer-wielding, deformed monk?""]",yes,yes
+"""In the plot of 'BloodRayne 2006', does lifting the talisman from its pedestal cause the chamber to fill with sand?""",no,yes
+"""In 'BloodRayne 2006', does lifting the talisman from its pedestal cause the chamber to flood with holy water as part of the plot?""",yes,yes
+"[""Does Rayne ignore the talisman in the movie 'BloodRayne 2006'?""]",no,yes
+"[""Does Rayne take the talisman in the plot of 'BloodRayne 2006'?""]",yes,yes
+"[""Does the eyeball remain detached from Rayne in the plot of the movie 'BloodRayne 2006'?""]",no,yes
+"[""In the plot of 'BloodRayne 2006', does the eyeball become absorbed into Rayne's own eye?""]",yes,yes
+"[""Does the movie 'BloodRayne 2006' depict that Rayne's eye is harmed by holy water due to its absorption ability?""]",no,yes
+"[""In the movie 'BloodRayne 2006', does the absorption of Rayne's eye allow her to be unaffected by holy water?""]",yes,yes
+"[""Did the body parts in the movie 'BloodRayne 2006' come from a werewolf named Belial?""]",no,yes
+"[""In the movie 'BloodRayne 2006', did the body parts come from an ancient vampire called Belial?""]",yes,yes
+"""In the plot of the movie 'BloodRayne 2006', is the heart talisman a modern invention?""",no,yes
+"""In 'BloodRayne 2006', does the heart talisman originate from an ancient vampire named Belial?""",yes,yes
+"[""Did Rayne ignore the heart talisman in the movie 'BloodRayne 2006'?""]",no,yes
+"[""Does Rayne take the heart talisman in the movie 'BloodRayne 2006'?""]",yes,yes
+"[""Is Katarin unaware of the location of the heart talisman in the movie 'BloodRayne 2006'?""]",no,yes
+"[""In the movie 'BloodRayne 2006', did Katarin's grandfather hide the heart talisman in water-filled caves?""]",yes,yes
+"[""Did Katarin kill Rayne and take the heart talisman in the movie 'BloodRayne 2006'?""]",no,yes
+"[""In the movie 'BloodRayne 2006', did Rayne kill Katarin and take the heart talisman?""]",yes,yes

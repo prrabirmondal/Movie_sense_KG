@@ -1,0 +1,47 @@
+Question,Answer,generated_answer
+"[""Was the movie 'Baywatch' released without any details associated with it in 2017?""]",no,yes
+"[""Does the movie 'Baywatch' from 2017 have details associated with it?""]",yes,yes
+"""Does the movie 'Baywatch' released in 2017 lack a summary as part of its details?""",no,yes
+"""Does each movie, including 'Baywatch' released in 2017, have a summary that is part of its details?""",yes,yes
+"[""Is the lead character in the 2017 movie 'Baywatch' not Mitch Buchannon?""]",no,yes
+"[""Is 'Baywatch', released in 2017, an American action comedy film directed by Seth Gordon and based on a television series of the same name?""]",yes,yes
+"[""Did the movie 'Baywatch' released in 2017 have a scene where Mitch is not on patrol and he meets Matt Brody, who later joins the Baywatch team?""]",no,yes
+"[""In the 2017 movie 'Baywatch', does the context involve a scene where Mitch is on patrol and he meets Matt Brody, who later joins the Baywatch team?""]",yes,yes
+"[""Did Mitch find a small pouch of flakka near a club not owned by Victoria Leeds in the 2017 movie 'Baywatch'?""]",no,yes
+"[""In the 2017 movie 'Baywatch', did Mitch find a small pouch of flakka near the Huntley Club, which is owned by Victoria Leeds?""]",yes,yes
+"""Did Victoria Leeds have no involvement with drugs in the 2017 movie 'Baywatch'?""",no,yes
+"""In the 2017 movie 'Baywatch', were drugs being retrieved from barrels of fish at the Huntley Club owned by Victoria Leeds?""",yes,yes
+"[""In the 2017 movie Baywatch, did Mitch and his team stop investigating Rodriguez's murder?""]",no,yes
+"[""Does Mitch and his team continue to investigate Rodriguez's murder in the 2017 movie Baywatch?""]",yes,yes
+"[""Did Victoria Leeds retrieve drugs from barrels of fish at the Huntley Club in the 2017 movie 'Baywatch'?""]",yes,yes
+"[""In the 2017 movie 'Baywatch', did Victoria Leeds retrieve drugs from barrels of apples at the Huntley Club?""]",no,yes
+"[""In the 2017 movie 'Baywatch', is Brody not an Olympic gold medal-winning swimmer?""]",no,yes
+"[""In the 2017 movie 'Baywatch', does Mitch meet Matt Brody, an entitled Olympic gold medal-winning swimmer who expects to make the Baywatch team without trying out?""]",yes,yes
+"""In the 2017 movie 'Baywatch', did Thorpe promote Mitch to the position of new lieutenant?""",no,yes
+"""In 'Baywatch', released in 2017, was Brody named the new lieutenant after Thorpe fired Mitch?""",yes,yes
+"""In the 2017 movie 'Baywatch', did Brody ignore the 'sand grifters' stealing bags on the beach?""",no,yes
+"""In 'Baywatch' released in 2017, does Brody encounter 'sand grifters' and order them off the beach?""",yes,yes
+"""Was Kelly Rohrbach not cast as C. J. Parker in the 2017 movie Baywatch?""",no,yes
+"""Was Kelly Rohrbach's casting as C. J. Parker in the 2017 movie Baywatch confirmed by Johnson's Instagram post?""",yes,yes
+"""Is it true that Johnson's partner Dany Garcia was not involved in the production of the 2017 movie Baywatch through their Seven Bucks Productions?""",no,yes
+"""Did Johnson and his partner Dany Garcia contribute to the production of the 2017 movie Baywatch through their company Seven Bucks Productions?""",yes,yes
+"""Did Damian Shannon and Mark Swift have no involvement in writing the screenplay for the movie 'Baywatch' released in 2017?""",no,yes
+"""Were Damian Shannon and Mark Swift the writers of the screenplay for the 2017 movie 'Baywatch'?""",yes,yes
+"[""Was Ilfenesh Hadera not cast as Johnson's love interest in the 2017 movie Baywatch?""]",no,yes
+"[""Did Dwayne Johnson post on his Instagram about casting Ilfenesh Hadera as his love interest for the movie Baywatch released in 2017?""]",yes,yes
+"[""Did Hannibal Buress join the cast of the film 'Baywatch' released in 2017 to play a community local?""]",yes,yes
+"[""Was Hannibal Buress a part of the 'Baywatch' 2017 film's cast before February 2016?""]",no,yes
+"[""Did Priyanka Chopra play the protagonist in the 2017 movie 'Baywatch'?""]",no,yes
+"[""Did Priyanka Chopra sign on to star as the antagonist in the 2017 movie 'Baywatch'?""]",yes,yes
+"[""In the 2017 movie Baywatch, did Yahya Abdul-Mateen II play a character named Ellerbee who constantly reminded Mitch that as a lifeguard, he has no actual jurisdiction on the beach?""]",yes,yes
+"[""In the movie Baywatch released in 2017, was Yahya Abdul-Mateen II's character, Ellerbee, a lifeguard?""]",no,yes
+"""Did the principal photography for the movie 'Baywatch' released in 2017 begin in California?""",no,yes
+"""Was the principal photography for the 2017 movie 'Baywatch' conducted in Deerfield Beach, Florida?""",yes,yes
+"""Was the movie 'Baywatch' originally scheduled to be released as a sequel to 'Terminator Genisys' in 2017?""",yes,yes
+"""Did Paramount Pictures schedule 'Terminator Genisys' for a May 19, 2017 release instead of 'Baywatch'?""",no,yes
+"[""Was the movie 'Baywatch' released on Digital HD in July 2017?""]",no,yes
+"[""Was the movie 'Baywatch', released in 2017, available on Digital HD from August 15, 2017?""]",yes,yes
+"[""Was the movie 'Baywatch' from 2017 never released on Blu-ray and DVD?""]",no,yes
+"[""Was the movie 'Baywatch' from 2017 released on Blu-ray and DVD on August 29, 2017?""]",yes,yes
+"""Did the remaining cast of 'Baywatch' not expect to return in the potential sequel released after 2017?""",no,yes
+"""Were the remaining cast of 'Baywatch' expected to return in the potential sequel released after the 2017 movie?""",yes,yes

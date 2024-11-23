@@ -1,0 +1,30 @@
+Question,Answer,LLAMA_response
+"[""Is the movie 'Dune' from 2021 about Duke Leto Atreides being assigned to a lush green planet?""]",no,yes
+"[""In the 2021 movie 'Dune', is Duke Leto Atreides assigned by the Padishah Emperor Shaddam IV to replace Baron Vladimir Harkonnen as the fiefholder of Arrakis, a harsh desert planet?""]",yes,yes
+"[""Is the movie 'Dune' released in 2021 not centered around the valuable psychotropic substance, spice, which is sourced solely from Arrakis?""]",no,no
+"[""In the 2021 movie 'Dune', is Arrakis the sole source of the valuable psychotropic substance known as spice, which imparts heightened vitality and awareness?""]",yes,yes
+"""In the 2021 movie 'Dune', is the spice not used by the Spacing Guild Navigators to guide starships to traverse space instantaneously and safely?""",no,yes
+"""In the 2021 movie 'Dune', does the Spacing Guild Navigators use spice to guide starships to traverse space instantaneously and safely?""",yes,yes
+"[""Is the movie 'Dune' released in 2021 about House Atreides not having any representation in Arrakis?""]",no,no
+"[""In the 2021 movie 'Dune', does Duke Leto Atreides represent House Atreides as the fiefholder of Arrakis?""]",yes,yes
+"[""In the 2021 movie 'Dune', did Emperor Shaddam IV assign Duke Leto Atreides to replace Baron Vladimir Harkonnen as the fiefholder of a planet other than Arrakis?""]",no,yes
+"[""In the 2021 film 'Dune', is it correct that Emperor Shaddam IV assigned Duke Leto Atreides to replace Baron Vladimir Harkonnen as the fiefholder of Arrakis?""]",yes,yes
+"""In the 2021 movie 'Dune', did Emperor Shaddam IV plot against House Harkonnen?""",no,yes
+"""In the 2021 movie 'Dune', did Emperor Shaddam IV secretly aid House Harkonnen in retaking Arrakis with his Sardaukar troops?""",yes,no
+"""In the 2021 film 'Dune', is Lady Jessica not associated with the Bene Gesserit?""",no,yes
+"""In the 2021 movie 'Dune', is Lady Jessica an acolyte of the Bene Gesserit?""",yes,yes
+"""Did the Bene Gesserit implement a centuries-long breeding program to produce the Kwisatz Haderach in the 2021 movie 'Dune'?""",yes,no
+"""In the 2021 movie 'Dune', is the Bene Gesserit's centuries-long breeding program unrelated to the production of the Kwisatz Haderach?""",no,yes
+"[""In the 2021 movie 'Dune', is Paul the daughter of Lady Jessica?""]",no,no
+"[""In the plot of the 2021 movie 'Dune', does Lady Jessica disobey the Bene Gesserit's orders and bear a son, Paul?""]",yes,yes
+"[""In the 2021 film 'Dune', is Paul trained by someone other than Duncan Idaho?""]",no,yes
+"[""Does the character Paul receive training from Duncan Idaho in the 2021 movie 'Dune'?""]",yes,no
+"[""Is it true that in the 2021 movie 'Dune', Paul is not trained by Gurney Halleck, one of Duke Leto Atreides' aides?""]",no,yes
+"[""In the 2021 movie 'Dune', does Paul receive training from Gurney Halleck, who is one of Duke Leto Atreides' aides?""]",yes,yes
+"[""In the 2021 movie 'Dune', was Paul trained by the Suk doctor Wellington Yueh who was previously employed by House Harkonnen?""]",yes,yes
+"[""In the 2021 movie 'Dune', was Paul trained by the Suk doctor Wellington Yueh who was previously employed by House Atreides?""]",no,yes
+"[""Did Paul train Thufir Hawat in the 2021 movie 'Dune'?""]",no,no
+"[""In the 2021 movie 'Dune', was Paul trained by Thufir Hawat, a Mentat employed by Duke Leto Atreides?""]",yes,yes
+"[""Is it true that in the 2021 movie 'Dune', the Fremen are not the natives of Arrakis?""]",no,yes
+"[""In the 2021 movie 'Dune', are the Fremen mentioned as the mysterious natives of Arrakis?""]",yes,yes
+,,0.5357142857142857

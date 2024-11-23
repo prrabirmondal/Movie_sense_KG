@@ -1,0 +1,22 @@
+Question,Answer,LLAMA_response
+"[""Did Salim and Jamal fail to escape from Maman's gang in the 2008 movie Slumdog Millionaire?""]",no,yes
+"[""In the 2008 movie Slumdog Millionaire, did Salim and Jamal escape from Maman's gang with Latika's help?""]",yes,yes
+"""In the 2008 movie 'Slumdog Millionaire', did Salim and Latika have a close sibling relationship and grow up together in poverty, but Salim never left Latika behind out of revenge?""",no,yes
+"""In the 2008 movie 'Slumdog Millionaire', does Salim eventually become a high-ranking lieutenant in Javed's crime organisation, after leaving Latika behind and reuniting briefly?""",yes,yes
+"[""In the 2008 movie 'Slumdog Millionaire', did Salim and Jamal have a strained sibling relationship and never escape together from Maman's capture?""]",no,yes
+"[""In 'Slumdog Millionaire' released in 2008, did Salim and Jamal have a close sibling relationship and escape together from Maman's capture?""]",yes,yes
+"[""In the 2008 movie 'Slumdog Millionaire', did Jamal become a contestant on Kaun Banega Crorepati to find someone other than Latika?""]",no,yes
+"[""In 'Slumdog Millionaire', released in 2008, were Jamal and Latika close childhood friends who briefly reunited?""]",yes,yes
+"""In the 2008 movie 'Slumdog Millionaire', does Jamal scar Latika's face intentionally while driving away?""",no,yes
+"""In 'Slumdog Millionaire', released in 2008, does Jamal become a contestant on 'Kaun Banega Crorepati' in an attempt to reach Latika?""",yes,yes
+"""In the 2008 movie 'Slumdog Millionaire', did Salim fill a bathtub with money and sit in it before Latika leaves?""",no,yes
+"""In 'Slumdog Millionaire', released in 2008, does Salim fill a bathtub with money and sit in it after Latika leaves?""",yes,yes
+"[""In the 2008 movie 'Slumdog Millionaire', did Jamal call someone other than Salim in the final episode because he didn't know any other phone number?""]",no,yes
+"[""In 'Slumdog Millionaire', released in 2008, did Jamal guess the answer correctly in the final episode after calling Salim?""]",yes,yes
+"[""Did Salim survive after killing Javed in the final episode of the 2008 movie 'Slumdog Millionaire'?""]",no,no
+"[""In the 2008 movie 'Slumdog Millionaire', did Salim kill Javed in the final episode before he himself was shot and killed by the gang?""]",yes,yes
+"[""In the 2008 movie 'Slumdog Millionaire', did Jamal and Latika meet at a restaurant instead of a train station?""]",no,yes
+"[""In the movie 'Slumdog Millionaire' released in 2008, did Jamal and Latika share a dance to the song 'Jai Ho'?""]",yes,yes
+"[""Did Jamal in the 2008 movie 'Slumdog Millionaire' choose the second answer to win the grand prize?""]",no,yes
+"[""In the 2008 movie 'Slumdog Millionaire', did Jamal guess and pick the first answer, Aramis, to win the grand prize?""]",yes,yes
+,,0.55

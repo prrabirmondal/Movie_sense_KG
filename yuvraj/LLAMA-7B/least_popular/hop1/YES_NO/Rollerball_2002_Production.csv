@@ -1,0 +1,24 @@
+Question,Answer,LLAMA_response
+"Did Director John McTiernan appreciate the first draft of the script for ""Rollerball 2002"" because it focused heavily on social commentary?",no,yes
+"Did Director John McTiernan think that the audience of ""Rollerball 2002"" would prefer to see more of the Rollerball scenes?",yes,yes
+"Did the first cut of ""Rollerball 2002"" receive positive feedback from the test audiences?",no,yes
+"Was the first cut of ""Rollerball 2002"" screened for test audiences?",yes,yes
+"Did MGM push the release date of ""Rollerball 2002"" from July to May 2001 to test the movie again?",no,no
+"Did MGM push the release date of ""Rollerball 2002"" from May to July 13, 2001 to test the movie again?",yes,no
+"""In the production of Rollerball 2002, was the name of the main character never changed from Jonathan E. to Jonathan Cross?""",no,yes
+"""During the production of Rollerball 2002, was the name of the main character changed from Jonathan E. to Jonathan Cross?""",yes,yes
+"[""Did director John McTiernan invite Harry Knowles for a test screening of the film Rollerball 2002 in Texas?""]",no,yes
+"[""Was John McTiernan involved in the production of the film Rollerball 2002?""]",yes,yes
+"Did Harry Knowles praise the original cut of ""Rollerball 2002"" after watching a test screening?",no,yes
+"Did Harry Knowles watch a test screening of John McTiernan's original cut of ""Rollerball 2002""?",yes,yes
+"""Did Harry Knowles praise the Rollerball 2002 edit as one of the best films he had ever seen?""",no,yes
+"""Did Harry Knowles witness jeering in the theater during his screening of Rollerball 2002 edit?""",yes,yes
+"Did Jonathan express his intention to quit the rollerball game in the original ending of ""Rollerball 2002""?",no,yes
+"In the original ending of ""Rollerball 2002"", does Jonathan express his intention to continue playing the rollerball game and become part owner of it?",yes,yes
+"""In the movie 'Rollerball 2002', does Petrovich survive in the original ending?""",no,yes
+"""In the original ending of 'Rollerball 2002', is Petrovich killed by Sanjay?""",yes,yes
+Did Aurora leave Jonathan behind in the original ending of Rollerball 2002?,no,yes
+"In the original ending of Rollerball 2002, does Aurora fly back to the US with Jonathan?",yes,yes
+Did Petrovich kill Sanjay in the original ending of Rollerball 2002?,no,no
+"In the original ending of Rollerball 2002, did Sanjay kill Petrovich?",yes,yes
+,,0.5454545454545454

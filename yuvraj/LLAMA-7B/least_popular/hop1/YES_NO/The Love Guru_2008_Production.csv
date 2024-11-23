@@ -1,0 +1,22 @@
+Question,Answer,LLAMA_response
+"[""Was the character The Love Guru in 'The Love Guru 2008' created by someone other than Mike Myers?""]",no,yes
+"[""Was the character The Love Guru in 'The Love Guru 2008' originally created by Mike Myers for the Austin Powers franchise?""]",yes,yes
+"[""Is Guru Pitka a character from a different movie, not 'The Love Guru 2008'?""]",no,yes
+"[""In the movie 'The Love Guru 2008', is Guru Pitka another name for The Love Guru?""]",yes,yes
+"""Did the Toronto Maple Leafs win a championship in the movie 'The Love Guru 2008' without Mike Myers' intervention?""",no,yes
+"""Is 'The Love Guru 2008' a film where Mike Myers wrote and starred in, envisioning his favorite hockey team, the Toronto Maple Leafs, winning a championship?""",yes,yes
+"""Did Marco Schnabel have no involvement in the production of 'The Love Guru 2008'?""",no,yes
+"""Did Marco Schnabel direct the movie 'The Love Guru 2008'?""",yes,yes
+"Did John Oliver make his feature film debut in ""The Love Guru 2008"" because he lost a bet?",no,yes
+"Was John Oliver cast in ""The Love Guru 2008"" by Mike Myers due to his work on The Daily Show?",yes,yes
+"Did Samantha Bee have a speaking role in ""The Love Guru 2008""?",no,yes
+"Did Samantha Bee make a cameo in ""The Love Guru 2008""?",yes,yes
+"[""Did Mike Myers create the character of Guru Pitka for the movie 'The Love Guru 2008' and the 'Harry Potter' franchise?""]",no,no
+"[""Was the character of Guru Pitka in 'The Love Guru 2008' created by Mike Myers?""]",yes,yes
+"Did Mike Myers develop the character of Guru Pitka for ""The Love Guru 2008"" in comedy clubs in Los Angeles?",no,yes
+"Did Mike Myers workshop the character of Guru Pitka for ""The Love Guru 2008"" in New York comedy clubs during 2005?",yes,yes
+"[""Did Myers play a supporting role in the movie 'The Love Guru 2008'?""]",no,yes
+"[""Did Myers play the lead role of 'Hugo Ballantyne', also known as 'The Love Guru', in the comedy film 'The Love Guru 2008'?""]",yes,yes
+"Did Samantha Bee have a speaking role in ""The Love Guru 2008""?",no,yes
+"Did Samantha Bee make a cameo appearance in ""The Love Guru 2008""?",yes,yes
+,,0.55

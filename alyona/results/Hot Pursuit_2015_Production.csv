@@ -1,0 +1,7 @@
+Question,Answer,generated_answer
+"[""Was the movie 'Hot Pursuit 2015' initially titled 'Don't Mess with Texas'?""]",yes,yes
+"[""Does the movie 'Hot Pursuit 2015' have no connection to the phrase 'Don't Mess with Texas'?""]",no,yes
+"Did the principal photography for the movie ""Hot Pursuit 2015"" begin in June 2014?",no,yes
+"Did the principal photography for the movie ""Hot Pursuit 2015"" begin on May 12, 2014?",yes,yes
+"""Did the principal photography for the movie 'Hot Pursuit 2015' start in June 2014?""",no,yes
+"""Was the principal photography for the movie 'Hot Pursuit 2015' set to last for two months starting from May 12, 2014?""",yes,yes

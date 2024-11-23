@@ -1,0 +1,12 @@
+Question,Answer,LLAMA_response
+Did Hans Zimmer compose the score for Dragonball Evolution: Original Motion Picture Soundtrack?,no,no
+Was the score for Dragonball Evolution: Original Motion Picture Soundtrack composed by Brian Tyler and recorded with an 82-piece ensemble of the Hollywood Studio Symphony?,yes,yes
+"""Was the 'Dragonball Evolution: Original Motion Picture Soundtrack' released by Disney Music Group in 2009?""",no,yes
+"""Was the 'Dragonball Evolution: Original Motion Picture Soundtrack' released by Varèse Sarabande in the United States?""",yes,yes
+"[""Is the song 'Worked Up' by Brian Anthony absent from the Dragonball Evolution: Original Motion Picture Soundtrack?""]",no,yes
+"[""Is Brian Anthony's remixed song 'Worked Up' featured on the Dragonball Evolution: Original Motion Picture Soundtrack?""]",yes,yes
+"""Is the theme song for Dragonball Evolution 2009 performed by an American artist?""",no,yes
+"""Is the song 'Rule' by Ayumi Hamasaki featured on the Dragonball Evolution 2009: Original Motion Picture Soundtrack?""",yes,yes
+"""Is the soundtrack for the movie 'Dragonball Evolution 2009' unrelated to the film itself?""",no,yes
+"""Does 'Dragonball Evolution: Original Motion Picture Soundtrack' refer to the soundtrack of the movie 'Dragonball Evolution 2009'?""",yes,yes
+,,0.6

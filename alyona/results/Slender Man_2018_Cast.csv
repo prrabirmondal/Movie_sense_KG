@@ -1,0 +1,7 @@
+Question,Answer,generated_answer
+"[""Did Kevin Chapman play the role of a character named Sarah in the movie 'Slender Man 2018'?""]",no,yes
+"[""Did Kevin Chapman play the role of Mr. Jensen in the movie 'Slender Man 2018'?""]",yes,yes
+"[""Is Jessica Blank not playing any role in the movie Slender Man 2018?""]",no,yes
+"[""Does Jessica Blank play the role of Mrs. Knudsen in the movie Slender Man 2018?""]",yes,yes
+"""In the movie 'Slender Man 2018', does Michael Reilly Burke play the role of Mrs. Knudsen?""",no,yes
+"""Does Michael Reilly Burke play the role of Mr. Knudsen in the movie 'Slender Man 2018'?""",yes,yes

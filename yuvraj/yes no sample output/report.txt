@@ -1,4 +1,4 @@
-Basic Instinct 2_2006_Production.csv: 0.3333333333333333
-A Haunted House 2_2014_Production.csv: 0.5
-Expend4bles_2023_Music.csv: 0.5
-Overall Accuracy: 0.4444444444444444
+Summary Accuracy: 0.50
+Production Accuracy: 0.50
+Plot Accuracy: 0.50
+Overall Accuracy: 0.50

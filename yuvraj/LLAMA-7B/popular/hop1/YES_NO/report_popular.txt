@@ -1,0 +1,9 @@
+Cast Accuracy: 0.54
+Plot Accuracy: 0.51
+Production Accuracy: 0.55
+Music Accuracy: 0.55
+Accolades Accuracy: 0.55
+Soundtrack Accuracy: 0.52
+Summary Accuracy: 0.56
+Themes Accuracy: 0.53
+Overall Accuracy: 0.53

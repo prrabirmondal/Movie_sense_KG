@@ -1,0 +1,32 @@
+Question,Answer,LLAMA_response
+"[""Is Reese Witherspoon not involved in the movie 'Hot Pursuit 2015' at all?""]",no,yes
+"[""Did Reese Witherspoon portray the character of Officer Rose Cooper in the movie 'Hot Pursuit 2015'?""]",yes,no
+"[""Is Sofía Vergara not part of the cast in the movie 'Hot Pursuit 2015'?""]",no,yes
+"[""Did Sofía Vergara play the role of Daniella Riva in the movie 'Hot Pursuit 2015'?""]",yes,yes
+"""Did Robert Kazinsky play the role of a character named Randy in the movie 'Hot Pursuit 2015'?""",yes,no
+"""Did Robert Kazinsky play the role of the main protagonist in the movie 'Hot Pursuit 2015'?""",no,no
+"[""Did Matthew Del Negro play the role of a firefighter in the movie 'Hot Pursuit 2015'?""]",no,no
+"[""In the movie 'Hot Pursuit 2015', does Matthew Del Negro perform as Detective Hauser?""]",yes,yes
+"[""Did Michael Mosley play the role of a chef in the movie 'Hot Pursuit 2015'?""]",no,yes
+"[""Is Michael Mosley the actor who portrays the character Detective Dixon in the movie 'Hot Pursuit 2015'?""]",yes,yes
+"[""Did Benny Nieves play the role of a vampire in the movie 'Hot Pursuit 2015'?""]",no,no
+"[""Did Benny Nieves embody the character Jesus in the movie 'Hot Pursuit 2015'?""]",yes,no
+"[""Did Michael Ray Escamilla play the character of a demon in the movie 'Hot Pursuit 2015'?""]",no,no
+"[""Does Michael Ray Escamilla portray the role of Angel in the movie 'Hot Pursuit 2015'?""]",yes,no
+"[""Did Joaquín Cosío play the role of a different character other than Vicente Cortez in the movie Hot Pursuit 2015?""]",no,yes
+"[""In the movie Hot Pursuit 2015, is Joaquín Cosío the actor who plays the character Vicente Cortez?""]",yes,yes
+"[""Is John Carroll Lynch not a part of the cast of the movie Hot Pursuit 2015?""]",no,yes
+"[""Does John Carroll Lynch enact the character of Captain Emmett in the movie Hot Pursuit 2015?""]",yes,no
+"""In the movie 'Hot Pursuit 2015', did Jim Gaffigan play the character named Blue?""",no,no
+"""Does Jim Gaffigan perform the character of Red in the movie 'Hot Pursuit 2015'?""",yes,no
+"[""Did Mike Birbiglia play the role of Steve in the movie 'Hot Pursuit 2015'?""]",yes,no
+"[""Did Mike Birbiglia portray a character named John in the movie 'Hot Pursuit 2015'?""]",no,no
+"[""Does Vincent Laresca play the role of a character named John Doe in the movie Hot Pursuit 2015?""]",no,no
+"[""In the movie Hot Pursuit 2015, does Vincent Laresca act as a character named Felipe Riva?""]",yes,yes
+"[""Did David Jensen play the role of Wayne in the movie 'Hot Pursuit 2015'?""]",yes,no
+"[""Is David Jensen a character named Wayne in real life, outside of 'Hot Pursuit 2015'?""]",no,no
+"[""Did Evaluna Montaner play the role of Teresa Cortez in the movie 'The Godfather'?""]",no,no
+"[""In the movie 'Hot Pursuit 2015', is the role of Teresa Cortez portrayed by Evaluna Montaner?""]",yes,no
+"[""Is Bryce Romero portrayed as a police officer in the movie 'Hot Pursuit 2015'?""]",no,yes
+"[""Does Bryce Romero depict Cooper's prom date in the movie 'Hot Pursuit 2015'?""]",yes,yes
+,,0.5

@@ -1,0 +1,34 @@
+Question,Answer,LLAMA_response
+"[""In the 2006 movie 'Casino Royale', was Le Chiffre introduced to the Lord's Resistance Army by someone other than Mr. White?""]",no,yes
+"[""In the film 'Casino Royale' released in 2006, does Mr. White introduce Steven Obanno, a high-ranking member of the Lord's Resistance Army, to Le Chiffre in Uganda?""]",yes,no
+"[""Did Le Chiffre, in the 2006 movie 'Casino Royale', use his knowledge of an upcoming terrorist attack to short the stock of a toy company?""]",no,no
+"[""In the 2006 film 'Casino Royale', did Le Chiffre short the stock of aerospace manufacturer Skyfleet using his knowledge of an upcoming terrorist attack?""]",yes,yes
+"[""In the 2006 movie 'Casino Royale', did Alex Dimitrios hire Mollaka to bake a cake for Le Chiffre?""]",no,no
+"[""In 'Casino Royale', released in 2006, was Mollaka hired by Alex Dimitrios to bomb Skyfleet's prototype airliner at the request of Le Chiffre?""]",yes,yes
+"[""In the 2006 movie 'Casino Royale', did Dimitrios win Bond's vintage Aston Martin in a poker game in Miami?""]",no,yes
+"[""In the 2006 movie 'Casino Royale', did Bond win Dimitrios's vintage Aston Martin in a poker game in Miami?""]",yes,yes
+"[""Is Dimitrios's wife, Solange, not involved in any romantic encounters with Bond in the 2006 movie 'Casino Royale'?""]",no,yes
+"[""Does Bond seduce Dimitrios's wife Solange in Miami in the 2006 movie 'Casino Royale'?""]",yes,yes
+"[""Did Le Chiffre fail to recover his client's money with the Skyfleet stock secure in the 2006 movie, Casino Royale?""]",no,yes
+"[""In the 2006 movie, Casino Royale, did Le Chiffre recover his client's money with the Skyfleet stock secure?""]",yes,yes
+"[""In the 2006 movie 'Casino Royale', did Bond participate in a Texas hold 'em tournament at the Casino Royale in Montenegro organized by Le Chiffre?""]",yes,yes
+"[""In the 2006 film 'Casino Royale', did Bond refuse to play against Le Chiffre in the Texas hold 'em tournament at the Casino Royale in Montenegro?""]",no,yes
+"""In the 2006 movie 'Casino Royale', did Valenka, Le Chiffre's lover, poison Vesper instead of Bond?""",no,yes
+"""In 'Casino Royale' released in 2006, was Bond rescued by Vesper after being poisoned by Valenka, Le Chiffre's lover?""",yes,yes
+"[""In the 2006 movie 'Casino Royale', did Le Chiffre stake Bond the money to let the CIA take him into custody?""]",no,yes
+"[""In 'Casino Royale' released in 2006, was Le Chiffre staked by fellow player and CIA agent Felix Leiter so that the CIA could take him into custody?""]",yes,yes
+"[""In the 2006 movie 'Casino Royale', was Bond paired with a character named Vesper Lynd who was overseeing a $10 million buy-in?""]",yes,yes
+"[""In 'Casino Royale', released in 2006, did Bond operate solo without any partner?""]",no,yes
+"""In the 2006 movie 'Casino Royale', did Bond trust Mathis completely without having him arrested?""",no,yes
+"""In 'Casino Royale', released in 2006, did Bond have Mathis arrested because he suspected him of tipping off Le Chiffre?""",yes,yes
+"""In the 2006 movie 'Casino Royale', does Bond decide to continue his career at MI6 after falling in love with Vesper?""",no,yes
+"""Does the plot of 'Casino Royale' from 2006 involve Bond and Vesper sailing to Venice after Bond's resignation from MI6?""",yes,yes
+"[""Did 'Bond' in the 2006 movie 'Casino Royale' receive his winnings as revealed by 'M'?""]",no,yes
+"[""In the 2006 movie 'Casino Royale', does 'Bond' realize that 'Vesper' has betrayed him after 'M' reveals that his winnings were never transferred to the British treasury?""]",yes,yes
+"[""In the 2006 movie 'Casino Royale', did Bond die instead of waking up in the hospital and recovering with Vesper?""]",no,yes
+"[""In 'Casino Royale' released in 2006, does Bond believe that Mathis had tipped off Le Chiffre, leading to his arrest?""]",yes,yes
+"""In the 2006 movie 'Casino Royale', did the organization behind Le Chiffre threaten to kill Vesper's lover unless she became a double agent?""",yes,yes
+"""In the 2006 movie 'Casino Royale', did M threaten to kill Vesper's lover unless she became a double agent?""",no,yes
+"[""In the 2006 film 'Casino Royale', does Bond shoot White in the arm and introduce himself as 'The name's Bond, James Bond'?""]",no,yes
+"[""In 'Casino Royale' released in 2006, does Bond shoot White in the leg and introduce himself, saying 'The name's Bond, James Bond'?""]",yes,yes
+,,0.53125

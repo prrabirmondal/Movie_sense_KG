@@ -1,0 +1,14 @@
+Question,Answer,LLAMA_response
+"[""Did Josh Brolin reject the role of Jonah Hex in the 2010 movie 'Jonah Hex'?""]",no,yes
+"[""Did Josh Brolin enter talks to be cast as Jonah Hex in the 2010 movie 'Jonah Hex'?""]",yes,yes
+"""Did Andrew Lazar work alone as the producer for the 2010 movie 'Jonah Hex'?""",no,yes
+"""Was Andrew Lazar paired with Goldsman as producers for the 2010 movie 'Jonah Hex'?""",yes,yes
+"""Did the actor Brolin enjoy the experience of making the movie 'Jonah Hex' in 2010?""",no,yes
+"""Did the actor Brolin have to reshoot 66 pages in 12 days while filming the movie 'Jonah Hex' in 2010?""",yes,yes
+"""Did Brolin, the actor in 'Jonah Hex' released in 2010, attribute the failure of the movie solely to Hayward's inexperience as a director?""",no,yes
+"""Did Brolin, the actor in 'Jonah Hex' released in 2010, mention studio interference in the film's post-production as a factor in the movie's failure?""",yes,no
+"[""Did Megan Fox praise the 2010 movie 'Jonah Hex' and recommend it for her kids?""]",no,no
+"[""Was Megan Fox critical of the movie 'Jonah Hex' released in 2010?""]",yes,yes
+"""Did the score of the movie 'Jonah Hex' released in 2010 have no relation to albums?""",no,yes
+"""Was the music in the 2010 movie 'Jonah Hex' written with the idea that it was the score of a movie?""",yes,yes
+,,0.5

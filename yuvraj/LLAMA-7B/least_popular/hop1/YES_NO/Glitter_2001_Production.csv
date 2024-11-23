@@ -1,0 +1,20 @@
+Question,Answer,LLAMA_response
+"Did Carey begin work on the project titled ""All That Glitters"" for the movie ""Glitter 2001"" in early 1998?",no,yes
+"Was the working title of the project that Carey began for the movie ""Glitter 2001"" called ""All That Glitters""?",yes,yes
+"Was ""All That Glitters"" a song released in ""Glitter 2001""?",no,yes
+"Did Mariah Carey release an album named ""Rainbow"" before ""Glitter 2001""?",yes,yes
+"Did Carey sign a record deal with Columbia Records for the production of ""Glitter 2001""?",no,no
+"Did Carey sign a record deal with Virgin Records for the production of ""Glitter 2001""?",yes,no
+"[""Did Virgin Records stop Carey from working on All That Glitters in the movie Glitter 2001?""]",no,yes
+"[""In the movie Glitter 2001, does the film's concept of All That Glitters involve a club dancer who becomes a successful singer?""]",yes,yes
+"[""Does the movie 'Glitter 2001' start with Billie having a healthy relationship with her mom?""]",no,yes
+"[""In the movie 'Glitter 2001', does the dysfunctional relationship between Billie and her mom set off Billie's journey to understand her feelings of abandonment?""]",yes,yes
+"Did Billie from ""Glitter 2001"" end up in a foster home because her mother was extremely stable?",no,no
+"In the production of ""Glitter 2001"", does the character Billie end up in a foster home due to her mother's instability?",yes,yes
+"[""In the movie Glitter 2001, are Louise and Roxanne introduced as Billie's enemies?""]",no,yes
+"[""In the movie Glitter 2001, do Louise and Roxanne become Billie's support system after she is placed in foster care?""]",yes,yes
+"[""Does the movie 'Glitter 2001' portray Billie as having no connection with a character named Dice?""]",no,yes
+"[""In the movie 'Glitter 2001', does Billie connect with a character named Dice, who is similar to her semi-dysfunctional mother?""]",yes,yes
+"[""Did Eric Benét play a character named Caesar who has no interaction with Billie in the movie Glitter 2001?""]",no,no
+"[""In the movie Glitter 2001, does Eric Benét play a character named Caesar who interacts with Billie?""]",yes,yes
+,,0.6111111111111112

@@ -14,8 +14,7 @@ def standardize_answer(Answer):
         return Answer  # Leave as is if it's not recognizable
 
 # Directory containing the CSV files
-directory = "/mnt/Data/prabirmondal/prabir/python_program/movie_sense/SRI_KG/Movie_sense_KG/Movie_sense_KG/yuvraj/questions/least_popular/hop1/YES_NO_cleaned"
-
+directory = "/mnt/Data/prabirmondal/prabir/python_program/movie_sense/SRI_KG/Movie_sense_KG/Movie_sense_KG/yuvraj/questions/popular/hop1/YES_NO_cleaned"
 # Iterate over all files in the directory
 for filename in os.listdir(directory):
     if filename.endswith(".csv"):

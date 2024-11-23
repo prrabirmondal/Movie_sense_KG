@@ -1,0 +1,18 @@
+Question,Answer,LLAMA_response
+"[""Did the movie 'Avatar', released in 2009, fail to receive a nomination for Best Picture at the 82nd Academy Awards?""]",no,yes
+"[""Did the movie 'Avatar', released in 2009, receive a nomination for Best Picture at the 82nd Academy Awards?""]",yes,yes
+"[""Did James Cameron fail to win the Best Director award for 'Avatar' at the 67th Golden Globe Awards in 2009?""]",no,no
+"[""Was James Cameron nominated for the Best Director award for 'Avatar' at the 82nd Academy Awards in 2009?""]",yes,yes
+"[""Did the movie 'Avatar' from 2009 fail to win the Best Motion Picture - Drama award at the 67th Golden Globe Awards?""]",no,yes
+"[""Did the 2009 movie 'Avatar' win the Best Motion Picture - Drama award at the 67th Golden Globe Awards?""]",yes,yes
+"[""Did the film 'Avatar' from 2009 fail to win the Best Picture award from the New York Film Critics Online?""]",no,no
+"[""Did the 2009 movie 'Avatar' win the Best Picture award from the New York Film Critics Online, recognizing its excellence in filmmaking?""]",yes,yes
+"""Did the movie 'Avatar' from 2009 fail to win any awards at the Critics' Choice Awards of the Broadcast Film Critics Association?""",no,yes
+"""Did the 2009 movie 'Avatar' win Best Action Film at the Critics' Choice Awards of the Broadcast Film Critics Association?""",yes,yes
+"""Did the movie 'Avatar' from 2009 fail to win any awards from the St. Louis Film Critics?""",no,yes
+"""Did the movie 'Avatar' from 2009 win two awards from the St. Louis Film Critics, including Best Visual Effects and Most Original, Innovative or Creative Film?""",yes,yes
+"[""Did the 2009 movie 'Avatar' fail to win any awards at the British Academy of Film and Television Arts (BAFTA)?""]",no,yes
+"[""Did the movie 'Avatar' released in 2009 win the Production Design and Special Visual Effects awards at the British Academy of Film and Television Arts (BAFTA)?""]",yes,yes
+"[""Did the movie 'Avatar', released in 2009, fail to win any of the ten Saturn Awards it was nominated for?""]",no,yes
+"[""Did the movie 'Avatar', released in 2009, win the Best Science Fiction Film award at the 36th Saturn Awards?""]",yes,yes
+,,0.625

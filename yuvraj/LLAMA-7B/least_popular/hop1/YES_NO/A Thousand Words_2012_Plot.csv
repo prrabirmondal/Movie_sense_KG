@@ -1,0 +1,26 @@
+Question,Answer,LLAMA_response
+"[""Does the movie 'A Thousand Words 2012' depict a scenario where squirrels climbing the Bodhi Tree cause pain to Jack?""]",no,yes
+"[""In the movie 'A Thousand Words 2012', does Jack get tickled when squirrels climb the Bodhi Tree?""]",yes,yes
+"""In the movie 'A Thousand Words 2012', does the gardener successfully poison the Bodhi Tree?""",no,yes
+"""In the plot of 'A Thousand Words 2012', does Jack get high on the fumes when the gardener tries to poison the Bodhi Tree with DDT?""",yes,no
+"[""In the movie 'A Thousand Words 2012', did the tree gain more leaves because of Jack's singing caused by alcohol consumption?""]",no,yes
+"[""In the plot of 'A Thousand Words 2012', does the tree lose most of its leaves due to Jack's singing caused by alcohol consumption?""]",yes,yes
+"[""Does Jack ignore Dr. Sinja in the movie 'A Thousand Words 2012'?""]",no,yes
+"[""Does Jack confront Dr. Sinja to ask how to end the curse in the movie 'A Thousand Words 2012'?""]",yes,yes
+"[""In the movie 'A Thousand Words 2012', does Jack's wife immediately reconcile with him?""]",no,yes
+"[""In the plot of 'A Thousand Words 2012', does Jack make an attempt to reconcile with his wife?""]",yes,yes
+"[""Does Jack in 'A Thousand Words 2012' keep the last three leaves of the tree without saying 'I forgive you'?""]",no,yes
+"[""In the movie 'A Thousand Words 2012', does Jack use the last three leaves of the tree saying 'I forgive you'?""]",yes,yes
+"[""In the movie 'A Thousand Words 2012', does Aaron tell Jack that the tree's leaves have disappeared?""]",no,yes
+"[""In the plot of 'A Thousand Words 2012', does Aaron call Jack to inform him that the tree's leaves have magically reappeared?""]",yes,no
+"[""Does Jack demote Aaron in the movie 'A Thousand Words 2012'?""]",no,yes
+"[""Does Aaron help Jack make a deal for his book in the movie 'A Thousand Words 2012'?""]",yes,yes
+"[""Is the movie 'A Thousand Words 2012' about Jack writing a song called 'A Thousand Words'?""]",no,yes
+"[""In the movie 'A Thousand Words 2012', does Jack write a book called 'A Thousand Words'?""]",yes,yes
+"[""In the plot of 'A Thousand Words 2012', does Aaron's office lack a Bodhi Tree?""]",no,yes
+"[""In 'A Thousand Words 2012', is there a Bodhi Tree present in Aaron's smaller office?""]",yes,yes
+"[""In the plot of the movie 'A Thousand Words 2012', do Jack and Caroline decide to separate?""]",no,yes
+"[""In 'A Thousand Words 2012', do Jack and Caroline reconcile and get back together as part of the plot?""]",yes,yes
+"[""In the movie 'A Thousand Words 2012', did Caroline ask for a car instead of a family-friendly house?""]",no,yes
+"[""In the plot of 'A Thousand Words 2012', does Caroline ask for a family-friendly house?""]",yes,yes
+,,0.4166666666666667

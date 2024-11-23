@@ -1,0 +1,4 @@
+Question,Answer,LLAMA_response
+"""Did the 2011 movie 'Drive' feature a soundtrack that included a collaboration between the bands Chvrches and Banks?""",no,yes
+"""Is the music context relevant to the 2011 movie 'Drive'?""",yes,yes
+,,0.5

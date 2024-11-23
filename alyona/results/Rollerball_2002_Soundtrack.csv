@@ -1,0 +1,29 @@
+Question,Answer,generated_answer
+"""Is the song 'Boom' in the 'Rollerball 2002' soundtrack performed by a country band?""",no,yes
+"""Is the song 'Boom' in the 'Rollerball 2002' soundtrack performed by the American nu metal band P.O.D.?""",yes,yes
+"[""Is the song 'Told You So' in the movie 'Rollerball 2002' performed by a pop band?""]",no,yes
+"[""Is the song 'Told You So' in the movie 'Rollerball 2002' performed by the American heavy metal band Drowning Pool?""]",yes,yes
+"[""Is the song 'Ride' performed by the American rock band Beautiful Creatures not included in the soundtrack of 'Rollerball 2002'?""]",no,yes
+"[""Is the song 'Ride' in the soundtrack of 'Rollerball 2002' performed by the American rock band Beautiful Creatures?""]",yes,yes
+"[""Is the song 'Millionaire' in the movie 'Rollerball 2002' performed by an American rock band?""]",no,yes
+"[""Is the song 'Millionaire' in the soundtrack of the movie 'Rollerball 2002' performed by the Russian rock band Rappagariya?""]",yes,yes
+"""Is the song 'I Am Hated' in the soundtrack of 'Rollerball 2002' performed by a pop band?""",no,yes
+"""Is the song 'I Am Hated' in the soundtrack of 'Rollerball 2002' performed by the American heavy metal band Slipknot?""",yes,yes
+"[""Is the song 'Body Go' in the 'Rollerball 2002' soundtrack performed by a British rock band?""]",no,yes
+"[""Is the song 'Body Go' in the 'Rollerball 2002' soundtrack performed by the Australian rock band Hardknox?""]",yes,yes
+"[""Is the song 'Feel So Numb' in the 'Rollerball 2002' soundtrack performed by an artist other than Rob Zombie?""]",no,yes
+"[""Is the song 'Feel So Numb' in the 'Rollerball 2002' soundtrack performed by the American heavy metal musician Rob Zombie?""]",yes,yes
+"[""Is the song 'Keep Away' in the movie 'Rollerball 2002' performed by a country band?""]",no,yes
+"[""Is the song 'Keep Away' in the movie 'Rollerball 2002' performed by the American hard rock band Godsmack?""]",yes,yes
+"[""Is the song 'Insane in the Brain' performed by a British rock band in the movie 'Rollerball 2002'?""]",no,yes
+"[""In the 'Rollerball 2002' soundtrack, is 'Insane in the Brain' performed by the Cuban-American rapper Sen Dog?""]",yes,yes
+"[""Is the song 'Flashpoint' in the 'Rollerball 2002' soundtrack performed by a country band?""]",no,yes
+"[""Is the song 'Flashpoint' in the 'Rollerball 2002' soundtrack performed by the American industrial metal band Fear Factory?""]",yes,yes
+"[""Is the song 'When I Come Around' from the movie 'Rollerball 2002' performed by a country band?""]",no,yes
+"[""Is the song 'When I Come Around' included in the 'Rollerball 2002' soundtrack performed by the American punk rock band Green Day?""]",yes,yes
+"[""Is the song 'Crawling in the Dark' in the 'Rollerball 2002' soundtrack performed by a country music band?""]",no,yes
+"[""Is the song 'Crawling in the Dark' in the 'Rollerball 2002' soundtrack performed by the American alternative rock band Hoobastank?""]",yes,yes
+"[""Is the song 'Time to Play' in the movie 'Rollerball 2002' performed by a British pop band?""]",no,yes
+"[""Is the song 'Time to Play' in the movie 'Rollerball 2002' performed by the American Christian metal band Pillar?""]",yes,yes
+"[""Is the song 'Never Gonna Stop (The Red Red Kroovy)' in the movie 'Rollerball 2002' performed by a pop artist?""]",no,yes
+"[""Is the song 'Never Gonna Stop (The Red Red Kroovy)' in the soundtrack of 'Rollerball 2002' performed by Rob Zombie?""]",yes,yes

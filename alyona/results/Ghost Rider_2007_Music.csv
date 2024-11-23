@@ -1,0 +1,3 @@
+Question,Answer,generated_answer
+"""Did Hans Zimmer compose the score for the movie 'Ghost Rider 2007'?""",no,yes
+"""Was the score for the movie 'Ghost Rider 2007' composed by Christopher Young?""",yes,yes

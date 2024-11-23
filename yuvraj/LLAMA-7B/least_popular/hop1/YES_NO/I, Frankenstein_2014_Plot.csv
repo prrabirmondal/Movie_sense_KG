@@ -1,0 +1,16 @@
+Question,Answer,LLAMA_response
+"[""Is the movie 'I, Frankenstein 2014' about Frankenstein creating a monster from parts of living beings?""]",no,yes
+"[""In 'I, Frankenstein 2014', does Frankenstein create a monster from parts of corpses and try to destroy it after being horrified by his creation?""]",yes,yes
+"""Does the monster in 'I, Frankenstein 2014' perish while being pursued by demons?""",no,yes
+"""In the movie 'I, Frankenstein 2014', does the monster's creation lead to the death of Frankenstein's wife Elizabeth?""",yes,yes
+"""In the movie 'I, Frankenstein 2014', does Adam live with society and avoid killing demons?""",no,yes
+"""In the plot of 'I, Frankenstein 2014', does Adam live apart from society and kill any demon that pursues him?""",yes,yes
+"[""Did Adam decide to isolate himself from society in the movie 'I, Frankenstein 2014'?""]",no,yes
+"[""In the movie 'I, Frankenstein 2014', does Adam decide to rejoin society and confront a group of demons?""]",yes,yes
+"[""In the movie 'I, Frankenstein 2014', were the gargoyles created by the Archangel Michael to battle humans on Earth?""]",no,yes
+"[""In the plot of 'I, Frankenstein 2014', do the gargoyles invite Adam to join them in their mission to battle demons and protect humanity?""]",yes,yes
+"Did the movie ""I, Frankenstein 2014"" depict Adam refusing to accept the baton-like weapons given to him by the gargoyles?",no,yes
+"In ""I, Frankenstein 2014"", does Adam use the baton-like weapons given to him by the gargoyles to 'descend' demons?",yes,yes
+"[""Does Adam get attacked by Zuriel in the movie 'I, Frankenstein 2014' but manages to avoid the confrontation?""]",no,no
+"[""In the plot of 'I, Frankenstein 2014', does Adam fight Zuriel after being attacked and manages to descend him?""]",yes,yes
+,,0.5714285714285714

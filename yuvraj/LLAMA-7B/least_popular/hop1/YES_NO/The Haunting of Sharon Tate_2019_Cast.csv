@@ -1,0 +1,20 @@
+Question,Answer,LLAMA_response
+"""Did Hilary Duff portray a character other than Sharon Tate in the 2019 movie 'The Haunting of Sharon Tate'?""",no,yes
+"""In the 2019 movie 'The Haunting of Sharon Tate', did Hilary Duff play the role of Sharon Tate?""",yes,no
+"""Did Jonathan Bennett play the role of Jay Sebring in the 2019 movie 'The Haunting of Sharon Tate'?""",yes,no
+"""In the 2019 movie 'The Haunting of Sharon Tate', was the role of Jay Sebring played by an actor other than Jonathan Bennett?""",no,no
+"""Did Lydia Hearst play the character of Abigail 'Gibby' Folger in the 2019 movie 'The Haunting of Sharon Tate'?""",yes,yes
+"""In the movie 'The Haunting of Sharon Tate' released in 2019, was the character of Abigail 'Gibby' Folger portrayed by an actress other than Lydia Hearst?""",no,yes
+"Was Tyler Johnson not seen as Tex Watson in the 2019 movie ""The Haunting of Sharon Tate""?",no,no
+"Did Tyler Johnson play the role of Tex Watson in the 2019 movie ""The Haunting of Sharon Tate""?",yes,no
+"""Did Pawel Szajda portray Wojciech Frykowski in the 2019 movie, 'The Haunting of Sharon Tate'?""",yes,yes
+"""In the 2019 movie 'The Haunting of Sharon Tate', was the character Wojciech Frykowski played by an actor other than Pawel Szajda?""",no,yes
+"[""Did Ryan Cargill not play the role of Steven Parent in the 2019 movie, 'The Haunting of Sharon Tate'?""]",no,no
+"[""Did Ryan Cargill play the role of Steven Parent in the 2019 movie, 'The Haunting of Sharon Tate'?""]",yes,no
+"Did Fivel Stewart play the role of Patricia 'Yellow' Krenwinkel in a movie other than ""The Haunting of Sharon Tate"" released in 2019?",no,yes
+"In the 2019 movie ""The Haunting of Sharon Tate"", does Fivel Stewart represent the character Patricia 'Yellow' Krenwinkel?",yes,yes
+"""Did Bella Popa portray the character of Linda Kasabian in the 2019 movie 'The Haunting of Sharon Tate'?""",no,no
+"""In the 2019 movie 'The Haunting of Sharon Tate', was the role of Susan 'Sadie' Atkins played by Bella Popa?""",yes,no
+"""Did Ben Mellish represent a character other than Charles Manson in the 2019 movie 'The Haunting of Sharon Tate'?""",no,yes
+"""In the 2019 movie 'The Haunting of Sharon Tate', did Ben Mellish play the role of Charles Manson?""",yes,no
+,,0.3888888888888889

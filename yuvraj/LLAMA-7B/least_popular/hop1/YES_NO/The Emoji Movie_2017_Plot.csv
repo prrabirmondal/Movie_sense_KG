@@ -1,0 +1,30 @@
+Question,Answer,LLAMA_response
+"[""Is Mel not related to Gene in 'The Emoji Movie 2017'?""]",no,yes
+"[""Are Mel and Mary the parents of Gene in 'The Emoji Movie 2017'?""]",yes,no
+"[""Is Gene the child of two happy emojis in 'The Emoji Movie 2017'?""]",no,yes
+"[""Are Mel and Mary the parents of Gene in 'The Emoji Movie 2017'?""]",yes,no
+"[""Is Alex the emoji selected by Gene to send as a text message in The Emoji Movie 2017?""]",no,yes
+"[""Is Gene the emoji selected by Alex to send as a text message in The Emoji Movie 2017?""]",yes,yes
+"[""Does Smiler decide that Gene is perfectly functional in 'The Emoji Movie 2017'?""]",no,no
+"[""In 'The Emoji Movie 2017', does Smiler conclude that Gene is a 'malfunction' and must be deleted?""]",yes,yes
+"[""Did Hi-5 abandon Gene to bots sent by Smiler in 'The Emoji Movie 2017'?""]",no,no
+"[""In 'The Emoji Movie 2017', does Hi-5 rescue Gene from bots sent by Smiler?""]",yes,yes
+"[""Did Smiler from 'The Emoji Movie 2017' ignore Gene's actions and didn't send more bots to look for him?""]",no,no
+"[""In 'The Emoji Movie 2017', did Smiler send more bots to look for Gene when she found out that he had left Textopolis?""]",yes,yes
+"Does Jailbreak, the hacker emoji, want to leave Gene behind in ""The Emoji Movie 2017""?",no,yes
+"In ""The Emoji Movie 2017"", do Gene and Hi-5 encounter Jailbreak during their adventure?",yes,yes
+"Does Jailbreak reveal that Gene cannot be fixed in the cloud in ""The Emoji Movie 2017""?",no,yes
+"In ""The Emoji Movie 2017"", does Jailbreak reveal that Gene can be fixed in the cloud?",yes,yes
+"[""Does Jailbreak never enter the game Candy Crush in the plot of 'The Emoji Movie 2017'?""]",no,no
+"[""In 'The Emoji Movie 2017', does Jailbreak reveal herself as a princess emoji after escaping into the game Candy Crush?""]",yes,yes
+"[""Did the just dance app refuse to go off into the Just Dance app with Gene in The Emoji Movie 2017?""]",no,no
+"[""Did the just dance app go off into the Just Dance app with Gene in The Emoji Movie 2017?""]",yes,no
+"[""In the plot of 'The Emoji Movie 2017', does Jailbreak fail to escape from being stereotyped in the Just Dance app?""]",no,yes
+"[""Is Jailbreak revealed to be a princess emoji after escaping from being stereotyped in the Just Dance app in 'The Emoji Movie 2017'?""]",yes,yes
+"[""In the plot of 'The Emoji Movie 2017', does Gene have a friendly relationship with Smiler?""]",no,yes
+"[""In 'The Emoji Movie 2017', is there an enemy relationship between Gene and Smiler due to Smiler's threat to delete Gene?""]",yes,yes
+"[""In the plot of 'The Emoji Movie 2017', does Mel have a friendly relationship with Smiler?""]",no,yes
+"[""In 'The Emoji Movie 2017', is Mel considered an enemy of Smiler due to Smiler's threat to delete him?""]",yes,yes
+"[""Does 'The Emoji Movie 2017' depict a romantic relationship between Alex and Addie?""]",no,yes
+"[""In 'The Emoji Movie 2017', is there a communication relationship between Alex and Addie through text messages?""]",yes,yes
+,,0.5714285714285714

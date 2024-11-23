@@ -1,0 +1,26 @@
+Question,Answer,LLAMA_response
+"[""Did Ashley Greene play the role of John in the movie 'The Apparition 2012'?""]",no,no
+"[""In the movie 'The Apparition 2012', did Ashley Greene play the character Kelly?""]",yes,yes
+"[""Is Sebastian Stan not involved in the movie 'The Apparition 2012' at all?""]",no,yes
+"[""Does Sebastian Stan portray a character named Ben in the movie 'The Apparition 2012'?""]",yes,yes
+"[""Does Jerome Ponce play the character of an older Ben in the movie 'The Apparition 2012'?""]",no,yes
+"[""In 'The Apparition 2012', does Jerome Ponce take on the role of young Ben?""]",yes,yes
+"[""Did Tom Felton play the role of a character named Patrick in the movie 'The Apparition 2012'?""]",yes,yes
+"[""In the movie 'The Apparition 2012', did Tom Felton play the role of a character named John?""]",no,yes
+"[""Did Julianna Guill portray a character named Lydia in the movie 'The Apparition 2012'?""]",yes,yes
+"[""Did Julianna Guill play the role of the ghost in the movie 'The Apparition 2012'?""]",no,yes
+"[""Did Rick Gomez play the character of John in the movie 'The Apparition 2012'?""]",no,yes
+"[""Is the character Mike in 'The Apparition 2012' played by Rick Gomez?""]",yes,yes
+"[""Did Luke Pasqualino play the role of Sarah in the movie 'The Apparition 2012'?""]",no,no
+"[""In the movie 'The Apparition 2012', did Luke Pasqualino portray the character Greg?""]",yes,yes
+"[""Does the character Maggie in 'The Apparition 2012' get played by an actress named Sarah Johnson?""]",no,no
+"[""In the movie 'The Apparition 2012', is the character Maggie played by Anna Clark?""]",yes,yes
+"[""Is Tim Williams playing the role of a school teacher in the movie 'The Apparition 2012'?""]",no,yes
+"[""Does Tim Williams play the role of an Office Executive in the movie 'The Apparition 2012'?""]",yes,yes
+"""Does Marti Matulis play the role of a human character in the movie 'The Apparition 2012'?""",no,yes
+"""In the movie 'The Apparition 2012', does Marti Matulis depict an apparition?""",yes,yes
+"""Did John Grady play the role of a dinosaur in the movie 'The Apparition 2012'?""",no,yes
+"""In the movie 'The Apparition 2012', did John Grady portray an Apparition?""",yes,yes
+"[""Is the character Mrs. Henley in 'The Apparition 2012' played by an actor other than Suzanne Ford?""]",no,yes
+"[""Does Suzanne Ford portray the character Mrs. Henley in the movie 'The Apparition 2012'?""]",yes,yes
+,,0.625

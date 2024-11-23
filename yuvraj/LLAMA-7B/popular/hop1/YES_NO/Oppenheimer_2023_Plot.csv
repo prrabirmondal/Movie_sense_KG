@@ -1,0 +1,26 @@
+Question,Answer,LLAMA_response
+"""Is the movie 'Oppenheimer' from 2023 about a US Army Colonel who recruits Oppenheimer to be a football coach?""",no,no
+"""In the 2023 movie 'Oppenheimer', is Oppenheimer recruited as the director of the Los Alamos Laboratory to develop an atomic bomb during World War II?""",yes,yes
+"[""Did the 2023 movie 'Oppenheimer' depict Oppenheimer being indifferent towards the German nuclear research program fearing they might yield a fission bomb for the Nazis sooner?""]",no,no
+"[""In the 2023 movie 'Oppenheimer', does Oppenheimer fear that the German nuclear research program, led by Heisenberg, might yield a fission bomb for the Nazis sooner?""]",yes,yes
+"[""Did the movie 'Oppenheimer' released in 2023 suggest that Teller's calculations denied the possibility of an atomic detonation destroying the world?""]",no,no
+"[""In the 2023 movie 'Oppenheimer', does Teller's calculations reveal that an atomic detonation could destroy the world?""]",yes,yes
+"[""In the 2023 movie 'Oppenheimer', did Teller stay with the project despite his proposal to construct a hydrogen bomb being rejected?""]",no,no
+"[""In the 2023 movie 'Oppenheimer', did Teller attempt to leave the project after his proposal to construct a hydrogen bomb was rejected?""]",yes,no
+"[""In the 2023 movie 'Oppenheimer', does Oppenheimer fail to convince someone to stay?""]",no,yes
+"[""In the 2023 movie 'Oppenheimer', does Oppenheimer convince someone to stay?""]",yes,yes
+"""Did Oppenheimer express remorse to Truman in the 2023 movie 'Oppenheimer'?""",yes,no
+"""In the 2023 movie 'Oppenheimer', did Truman agree with Oppenheimer's plea to cease further atomic development?""",no,yes
+"[""Did the movie 'Oppenheimer' released in 2023 depict Oppenheimer as a guilt-ridden and haunted character after Germany's surrender in 1945?""]",yes,no
+"[""In the 2023 film 'Oppenheimer', was Oppenheimer portrayed as being untroubled and content after Germany's surrender in 1945?""]",no,no
+"[""Did the movie 'Oppenheimer', released in 2023, depict that Teller's hydrogen bomb did not receive renewed interest due to Oppenheimer's advisory role in the United States Atomic Energy Commission?""]",no,no
+"[""In the 2023 movie 'Oppenheimer', is there a plot point where Teller's hydrogen bomb receives renewed interest because of Oppenheimer's role in the United States Atomic Energy Commission?""]",yes,yes
+"[""Did the movie 'Oppenheimer' released in 2023 depict Strauss questioning Oppenheimer's loyalty to the United States in 1954?""]",yes,no
+"[""In the 2023 movie 'Oppenheimer', did Strauss support the renewal of Oppenheimer's Q clearance?""]",no,no
+"[""Was Oppenheimer's clearance not revoked in the 2023 movie 'Oppenheimer' after Kitty defended him and her husband?""]",no,no
+"[""In the 2023 movie 'Oppenheimer', did Kitty's defense of her husband lead to the board no longer suspecting Oppenheimer of disloyalty?""]",yes,no
+"[""Is it true that in the 2023 movie 'Oppenheimer', Hill did not testify during Strauss's Senate confirmation hearing for Secretary of Commerce about Strauss's personal motives for engineering Oppenheimer's downfall?""]",no,yes
+"[""In the 2023 movie 'Oppenheimer', does Hill testify during Strauss's Senate confirmation hearing for Secretary of Commerce about Strauss's personal motives for engineering Oppenheimer's downfall?""]",yes,yes
+"[""Did the movie 'Oppenheimer', released in 2023, depict a conversation between Oppenheimer and Einstein about starting a chain reaction that could destroy the world?""]",yes,yes
+"[""In the 2023 movie 'Oppenheimer', did Oppenheimer express joy and pride during his conversation with Einstein about the potential chain reaction they had started?""]",no,yes
+,,0.625

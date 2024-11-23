@@ -1,0 +1,14 @@
+Question,Answer,LLAMA_response
+"[""In the 2010 movie 'Shutter Island', was Leonardo DiCaprio's character assigned as the primary psychiatrist to treat his own delusion that Mark Ruffalo's character is actually a doctor named Lester Sheehan?""]",yes,yes
+"[""In 'Shutter Island', released in 2010, did Mark Ruffalo's character act as the primary psychiatrist treating Leonardo DiCaprio's character's delusion of him being a doctor named Lester Sheehan?""]",no,yes
+"[""Did John Carroll Lynch portray the character of Deputy Warden McPherson in the 2010 movie, Shutter Island?""]",yes,yes
+"[""In the 2010 movie, Shutter Island, was the character of Deputy Warden McPherson portrayed by an actor other than John Carroll Lynch?""]",no,yes
+"[""In the 2010 movie 'Shutter Island', was Elias Koteas not cast as the character Laeddis?""]",no,yes
+"[""In 'Shutter Island' released in 2010, does Elias Koteas play the role of Laeddis, a fictional arsonist that Teddy invented and believes was responsible for killing Dolores?""]",yes,yes
+"""In the 2010 movie 'Shutter Island', did Robin Bartlett play the character of Bridget Kearns?""",yes,yes
+"""In the 2010 movie 'Shutter Island', did Robin Bartlett portray a character named Robin Bartlett?""",no,yes
+"[""Did Christopher Denham not portray Peter Breene in the 2010 movie Shutter Island?""]",no,no
+"[""In the 2010 movie Shutter Island, did Christopher Denham portray the character Peter Breene?""]",yes,yes
+"""Did Curtiss Cook not play the character of Trey Washington in the 2010 film Shutter Island?""",no,yes
+"""In the movie Shutter Island released in 2010, did Curtiss Cook enact the character of Trey Washington?""",yes,yes
+,,0.5833333333333334

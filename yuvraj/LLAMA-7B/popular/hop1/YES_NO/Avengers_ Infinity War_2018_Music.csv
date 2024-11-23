@@ -1,0 +1,6 @@
+Question,Answer,LLAMA_response
+"""Did John Williams compose the score for 'Avengers: Infinity War' released in 2018?""",no,yes
+"""Was the score for 'Avengers: Infinity War', released in 2018, composed by Alan Silvestri?""",yes,yes
+"""Were 'Infinity War' and 'Endgame' separate movies in the Avengers series released before 2018?""",no,yes
+"""Does 'Infinity War' have a sequel called 'Endgame' in the Avengers series released after the 2018 movie 'Avengers Infinity War'?""",yes,yes
+,,0.5

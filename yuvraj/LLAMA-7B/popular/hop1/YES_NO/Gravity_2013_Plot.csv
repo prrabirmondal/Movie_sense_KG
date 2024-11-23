@@ -1,0 +1,12 @@
+Question,Answer,LLAMA_response
+"[""In the 2013 movie 'Gravity', does Kowalski manage to save himself and Stone by grabbing onto the ISS, despite the cords not being able to support them both?""]",no,yes
+"[""In the 2013 movie 'Gravity', does Stone's leg get entangled in the Soyuz's parachute cords while trying to grab onto the ISS with Kowalski?""]",yes,yes
+"[""Did Stone fail to enter the Tiangong's Shenzhou capsule in the 2013 movie 'Gravity'?""]",no,no
+"[""Did the Shenzhou capsule re-enter the atmosphere successfully in the 2013 movie 'Gravity'?""]",yes,no
+"[""Did the movie 'Gravity' released in 2013 feature a scene where the character uses the Soyuz's landing rockets to propel towards the Tiangong, but fails to dock?""]",yes,yes
+"[""In the 2013 movie 'Gravity', does the character successfully dock with the Tiangong using the Soyuz's landing rockets on the first attempt?""]",no,yes
+"[""Did Stone in the 2013 movie 'Gravity' find that the Soyuz's engine was full of fuel?""]",no,yes
+"[""In the 2013 film 'Gravity', does Stone angle the Soyuz towards Tiangong?""]",yes,yes
+"""In the 2013 movie 'Gravity', does a character need to swim through a hatch?""",yes,yes
+"""Is the 2013 movie 'Gravity' primarily set underwater, requiring characters to swim continuously?""",no,yes
+,,0.5

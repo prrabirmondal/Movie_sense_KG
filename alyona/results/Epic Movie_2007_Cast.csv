@@ -1,0 +1,17 @@
+Question,Answer,generated_answer
+"[""Is Kal Penn a character named Kumar Patel in the 2007 movie 'Epic Movie'?""]",no,yes
+"[""Is Kal Penn part of the cast in the 2007 movie 'Epic Movie'?""]",yes,yes
+"[""Is the character 'Silas' from the novel 'The Da Vinci Code' featured in the 2007 movie 'Epic Movie'?""]",no,yes
+"[""Does the 2007 movie 'Epic Movie' have a context of 'Cast'?""]",yes,yes
+"""Did Nick Steele play the role of the lead archer in the 2007 movie, Epic Movie?""",no,yes
+"""Does the actor Nick Steele play the role of the 'Lead Archer' in a movie other than 'Epic Movie' released in 2007?""",yes,yes
+"[""Did Crista Flanagan play the role of Hermione Granger in the 2007 movie 'Epic Movie'?""]",no,yes
+"[""Is Crista Flanagan, who is associated with the Harry Potter franchise, a part of the cast in the 2007 movie 'Epic Movie'?""]",yes,yes
+"[""Is it accurate to say that Scott L. Schwartz did not portray Hagrid in the 2007 film Epic Movie?""]",yes,yes
+"[""In the 2007 film Epic Movie, is there a connection between Scott L. Schwartz and the character Hagrid from the Harry Potter franchise?""]",no,yes
+"""Did Dane Farwell play the role of Albus Dumbledore in the 2007 movie 'Epic Movie'?""",no,yes
+"""Are both Dane Farwell and Albus Dumbledore associated with the Harry Potter franchise?""",yes,yes
+"Did Kahshanna Evans play the character of Storm in the 2007 film ""Epic Movie""?",no,yes
+Are both Kahshanna Evans and the character Storm associated with the X-Men franchise?,yes,yes
+"Did Rico Rodriguez play a character different from Chanchito in the 2007 movie ""Epic Movie""?",no,yes
+"Does the character Chanchito in the 2007 movie ""Epic Movie"" represent a variation of Rico Rodriguez's wrestling persona, 'Chancho'?",yes,yes

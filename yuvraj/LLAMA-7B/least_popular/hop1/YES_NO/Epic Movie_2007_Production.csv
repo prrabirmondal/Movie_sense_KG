@@ -1,0 +1,4 @@
+Question,Answer,LLAMA_response
+"[""Is the production aspect of 'Epic Movie 2007' not mentioned explicitly in the section 'HERE IS THE DETAILS OF MOVIE'S PRODUCTION'?""]",no,no
+"[""Does the section 'HERE IS THE DETAILS OF MOVIE'S PRODUCTION' explicitly mention the production aspect of 'Epic Movie 2007'?""]",yes,no
+,,0.5

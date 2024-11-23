@@ -1,0 +1,16 @@
+Question,Answer,LLAMA_response
+"[""Did Sally Hawkins ignore the influence of silent comedians in her preparation for her role in the 2017 movie 'The Shape of Water'?""]",no,yes
+"[""Did Sally Hawkins watch films featuring silent comedians such as Charlie Chaplin, Buster Keaton, Harold Lloyd, and Stan Laurel as part of her preparation for her role in 'The Shape of Water' released in 2017?""]",yes,yes
+"""Did Del Toro write the script for 'The Shape of Water' released in 2017 without considering Sally Hawkins for the female lead?""",no,no
+"""Is it true that Del Toro, while intoxicated at the 2014 Golden Globes, pitched the idea of 'The Shape of Water' (2017) to Sally Hawkins with her in mind for the female lead?""",yes,yes
+"""Was the exterior of the building in 'The Shape of Water' (2017) not depicted as the façade of the Victorian Massey Hall, a performing arts theatre?""",no,yes
+"""Is the exterior of the building in 'The Shape of Water' (2017) depicted as the façade of the Victorian Massey Hall, a performing arts theatre?""",yes,yes
+"""Did del Toro decide to film 'The Shape of Water' in 2017 entirely in black and white?""",no,yes
+"""Did del Toro face a decision between filming 'The Shape of Water' in 2017 in color or in black and white?""",yes,yes
+"[""Was 'The Shape of Water', released in 2017, initially considered to be made in black and white by director Del Toro?""]",yes,yes
+"[""Did Del Toro decide to make 'The Shape of Water', released in 2017, exclusively in black and white?""]",no,yes
+"[""Was the music for the movie 'The Shape of Water' released in 2018?""]",no,yes
+"[""Did 'The Shape of Water' win the Academy Award for Best Original Score at the 90th Academy Awards in 2017?""]",yes,yes
+"[""Was the music for 'The Shape of Water' released by a company other than Decca Records in 2017?""]",no,no
+"[""Was the music for the 2017 movie 'The Shape of Water' released by Decca Records?""]",yes,yes
+,,0.6428571428571429

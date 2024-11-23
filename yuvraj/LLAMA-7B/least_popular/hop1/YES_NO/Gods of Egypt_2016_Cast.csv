@@ -1,0 +1,28 @@
+Question,Answer,LLAMA_response
+"[""Is Isis the mother of Horus in the movie 'Gods of Egypt 2016'?""]",yes,yes
+"[""Is Horus the father of Isis in the movie 'Gods of Egypt 2016'?""]",no,yes
+"[""Is Horus the daughter of Osiris in the movie 'Gods of Egypt 2016'?""]",no,yes
+"[""In the movie 'Gods of Egypt 2016', is Horus the son of Osiris, the king of Egypt?""]",yes,yes
+"Is Isis the husband of Osiris in the movie ""Gods of Egypt 2016""?",no,yes
+"In the movie ""Gods of Egypt 2016"", is Isis the wife of Osiris, the king of Egypt?",yes,yes
+"[""Is Set from 'Gods of Egypt 2016' not related to Osiris?""]",no,yes
+"[""In the movie 'Gods of Egypt 2016', is Set the brother of Osiris, the king of Egypt?""]",yes,yes
+"[""In the movie 'Gods of Egypt 2016', is Hathor depicted as the enemy of Horus?""]",no,yes
+"[""In 'Gods of Egypt 2016', is Hathor portrayed as the lover of Horus, the Egyptian God of Air?""]",yes,yes
+"Is Zaya a character who has no relation to Bek in the movie ""Gods of Egypt 2016""?",no,yes
+"In the movie ""Gods of Egypt 2016"", is Zaya the lover of Bek, a young thief who allies with Horus?",yes,yes
+"[""Is Ra the mother of Osiris in the movie 'Gods of Egypt 2016'?""]",no,yes
+"[""In the movie 'Gods of Egypt 2016', is Ra the father of Osiris?""]",yes,yes
+"[""Is Thoth the sister of Horus in the movie 'Gods of Egypt 2016'?""]",no,yes
+"[""In the movie 'Gods of Egypt 2016', is Thoth the brother of Horus, the Egyptian God of Air?""]",yes,yes
+"[""Is Urshu a character unrelated to Set in the movie 'Gods of Egypt 2016'?""]",no,yes
+"[""In the movie 'Gods of Egypt 2016', is Urshu the second-in-command and architect of Set, the Egyptian God of the Desert?""]",yes,yes
+"[""Is Isis the brother of Nephthys in the movie 'Gods of Egypt 2016'?""]",no,yes
+"[""Are Isis and Nephthys sisters and wives of Set in the movie 'Gods of Egypt 2016'?""]",yes,yes
+"[""Is Astarte disloyal to Set in the movie 'Gods of Egypt 2016'?""]",no,yes
+"[""Does Astarte show loyalty to Set in the movie 'Gods of Egypt 2016'?""]",yes,yes
+"[""Is Anat a character in the movie 'Gods of Egypt 2016' who is disloyal to Set, the Egyptian God of the Desert?""]",no,yes
+"[""In the movie 'Gods of Egypt 2016', is Anat one of the goddesses of war who are loyal to Set, the Egyptian God of the Desert?""]",yes,yes
+"""In the movie 'Gods of Egypt 2016', does Bek oppose Horus, the Egyptian God of Air?""",no,yes
+"""In the movie 'Gods of Egypt 2016', does Bek ally with Horus, the Egyptian God of Air?""",yes,yes
+,,0.5

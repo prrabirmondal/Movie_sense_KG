@@ -1,0 +1,8 @@
+Question,Answer,LLAMA_response
+"[""Was the 2002 movie 'City of God' filmed using digital cameras?""]",no,yes
+"[""Was the 2002 movie 'City of God' filmed on 16mm film stock?""]",yes,yes
+"[""Did the 2002 movie 'City of God' use professional actors for all of its roles?""]",no,yes
+"[""In the 2002 film 'City of God', were amateur actors from real-life favelas used to add authenticity?""]",yes,yes
+"""Did Caro direct the 2002 movie 'City of God' instead of Meirelles?""",no,no
+"""Was Meirelles the replacement for Caro in directing the 2002 movie 'City of God'?""",yes,yes
+,,0.6666666666666666

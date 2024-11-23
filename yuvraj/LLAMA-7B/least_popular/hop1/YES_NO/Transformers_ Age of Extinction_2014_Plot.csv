@@ -1,0 +1,44 @@
+Question,Answer,LLAMA_response
+"""In the movie 'Transformers Age of Extinction 2014', was the earth covered with a metallic alloy called 'Transformium' by an alien race called the 'Creators' 65 million years ago?""",yes,no
+"""In the movie 'Transformers Age of Extinction 2014', did the 'Creators' use devices called Seeds to cover Earth with a metallic alloy called 'Transformium' without affecting the dinosaurs?""",no,yes
+"[""Does Darcy Tirrel use Transformium to build houses in the movie 'Transformers Age of Extinction 2014'?""]",no,no
+"[""In the movie 'Transformers Age of Extinction 2014', does Geologist Darcy Tirrel excavate Transformium for K.S.I. Industries to build Transformer drones?""]",yes,yes
+"""In the movie 'Transformers Age of Extinction 2014', did the alien race known as the 'Creators' use devices called Apples instead of Seeds?""",no,yes
+"""In the plot of 'Transformers Age of Extinction 2014', does an alien race known as the 'Creators' use devices called Seeds?""",yes,yes
+"[""Does the movie 'Transformers Age of Extinction 2014' portray Transformers as friendly allies after the Battle of Chicago?""]",no,yes
+"[""In the movie 'Transformers Age of Extinction 2014', do humans view Transformers as hostile after the Battle of Chicago?""]",yes,yes
+"[""Does the public believe that the autobots were not granted sanctuary in the movie 'Transformers Age of Extinction 2014'?""]",no,yes
+"[""In the plot of the movie 'Transformers Age of Extinction 2014', does the public believe that the autobots were granted sanctuary?""]",yes,yes
+"[""Is Cemetery Wind a rogue CIA black ops division in the movie 'Transformers Age of Extinction 2014'?""]",yes,no
+"[""In the movie 'Transformers Age of Extinction 2014', is Cemetery Wind led by a friendly intelligence operative named Harold Attinger?""]",no,no
+"[""Is Lockdown a human character in the movie 'Transformers Age of Extinction 2014'?""]",no,yes
+"[""In the movie 'Transformers Age of Extinction 2014', is Lockdown a Cybertronian assassin and bounty hunter?""]",yes,yes
+"Did the authorities alert James in the movie ""Transformers Age of Extinction 2014""?",no,yes
+"Does James alert the authorities in the plot of the movie ""Transformers Age of Extinction 2014""?",yes,yes
+"[""Does Optimus from 'Transformers Age of Extinction 2014' manage to escape the authorities without any help?""]",no,no
+"[""In the movie 'Transformers Age of Extinction 2014', does Optimus get rescued by Shane Dyson during the pursuit?""]",yes,yes
+"""In the movie 'Transformers Age of Extinction 2014', does Tessa's secret boyfriend, Stefan, betray Optimus during the pursuit against Attinger's field commanding operative?""",no,yes
+"""In the movie 'Transformers Age of Extinction 2014', does Tessa's secret boyfriend, Stefan, assist Optimus during the pursuit against Attinger's field commanding operative?""",yes,yes
+"[""Did Galvatron remain under control during the battle with Optimus in the movie 'Transformers Age of Extinction 2014'?""]",no,no
+"[""Did Galvatron battle Optimus in the movie 'Transformers Age of Extinction 2014'?""]",yes,no
+"[""Is Joshua Joyce against Attinger in the movie 'Transformers  Age of Extinction 2014'?""]",no,yes
+"[""Does Joshua Joyce collaborate with Attinger to use the Seed for global defense and societal improvement in 'Transformers  Age of Extinction 2014'?""]",yes,no
+"""In the movie 'Transformers Age of Extinction 2014', is Brains being held by K.S.I. in New York?""",no,yes
+"""Does the movie 'Transformers Age of Extinction 2014' depict the character Brains being captured and used by K.S.I.'s headquarters in Chicago?""",yes,yes
+"[""Is Megatron's head in 'Transformers Age of Extinction 2014' being used by an organization other than K.S.I.?""]",no,yes
+"[""In the movie 'Transformers Age of Extinction 2014', is Megatron's head captured and used by K.S.I.'s headquarters in Chicago?""]",yes,yes
+"[""Does the movie 'Transformers Age of Extinction 2014' depict Galvatron and Stinger as human characters?""]",no,yes
+"[""In the movie 'Transformers Age of Extinction 2014', were the prototype Transformer soldiers, Galvatron and Stinger, created by Joshua Joyce using the captured Brains and Megatron's head?""]",yes,yes
+"[""In the movie 'Transformers Age of Extinction 2014', does James Savoy, Attinger's field commanding operative, assist the authorities by protecting the Yeager farm?""]",no,yes
+"[""In the plot of 'Transformers Age of Extinction 2014', does James Savoy attack the Yeager farm and alert the authorities?""]",yes,no
+"""In the plot of 'Transformers Age of Extinction 2014', does Lockdown rescue Optimus during the battle?""",no,no
+"""In the movie 'Transformers Age of Extinction 2014', does Lockdown abduct Optimus during a battle?""",yes,yes
+"""In the movie 'Transformers Age of Extinction 2014', does Optimus get defeated by Lockdown?""",no,no
+"""In the movie 'Transformers Age of Extinction 2014', does Optimus defeat Lockdown and use his grenades to destroy the remaining drones?""",yes,yes
+"Did Galvatron win the one-on-one battle against Optimus in the movie ""Transformers Age of Extinction 2014""?",no,no
+"Does Galvatron retreat after being defeated by Optimus in a one-on-one battle during the lockdown in the movie ""Transformers Age of Extinction 2014""?",yes,no
+"""In the movie 'Transformers Age of Extinction 2014', did the Yeagers refuse to help the Autobots build a new home?""",no,yes
+"""In the plot of 'Transformers Age of Extinction 2014', does Optimus ask the Autobots to protect the Yeagers after they offer their help in building a new home for the Autobots following the lockdown?""",yes,yes
+"Did Joshua refuse to help the Autobots build a new home in the movie ""Transformers Age of Extinction 2014""?",no,no
+"In the movie ""Transformers Age of Extinction 2014"", did Joshua offer to help the Autobots and send a message to the Creators during the lockdown?",yes,yes
+,,0.5476190476190477

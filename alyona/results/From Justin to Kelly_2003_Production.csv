@@ -1,0 +1,15 @@
+Question,Answer,generated_answer
+"""Was the movie 'From Justin to Kelly' released in 2005, after a lengthy production process?""",no,yes
+"""Does the production process of the movie 'From Justin to Kelly', released in 2003, include actor readings, script revisions, and rehearsals for dances and singing?""",yes,yes
+"""Did R. J. Helton appear in the final cut of the 2003 movie 'From Justin to Kelly'?""",no,yes
+"""Was R. J. Helton related to the production process of the 2003 movie 'From Justin to Kelly' despite not appearing in the final cut?""",yes,yes
+"""Did Christina Christian appear in the final cut of the movie 'From Justin to Kelly' released in 2003?""",no,yes
+"""Was Christina Christian related to the production process of the movie 'From Justin to Kelly' released in 2003?""",yes,yes
+"""Did the movie 'From Justin to Kelly' released in 2003 bypass the actor readings process during its production?""",no,yes
+"""Is it correct to say that actor readings were part of the production process for the movie 'From Justin to Kelly' released in 2003?""",yes,yes
+"""Did the movie 'From Justin to Kelly' released in 2003 not undergo any script revisions during the three weeks allocated for actor readings?""",no,yes
+"""Were script revisions a part of the production process for the movie 'From Justin to Kelly' released in 2003?""",yes,yes
+"""Did the movie 'From Justin to Kelly' skip rehearsals before the commencement of the shooting schedule in 2003?""",no,yes
+"""Was the production process of the movie 'From Justin to Kelly' in 2003, involved rehearsals for dances and singing?""",yes,yes
+"[""Was the shooting schedule for the movie 'From Justin to Kelly' released in 2003 longer than six weeks?""]",no,yes
+"[""Is the shooting schedule part of the production process for the movie 'From Justin to Kelly' released in 2003?""]",yes,yes

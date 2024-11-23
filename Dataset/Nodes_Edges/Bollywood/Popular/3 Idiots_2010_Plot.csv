@@ -1,0 +1,29 @@
+node_1,node_2,edge,chunk_id,count
+chatur ramalingam,farhan qureshi,College rivalry between Chatur and Farhan,92330b7bd99c4e2d9657c0c03581b640,4
+chatur ramalingam,raju rastogi,College rivalry between Chatur and Raju,92330b7bd99c4e2d9657c0c03581b640,4
+chatur ramalingam,rancho,"Competition between Chatur and Rancho, initiated by a bet made in college",92330b7bd99c4e2d9657c0c03581b640,4
+rancho,joy lobo,Assistance provided by Rancho to Joy in college,92330b7bd99c4e2d9657c0c03581b640,4
+rancho,virus,Conflict between Rancho and Virus due to intense pressure on students at ICE,92330b7bd99c4e2d9657c0c03581b640,4
+rancho,pia,Like developed by Pia towards Rancho after he exposes her materialistic fiancé Suhas,92330b7bd99c4e2d9657c0c03581b640,4
+farhan qureshi,raju rastogi,"Friendship between Farhan and Raju, established in college",92330b7bd99c4e2d9657c0c03581b640,4
+pia,suhas,"Relationship between Pia and Suhas, broken by Rancho's intervention",92330b7bd99c4e2d9657c0c03581b640,4
+chatur ramalingam,phunsukh wangdu,Conclusion of a business deal between Chatur and Phunsukh,92330b7bd99c4e2d9657c0c03581b640,4
+raju,heart attack,Raju's father has a heart attack before their final exams in the given context.,3f26609f54f641d6b6831d1c843d8be7,4
+virus,expulsion,Virus revokes Raju's expulsion after he survives and is paralyzed for months following his suicide attempt.,3f26609f54f641d6b6831d1c843d8be7,4
+raju,job,Raju succeeds in the interview and gets a job in the given context.,3f26609f54f641d6b6831d1c843d8be7,4
+virus,expulsion,"Virus expels Rancho, Farhan, and Raju for breaking into his house and urinating on his letterbox.",3f26609f54f641d6b6831d1c843d8be7,4
+raju,confidence,Raju lacks confidence according to Rancho in the given context.,3f26609f54f641d6b6831d1c843d8be7,4
+farhan,engineering,Farhan's passion is not engineering but photography according to Rancho in the given context.,3f26609f54f641d6b6831d1c843d8be7,4
+pia,help,"Rancho, Farhan, and Pia help save Raju's father when he has a heart attack before their final exams in the given context.",3f26609f54f641d6b6831d1c843d8be7,4
+farhan,photography,Farhan convinces his father to let him become a photographer in the given context.,3f26609f54f641d6b6831d1c843d8be7,4
+raju,expulsion,Virus threatens to expel Raju unless he betrays Rancho in the given context.,3f26609f54f641d6b6831d1c843d8be7,4
+rancho,feelings,Rancho confesses his feelings for Pia according to their friends Farhan and Raju in the given context.,3f26609f54f641d6b6831d1c843d8be7,4
+raju,paralysis,Raju is paralyzed and near catatonic for months following his suicide attempt in the given context.,3f26609f54f641d6b6831d1c843d8be7,4
+virus,difficult exam,Virus sets a difficult exam to fail Raju so he cannot claim the job according to the given context.,3f26609f54f641d6b6831d1c843d8be7,4
+rancho,friends,Rancho's friends Farhan and Raju promise to confront their issues in the given context.,3f26609f54f641d6b6831d1c843d8be7,4
+rancho,phunsukh wangdu,Rancho and Phunsukh Wangdu are revealed to be the same person in Ladakh.,d835b984e61d4b92a91d70897eb6f71c,4
+pia,mona,"Pia confronts her older sister, Mona, about her brother's suicide and his desire to pursue writing instead of engineering due to their father's pressure.",d835b984e61d4b92a91d70897eb6f71c,4
+virus,rancho,"Virus forgives Rancho and passes down his space pen as a mark of honor after he reveals that Mona successfully delivered a baby on a stormy night with the help of Farhan, Raju, and Virus's gardeners' son, Chhote, who took Rancho's place to get an education and earn a degree for him.",d835b984e61d4b92a91d70897eb6f71c,4
+rancho,chhote,The real Rancho tells the friends that Chhote took his place to get an education and earn a degree for him.,d835b984e61d4b92a91d70897eb6f71c,4
+farhan,raju,"Farhan, Raju, and Chatur reach Shimla and find out that the real Rancho was a different man. Their friend was actually Chhote, the son of Rancho’s family's gardener.",d835b984e61d4b92a91d70897eb6f71c,4
+chatur,rancho,"Chatur mocks Rancho, thinking he is merely a teacher, but is shocked to realize that he is actually Phunsukh Wangdu, the person he is eager to make a business deal with.",d835b984e61d4b92a91d70897eb6f71c,4

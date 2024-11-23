@@ -1,0 +1,33 @@
+node_1,node_2,edge,chunk_id,count
+oil deposit,little boston,Daniel Plainview discovers oil in Little Boston.,cc0365d1d83b49ce87acfec0b9a30097,4
+daniel plainview,h.w.,"Daniel adopts H.W., an orphaned son, and makes him his partner.",cc0365d1d83b49ce87acfec0b9a30097,4
+daniel plainview,little boston,Daniel visits the Sundays' property in Little Boston to investigate an oil deposit.,cc0365d1d83b49ce87acfec0b9a30097,4
+paul sunday,eli sunday,Paul Sunday and his identical twin brother Eli are both approached by Daniel Plainview regarding an oil deposit on their property.,cc0365d1d83b49ce87acfec0b9a30097,4
+daniel plainview,eli sunday,"Daniel attempts to purchase the Sundays' property at a bargain price, but his motives are questioned by Eli, who knows the land has oil.",cc0365d1d83b49ce87acfec0b9a30097,4
+daniel plainview,church,"In exchange for the property, Daniel demands $10,000 from Eli for his church.",cc0365d1d83b49ce87acfec0b9a30097,4
+daniel plainview,william bandy,"Daniel acquires all the available land in and around the Sunday property, save for one holdout, William Bandy.",cc0365d1d83b49ce87acfec0b9a30097,4
+eli sunday,dinner table,"At the dinner table, Eli publicly demands the money still owed to him by Daniel Plainview.",cc0365d1d83b49ce87acfec0b9a30097,4
+daniel plainview,eli sunday,"After Daniel reneges on an agreement to let Eli bless the well before drilling begins, a series of misfortunes occur: an accident kills one worker and a gas blowout deafens H.W. And destroys the drilling infrastructure.",cc0365d1d83b49ce87acfec0b9a30097,4
+daniel plainview,eli sunday,"When Eli publicly demands the money still owed to him, Daniel beats him.",cc0365d1d83b49ce87acfec0b9a30097,4
+eli sunday,father,"At the dinner table that night, Eli attacks and berates his father for having trusted Daniel Plainview.",cc0365d1d83b49ce87acfec0b9a30097,4
+daniel,money still owed,Daniel has not yet paid back the amount he is indebted to.,fe9779a2ce884a82ab781581fcf8a9e8,4
+daniel,eli,"Eli attacks and berates Daniel for having trusted Daniel's enemy, which causes conflict between them.",fe9779a2ce884a82ab781581fcf8a9e8,4
+henry,daniel,Daniel becomes suspicious of Henry after he fails to recognize a joke and confronts him one night at gunpoint.,fe9779a2ce884a82ab781581fcf8a9e8,4
+henry (imposter),real henry,"The impostor claims to be the real Henry, who died of tuberculosis, and confesses that he had impersonated Henry in the hope that Daniel could give him a job.",fe9779a2ce884a82ab781581fcf8a9e8,4
+daniel,pipeline,"Standard Oil offers to buy out Daniel's local interests, but Daniel refuses and instead strikes a deal with Union Oil to build a pipeline.",fe9779a2ce884a82ab781581fcf8a9e8,4
+bandy,daniel,Bandy remains an impediment for Daniel's plan as he refuses to let the pipeline run across his ranch.,fe9779a2ce884a82ab781581fcf8a9e8,4
+eli,daniel,Eli coerces Daniel into confessing that he abandoned his child during his baptism in Eli's church as a condition for an easement to run the pipeline across Bandy's ranch.,fe9779a2ce884a82ab781581fcf8a9e8,4
+h.w.,daniel,H.W. asks his father Daniel to dissolve their partnership so that he can move to Mexico with his wife Paul.,fe9779a2ce884a82ab781581fcf8a9e8,4
+eli's sister mary,h.w.,"H.W. marries Mary, Eli's sister.",fe9779a2ce884a82ab781581fcf8a9e8,4
+daniel,alcoholism,Daniel becomes an alcoholic due to the financial and emotional stress he faces.,fe9779a2ce884a82ab781581fcf8a9e8,4
+wealthy but an alcoholic,daniel,Daniel is a wealthy but an alcoholic person.,1f349ddee96d46a28fcf9efd1cca579a,4
+lives alone in a large mansion,daniel,Daniel lives alone in a large mansion.,1f349ddee96d46a28fcf9efd1cca579a,4
+h.w.,daniel,Daniel is the father of H.W.,1f349ddee96d46a28fcf9efd1cca579a,4
+mary,h.w.,Mary is the person that H.W. wants to move to Mexico with.,1f349ddee96d46a28fcf9efd1cca579a,4
+great depression,little boston,Little Boston suffers from the Great Depression.,1f349ddee96d46a28fcf9efd1cca579a,4
+bandy's property,daniel,Daniel drained Bandy's property of oil by capture.,1f349ddee96d46a28fcf9efd1cca579a,4
+eli,h.w.,Eli visits a drunken Daniel in the bowling alley of his mansion.,1f349ddee96d46a28fcf9efd1cca579a,4
+radio preacher,eli,Eli is now a radio preacher.,1f349ddee96d46a28fcf9efd1cca579a,4
+daniel,eli,Daniel partners with Eli in drilling Bandy's property on the condition that Eli denounce his faith.,1f349ddee96d46a28fcf9efd1cca579a,4
+butler,daniel,Daniel's butler appears to ask about the commotion in the bowling alley of his mansion.,1f349ddee96d46a28fcf9efd1cca579a,4
+daniel,eli,"After Daniel chases Eli around the alley and bludgeons him to death with a bowling pin, Daniel announces, ""I'm finished""",1f349ddee96d46a28fcf9efd1cca579a,4

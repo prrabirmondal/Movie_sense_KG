@@ -1,0 +1,27 @@
+node_1,node_2,edge,chunk_id,count
+chatur ramalingam,farhan qureshi,classmate and college rival in the past,df0459544dff46d3a68bfc31b22deb49,4
+chatur ramalingam,raju rastogi,classmate and college rival in the past,df0459544dff46d3a68bfc31b22deb49,4
+chatur ramalingam,rancho,nemesis from extracted ontology,df0459544dff46d3a68bfc31b22deb49,4
+rancho,joy lobo,classmate who committed suicide by hanging,df0459544dff46d3a68bfc31b22deb49,4
+rancho,virus,passionate about learning and clashed with the strict college president Dr. Viru Sahastrabuddhe,df0459544dff46d3a68bfc31b22deb49,4
+virus,mona,father of Mona,df0459544dff46d3a68bfc31b22deb49,4
+pia,rancho,initial upset but starts liking him after he exposes her materialistic fiancé Suhas,df0459544dff46d3a68bfc31b22deb49,4
+raju,father,Raju's father has a heart attack before their final exams.,ed432b5230554449b11893d0986a928e,4
+raju,virus,Virus bets that neither Farhan nor Raju will get a job after graduation.,ed432b5230554449b11893d0986a928e,4
+farhan,raju,Farhan and Raju promise to confront their issues if Rancho confesses his feelings for Pia.,ed432b5230554449b11893d0986a928e,4
+raju,paralysis,Raju attempts suicide but survives and is paralyzed and near catatonic for months.,ed432b5230554449b11893d0986a928e,4
+virus,expulsion,Virus revokes the expulsion after Raju is paralyzed and near catatonic for months.,ed432b5230554449b11893d0986a928e,4
+raju,job,Raju succeeds in the interview and gets a job.,ed432b5230554449b11893d0986a928e,4
+farhan,father,Farhan's father lets him become a photographer after he convinces him.,ed432b5230554449b11893d0986a928e,4
+raju,expulsion,Virus sets an difficult exam to fail Raju so he cannot claim the job after Raju succeeds in the interview and gets a job.,ed432b5230554449b11893d0986a928e,4
+raju,cheating,Raju refuses to cheat and throws away the exam paper even after they steal the exam paper with Pia's help.,ed432b5230554449b11893d0986a928e,4
+farhan,photography,"Farhan's passion is photography, not engineering.",ed432b5230554449b11893d0986a928e,4
+rancho,phunsukh wangdu,Revealed to be the same person in Ladakh,353c98fe736d429daf9b22c551392de6,4
+chhote,rancho's family's gardener,Took Rancho's place to get an education and earn a degree for him,353c98fe736d429daf9b22c551392de6,4
+pia,mona,Older sister relationship revealed by Pia,353c98fe736d429daf9b22c551392de6,4
+mona,rancho's father,"Pressured son to become an engineer, leading to suicide",353c98fe736d429daf9b22c551392de6,4
+rancho,engineer,Became due to father's pressure,353c98fe736d429daf9b22c551392de6,4
+rancho,writer,Actually wanted to pursue this dream instead of becoming an engineer,353c98fe736d429daf9b22c551392de6,4
+virus,"farhan, raju, and rancho","Expelled trio, but forgave them due to their help during Mona's childbirth",353c98fe736d429daf9b22c551392de6,4
+mona,baby,"Successfully delivered with help from Farhan, Raju, and Virus",353c98fe736d429daf9b22c551392de6,4
+farhan,raju,Two friends on the quest to find real Rancho,353c98fe736d429daf9b22c551392de6,4

@@ -1,0 +1,33 @@
+node_1,node_2,edge,chunk_id,count
+riddler,batman,"serial killer Riddler leaves messages for Batman at crime scenes, indicating a connection between the two.",f5db3788bb804dd9a4393105fcde3602,4
+don mitchell jr.,riddler,"Riddler murders mayor Don Mitchell Jr., suggesting a possible motive or reason for targeting him.",f5db3788bb804dd9a4393105fcde3602,4
+annika kosolov,riddler,"Riddler leaves images of Don Mitchell Jr.'s affair with Annika at the crime scene, revealing a possible connection between her and the killer.",f5db3788bb804dd9a4393105fcde3602,4
+annika kosolov,bruce wayne (batman),"Bruce Wayne discovers that Riddler left images of Annika's affair at the crime scene, potentially linking her to Batman as well.",f5db3788bb804dd9a4393105fcde3602,4
+selina kyle,annika kosolov,"Selina Kyle works at the Iceberg Lounge where Annika is a roommate, suggesting a possible relationship between them.",f5db3788bb804dd9a4393105fcde3602,4
+oswald 'the penguin' cobb,annika kosolov,"Annika works at the Iceberg Lounge owned by The Penguin, suggesting a possible connection between them.",f5db3788bb804dd9a4393105fcde3602,4
+carmine falcone,oswald 'the penguin' cobb,"Oswald 'The Penguin' Cobb is the lieutenant of Carmine Falcone, suggesting a possible involvement in Annika's disappearance and the Riddler's murders.",f5db3788bb804dd9a4393105fcde3602,4
+gil colson,riddler,"Riddler abducts Gil Colson, indicating a possible motive or reason for targeting him.",f5db3788bb804dd9a4393105fcde3602,4
+carmine falcone,gil colson,"Gil Colson is on Carmine Falcone's payroll, suggesting a possible involvement in Annika's disappearance and the Riddler's murders.",f5db3788bb804dd9a4393105fcde3602,4
+don mitchell jr.,carmine falcone,"Don Mitchell Jr. Is on Carmine Falcone's payroll, suggesting a possible involvement in Annika's disappearance and the Riddler's murders.",f5db3788bb804dd9a4393105fcde3602,4
+pete savage,riddler,"Riddler kills Pete Savage, suggesting a possible motive or reason for targeting him.",f5db3788bb804dd9a4393105fcde3602,4
+bomb,colson,Colson is threatened with a bomb if he cannot answer three riddles.,ed7a19d33ceb4697875b79b1218f7534,4
+colson,third riddle,The third riddle that Colson is asked to answer.,ed7a19d33ceb4697875b79b1218f7534,4
+colson,informant,Colson refuses to reveal the identity of the informant who provided information leading to a historic drug bust ending mob boss Salvatore Maroni's operation.,ed7a19d33ceb4697875b79b1218f7534,4
+penguin,informant,Batman and Gordon deduce that the informant may be the Penguin.,ed7a19d33ceb4697875b79b1218f7534,4
+drug deal,penguin,Batman and Gordon track the Penguin to a drug deal.,ed7a19d33ceb4697875b79b1218f7534,4
+falcone,maroni's operation,Batman and Gordon discover that Maroni's operation was transferred to Falcone.,ed7a19d33ceb4697875b79b1218f7534,4
+many corrupt officers,falcone,Many corrupt officers were involved in Falcone's operation.,ed7a19d33ceb4697875b79b1218f7534,4
+selina,annika's corpse,Selina inadvertently exposes the presence of Annika's corpse in the trunk of a car.,ed7a19d33ceb4697875b79b1218f7534,4
+riddler,informant,Batman and Gordon follow the Riddler's trail to discover that he holds a grudge against the Wayne family for failing an orphanage initially funded by Bruce's parents.,ed7a19d33ceb4697875b79b1218f7534,4
+alfred pennyworth,letter bomb,Alfred Pennyworth is hospitalized after opening a letter bomb addressed to Bruce Wayne.,ed7a19d33ceb4697875b79b1218f7534,4
+thomas wayne,journalist,Bruce's father Thomas hires Falcone to threaten a journalist who was writing a story about Martha's family history of mental illness.,ed7a19d33ceb4697875b79b1218f7534,4
+falcone,journalist,Falcone murders the journalist instead of threatening him as Thomas had asked.,ed7a19d33ceb4697875b79b1218f7534,4
+falcone,annika,Falcone killed Annika for discovering that he was the informant.,0cc33415b5c54dd290f5aff301f646f3,4
+selina,falcone,Selina reveals to Batman that Falcone is her father.,0cc33415b5c54dd290f5aff301f646f3,4
+alfred,falcone,Alfred believes that Falcone had Thomas and Martha killed to silence them.,0cc33415b5c54dd290f5aff301f646f3,4
+riddler,falcone,"The Riddler, aka Edward Nashton, was inspired by Batman when targeting Falcone and turned him over to the police.",0cc33415b5c54dd290f5aff301f646f3,4
+nashton,batman,"The Riddler, aka Edward Nashton, was inspired by Batman when targeting Falcone and took inspiration from him when targeting the corrupt.",0cc33415b5c54dd290f5aff301f646f3,4
+nashton,car bombs,Nashton planted car bombs around Gotham as part of his plot to assassinate mayor-elect Bella Reál.,0cc33415b5c54dd290f5aff301f646f3,4
+reál,nashton's followers,"Nashton's followers attempted to kill mayor-elect Bella Reál, but Batman and Selina stopped them.",0cc33415b5c54dd290f5aff301f646f3,4
+batman,recovery efforts,"In the aftermath of Nashton's plot, Batman aided recovery efforts in Gotham and vowed to inspire hope.",0cc33415b5c54dd290f5aff301f646f3,4
+selina,gotham,Selina deems Gotham beyond saving and leaves.,0cc33415b5c54dd290f5aff301f646f3,4

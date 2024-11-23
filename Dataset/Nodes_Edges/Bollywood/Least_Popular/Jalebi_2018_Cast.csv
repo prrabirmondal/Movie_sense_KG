@@ -1,0 +1,17 @@
+node_1,node_2,edge,chunk_id,count
+dev mathur,aisha pradhan,Ex-husband and wife relationship,4e54a59a63d3421ca4665832de227bfa,4
+anu mathur,dev mathur,Husband and wife relationship,4e54a59a63d3421ca4665832de227bfa,4
+disha 'pulti' mathur,dev mathur,Adoptive father and daughter relationship,4e54a59a63d3421ca4665832de227bfa,4
+renu mathur,dev mathur,Sibling relationship,4e54a59a63d3421ca4665832de227bfa,4
+kamla mathur,dev mathur,Mother and son relationship,4e54a59a63d3421ca4665832de227bfa,4
+aisha pradhan,mr. pradhan,Daughter and father relationship,4e54a59a63d3421ca4665832de227bfa,4
+priya yadav,aisha pradhan,Friend relationship,4e54a59a63d3421ca4665832de227bfa,4
+sonali sudan,mrs. singh,Unknown relationship,4e54a59a63d3421ca4665832de227bfa,4
+jashn kohli,sunny singh,Unknown relationship,4e54a59a63d3421ca4665832de227bfa,4
+shabnam kapoor,mrs. singh's mother,Grandparent and grandchild relationship,4e54a59a63d3421ca4665832de227bfa,4
+farida dadi,old passenger in train,Co-passenger relationship,4e54a59a63d3421ca4665832de227bfa,4
+yusuf hussain,old passenger in train,Co-passenger relationship,4e54a59a63d3421ca4665832de227bfa,4
+arjun kanungo,himself,Actor playing role relationship,4e54a59a63d3421ca4665832de227bfa,4
+sanchay goswami,arjun's friend,Friend relationship,4e54a59a63d3421ca4665832de227bfa,4
+chayan trivedi,t.t.e,Employee and employer relationship,4e54a59a63d3421ca4665832de227bfa,4
+abhishek khanna,"j.p. mishra, coach attendant",Employee and employer relationship,4e54a59a63d3421ca4665832de227bfa,4

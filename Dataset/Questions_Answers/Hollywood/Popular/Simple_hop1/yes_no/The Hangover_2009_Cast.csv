@@ -1,0 +1,11 @@
+Question,Answer
+"""Did Sondra Currie portray a character named Linda in the 2009 movie 'The Hangover'?""",yes
+"""Was Sondra Currie's character in the 2009 movie 'The Hangover' named Sarah?""",no
+"[""In the 2009 movie 'The Hangover', is Tracy not related to Alan's mother?""]",no
+"[""In the context of the movie 'The Hangover' released in 2009, does Tracy have a mother who is also mentioned as Alan's mother, implying they might be related to each other?""]",yes
+"""Did Gillian Vigman play the character of Stephanie in the 2009 movie 'The Hangover'?""",yes
+"""In the 2009 movie 'The Hangover', was Stephanie portrayed by an actor other than Gillian Vigman?""",no
+"""In the 2009 movie 'The Hangover', was Nathalie Fay not a part of the cast and did not play the character Mr. Creepy?""",no
+"""In 'The Hangover' released in 2009, was the character Mr. Creepy, played by Nathalie Fay, directed by Lisa Todd Phillips?""",yes
+"[""Did Mike Vallely play the character of a high-speed tuxedo delivery man named Neeco in the 2009 movie, The Hangover?""]",yes
+"[""In the movie The Hangover released in 2009, was Mike Vallely's character named Neeco, a school teacher?""]",no

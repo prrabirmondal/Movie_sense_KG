@@ -1,0 +1,27 @@
+node_1,node_2,edge,chunk_id,count
+sivaji rao,balraj chauhan,"antagonistic relationship; Sivaji exposes Chauhan's indifferent stand towards riots and challenges him to experience his job, leading to a power struggle where Sivaji temporarily takes over as CM.",57f0f0c9a22743b1881e020dfbad2956,4
+sivaji rao,topi,"friendship; both work together for QTV and Topi records Sivaji saving a college student's life during riots, leading to his promotion.",57f0f0c9a22743b1881e020dfbad2956,4
+sivaji rao,bansal,collaboration; Bansal assists Sivaji in taking over as CM and handling the administrative duties of Maharashtra.,57f0f0c9a22743b1881e020dfbad2956,4
+balraj chauhan,maharashtra legislative assembly,authority; Chauhan is the Chief Minister of Maharashtra and an ordinance is passed in the legislative assembly to allow Sivaji to temporarily take over his job.,57f0f0c9a22743b1881e020dfbad2956,4
+qtv,sivaji rao,employment; Sivaji works as a television cameraman for QTV and is later promoted to a senior presenter.,57f0f0c9a22743b1881e020dfbad2956,4
+sivaji,chauhan,conflict and rivalry due to Chauhan's corruption and Sivaji's efforts to combat it,a71afced1e774596ab64e883e9a02e75,4
+sivaji,bansal,assistance in handling government issues and preparing for the Civil Services Examination,a71afced1e774596ab64e883e9a02e75,4
+manjari,sivaji,"romantic relationship between Sivaji and Manjari, initially hindered by societal norms",a71afced1e774596ab64e883e9a02e75,4
+manjari's father,sivaji,opposition to their relationship due to Sivaji's lack of government employment at the time,a71afced1e774596ab64e883e9a02e75,4
+sivaji,people,"popularity and support from the people, leading to his election as Chief Minister",a71afced1e774596ab64e883e9a02e75,4
+sivaji,chauhan,"political rivalry leading to attempts on Sivaji's life and defamation, ultimately resulting in Chauhan being exposed for a failed assassination attempt.",0132c54c83e342fd9ef6e90971ef1b3c,4
+sivaji,manjari's father,disapproval of Sivaji's decision regarding Manjari's marriage due to fear for his daughter's safety.,0132c54c83e342fd9ef6e90971ef1b3c,4
+sivaji,manjari,romantic relationship that was initially opposed by Manjari's father but eventually accepted and celebrated.,0132c54c83e342fd9ef6e90971ef1b3c,4
+chauhan,sivaji,continuous threats to Sivaji's life and public image due to political rivalry.,0132c54c83e342fd9ef6e90971ef1b3c,4
+pandurang,chauhan,hired by Chauhan to carry out assassination attempts on Sivaji but eventually arrested.,0132c54c83e342fd9ef6e90971ef1b3c,4
+pandurang,bombs,tasked with causing bomb explosions in various parts of the city at Chauhan's behest.,0132c54c83e342fd9ef6e90971ef1b3c,4
+sivaji,complaint box,"created by Sivaji to collect letters from the public about their complaints, which leads to the discovery of a bomb plot.",0132c54c83e342fd9ef6e90971ef1b3c,4
+priest,bomb plot,overhears plans for bomb explosions and notifies Sivaji's office via the complaint box.,0132c54c83e342fd9ef6e90971ef1b3c,4
+sivaji,four bombs,"defused by a squad, except for one that explodes harmlessly before they could reach it.",0132c54c83e342fd9ef6e90971ef1b3c,4
+sivaji,assassin,The context states that there was a plan to assassinate Sivaji but failed. This indicates a relationship between Sivaji and the Assassin.,b321998de20446f48cb2acbabd09ab82,4
+sivaji,gun,"Sivaji takes up a gun, points it to his arm, shoots himself on purpose, and then hands over the gun to Chauhan. This shows that Sivaji has a direct relation with Gun.",b321998de20446f48cb2acbabd09ab82,4
+chauhan,gun,"Chauhan attempts to shoot Sivaji, but his shot misses. This indicates the relationship between Chauhan and Gun.",b321998de20446f48cb2acbabd09ab82,4
+security guards,chauhan,The security guards gun down Chauhan and kill him. This shows that there is a relation between Security guards and Chauhan.,b321998de20446f48cb2acbabd09ab82,4
+sivaji,politician,"At the end of the context, it is mentioned that everybody made Sivaji a politician also. This shows the relationship between Sivaji and Politician.",b321998de20446f48cb2acbabd09ab82,4
+bansal,politician,"In the context, Bansal calms Sivaji by saying Chauhan deserved what he wanted most from him. This indicates a relationship between Politician (Sivaji) and Bansal.",b321998de20446f48cb2acbabd09ab82,4
+manjari's father,great man,The context mentions that Manjari's father comes to realize that Sivaji is a great man who sees duty before everything else. This shows the relationship between Manjari's father and Great man.,b321998de20446f48cb2acbabd09ab82,4

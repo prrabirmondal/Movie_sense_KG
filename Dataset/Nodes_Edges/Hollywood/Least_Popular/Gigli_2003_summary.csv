@@ -1,0 +1,57 @@
+node_1,node_2,edge,chunk_id,count
+movies,details,MOVIES and DETAILS are related in this context as the text mentions 'HERE IS THE DETAILS OF MOVIE'S SUMMARY',0186690be3c3438487029c2d38c56542,4
+gigli,low-ranking los angeles mobster,is,1121c87d22a445c896268cdfd6343fa7,4
+los angeles,location where gigli is a low-ranking mobster,is associated with,1121c87d22a445c896268cdfd6343fa7,4
+gigli,mobster who is not nearly as tough as he likes to act,describes,1121c87d22a445c896268cdfd6343fa7,4
+louis,higher-ranking member of gigli's organization,is,1121c87d22a445c896268cdfd6343fa7,4
+gigli,person who is commanded by louis to kidnap brian,is ordered by,1121c87d22a445c896268cdfd6343fa7,4
+brian,mentally challenged younger brother of a powerful federal prosecutor,is related to,1121c87d22a445c896268cdfd6343fa7,4
+federal prosecutor,powerful person whose mentally challenged younger brother is kidnapped by gigli,has a relation with,1121c87d22a445c896268cdfd6343fa7,4
+starkman,new york-based mob boss,is,1121c87d22a445c896268cdfd6343fa7,4
+louis,person who commands gigli to kidnap brian as a bargaining chip to save starkman from prison,orders,1121c87d22a445c896268cdfd6343fa7,4
+ricki,woman calling herself ricki who is hired by louis to take charge of the kidnapping operation,is employed by,1121c87d22a445c896268cdfd6343fa7,4
+gigli,person who is attracted to ricki but resents both louis' lack of faith in him and having to take orders from a woman,has feelings for,1121c87d22a445c896268cdfd6343fa7,4
+baywatch,television show which seems to be brian's singular obsession,is associated with,1121c87d22a445c896268cdfd6343fa7,4
+gigli,ricki,Gigli is attracted to Ricki,94a0a6cf7f6a49a483dd4956f8b8302b,4
+gigli,louis,Gigli resents Louis' lack of faith in him,94a0a6cf7f6a49a483dd4956f8b8302b,4
+ricki,louis,"Ricki is a woman, and Gigli resents both Louis' lack of faith in him and having to take orders from her",94a0a6cf7f6a49a483dd4956f8b8302b,4
+brian,gigli,Gigli is frustrated by Brian's insistence on going to 'the Baywatch',94a0a6cf7f6a49a483dd4956f8b8302b,4
+ricki,brian,"Ricki is a lesbian, and Gigli is also frustrated by this",94a0a6cf7f6a49a483dd4956f8b8302b,4
+gigli,ricki,"At a hospital, Gigli sneaks into the morgue and cuts off a corpse's thumb, which he sends to the prosecutor as Brian's",94a0a6cf7f6a49a483dd4956f8b8302b,4
+gigli,ricki,"At Gigli's apartment, Gigli confesses his love and they sleep together",94a0a6cf7f6a49a483dd4956f8b8302b,4
+starkman,gigli,Starkman kills Louis in retaliation for the kidnapping and associated scrutiny by law enforcement,94a0a6cf7f6a49a483dd4956f8b8302b,4
+ricki,starkman,She talks him out of killing her,94a0a6cf7f6a49a483dd4956f8b8302b,4
+brian,gigli,They decide to leave the mob and discuss taking Brian back to where they found him,94a0a6cf7f6a49a483dd4956f8b8302b,4
+brian,the beach,Brian begs to be let off there,94a0a6cf7f6a49a483dd4956f8b8302b,4
+gigli,ricki,"Finally, they consent",94a0a6cf7f6a49a483dd4956f8b8302b,4
+gigli,studio,extensive disagreements between the studio and myself got to the point where post-production was shut down for eight months while we battled it out.,3925cba02b8b41ddb426a97e8cf5f48e,4
+martin brest,studio,extensive disagreements between the studio and myself got to the point where post-production was shut down for eight months while we battled it out.,3925cba02b8b41ddb426a97e8cf5f48e,4
+gigli,ending,original ending featured Gigli being killed,3925cba02b8b41ddb426a97e8cf5f48e,4
+gigli,ending,"negative response to a test screening, the ending was re-shot and re-edited",3925cba02b8b41ddb426a97e8cf5f48e,4
+gigli,major part in sony pictures losing $42 million in the quarter of its release,The negative response to the film Gigli led to Sony Pictures experiencing significant financial losses.,8d9f39f577f14080a66a62bd9f0a9b37,4
+gigli,shortest circulation times for a big-budget film,"After a short time in release, the film Gigli was withdrawn from cinemas.",8d9f39f577f14080a66a62bd9f0a9b37,4
+gigli,dropped by virtually every cinema after critics panned it (uk),"In the United Kingdom, the negative reviews of Gigli resulted in it being withdrawn from most cinemas.",8d9f39f577f14080a66a62bd9f0a9b37,4
+gigli,81.9% drop in box office gross compared to its first weekend (us),"The second weekend performance of Gigli was significantly worse than its opening weekend, resulting in a large decrease in box office earnings.",8d9f39f577f14080a66a62bd9f0a9b37,4
+gigli,widest release to date (2003) for the biggest second-weekend drop in box office gross of any film in wide release since that statistic was kept (us),"Compared to other films with widespread distribution in 2003, the second weekend earnings of Gigli were particularly poor.",8d9f39f577f14080a66a62bd9f0a9b37,4
+gigli,released box office advertisements (us),The negative reception to Gigli led to Sony Pictures removing the film's advertising and replacing it with advertisements for another release.,8d9f39f577f14080a66a62bd9f0a9b37,4
+"benign, creative sense",self-castigations far exceed any possible public ones (collaborator),The speaker's collaboration on this project has resulted in a greater sense of guilt and self-criticism than any potential negative consequences for their reputation.,8d9f39f577f14080a66a62bd9f0a9b37,4
+gigli,most expensive box office flops of all time,Gigli's worldwide gross of $7.7 million against a $75.6 million budget made it one of the most expensive box office flops of all time.,ff14a8682ddd47499e46876f770e6b2e,4
+gigli,panned by critics,Gigli was panned by critics as stated in the context.,ff14a8682ddd47499e46876f770e6b2e,4
+gigli,bradley cooper and jennifer lopez,Gigli stars Bradley Cooper and Jennifer Lopez lacked chemistry as mentioned in the context.,ff14a8682ddd47499e46876f770e6b2e,4
+bad boys ii and s.w.a.t.,sony pictures,"During the same period as mentioned in the context, Sony Pictures had successful movies Bad Boys II and S.W.A.T.",ff14a8682ddd47499e46876f770e6b2e,4
+sony pictures,losing $42 million in the quarter of its release,"As stated in the context, Sony Pictures lost $42 million in the quarter of its release.",ff14a8682ddd47499e46876f770e6b2e,4
+watchable bad movie,fun film,"Amy Dawes of Variety found the story to be ludicrous and predicted that the film would tank, but overall she enjoyed it and referred to it as a fun film.",7296a2cd3a884a24af4927cc8d578188,4
+historic failure,dreadful romantic comedy,"Joel Siegel of Good Morning America gave the film a 'D' rating and stated that, unlike other historic failures, Gigli only wanted to be a romantic comedy and did not have any measure of pretension.",7296a2cd3a884a24af4927cc8d578188,4
+good film,cookie-cutter blockbuster,"Gleiberman from Entertainment Weekly gave the film a 'C+' rating and stated that Gigli was a watchable bad movie, but it was far from your typical cookie-cutter blockbuster. There were no shoot-outs or car chases, and there wasn't much romantic suspense, either.",7296a2cd3a884a24af4927cc8d578188,4
+appealing in their performances,jen & ben offer less pain.,"Roger Ebert's colleague Berardinelli gave the film two stars and stated that, compared to other bad movies, Jen & Ben offered less pain because of Lopez and Affleck's appealing performances.",7296a2cd3a884a24af4927cc8d578188,4
+gigli,bottom rated movies of all time (yahoo! movies),Rated number one on Yahoo! Movies' Bottom Rated Movies of All Time list.,260feb86a95b4849a9beda7988afdab5,4
+gigli,critics' rating (yahoo! movies),Has a critics' rating of D- according to Yahoo! Movies.,260feb86a95b4849a9beda7988afdab5,4
+gigli,the onion,"Was the subject of an article in satirical newspaper, The Onion, titled 'Gigli focus groups demand new ending in which Affleck and Lopez die.'",260feb86a95b4849a9beda7988afdab5,4
+gigli,late-night talk show hosts,Was lampooned by late-night talk show hosts in their monologues.,260feb86a95b4849a9beda7988afdab5,4
+jason bailey (critic),mixed review,"Notes that 'in the 21st century, the mixed review has become an endangered species'",260feb86a95b4849a9beda7988afdab5,4
+gigli,rotten tomatoes rating,"Bailey also notes that 'most readers look for the Rotten Tomatoes rating and pull-quote, and little beyond that.'",260feb86a95b4849a9beda7988afdab5,4
+gigli,the mets,"Was compared to a bad baseball team, The Mets, by Conan O'Brien.",260feb86a95b4849a9beda7988afdab5,4
+conan o'brien (talk show host),gigli,Said 'The Mets are doing so badly that they will be renamed 'The New York Gigli.',260feb86a95b4849a9beda7988afdab5,4
+affleck,member of the filming crew,"in this movie, Affleck is portrayed as a member of the filming crew parodying his role in Argo",2d5edc69ab3742cfbdd3fbad976274d9,4
+argo,movie parodying the creation of,"Affleck directed, produced, and starred in Argo. In this movie, a parody is made on the process of creating Argo",2d5edc69ab3742cfbdd3fbad976274d9,4
+gigli,led to his directing career,Affleck stated that the negative reception of Gigli led to his decision to pursue a career in directing. This statement provides insight into how the experience of working on Gigli affected Affleck's professional path.,2d5edc69ab3742cfbdd3fbad976274d9,4

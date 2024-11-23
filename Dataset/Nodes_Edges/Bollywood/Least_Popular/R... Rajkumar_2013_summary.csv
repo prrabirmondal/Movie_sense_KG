@@ -1,0 +1,4 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,a movie has a summary as its description,31057c7ec9864697b00ce812efc1257a,4
+details,summary,the details of the movie include its summary,31057c7ec9864697b00ce812efc1257a,4
+other reasons,message may be displayed,"when other specific reasons exist for displaying a message, in addition to summarizing a movie",31057c7ec9864697b00ce812efc1257a,4

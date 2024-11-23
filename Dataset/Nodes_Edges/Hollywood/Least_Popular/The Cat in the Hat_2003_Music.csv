@@ -1,0 +1,27 @@
+node_1,node_2,edge,chunk_id,count
+mike myers,cat,"Myers played the character of Cat in the movie, implying a strong relationship between the two entities.",e7d1f4125cfd4fafb64feaf253948dec,4
+smash mouth,getting better,"The song 'Getting Better' by Smash Mouth is featured in the movie, indicating a direct association between the band and the song.",e7d1f4125cfd4fafb64feaf253948dec,4
+royal crown revue,hey! pachuco! ,"The trailer of the movie includes a version of 'Hey! Pachuco!' by Royal Crown Revue, suggesting a close relation between the song and the trailer.",e7d1f4125cfd4fafb64feaf253948dec,4
+david newman,movie's music ,"Newman composed the score for the movie, highlighting a direct relationship between the composer and the music.",e7d1f4125cfd4fafb64feaf253948dec,4
+scott wittman,movie's songs ,"Wittman collaborated with Marc Shaiman to write songs for the movie, indicating a connection between the composer and the songs.",e7d1f4125cfd4fafb64feaf253948dec,4
+"november 18, 2003",soundtrack,"The soundtrack of the movie was released on November 18, 2003, signifying a direct link between the release date and the soundtrack.",e7d1f4125cfd4fafb64feaf253948dec,4
+marc shaiman,score (initially),"Shaiman was initially chosen to compose the score for the movie, but due to David Newman's selection, he instead wrote songs with Scott Wittman.",e7d1f4125cfd4fafb64feaf253948dec,4
+david newman,bmi film music award,"Newman's score for the movie won a BMI Film Music Award, highlighting a direct relationship between the composer and the award.",e7d1f4125cfd4fafb64feaf253948dec,4
+main title - the kids,getting better,Both songs are played during the opening credits.,c3ef3705178b4c41afd5e1c5a029d465,4
+no.title,2.,Indicates the second song in the music list.,c3ef3705178b4c41afd5e1c5a029d465,4
+"""main title - the kids""","""getting better"" (smash mouth)","Both songs are listed with quotation marks, indicating they are song titles.",c3ef3705178b4c41afd5e1c5a029d465,4
+lennon–mccartney,3.,The Lennon–McCartney songwriting duo is followed by the number three.,c3ef3705178b4c41afd5e1c5a029d465,4
+david newman,no.title,"All music in the context is composed by David Newman, except where noted.",c3ef3705178b4c41afd5e1c5a029d465,4
+two things - couch jumping - leaky crate,5.,The title of this segment is followed by the numbers five through eight.,c3ef3705178b4c41afd5e1c5a029d465,4
+military academy seduction,4.,The title of this segment is followed by the number four.,c3ef3705178b4c41afd5e1c5a029d465,4
+mrs. kwan - mom leaves,7.,The title of this segment is followed by the number seven.,c3ef3705178b4c41afd5e1c5a029d465,4
+surfer cat - the phunometer,6.,The title of this segment is followed by the number six.,c3ef3705178b4c41afd5e1c5a029d465,4
+"fun, fun, fun",8.,"The song 'Fun, Fun, Fun' by Mike Myers is played at some point in the context.",c3ef3705178b4c41afd5e1c5a029d465,4
+the contract,9.,The title of this segment is followed by the number nine.,c3ef3705178b4c41afd5e1c5a029d465,4
+"oven explodes - ""clean up this mess!""",10.,Both titles are listed with quotation marks and followed by the number ten.,c3ef3705178b4c41afd5e1c5a029d465,4
+things wreck the house,11.,The title of this segment is followed by the number eleven.,c3ef3705178b4c41afd5e1c5a029d465,4
+larry the slob,12.,The title of this segment is followed by the number twelve.,c3ef3705178b4c41afd5e1c5a029d465,4
+birthday party,13.,The title of this segment is followed by the number thirteen.,c3ef3705178b4c41afd5e1c5a029d465,4
+s.l.o.w. drive,14.,The title of this segment is followed by the number fourteen.,c3ef3705178b4c41afd5e1c5a029d465,4
+rescuing nevens,15.,The title of this segment is followed by the number fifteen.,c3ef3705178b4c41afd5e1c5a029d465,4
+clean up,16.,Both titles are listed with quotation marks and followed by the number sixteen.,c3ef3705178b4c41afd5e1c5a029d465,4

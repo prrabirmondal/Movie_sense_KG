@@ -1,0 +1,27 @@
+node_1,node_2,edge,chunk_id,count
+movies,summary,"A movie is represented by its summary, which provides a brief overview of the plot and key events.",2db1854b5bed4c9aa277e9f2e995f400,4
+chunni,munni,sister of Chunni,2f68fae2ac8949dca2fb831e76b1c17f,4
+villagers,makdee,belief in the existence and haunting abilities of Makdee by villagers,2f68fae2ac8949dca2fb831e76b1c17f,4
+mansion,makdee,presence and association of Makdee with a mansion believed to be haunted,2f68fae2ac8949dca2fb831e76b1c17f,4
+chunni,villagers,pranks played by Chunni on villagers leading to misunderstanding and fear,2f68fae2ac8949dca2fb831e76b1c17f,4
+chunni,makdee,encounter with Makdee during her pranks and belief in Makdee's supernatural powers as a witch,2f68fae2ac8949dca2fb831e76b1c17f,4
+kallu,chunni,conflict and animosity between Chunni and the local butcher Kallu,2f68fae2ac8949dca2fb831e76b1c17f,4
+chunni,munni,sister relationship,364e4a552cac4e5cac962a2ca9cec16c,4
+kallu,chunni,opposition relationship,364e4a552cac4e5cac962a2ca9cec16c,4
+mughal-e-azam,chunni,friend relationship,364e4a552cac4e5cac962a2ca9cec16c,4
+munni,haunted mansion,enters the haunted mansion,364e4a552cac4e5cac962a2ca9cec16c,4
+chunni,haunted mansion,searches for Munni in the haunted mansion,364e4a552cac4e5cac962a2ca9cec16c,4
+witch,munni,turns Munni into a hen,364e4a552cac4e5cac962a2ca9cec16c,4
+chunni,witch,pleads with the Witch to let Munni go,364e4a552cac4e5cac962a2ca9cec16c,4
+witch,chunni,asks Chunni to strike a deal in exchange for Munni's release,364e4a552cac4e5cac962a2ca9cec16c,4
+schoolmaster,mansion,visits the mansion,364e4a552cac4e5cac962a2ca9cec16c,4
+puppy,mansion,seen exiting the mansion,364e4a552cac4e5cac962a2ca9cec16c,4
+mughal-e-azam,pet dog,realizes it is his pet dog that entered the mansion and disappeared,364e4a552cac4e5cac962a2ca9cec16c,4
+chunni,makdee's plan,realizes Makdee's plan is a ruse and she does not turn humans into animals,364e4a552cac4e5cac962a2ca9cec16c,4
+makdee,conwoman,Makdee is actually a conwoman who is looking for a hidden treasure in the village.,cd68a30c195d4b778efdfbce258c6ee0,4
+children,makdee,Makdee abducts many children to dig up the place where the hidden treasure is located.,cd68a30c195d4b778efdfbce258c6ee0,4
+policemen,makdee,Two policemen accompany Makdee in her plan of finding the hidden treasure.,cd68a30c195d4b778efdfbce258c6ee0,4
+kallu,makdee,Kallu enters Makdee's mansion looking for the children who have been abducted by her.,cd68a30c195d4b778efdfbce258c6ee0,4
+conwoman,children,"Makdee traps all the people, including the policemen, in an attempt to flee the village with the children.",cd68a30c195d4b778efdfbce258c6ee0,4
+kallu,conwoman,Kallu confronts Makdee when she finds her trapped by Chunni.,cd68a30c195d4b778efdfbce258c6ee0,4
+children,kallu,The kids and other people beat up the policemen for their notoriety and help Chunni stop Makdee.,cd68a30c195d4b778efdfbce258c6ee0,4

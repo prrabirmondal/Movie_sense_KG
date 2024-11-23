@@ -1,0 +1,65 @@
+node_1,node_2,edge,chunk_id,count
+sean gunn,karen gillan,"both actors appear in the movie's cast, implying a possible relationship between their characters in the story",152ed32ea1ba4f07a5d7c458e3cadb0b,4
+sean gunn,michael rooker,"both actors appear in the movie's cast and have previously portrayed related characters (Gunn played Kraglin in Guardians of the Galaxy Vol. 1 and Vol. 2, while Rooker played Yondu in both films), suggesting a potential continuity between their characters in the story",152ed32ea1ba4f07a5d7c458e3cadb0b,4
+sean gunn,pom klementieff,"both actors appear in the movie's cast, implying a possible relationship between their characters in the story",152ed32ea1ba4f07a5d7c458e3cadb0b,4
+chris pratt,gamora (zoe saldaña),"both characters appear in the movie's cast, and the text mentions that Gamora's new version serves as a member of the Ravagers, implying a possible relationship between their characters in the story",152ed32ea1ba4f07a5d7c458e3cadb0b,4
+zoe saldaña,gamora (original version),"both versions of Gamora are mentioned as having been killed and resurrected respectively, implying a possible relationship between their characters in the story",152ed32ea1ba4f07a5d7c458e3cadb0b,4
+dave bautista as drax the destroyer,ronan the accuser,Drax's family was slaughtered by Ronan at the instructions of Thanos.,1720bd70395444a7b36251de7d69c27d,4
+dave bautista as drax the destroyer,thanos,"Drax's appearance in the Guardians is due to his family being slaughtered by Thanos, under whose instructions Ronan did it.",1720bd70395444a7b36251de7d69c27d,4
+karen gillan as nebula,thanos,"Nebula was trained by Thanos to be his personal assassin, similar to her sister Gamora's case.",1720bd70395444a7b36251de7d69c27d,4
+karen gillan as nebula,gamora,Nebula and Gamora are adoptive sisters.,1720bd70395444a7b36251de7d69c27d,4
+pom klementieff as mantis,quill,Mantis is Quill's half-sister.,1720bd70395444a7b36251de7d69c27d,4
+pom klementieff,mantis,"Pom Klementieff portrays Mantis, a member of the Guardians with empathic powers, and Quill's half-sister in the movie.",e79a8b24eb4d4071965a66eae1b08fc9,4
+vin diesel,groot,"Vin Diesel plays Groot, a tree-like humanoid member of the Guardians, and his character is an accomplice of Rocket in the movie.",e79a8b24eb4d4071965a66eae1b08fc9,4
+austin freeman,groot (motion capture),"In the movie, Austin Freeman provided on set motion-capture for Groot, who is played by Vin Diesel in a CGI form.",e79a8b24eb4d4071965a66eae1b08fc9,4
+bradley cooper,rocket,"Bradley Cooper voices Rocket, a genetically engineered raccoon-based bounty hunter and member of the Guardians, in the movie.",e79a8b24eb4d4071965a66eae1b08fc9,4
+sean gunn,rocket (motion capture),"In the movie, Sean Gunn provided on set motion capture for Rocket, who is voiced by Bradley Cooper.",e79a8b24eb4d4071965a66eae1b08fc9,4
+noah raskin,baby rocket (voice),Noah Raskin voiced baby Rocket in the movie.,e79a8b24eb4d4071965a66eae1b08fc9,4
+adam warlock,guardians of the galaxy,"Adam Warlock, a powerful artificial being created by the Sovereign to destroy the Guardians, interacts with the actual Guardians, providing an interesting juxtaposition to their journey. This interaction showcases how Adam Warlock is a more traditional superhero compared to the Guardians, although not necessarily a hero.",57d7eca384b74adebece1ded5068b39f,4
+adam warlock,sovereign,"Adam Warlock, a powerful artificial being created by the Sovereign, is newly born from the Sovereign's cocoon and 'basically a baby' that 'does not understand life very well.'",57d7eca384b74adebece1ded5068b39f,4
+kraglin,guardians of the galaxy,"Kraglin, a member of the Guardians and Yondu Udonta's former second-in-command in the Ravagers, is also a part of the Guardians.",57d7eca384b74adebece1ded5068b39f,4
+kraglin,yondu udonta,"Kraglin, a member of the Guardians and Yondu Udonta's former second-in-command in the Ravagers, was once under the command of Yondu Udonta.",57d7eca384b74adebece1ded5068b39f,4
+high evolutionary,orgocorp,"CEO and creator of hybrid creatures, specializing in creating hybrid creatures as part of his company OrgoCorp.",cc63aa51c60a49a58c291df0e231fcaf,4
+rocket,high evolutionary,"Creator of Rocket, seeking to forcibly enhance all living beings into a 'special race' where he has been credited as creating the Animen, the Humanimals, the Hell Spawn, the Sovereign, the Xeronians, and the Star Children.",cc63aa51c60a49a58c291df0e231fcaf,4
+high evolutionary,orgocorp employees,"In charge of creating hybrid creatures and Rocket's creator, seeking to forcibly enhance all living beings into a 'special race'. The High Evolutionary is credited with creating the Animen, the Humanimals, the Hell Spawn, the Sovereign, the Xeronians, and the Star Children.",cc63aa51c60a49a58c291df0e231fcaf,4
+high evolutionary,doctor moreau,"Gunn likened the High Evolutionary to 'a space version' of Doctor Moreau from Island of Lost Souls (1932), a film Gunn is a big fan of.",cc63aa51c60a49a58c291df0e231fcaf,4
+high evolutionary,mcu villains,Gunn described the High Evolutionary as the 'cruelest MCU villain' up to that point due to how he negatively impacts the lives of Rocket and his fellow subject friends.,cc63aa51c60a49a58c291df0e231fcaf,4
+high evolutionary,chukwudi iwuji,"Played by Chukwudi Iwuji, the High Evolutionary is 'narcissistic, sociopathic, but very charming' according to Iwuji.",cc63aa51c60a49a58c291df0e231fcaf,4
+sympathy,historical figures,compared to; likened to,17ffe1631e924b1e8408ceaf761c2eec,4
+previous mcu villains,sympathy,different from,17ffe1631e924b1e8408ceaf761c2eec,4
+thanos,previous mcu villains,member of,17ffe1631e924b1e8408ceaf761c2eec,4
+killmonger,previous mcu villains,member of,17ffe1631e924b1e8408ceaf761c2eec,4
+linda cardellini,lylla,"Linda Cardellini voices and provides motion capture for the character Lylla, who is an associate and friend of Rocket in the context provided.",9a11d4d668cf46deac260daa1f819ed7,4
+orgocorp,master karja,"Master Karja is an orgosentry at Orgocorp, as mentioned in the given context.",9a11d4d668cf46deac260daa1f819ed7,4
+stakar ogord,sylvester stallone,"Stakar Ogord is a high-ranking Ravager, and Sylvester Stallone portrays this character in the movie.",bba8c9b462ae4f678a2e8d262a582fcd,4
+ayesha,elizabeth debicki,"Elizabeth Debicki plays the role of Ayesha, the golden High Priestess and leader of the Sovereign people who created Adam Warlock to destroy the Guardians.",bba8c9b462ae4f678a2e8d262a582fcd,4
+martinex,michael rosenbaum,"Michael Rosenbaum portrays Martinex, a high-ranking Ravager, in the movie.",bba8c9b462ae4f678a2e8d262a582fcd,4
+howard the duck,seth green,Seth Green voices Howard the Duck in the movie.,bba8c9b462ae4f678a2e8d262a582fcd,4
+broker,christopher fairbank,Christopher Fairbank plays the role of the Broker in the movie.,bba8c9b462ae4f678a2e8d262a582fcd,4
+steemie,stephen blackehart,"Stephen Blackehart portrays Steemie, one of the denizens of Knowhere, in the movie.",bba8c9b462ae4f678a2e8d262a582fcd,4
+bzermikitokolok,rhett miller,"Rhett Miller portrays Bzermikitokolok, another one of the denizens of Knowhere, in the movie.",bba8c9b462ae4f678a2e8d262a582fcd,4
+jason,gregg henry,Gregg Henry plays the role of Quill's grandfather Jason in the movie.,bba8c9b462ae4f678a2e8d262a582fcd,4
+yondu udonta,michael rooker,"Michael Rooker reprises his role as Yondu Udonta, the former head of the Ravagers and Peter's deceased mentor, in the movie.",bba8c9b462ae4f678a2e8d262a582fcd,4
+cosmo,maria bakalova (voice),"Maria Bakalova reprises her voice role as Cosmo, a sapient dog who developed psionic abilities after being abandoned in outer space by the Soviet Union, in the movie.",bba8c9b462ae4f678a2e8d262a582fcd,4
+mainframe,tara strong (voice),"Tara Strong voices Mainframe, previously voiced in the Disney+ series Loki, in the movie.",bba8c9b462ae4f678a2e8d262a582fcd,4
+mainframe,guardians films,"In the first two Guardians films, Mainframes appears as a character.",5f565ec00ad849968831524fa0100b12,4
+tara strong,mainframe,Tara Strong voices Mainframe in the Disney+ series Loki and previously voiced her in Vol. 2.,5f565ec00ad849968831524fa0100b12,4
+miley cyrus,mainframe,An uncredited Miley Cyrus previously voiced Mainframe in Vol. 2.,5f565ec00ad849968831524fa0100b12,4
+jared gore,krugarr,"Jared Gore provides motion capture for Krugarr, a Ravager who appears in the movies.",5f565ec00ad849968831524fa0100b12,4
+ravagers,guardians films,The Ravagers are a group of characters that appear in the Guardians films.,5f565ec00ad849968831524fa0100b12,4
+asim chaudhry,teefs,"Asim Chaudhry voices Teefs, an anthropomorphic walrus in the given context.",8d2db89b74a04d79b1d3bbc2072a4fe2,4
+mikaela hoover,floor,"Mikaela Hoover voices Floor, an anthropomorphic rabbit in the given context.",8d2db89b74a04d79b1d3bbc2072a4fe2,4
+daniela melchior,ura,"Daniela Melchior appears as Ura, a receptionist at Orgocorp in the given context.",8d2db89b74a04d79b1d3bbc2072a4fe2,4
+miriam shor,recorder vim,"Miriam Shor appears as Recorder Vim, one of the scientifically minded henchmen of the High Evolutionary in the given context.",8d2db89b74a04d79b1d3bbc2072a4fe2,4
+nico santos,recorder theel,"Nico Santos appears as Recorder Theel, one of the scientifically minded henchmen of the High Evolutionary in the given context.",8d2db89b74a04d79b1d3bbc2072a4fe2,4
+jennifer holland,administrator kwol,"Jennifer Holland appears as Administrator Kwol, a security employee of Orgocorp in the given context.",8d2db89b74a04d79b1d3bbc2072a4fe2,4
+kai zen,phyla,"Kai Zen appears as Phyla, one of the High Evolutionary's Star Child prisoners in the given context.",8d2db89b74a04d79b1d3bbc2072a4fe2,4
+judy greer,war pig,"Judy Greer voices War Pig, a cyborg pig and member of the Hell Spawns working for the High Evolutionary in the given context.",8d2db89b74a04d79b1d3bbc2072a4fe2,4
+renaldo faberlle,behemoth,"Reinaldo Faberlle voices Behemoth, a cyborg bird and member of the Hell Spawns who also works for the High Evolutionary in the given context.",8d2db89b74a04d79b1d3bbc2072a4fe2,4
+blurp,dee bradley baker,"Blurp is voiced by Dane DiLiegro, an anthropomorphic F'saki that is an unnamed Ravager's pet in the given context.",8d2db89b74a04d79b1d3bbc2072a4fe2,4
+unsavory octopus,dane diliegro,Dane DiLiegro appears as an Humanimal octopus drug dealer on Counter-Earth in the given context.,8d2db89b74a04d79b1d3bbc2072a4fe2,4
+lloyd kaufman,knowhere,"Kaufman appears as Gridlemop, a Krylorian on Knowhere who partakes in a card game with Kraglin.",70aca9f0065747419549cb61e77fcca8,4
+pete davidson,arête laboratories,"Davidson portrays Phlektik, a guard at Arête Laboratories.",70aca9f0065747419549cb61e77fcca8,4
+molly c. quinn,ravagers,Quinn plays a member of the Ravager group in the film.,70aca9f0065747419549cb61e77fcca8,4
+james gunn,lambshank,"Gunn both wrote for and provided the voice for Lambshank, a deformed experiment of the High Evolutionary that is among those freed by the Guardians of the Galaxy.",70aca9f0065747419549cb61e77fcca8,4
+stan lee,lambshank,"Originally written as a role for Lee, Lambshank was designed to resemble Lee's appearance after Gunn chose to take over the voice following Lee's passing.",70aca9f0065747419549cb61e77fcca8,4

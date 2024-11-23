@@ -1,0 +1,4 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,a movie has a summary that describes its plot and main events,8dda0c5f210645899f5123238dd20162,4
+details,movie,the specifics or characteristics of the movie are referred to as details,8dda0c5f210645899f5123238dd20162,4
+message,other reasons,"when the message being displayed is not related to the current context, it could be due to other reasons.",8dda0c5f210645899f5123238dd20162,4

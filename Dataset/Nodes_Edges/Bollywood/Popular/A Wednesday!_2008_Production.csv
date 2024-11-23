@@ -1,0 +1,12 @@
+node_1,node_2,edge,chunk_id,count
+mumbai,location,The movie's production was filmed on location around Mumbai in 28 days.,d62197e0e36c47afad04363696e95bb7,4
+eight months,timeline,"HERE IS THE DETAILS OF MOVIE'S PRODUCTION: From casting to completion, A Wednesday! took about eight months.",d62197e0e36c47afad04363696e95bb7,4
+casting,action,"From casting to completion, A Wednesday! took about eight months.",d62197e0e36c47afad04363696e95bb7,4
+completion,action,"From casting to completion, A Wednesday! took about eight months.",d62197e0e36c47afad04363696e95bb7,4
+a wednesday!,movie,"The script was inspired by the 11 July 2006 Mumbai train bombings. In fact, the incidents that followed the bombings were used as details in the plot.",d62197e0e36c47afad04363696e95bb7,4
+anjum rizvi,producer,"Once both accepted the roles, he approached the producer Anjum Rizvi who liked the subject and the casting.",d62197e0e36c47afad04363696e95bb7,4
+utv motion pictures,distributor,"UTV Motion Pictures heard of the project, took it on, and bought the film's rights from Rizvi and Pandey.",d62197e0e36c47afad04363696e95bb7,4
+anupam kher,actor,"Pandey sent the script to Anupam Kher and Naseeruddin Shah, who were his only choice for the two principal characters.",d62197e0e36c47afad04363696e95bb7,4
+naseeruddin shah,actor,"Pandey sent the script to Anupam Kher and Naseeruddin Shah, who were his only choice for the two principal characters.",d62197e0e36c47afad04363696e95bb7,4
+workstation,location,The terrorist's 'workstation' was an actual under-construction 25-storey building; it was chosen from 50 other such buildings for its clear view of the Mumbai skyline.,d62197e0e36c47afad04363696e95bb7,4
+trolley lift,action,"Since the building had no elevators, a trolley lift was installed; Shah walked up the 25 floors every day.",d62197e0e36c47afad04363696e95bb7,4

@@ -1,0 +1,42 @@
+node_1,node_2,edge,chunk_id,count
+spring break vacation,"fort lauderdale, florida",locational relationship,99130748feb84aa3824e26d04d0fa279,4
+kelly taylor,texas,origins relationship,99130748feb84aa3824e26d04d0fa279,4
+waitress,kelly taylor,professional relationship,99130748feb84aa3824e26d04d0fa279,4
+kelly taylor,bar,locational relationship,99130748feb84aa3824e26d04d0fa279,4
+luke,kelly taylor,romantic relationship,99130748feb84aa3824e26d04d0fa279,4
+alexa,kelly taylor,friendship relationship,99130748feb84aa3824e26d04d0fa279,4
+kaya,kelly taylor,friendship relationship,99130748feb84aa3824e26d04d0fa279,4
+concert,spring break vacation,locational relationship,99130748feb84aa3824e26d04d0fa279,4
+justin bell,concert,attendance relationship,99130748feb84aa3824e26d04d0fa279,4
+brandon,justin bell,friendship relationship,99130748feb84aa3824e26d04d0fa279,4
+eddie,justin bell,friendship relationship,99130748feb84aa3824e26d04d0fa279,4
+br&j's whipped cream bikini contest,spring break vacation,locational relationship,99130748feb84aa3824e26d04d0fa279,4
+kelly taylor,br&j's whipped cream bikini contest,participation relationship,99130748feb84aa3824e26d04d0fa279,4
+alexa,justin bell,romantic interest relationship,99130748feb84aa3824e26d04d0fa279,4
+carlos,kaya,romantic relationship,99130748feb84aa3824e26d04d0fa279,4
+salsa club,"fort lauderdale, florida",locational relationship,99130748feb84aa3824e26d04d0fa279,4
+salsa club,boat ride,"The characters, Alexa and Kelly, meet Justin on a boat ride after initially connecting at the Salsa club.",f1793ae14af9425fa283177b21e22477,4
+kelly,justin,"The characters, Kelly and Justin, connect during their time on the boat and make plans to meet at the beach the following night.",f1793ae14af9425fa283177b21e22477,4
+alexa,kelly,Alexa pretends to be Kelly and instructs Justin to meet her at a bar instead of the beach.,f1793ae14af9425fa283177b21e22477,4
+justin,luke,"Luke appears and claims that Kelly is his girlfriend, causing confusion for Justin.",f1793ae14af9425fa283177b21e22477,4
+alexa,justin,"Alexa gives advice to Justin on how to win Kelly back, but Alexa also kisses Justin, which Kelly witnesses.",f1793ae14af9425fa283177b21e22477,4
+kaya,carlos,"Kaya complains to Carlos' boss about his mistreatment, resulting in Carlos being fired.",f1793ae14af9425fa283177b21e22477,4
+brandon,cutler,"Brandon receives another ticket from Cutler, the police officer, for gambling on the hovercraft race.",f1793ae14af9425fa283177b21e22477,4
+luke,justin,"Luke and Justin decide to settle their differences through a hovercraft race, but Luke gets injured during the race.",f1793ae14af9425fa283177b21e22477,4
+eddie,online date,Eddie continues his search for his online date but misses their rendezvous and later gets beaten up by a jock.,f1793ae14af9425fa283177b21e22477,4
+kelly,alexa,"Kelly witnesses Alexa kissing someone, which is Carlos.",97c8815da1514ac288a91bd030ae5b38,4
+carlos,kaya,Carlos becomes angry with Kaya for interfering in his life.,97c8815da1514ac288a91bd030ae5b38,4
+carlos,boss,Carlos should have stood up to his boss earlier.,97c8815da1514ac288a91bd030ae5b38,4
+kaya,carlos,"Later, Carlos realizes he should have stood up to his boss earlier and apologizes to Kaya by arranging a romantic dinner for them in a pool.",97c8815da1514ac288a91bd030ae5b38,4
+alexa,kelly,"Alexa approaches, pretending to want food. Kelly confronts her about Luke and Justin.",97c8815da1514ac288a91bd030ae5b38,4
+justin,alexa,"Alexa lies, claiming that Justin called her and said he only wanted to be with Alexa.",97c8815da1514ac288a91bd030ae5b38,4
+kelly,justin,Kelly realizes something is amiss as Justin storms off.,97c8815da1514ac288a91bd030ae5b38,4
+alexa,kelly,"At a bar, the girls are dancing when Justin arrives and tries to get Kelly's attention. She leaves, and he follows her, confronting her about her recent behavior.",97c8815da1514ac288a91bd030ae5b38,4
+kelly,alexa,"Kelly reveals what Alexa told her, and they argue.",97c8815da1514ac288a91bd030ae5b38,4
+justin,kelly,Kelly realizes something is amiss as Justin storms off.,97c8815da1514ac288a91bd030ae5b38,4
+alexa,kelly,Alexa tells Kelly she stopped Justin and admits to being jealous of the attention Kelly receives from guys.,97c8815da1514ac288a91bd030ae5b38,4
+justin,kelly,Alexa arranges for Justin and Kelly to reunite.,97c8815da1514ac288a91bd030ae5b38,4
+carlos,boss,"Later, Carlos becomes angry with his boss again.",97c8815da1514ac288a91bd030ae5b38,4
+justin,kelly,"The following day, Justin and Kelly dance together at a pool party.",97c8815da1514ac288a91bd030ae5b38,4
+brandon,cutler,Brandon and Cutler also dance together at the pool party.,97c8815da1514ac288a91bd030ae5b38,4
+eddie,lizzie,Eddie and Lizzie also dance together at the pool party.,97c8815da1514ac288a91bd030ae5b38,4

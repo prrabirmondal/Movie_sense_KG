@@ -1,0 +1,11 @@
+node_1,node_2,edge,chunk_id,count
+shruti tandon,khempal,sexual relationship,f5afd482847b4955999ef9f8f7f0816f,4
+ramesh,shruti tandon,parent-child relationship,f5afd482847b4955999ef9f8f7f0816f,4
+ramesh,khempal,accused of murder due to honour killing belief,f5afd482847b4955999ef9f8f7f0816f,4
+ashwin kumar,ramesh,exonerated from murder charge,f5afd482847b4955999ef9f8f7f0816f,4
+acp vedant,kumar,"opposes each other's hypotheses, leads to an altercation resulting in Kumar's suspension",4bf451ac34414c71832b0f8f9f7fdf2a,4
+tandons,parents,"committed the murders, Tandons file a protest plea against CDI report accusing parents",4bf451ac34414c71832b0f8f9f7fdf2a,4
+cdi,acp vedant,begins working against Kumar at the behest of promotion-hungry officer,4bf451ac34414c71832b0f8f9f7fdf2a,4
+cdi,paul,"replaces retired senior officer, leads investigative team concluding that parents committed murders",4bf451ac34414c71832b0f8f9f7fdf2a,4
+cdi,kumar,"exonerates parents on June 22, 2008, but evidence insufficient for prosecution when case is filed in court",4bf451ac34414c71832b0f8f9f7fdf2a,4
+cdi chief,acp vedant,rejects Vedant's hypothesis and concludes that parents are prime suspects based on Paul's investigation,4bf451ac34414c71832b0f8f9f7fdf2a,4

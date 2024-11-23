@@ -1,0 +1,5 @@
+node_1,node_2,edge,chunk_id,count
+roohi,movies,"Roohi is a movie, which falls under the category of movies.",6fb3c933fdde445397e3a0d7825431b5,4
+roohi,summary,The details provided here contain the summary of the movie Roohi.,6fb3c933fdde445397e3a0d7825431b5,4
+here,details,Here refers to the location from where the details are being provided.,6fb3c933fdde445397e3a0d7825431b5,4
+here is,notation,The notation 'HERE IS' is used to indicate that the following information is related to what precedes it in this context.,6fb3c933fdde445397e3a0d7825431b5,4

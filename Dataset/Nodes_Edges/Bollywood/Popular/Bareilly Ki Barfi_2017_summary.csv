@@ -1,0 +1,35 @@
+node_1,node_2,edge,chunk_id,node_3,node_4,node_5,node_6,count
+movies,summary,"In this context, 'movies' refers to a collection of visual works intended to be shown publicly and 'summary' represents a brief description or explanation.",364d6a95015943af97e4bea28d5a9792,,,,,4
+bareilly ki barfi,bitti mishra,Bitti Mishra realizes that she is the main character of the book 'Bareilly Ki Barfi'.,42243d207adb4492b160bd9708337812,,,,,4
+bitti mishra,author (pritam vidrohi),Bitti Mishra tries to track down the author of 'Bareilly Ki Barfi' in search of love.,42243d207adb4492b160bd9708337812,,,,,4
+chirag dubey,author (pritam vidrohi),Chirag Dubey is revealed to be the author of 'Bareilly Ki Barfi'.,42243d207adb4492b160bd9708337812,,,,,4
+bitti mishra,bookshop owner,The bookshop owner directs Bitti Mishra to Chirag Dubey in search of the author.,42243d207adb4492b160bd9708337812,,,,,4
+chirag dubey,bareilly,"Chirag Dubey is from Bareilly, as mentioned in the context.",42243d207adb4492b160bd9708337812,,,,,4
+bitti,vidrohi,"Relationship between Bitti and Vidrohi, as perceived by Bitti. Initially, Bitti believed that Vidrohi was someone who could love her the way she is based on their correspondence through letters. Later, Bitti grew fond of the real Vidrohi when he met her.",9f890ab4b1ca4e6fa5c81ebf23446273,,,,,4
+bitti,chirag dubey,"Relationship between Bitti and Chirag Dubey, as depicted in the context. Chirag was the messenger for Bitti's letters to Vidrohi and also the owner of the printing press where the book was published. However, Bitti was unaware of the fact that Chirag was actually the author of the book, 'Vidrohi', five years ago.",9f890ab4b1ca4e6fa5c81ebf23446273,,,,,4
+chirag dubey,vidrohi,"Relationship between Chirag Dubey and Vidrohi, as portrayed in the context. Chirag arranged for Bitti to meet the real Vidrohi, who had left town soon after the novel was published. Chirag's plan involved Pritam Vidrohi behaving ruffian-like initially to make Bitti believe that he was misunderstood by society.",9f890ab4b1ca4e6fa5c81ebf23446273,,,,,4
+bitti,chirag,"Chirag seems to grow fond of Bitti, believing her to be misunderstood by society much like himself.",356102942cc74840bc0937554f375c35,,,,,4
+pritam,bitti's parents,Chirag lies that Pritam has had a failed marriage to make Bitti's parents not see him as a worthy suitor for her.,356102942cc74840bc0937554f375c35,,,,,4
+rama,pritam,"Rama grows to like Pritam, but this is spoiled by Chirag's lies about Pritam.",356102942cc74840bc0937554f375c35,,,,,4
+chirag,bitti,"Bitti does not faze when Chirag maligns Pritam, as she believes him to be misunderstood by society much like herself.",356102942cc74840bc0937554f375c35,,,,,4
+chirag,pritam,Chirag revolts against the manipulative Chirag and refuses to put an end to the whole charade when Pritam complains of a sore throat.,356102942cc74840bc0937554f375c35,,,,,4
+bitti,chirag,Bitti reveals that she had known for some time that Chirag was the real author when he gives a heartfelt letter to Bitti using his Vidrohi alias.,356102942cc74840bc0937554f375c35,,,,,4
+pritam,bitti,Pritam agrees to play along with Chirag's plan so that Bitti can find out whether Chirag is really in love with her (or only at the idea of her being an image of his ex-girlfriend).,356102942cc74840bc0937554f375c35,,,,,4
+chirag,bitti,Bitti finds out that Chirag was the real author when Pritam complains of a sore throat and Chirag ends up reading the heartfelt letter himself to Bitti.,356102942cc74840bc0937554f375c35,,,,,4
+chirag,bitti's parents,Chirag believes that Bitti's parents will not see him as a worthy suitor for her because of the failed marriage lies he made about Pritam.,356102942cc74840bc0937554f375c35,,,,,4
+rama,pritam,Chirag's lies about Pritam spoil Rama's liking for him.,356102942cc74840bc0937554f375c35,,,,,4
+bitti,chirag,"Bitti believes that Chirag is misunderstood by society much like herself, as she reveals when he gives a heartfelt letter to Bitti using his Vidrohi alias.",356102942cc74840bc0937554f375c35,,,,,4
+chirag,bitti's parents,"Chirag believes that Bitti's parents will not see him as a worthy suitor for her because of the failed marriage lies he made about Pritam, which he did to prevent them from seeing him in this light.",356102942cc74840bc0937554f375c35,,,,,4
+bitti,chirag,"Bitti does not faze when Chirag maligns Pritam, as she believes he is misunderstood by society much like herself, despite his lies about Pritam.",356102942cc74840bc0937554f375c35,,,,,4
+pritam,bitti's parents,Chirag lies that Pritam has had a failed marriage to prevent Bitti's parents from seeing him as a worthy suitor for her.,356102942cc74840bc0937554f375c35,,,,,4
+bareilly ki barfi,critical acclaim,"The film received widespread critical acclaim upon release, with praise for its heartwarming and simple story.",bd731c7fa83d4a929f9dbb2877f08d33,,,,,4
+nitesh tiwari,shreyas jain,"The writers Nitesh Tiwari and Shreyas Jain have put together a sweet, identifiable crowd-pleaser that excels in the writing departments.",bd731c7fa83d4a929f9dbb2877f08d33,,,,,4
+ashwiny iyer tiwari,versatility,The film gives her a chance to prove her versatility.,bd731c7fa83d4a929f9dbb2877f08d33,,,,,4
+dev negi,pawni pandey,"The first song of the film ""Sweety Tera Drama"" sung by Dev Negi, Pawni Pandey and Shraddha Pandit was released on 24 July 2017.",bd731c7fa83d4a929f9dbb2877f08d33,Shraddha Pandit,,,,4
+harshdeep kaur,yasser desai,"The third single to be released was ""Twist Kamariya"" sung by Harshdeep Kaur, Yasser Desai, Tanishk Bagchi and Altamash Faridi was released on 8 August 2017.",bd731c7fa83d4a929f9dbb2877f08d33,Tanishk Bagchi,Altamash Faridi,,,4
+dev negi,meena iyer,"The Times of India gave the film 4/5 stars, writing, ""The writers Nitesh Tiwari and Shreyas Jain have put together a sweet, identifiable crowd-pleaser that excels in the writing, direction, acting and music departments.""",bd731c7fa83d4a929f9dbb2877f08d33,,,,,4
+arko pravo mukherjee,tanishk bagchi,"The lyrics of the film were written by Arko Pravo Mukherjee, Tanishk Bagchi, Shabbir Ahmed, Puneet Sharma, Abhishek Verma and Vayu.",bd731c7fa83d4a929f9dbb2877f08d33,Shabbir Ahmed,Puneet Sharma,Abhishek Verma,Vayu,4
+tanishk bagchi,mukherjee,"The second song titled as ""Nazm Nazm"" which is sung, written and composed by Mukherjee was released on 31 July 2017.",bd731c7fa83d4a929f9dbb2877f08d33,,,,,4
+small-town india,flavor of small-town india,captures the flavor of small-town India,841b791da6c94346b70ea7b218a41618,,,,,4
+rajkummar rao,rangbaaz,timid-salesman-turned-rangbaaz,841b791da6c94346b70ea7b218a41618,,,,,4
+kriti sanon,bohemian small-town-girl act,"Kriti Sanon's bohemian small-town-girl act is a far-cry from her usual fare, but she pulls it off with aplomb.",841b791da6c94346b70ea7b218a41618,,,,,4

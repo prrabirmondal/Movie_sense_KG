@@ -1,0 +1,37 @@
+node_1,node_2,edge,chunk_id,count
+arthur fleck,gotham,"resides in the crime-and recession-ridden city of Gotham, New York.",6e3e8160f73043c9980f17e396d83500,4
+arthur fleck,penny,lives with his mother Penny,6e3e8160f73043c9980f17e396d83500,4
+arthur fleck,professional clown,is a professional clown,6e3e8160f73043c9980f17e396d83500,4
+arthur fleck,aspiring stand-up comedian,is an aspiring stand-up comedian,6e3e8160f73043c9980f17e396d83500,4
+arthur fleck,neurological disorder,"suffers from a neurological disorder that causes him to have random, uncontrollable laughing fits",6e3e8160f73043c9980f17e396d83500,4
+arthur fleck,social services,depends on social services to obtain medication for which he depends on,6e3e8160f73043c9980f17e396d83500,4
+randall,arthur fleck,is Arthur's co-worker who gives him a revolver for self-defense,6e3e8160f73043c9980f17e396d83500,4
+arthur fleck,sophie dumond,"invites his neighbor, single mother Sophie Dumond, to see his routine at a comedy club",6e3e8160f73043c9980f17e396d83500,4
+children's hospital,arthur fleck,"drops the gun on the floor while performing at a children's hospital, leading to his firing",6e3e8160f73043c9980f17e396d83500,4
+street youths,arthur fleck,is attacked by street youths while on the job,6e3e8160f73043c9980f17e396d83500,4
+billionaire mayoral candidate thomas wayne,arthur fleck,condemns the killings but protesters begin sporting clown masks in Arthur's image,6e3e8160f73043c9980f17e396d83500,4
+wayne investments,arthur fleck,are the employers of three drunk businessmen from Wayne Investments who assault and murder Arthur,6e3e8160f73043c9980f17e396d83500,4
+thomas wayne,penny,reveals that he is Thomas's illegitimate son,6e3e8160f73043c9980f17e396d83500,4
+arthur,thomas,"parental relation, revealed through a letter and a conversation",4a548a4e639045d9b16e9109593f94fc,4
+penny,arthur,"adoptive mother-son relation, mentioned in various contexts",4a548a4e639045d9b16e9109593f94fc,4
+bruce,arthur,encounter at Wayne Manor and scuffle with Alfred,4a548a4e639045d9b16e9109593f94fc,4
+alfred pennyworth,arthur,scuffle at Wayne Manor,4a548a4e639045d9b16e9109593f94fc,4
+murray franklin,arthur,"idol-student relation, mockery and confrontation on Murray's show",4a548a4e639045d9b16e9109593f94fc,4
+penny (delusional narcissist),thomas,"false intimate relationship, as per Arkham State Hospital records",4a548a4e639045d9b16e9109593f94fc,4
+arthur,penny (delusional narcissist),"delusional belief of being their biological son, as per Arkham State Hospital records",4a548a4e639045d9b16e9109593f94fc,4
+penny's abusive boyfriend,arthur,physical and sexual abuse experienced by Arthur during childhood,4a548a4e639045d9b16e9109593f94fc,4
+sophie,arthur,"imaginary relationship, as revealed by Sophie in her apartment",4a548a4e639045d9b16e9109593f94fc,4
+arthur,murray,"Employer-employee relationship, with Arthur being the former and Murray being the latter.",b0ce7f9357414554a0bd36d41ca989a1,4
+arthur,joker,"Alias or pseudonym of Arthur, as he reveals during the show.",b0ce7f9357414554a0bd36d41ca989a1,4
+arthur,randall,"Former colleague of Arthur, who visits him and is subsequently fatally stabbed by Arthur.",b0ce7f9357414554a0bd36d41ca989a1,4
+arthur,gary,"Another former colleague of Arthur, who he spares during Randall's visit.",b0ce7f9357414554a0bd36d41ca989a1,4
+arthur,clown protesters,"Encounters Arthur on a train filled with them during the brawl. One of these protestors is accidentally shot and killed by a detective, leading to further escalation.",b0ce7f9357414554a0bd36d41ca989a1,4
+arthur,detectives investigating subway murders,Pursue Arthur onto the train filled with clown protesters.,b0ce7f9357414554a0bd36d41ca989a1,4
+thomas wayne,martha wayne,"Parents of Bruce Wayne, who are murdered by a rioter after Arthur's escape.",b0ce7f9357414554a0bd36d41ca989a1,4
+arthur,wayne family,"Thomas and Martha Wayne, along with their son Bruce, are targeted by a rioter.",b0ce7f9357414554a0bd36d41ca989a1,4
+arthur,rioters,"Erupt across the city after Arthur's escape from police custody. One of these rioters murders Thomas and Martha Wayne, while sparing Bruce.",b0ce7f9357414554a0bd36d41ca989a1,4
+arkham,arthur,"Institution where Arthur is taken after his arrest. During his therapy sessions here, he laughs to himself about a joke and declines sharing it with his therapist.",b0ce7f9357414554a0bd36d41ca989a1,4
+murray,arthur,Employer-employee relationship during the show. Arthur confesses to the subway murders and kills Murray during the broadcast.,b0ce7f9357414554a0bd36d41ca989a1,4
+session,therapist,a meeting between the person and a mental health professional,5468242405a449daad7cdde78a0b7390,4
+person,bloodied shoeprints,the individual leaves behind physical evidence of violence after leaving his therapy session,5468242405a449daad7cdde78a0b7390,4
+orderly,person,an employee of a healthcare facility pursues the individual who recently left a therapy session,5468242405a449daad7cdde78a0b7390,4

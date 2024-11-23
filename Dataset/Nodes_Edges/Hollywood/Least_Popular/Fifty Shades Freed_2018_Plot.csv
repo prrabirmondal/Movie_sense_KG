@@ -1,0 +1,34 @@
+node_1,node_2,edge,chunk_id,count
+christian,ana,Spouse relationship between Christian and Ana,1c41f885f9e94866b40dd12308664a5b,4
+break-in at christian’s corporate headquarters,stealing of computer files by jack hyde,Causal relationship between break-in and stealing of computer files by Jack Hyde,1c41f885f9e94866b40dd12308664a5b,4
+ana's former boss jack hyde,sexual assault,Relationship between Ana's former boss Jack Hyde and sexual assault,1c41f885f9e94866b40dd12308664a5b,4
+christian,new house,Provides new house to Ana,1c41f885f9e94866b40dd12308664a5b,4
+ana,architect gia matteo,Interaction between Ana and architect Gia Matteo,1c41f885f9e94866b40dd12308664a5b,4
+gia matteo,flirtatious behavior towards grey,Exhibits flirtatious behavior towards Grey,1c41f885f9e94866b40dd12308664a5b,4
+ana,gia matteo,Threatens to fire Gia if she keeps flirting with Grey,1c41f885f9e94866b40dd12308664a5b,4
+christian,aspen trip for ana and others,Organizes a trip to Aspen for Ana and others,1c41f885f9e94866b40dd12308664a5b,4
+kate kavanagh,christian's older brother elliot,Currently dating Christian's older brother Elliot,1c41f885f9e94866b40dd12308664a5b,4
+elliot,gia matteo,Business associate of Elliot and Gia Matteo,1c41f885f9e94866b40dd12308664a5b,4
+gia matteo,assist in choosing engagement ring,Assists Elliot in choosing engagement ring,1c41f885f9e94866b40dd12308664a5b,4
+kate kavanagh,elliot,"Proposes to Kate, accepted by her",1c41f885f9e94866b40dd12308664a5b,4
+ana,night out with kate,Has a night out with Kate,1c41f885f9e94866b40dd12308664a5b,4
+christian,control and possessiveness,Displayed by Christian towards Ana,1c41f885f9e94866b40dd12308664a5b,4
+jack hyde,kidnapping attempt on ana,Jack Hyde's attempted kidnapping of Ana,1c41f885f9e94866b40dd12308664a5b,4
+pregnancy,christian,"Ana announces she is pregnant, and Christian is disturbed as he had other plans for their early years together.",5131350f45984c04b765d01e8321bb48,4
+elena lincoln,christian,"Christian texted and met his ex-lover and former BDSM dominant, Elena Lincoln, who had groomed him as a minor.",5131350f45984c04b765d01e8321bb48,4
+sexual experimentation,ana,The newlyweds continue with their sexual experimentation.,5131350f45984c04b765d01e8321bb48,4
+mia,hyde,Hyde demands a ransom of $5 million in cash in two hours for Mia's release. He threatens to kill her if his demands are not met.,5131350f45984c04b765d01e8321bb48,4
+ana,bank manager,The suspicious bank manager calls Christian after Ana takes a checkbook and revolver from Christian's desk and goes to the bank to withdraw the money for Hyde's ransom.,5131350f45984c04b765d01e8321bb48,4
+liz,ana,"Ana tricks Hyde by taking the bank manager's phone and slipping hers into the bag of money, and exits the back entrance to discover that the driver and Jack's accomplice is her co-worker, Liz.",5131350f45984c04b765d01e8321bb48,4
+hyde,liz,"psychotic and vengeful Hyde attacks Liz, kicking her abdomen.",e98e3858a7784825a1d27df99232ec8c,4
+ana,hyde,Ana pulls out the revolver and shoots Hyde in the leg.,e98e3858a7784825a1d27df99232ec8c,4
+christian,ana,"Christian and his security team, who tracked Ana's phone, arrive with the police who apprehend Hyde and Liz.",e98e3858a7784825a1d27df99232ec8c,4
+ana,hyde,Hyde was envious of Christian being adopted by the wealthy Grey family instead of him.,e98e3858a7784825a1d27df99232ec8c,4
+liz,hyde,Hyde blackmailed Liz with a sex tape into being his accomplice.,e98e3858a7784825a1d27df99232ec8c,4
+christian,grace,"Christian's adoptive mother, Grace, assures him that Ana will not leave him.",e98e3858a7784825a1d27df99232ec8c,4
+christian,ana,Christian and Ana reconcile after she wakes up from a three-day hospital stay.,e98e3858a7784825a1d27df99232ec8c,4
+christian,hyde,"Christian and Hyde had shared the same foster family, though Christian seems to have no memory of this.",e98e3858a7784825a1d27df99232ec8c,4
+ana,christian,Christian reflects on his whole journey with Ana and how they fell in love.,e98e3858a7784825a1d27df99232ec8c,4
+ana,red room,Ana invites Christian to join her in the red room.,e98e3858a7784825a1d27df99232ec8c,4
+christian,ana,"Christian delivers the dialogue 'You're topping from the bottom, Mrs. Grey. But I can live with that.'",e98e3858a7784825a1d27df99232ec8c,4
+ana,christian,"Years later, Ana and Christian are at their house by the lake with their son Teddy and Ana is already pregnant with their second child.",e98e3858a7784825a1d27df99232ec8c,4

@@ -1,0 +1,36 @@
+node_1,node_2,edge,chunk_id,count
+tiger,british nationals,Two British nationals were killed by a ferocious tiger in Corbett National Park. This incident is followed by several other tiger attacks and many deaths result.,e8e87ddf8bb347a09669648ec879bb51,4
+corbett national park,tiger,Two British nationals were killed by a ferocious tiger in Corbett National Park. This incident is followed by several other tiger attacks and many deaths result.,e8e87ddf8bb347a09669648ec879bb51,4
+national geographic,corbett national park,"National Geographic sends a correspondent, Krish Thapar to Corbett National Park to ascertain what really happened after several tiger attacks and many deaths result.",e8e87ddf8bb347a09669648ec879bb51,4
+krish thapar,corbett national park,"National Geographic sends a correspondent, Krish Thapar to Corbett National Park to ascertain what really happened after several tiger attacks and many deaths result.",e8e87ddf8bb347a09669648ec879bb51,4
+riya,krish thapar,Krish is accompanied by his wife Riya.,e8e87ddf8bb347a09669648ec879bb51,4
+dev malhotra,hunting trip,"A group of youngsters, consisting of Dev Malhotra, his girlfriend Ishika, his friends Sajid and Vishal, are on a hunting trip in the hopes of sighting and shooting some big prey.",e8e87ddf8bb347a09669648ec879bb51,4
+sajid,dev malhotra,"A group of youngsters, consisting of Dev Malhotra, his girlfriend Ishika, his friends Sajid and Vishal, are on a hunting trip in the hopes of sighting and shooting some big prey.",e8e87ddf8bb347a09669648ec879bb51,4
+vishal,dev malhotra,"A group of youngsters, consisting of Dev Malhotra, his girlfriend Ishika, his friends Sajid and Vishal, are on a hunting trip in the hopes of sighting and shooting some big prey.",e8e87ddf8bb347a09669648ec879bb51,4
+ishika,dev malhotra,"A group of youngsters, consisting of Dev Malhotra, his girlfriend Ishika, his friends Sajid and Vishal, are on a hunting trip in the hopes of sighting and shooting some big prey.",e8e87ddf8bb347a09669648ec879bb51,4
+bagga,youngsters,"A group of youngsters, consisting of Dev Malhotra, his girlfriend Ishika, his friends Sajid and Vishal, are on a hunting trip in the hopes of sighting and shooting some big prey. Their car breaks down and Bagga, an alcoholic passerby driver, gives them a lift.",e8e87ddf8bb347a09669648ec879bb51,4
+car,krish,"Krish's car accidentally hits Bagga's car, which also breaks down and is at the middle of the road. The two groups decide to travel together in Bagga's car.",e8e87ddf8bb347a09669648ec879bb51,4
+bagga,ds pandey,"Bagga finds them a guesthouse to stay which is owned by DS Pandey. Pandey is a guide who agrees to lead them the next day to the core area, where tigers live, for hunting.",f7465480b9924c9eaed56035932234ab,4
+pandey,core area,"Pandey agrees to lead them the next day to the core area, where tigers live, for hunting.",f7465480b9924c9eaed56035932234ab,4
+bagga,krish,"The group becomes suspicious about the real cause of the recent deaths in the jungle, as Krish is an animal expert and recognizes that Pandey's death was not the work of a tiger or any other wild animal.",f7465480b9924c9eaed56035932234ab,4
+bashir khan,group,"Warned by a forest officer named Bashir Khan, the group decides to leave the jungle.",f7465480b9924c9eaed56035932234ab,4
+sajid,core area,Dev assumes that Sajid has gone missing as he has gone by himself to the core area for hunting.,f7465480b9924c9eaed56035932234ab,4
+tigers,group,The group is soon confronted by three tigers on the way.,f7465480b9924c9eaed56035932234ab,4
+mysterious man,group,Soon they find Sajid's decapitated body by a lake. The rest are soon confronted by three tigers on the way. The group is saved by a mysterious man who introduces himself as Kaali Pratap Singh and claims to live in the jungle.,f7465480b9924c9eaed56035932234ab,4
+kaali pratap singh,road,"On their continued way out of the jungle, they find the road blocked by rocks due to the landslide caused by rain.",f7465480b9924c9eaed56035932234ab,4
+kaali pratap singh,group,Kaali shows up again and agrees to lead them out of the jungle.,f7465480b9924c9eaed56035932234ab,4
+kaali,jungle,Kaali appears to be very knowledgeable about the jungle and its history.,3065ab76ec8040bb86b00225f51cc24e,4
+krish,mysterious deaths,"Krish, who is now more curious about the mysterious deaths,",3065ab76ec8040bb86b00225f51cc24e,4
+kaali,crazy tour guide,"Kaali tells them a story about a crazy tour guide in this jungle,",3065ab76ec8040bb86b00225f51cc24e,4
+crazy tour guide,wrong places,who used to lead tourists to the wrong places just to have them killed by wild animals.,3065ab76ec8040bb86b00225f51cc24e,4
+crazy tour guide,ghost,his ghost remains in the jungle and continues to kill tourists.,3065ab76ec8040bb86b00225f51cc24e,4
+riya,deserted guesthouse,They all go to sleep after being warned by Kaali not to get close to the well. Riya wakes up thirsty in the night.,3065ab76ec8040bb86b00225f51cc24e,4
+riya,well,"She decides to get water from the well despite Kaali's warning,",3065ab76ec8040bb86b00225f51cc24e,4
+riya,death,and is later accidentally hung by her foot in the well and dies.,3065ab76ec8040bb86b00225f51cc24e,4
+kaali,ghost of tour guide,Kaali becomes a ghost after being brutally thrashed and thrown in front of a hungry tiger by the villagers. His ghost now stands by the well and expresses his anger and hatred for tourists who come to hunt wild animals and disrupt their well being without any regrets. This is the sole reason why he misleads tourists before killing them.,93ac0804404d4969af206431ed00bc94,4
+krish,dev,"Remaining group members figure out that Riya is dead and try to pull her body out from the well. Dev suddenly notices that Kaali does not have a reflection in the well's water, realizes that Kaali himself is in the ghost of the tour guide mentioned in the story, and proves to Krish and Ishika that Kaali is a ghost and is indeed responsible for all the mysterious deaths happening in the jungle.",93ac0804404d4969af206431ed00bc94,4
+riya,dead,The remaining group members figure out that Riya is dead and try to pull her body out from the well.,93ac0804404d4969af206431ed00bc94,4
+krish,real cause of deaths in jungle,"Krish, fully aware of what caused those mysterious deaths in that jungle, successfully completes his report and deems the deaths as a result of tiger attacks. However, he reluctantly decides not to disclose the real cause of those deaths to anyone since no one will believe him but instead credits Kaali as the main contributor to the report.",2af67c54042949baae37de0e0ccf0def,4
+krish,tiger attacks,Krish successfully completes his report and deems the deaths in the jungle as a result of tiger attacks.,2af67c54042949baae37de0e0ccf0def,4
+kaali,real cause of deaths in jungle,Krish's decision not to disclose the real cause of those deaths to anyone since no one will believe him but instead credits Kaali as the main contributor to the report.,2af67c54042949baae37de0e0ccf0def,4
+tourists,member killed by a truck,Kaali encounters a new group of tourists and has one of the members killed by a truck in the jungle.,2af67c54042949baae37de0e0ccf0def,4

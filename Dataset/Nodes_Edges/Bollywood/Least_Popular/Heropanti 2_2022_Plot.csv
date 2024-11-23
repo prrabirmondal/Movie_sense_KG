@@ -1,0 +1,21 @@
+node_1,node_2,edge,chunk_id,count
+rj,inaaya,"Initially, Inaaya mistakenly believes that RJ is her ex-boyfriend Babloo Ranawat.",91704629cc28445d888f90f215582d90,4
+babloo ranawat,inaaya,Inaaya used to be in a relationship with Babloo Ranawat.,91704629cc28445d888f90f215582d90,4
+rj,babloo ranawat,"RJ claims that he does not know Inaaya, who accuses him of being her ex-boyfriend Babloo Ranawat.",91704629cc28445d888f90f215582d90,4
+babloo ranawat,cbi officer azaad khan,Babloo was recruited by CBI officer Azaad Khan to help stop Laila's plans.,91704629cc28445d888f90f215582d90,4
+laila,cbi officer azaad khan,CBi officer Azaad Khan is trying to stop Laila's plans.,91704629cc28445d888f90f215582d90,4
+babloo ranawat,laila,Babloo was initially a member of Laila's gang.,91704629cc28445d888f90f215582d90,4
+inaaya,laila,Inaaya is the sister of Laila.,91704629cc28445d888f90f215582d90,4
+ambulance driver's wife hema,bank account hacking,The bank account of the ambulance driver's wife Hema was hacked and her money went missing due to Laila's app.,91704629cc28445d888f90f215582d90,4
+laila,bank account hacking,Laila designed an app that steals users' data and their bank accounts' money.,91704629cc28445d888f90f215582d90,4
+babloo ranawat,guilt,"Due to guilt, Babloo rejoins CBI officer Azaad Khan.",91704629cc28445d888f90f215582d90,4
+hema,rj,RJ meets Hema and learns about her husband's suicide due to bank account hacking caused by Laila's app.,91704629cc28445d888f90f215582d90,4
+babloo,laila,enemy relationship as Laila orders his henchmen to kidnap Babloo's mother and challenges Babloo to stop the extraction of money,dd06fcc378e74e948c3e3eb5f3a1d45b,4
+babloo,inaaya,allies relationship as Inaaya joins Babloo in the fight against Laila's crimes,dd06fcc378e74e948c3e3eb5f3a1d45b,4
+hema,babloo,"mother-son relationship as Hema left Bablu to visit Kedar Ghat, India and later joins Babloo and Inaaya in their new life",dd06fcc378e74e948c3e3eb5f3a1d45b,4
+egypt,laila's crime syndicate,location-syndicate relationship as Babloo leaves for Egypt where Laila had established his crime syndicate and kills the syndicate members,dd06fcc378e74e948c3e3eb5f3a1d45b,4
+russia,laila's crime syndicate,location-syndicate relationship as Babloo leaves for Russia where Laila had established his crime syndicate and kills the syndicate members,dd06fcc378e74e948c3e3eb5f3a1d45b,4
+china,laila's crime syndicate,location-syndicate relationship as Babloo leaves for China where Laila had established his crime syndicate and kills the syndicate members,dd06fcc378e74e948c3e3eb5f3a1d45b,4
+babloo,hema,biological relationship as Hema is Babloo's adopted mother,dd06fcc378e74e948c3e3eb5f3a1d45b,4
+inaaya,laila,enemy relationship as Laila reveals to Inaaya about his crimes and challenges her in the fight against Laila's extraction of money,dd06fcc378e74e948c3e3eb5f3a1d45b,4
+vietnam,"babloo, inaaya and babloo's mother","location-group relationship as Babloo, Inaaya and Babloo's mother are living in Vietnam",dd06fcc378e74e948c3e3eb5f3a1d45b,4

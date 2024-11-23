@@ -1,0 +1,4 @@
+node_1,node_2,edge,chunk_id,count
+dangal,movies,is a type of.,d650dc17c9c54407ac75da5f985d107b,4
+dangal,summary,provides details about.,d650dc17c9c54407ac75da5f985d107b,4
+movies,summary,can have a summary associated with it.,d650dc17c9c54407ac75da5f985d107b,4

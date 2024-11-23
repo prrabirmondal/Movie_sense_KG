@@ -1,0 +1,68 @@
+node_1,node_2,edge,chunk_id,count
+movie,details,The statement 'HERE IS THE DETAILS OF MOVIE'S SUMMARY:' indicates that MOVIE and its summary are related through the details. This relation is represented by an edge in our ontology.,2b81775b9f864f88bac117f7fa8deb58,4
+ajnabee,indian hindi-language action thriller film,Ajnabee is a 2001 Indian Hindi-language action thriller film directed by Abbas–Mustan and produced by Vijay Galani.,7134c16a7289496fa34c654550c27c39,4
+abbas–mustan,directors,Ajnabee is directed by Abbas–Mustan.,7134c16a7289496fa34c654550c27c39,4
+vijay galani,producer,Ajnabee is produced by Vijay Galani.,7134c16a7289496fa34c654550c27c39,4
+akshay kumar,actor,Ajnabee stars Akshay Kumar.,7134c16a7289496fa34c654550c27c39,4
+bobby deol,actor,Ajnabee stars Bobby Deol.,7134c16a7289496fa34c654550c27c39,4
+kareena kapoor,actor,Ajnabee stars Kareena Kapoor in her debut.,7134c16a7289496fa34c654550c27c39,4
+bipasha basu,actor,Ajnabee stars Bipasha Basu in her debut.,7134c16a7289496fa34c654550c27c39,4
+johnny lever,supporting role,Ajnabee has Johnny Lever in a supporting role.,7134c16a7289496fa34c654550c27c39,4
+dalip tahil,supporting role,Ajnabee has Dalip Tahil in a supporting role.,7134c16a7289496fa34c654550c27c39,4
+narendra bedi,supporting role,Ajnabee has Narendra Bedi in a supporting role.,7134c16a7289496fa34c654550c27c39,4
+sharat saxena,supporting role,Ajnabee has Sharat Saxena in a supporting role.,7134c16a7289496fa34c654550c27c39,4
+consenting adults,unofficial adaptation of the 1992 american thriller ,Ajnabee is an unofficial adaptation of the 1992 American thriller Consenting Adults.,7134c16a7289496fa34c654550c27c39,4
+raj,character,"In Ajnabee, Raj moves to Switzerland with his wife.",7134c16a7289496fa34c654550c27c39,4
+priya malhotra,character,"In Ajnabee, Priya Malhotra moves to Switzerland with her husband.",7134c16a7289496fa34c654550c27c39,4
+vikram bajaj,character,"In Ajnabee, Vikram Bajaj is an Indian neighbor of Raj and Priya Malhotra in Switzerland.",7134c16a7289496fa34c654550c27c39,4
+sonia bajaj,character,"In Ajnabee, Sonia Bajaj is an Indian neighbor of Raj and Priya Malhotra in Switzerland.",7134c16a7289496fa34c654550c27c39,4
+switzerland,location,Raj and Priya Malhotra move to Switzerland in Ajnabee.,7134c16a7289496fa34c654550c27c39,4
+mauritius,location,"Raj, Priya Malhotra, Vikram Bajaj, and Sonia Bajaj go on a Christmas vacation together to Mauritius in Ajnabee.",7134c16a7289496fa34c654550c27c39,4
+christmas vacation,event,"Raj, Priya Malhotra, Vikram Bajaj, and Sonia Bajaj go on a Christmas vacation together to Mauritius in Ajnabee.",7134c16a7289496fa34c654550c27c39,4
+vicky manipulates the scenario,action,"In Ajnabee, Vicky manipulates the scenario leading to Raj and Sonia getting paired while himself (Vicky) getting paired with Priya.",7134c16a7289496fa34c654550c27c39,4
+sonia becomes more forward in her advances,action,"In Ajnabee, Sonia becomes more forward in her advances towards Raj.",7134c16a7289496fa34c654550c27c39,4
+raj sees vikram kissing another woman,action,"In Ajnabee, Raj sees Vikram kissing another woman.",7134c16a7289496fa34c654550c27c39,4
+vikram eagerly suggests they should also too try it out,action,"In Ajnabee, Vicky eagerly suggests Raj and Sonia should also try partner-swapping.",7134c16a7289496fa34c654550c27c39,4
+partner-swapping,vicky,Vicky eagerly suggests they should also too try it out,bd749e65258940209c5636805a1e5e4a,4
+vicky,raj,casually talks to Raj about partner-swapping .,bd749e65258940209c5636805a1e5e4a,4
+priya,partner-swapping,Priya manages to reconcile Raj and Vicky on the eve of Vicky's birthday a few days later,bd749e65258940209c5636805a1e5e4a,4
+vicky,priya,"Vicky suggests Raj To enjoy with Sonia and Vicky simultaneously request Raj to Let Himself (Vicky) to Enjoy with Priya for the night. Raj is disgusted by the offer, and an argument breaks out between the men.",bd749e65258940209c5636805a1e5e4a,4
+raj,priya,"Priya being unaware of the whole situation going around her, she manages to reconcile Raj and Vicky on the eve of Vicky's birthday a few days later.",bd749e65258940209c5636805a1e5e4a,4
+vicky,raj,"With Priya being unaware of the whole situation going around her, she manages to reconcile Raj and Vicky on the eve of Vicky's birthday a few days later.",bd749e65258940209c5636805a1e5e4a,4
+vicky,priya,The two men celebrate by getting drunk together. Vicky Again suggests Raj to become Vicky and asks whether he(Vicky) could become Raj just for the night,bd749e65258940209c5636805a1e5e4a,4
+raj,priya,"and manages to send a drunk Raj into his house, while he goes on to Raj's house to meet Priya.",bd749e65258940209c5636805a1e5e4a,4
+vicky,raj,The next day Raj wakes up to find a partially clothed woman in bed with him and realizes he was tricked and is in Vicky's house.,bd749e65258940209c5636805a1e5e4a,4
+priya,vicky,Raj enquires if Vicky Came over last night to which Priya confirms Vicky coming over as Raj had sent him over.,bd749e65258940209c5636805a1e5e4a,4
+priya,vicky,She states she fulfilled his request when he came over as it was his birthday and didn't want him to feel disappointed on his birthday by refusing to give what he was asking from her.,bd749e65258940209c5636805a1e5e4a,4
+priya,vicky,She further states it should not be a regular occurrence but won't mind if it's on special occasions.,bd749e65258940209c5636805a1e5e4a,4
+sonia bajaj,raj,"Raj finds a boarding pass that belongs to Sonia Bajaj, which states that Sonia arrived in Zürich from Geneva on 29 December. However, Sonia was supposedly murdered on that night. Raj suspects her as the woman he saw with Vikram in Mauritius.",e7296e7948574b4a956b70fdf00c3bea,4
+vikram,sonia bajaj,Raj suspects Sonia Bajaj as the woman he saw with Vikram in Mauritius.,e7296e7948574b4a956b70fdf00c3bea,4
+malhotras,vicky,Malhotras recall that Vicky entered the house the night of the murder with someone.,e7296e7948574b4a956b70fdf00c3bea,4
+raj,priya,Priya eventually believes in Raj's innocence and aids him in finding out what really happened.,e7296e7948574b4a956b70fdf00c3bea,4
+vicky,raj,"Vicky claims how the idea of wife swapping came from Raj, and while Vicky just spent the night in Raj's house, Raj tried to force Sonia and later killed her.",e7296e7948574b4a956b70fdf00c3bea,4
+sonia bajaj,zürich,"Raj finds a boarding pass that belongs to Sonia Bajaj, which states that Sonia arrived in Zürich from Geneva on 29 December.",e7296e7948574b4a956b70fdf00c3bea,4
+geneva,sonia bajaj,Raj meets an insurance officer who is trying to find evidence that Vikram was in Geneva on the night of Sonia Bajaj's supposed murder.,e7296e7948574b4a956b70fdf00c3bea,4
+vikram,geneva,Raj meets an insurance officer who is trying to find evidence that Vikram was in Geneva on the night of Sonia Bajaj's supposed murder.,e7296e7948574b4a956b70fdf00c3bea,4
+vikram,sonia bajaj,Raj suspects that Sonia Bajaj was with Vikram in Mauritius.,e7296e7948574b4a956b70fdf00c3bea,4
+priya,raj,"The protagonist Priya and her friend Raj travel together to Geneva in search of answers regarding the mysterious death of a woman. Their journey leads them to uncover a web of deceit involving Vikram, Priya's ex-boyfriend.",9185128624164a7887b1f76532bf4475,4
+vikram,sonia bajaj (real wife),"Vikram is married to a wealthy heiress named Sonia Bajaj, and convinces her to take out a $100 million insurance policy on herself. This leads to his devious plan of killing her and claiming the insurance money.",9185128624164a7887b1f76532bf4475,4
+sonia bajaj (real wife),neeta,"In contrast, while traveling with Vikram in Mauritius, Raj sees a woman revealed to be Sonia alive and well. However, Vikram's girlfriend Neeta accompanies him on their travels.",9185128624164a7887b1f76532bf4475,4
+insurance officer,vikram,"An insurance officer tries to find evidence of Vikram's involvement in the death of his wife, in order to claim her life insurance policy worth $100 million.",9185128624164a7887b1f76532bf4475,4
+neeta,insurance officer,"Working with the insurance agent, Raj traces Vikram to a cruise ship where he sees Neeta, and later confronts Vikram regarding his plan. However, during their fight, Neeta dies.",9185128624164a7887b1f76532bf4475,4
+vikram,raj,"In the climax, Vikram gets aggressive and kills the insurance officer in a fit of rage after losing his girlfriend Neeta. Raj impales Vikram with an anchor from the cruise ship, killing him.",9185128624164a7887b1f76532bf4475,4
+ajnabee,commercially successful indian film,Ajnabee is a commercially successful Indian film.,057fe01c3637413f82a6f0ac68893871,4
+taran adarsh,indian film critic,Taran Adarsh is an Indian film critic who reviewed Ajnabee.,057fe01c3637413f82a6f0ac68893871,4
+box office india,indian trade website,Box Office India reported on the box office performance of Ajnabee in 2011.,057fe01c3637413f82a6f0ac68893871,4
+anu malik,indian music composer,Anu Malik composed the soundtrack for Ajnabee.,057fe01c3637413f82a6f0ac68893871,4
+sameer,lyricist,Sameer wrote the lyrics for the songs in Ajnabee's soundtrack.,057fe01c3637413f82a6f0ac68893871,4
+tips music,indian music label,Tips Music released the soundtrack album for Ajnabee.,057fe01c3637413f82a6f0ac68893871,4
+shah rukh khan,bollywood actor,"Initially, Shah Rukh Khan was offered the role of Vikram Bajaj in Ajnabee but declined.",057fe01c3637413f82a6f0ac68893871,4
+character dheela,song from the indian film ready,Malik claimed that the song 'Character Dheela' from Ready is an unauthorised copy of the song 'Mohabbat Naam Hai' from Ajnabee in 2011.,057fe01c3637413f82a6f0ac68893871,4
+pritam,indian music composer,Malik accused composer Pritam of plagiarism for the song 'Character Dheela' from Ready in 2011.,057fe01c3637413f82a6f0ac68893871,4
+ajnabee,shoddy feel,the film has a shoddy feel to it,f144eb256b4044db8f1d875bb3e17159,4
+camerawork,jarring,the camerawork jars,f144eb256b4044db8f1d875bb3e17159,4
+script,loss of control,when vague scenes are pieced together at the climax,f144eb256b4044db8f1d875bb3e17159,4
+comic relief,loud,spearheaded by Johny Lever,f144eb256b4044db8f1d875bb3e17159,4
+insipid humour,overboard,the insipid humour goes overboard,f144eb256b4044db8f1d875bb3e17159,4
+bold attempt,vain,Ajnabee could have been the precursor of the new niche thriller. But its makers haven't displayed enough bravado.,f144eb256b4044db8f1d875bb3e17159,4
+plot,bizarre,a plot so dramatic that you continue to watch just to see what bizarre thing will happen next,f144eb256b4044db8f1d875bb3e17159,4

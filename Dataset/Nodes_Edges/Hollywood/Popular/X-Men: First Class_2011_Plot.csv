@@ -1,0 +1,33 @@
+node_1,node_2,edge,chunk_id,node_3,count
+klaus schmidt,erik lehnsherr,"Schmidt witnesses Lehnsherr bending a metal gate with his mind upon being separated from his parents at the Auschwitz concentration camp. Schmidt brings Lehnsherr into his office and asks him to move a coin on his desk, which Lehnsherr cannot do. In response, Schmidt kills Lehnsherr's mother.",8a855f652a004678b54e9905909b7365,,4
+erik lehnsherr,schmidt,Lehnsherr's magnetic power manifests and destroys the room after Schmidt kills his mother due to Lehnsherr's inability to move a coin on his desk.,8a855f652a004678b54e9905909b7365,,4
+charles xavier,raven,"Xavier meets Raven, who is blue-skinned and a shapeshifter, and invites her to live with him.",8a855f652a004678b54e9905909b7365,,4
+moira mactaggert,us army colonel hendry,MacTaggert follows Hendry into the Hellfire Club.,8a855f652a004678b54e9905909b7365,,4
+colonel hendry,sebastian shaw,Hendry meets with Shaw at the Hellfire Club.,8a855f652a004678b54e9905909b7365,,4
+emma frost,riptide,"Frost, Riptide, and Azazel meet with Shaw at the Hellfire Club.",8a855f652a004678b54e9905909b7365,Azazel,4
+director mccone,xavier,MacTaggert seeks Xavier's advice on mutation and takes him and Raven to the CIA.,8a855f652a004678b54e9905909b7365,,4
+shaw,mactaggert,Threat relationship mentioned in the context.,a619294643584cddbca3396992c98f42,,4
+division x,cia officer,Relationship between the sponsoring CIA officer and Division X.,a619294643584cddbca3396992c98f42,,4
+mactaggert,xavier,Rescue relationship mentioned in the context.,a619294643584cddbca3396992c98f42,,4
+lehnsherr,division x,Facility relationship mentioned in the context.,a619294643584cddbca3396992c98f42,,4
+xavier,mccoy,Mutant-locating device relationship mentioned in the context.,a619294643584cddbca3396992c98f42,,4
+salvadore,division x,Recruitment relationship mentioned in the context.,a619294643584cddbca3396992c98f42,,4
+muñoz,division x,Recruitment relationship mentioned in the context.,a619294643584cddbca3396992c98f42,,4
+summers,division x,Recruitment relationship mentioned in the context.,a619294643584cddbca3396992c98f42,,4
+cassidy,division x,Recruitment relationship mentioned in the context.,a619294643584cddbca3396992c98f42,,4
+shaw,frost,Captivity relationship mentioned in the context.,a619294643584cddbca3396992c98f42,,4
+xavier,recruits,Leadership relationship mentioned in the context.,a619294643584cddbca3396992c98f42,,4
+lehnsherr,division x,Hospitalization relationship mentioned in the context.,a619294643584cddbca3396992c98f42,,4
+xavier,mccoy,Mutant-locating device relationship mentioned in the context (second occurrence).,a619294643584cddbca3396992c98f42,,4
+raven,mccoy,Cure relationship mentioned in the context.,a619294643584cddbca3396992c98f42,,4
+lehnsherr,mccoy,Blocked telepathy relationship mentioned in the context.,a619294643584cddbca3396992c98f42,,4
+lehnsherr,xavier,"Lehnsherr persuades Xavier to refuse the cure, leading to Xavier's paralysis and departure of Lehnsherr with other mutants.",e0a5702ee12c4a0bb9c684df8ca76299,,4
+mccoy,himself,"McCoy uses the cure on himself, but it backfires, giving him blue fur and leonine aspects.",e0a5702ee12c4a0bb9c684df8ca76299,,4
+xavier,soviet sailor,Xavier uses his telepathy to influence the Soviet sailor to destroy the ship carrying the missiles.,e0a5702ee12c4a0bb9c684df8ca76299,,4
+lehnsherr,shaw,"Lehnsherr shares Shaw's exclusivist view of mutants, but desires to avenge his mother and kills Shaw by pushing the Nazi coin through his brain.",e0a5702ee12c4a0bb9c684df8ca76299,,4
+mactaggert,lehnsherr,"MacTaggert tries to stop Lehnsherr, but he deflects her bullets, one of which hits Xavier in the spine when he intervenes between them.",e0a5702ee12c4a0bb9c684df8ca76299,,4
+xavier,shaw,Xavier experiences Shaw's death when he tries to stop Lehnsherr from killing Shaw.,e0a5702ee12c4a0bb9c684df8ca76299,,4
+xavier,mansion,intends to open a school at the mansion,5e1eccbcbd814928b0e0458821d1f46e,,4
+mactaggert,location,promises not to reveal Xavier's location,5e1eccbcbd814928b0e0458821d1f46e,,4
+xavier,mutants,returns to the mansion with his mutants,5e1eccbcbd814928b0e0458821d1f46e,,4
+lehnsherr,frost,frees Frost from her prison,5e1eccbcbd814928b0e0458821d1f46e,,4

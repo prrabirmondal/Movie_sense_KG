@@ -1,0 +1,24 @@
+node_1,node_2,edge,chunk_id,count
+rohan sachdev,mridula chawla aka mia,"Started as childhood sweethearts, continue their relationship at St. Teresa's College after Mia transfers there.",cd8e636548734f06b4e40a24885fbdd4,4
+rohan sachdev,mridula chawla aka mia,Rohan wins the college over by showcasing his sports skills and begins a relationship with Mia at St. Teresa's College.,cd8e636548734f06b4e40a24885fbdd4,4
+rohan sachdev,manav singh randhawa,"Became friends with the reigning 'Student of the Year' and son of a wealthy school donor, Sukesh Singh Randhawa at St. Teresa's College.",cd8e636548734f06b4e40a24885fbdd4,4
+manav singh randhawa,sukesh singh randhawa,Father of Manav and a wealthy school donor at St. Teresa's College.,cd8e636548734f06b4e40a24885fbdd4,4
+rohan sachdev,shreya randhawa,"Initially at odds due to Shreya's pranks, but later helped by her to make amends with his old friends at Pishorilal.",cd8e636548734f06b4e40a24885fbdd4,4
+manav singh randhawa,shreya randhawa,Popular girl at St. Teresa's College and sister of Manav.,cd8e636548734f06b4e40a24885fbdd4,4
+rohan sachdev,mia,"Spotted getting intimate with Manav by Rohan, leading to his expulsion from St. Teresa's College and a brutal beating by Manav and his friends.",cd8e636548734f06b4e40a24885fbdd4,4
+manav singh randhawa,mia,"Deliberately planted by Manav to spoil Rohan's image, leading to Rohan giving him a tight slap for stealing her.",cd8e636548734f06b4e40a24885fbdd4,4
+shreya randhawa,rohan sachdev,"Initially insulted and discouraged him, but later impressed by his sincerity at Pishorilal.",cd8e636548734f06b4e40a24885fbdd4,4
+shreya randhawa,rohan sachdev,Convinced him to join her in a national dance competition and falls in love with him at St. Teresa's College.,cd8e636548734f06b4e40a24885fbdd4,4
+rohan,shreya,helps her make amends with his old friends and falls in love with her as they practice for a national dance competition.,0329f8b3ebaf4cdabd91ecae4e7784a7,4
+mia,rohan,"[{'sentence': 'She also convinces him to join her in a national dance competition.', 'relationship': 'participates together in'}, {'sentence': 'Mia tries to convince Rohan to get back with her, but Shreya insists against it and an argument starts between Mia and Shreya where the latter accidentally spills coffee over the former.', 'relationship': 'has a disagreement with (accidentally spilled coffee on) in front of'}, {'sentence': ""At the hospital, Mia holds Rohan's hand in front of Shreya to show that they had reconciled."", 'relationship': 'shows reconciliation between with in front of'}]",0329f8b3ebaf4cdabd91ecae4e7784a7,4
+shreya,mia,refuses to get back together with Rohan when Mia tries to kiss him.,0329f8b3ebaf4cdabd91ecae4e7784a7,4
+pishorilal,st. teresa's students,"fights against in an inter-school multi-event tournament, ending in Rohan's teammate Abhishek being badly injured.",0329f8b3ebaf4cdabd91ecae4e7784a7,4
+mia,rohan,"[{'sentence': 'Although upset, she decides to support him and they become friends.', 'relationship': 'supports as friends after disagreement'}, {'sentence': 'Before the final, he confesses his love to Shreya again, which she accepts when he tells her that Mia was just a friend.', 'relationship': 'admits past romantic relationship with (just a friend)'}]",0329f8b3ebaf4cdabd91ecae4e7784a7,4
+shreya,mia,"leaves smiling, knowing that Rohan's dream of winning the tournament was fulfilled.",0329f8b3ebaf4cdabd91ecae4e7784a7,4
+rohan,shreya,"[{'sentence': 'Embraces after he helps his team fight and win the tournament, defeating St. Teresa.', 'relationship': 'celebrates victory together after'}]",0329f8b3ebaf4cdabd91ecae4e7784a7,4
+rohan,student of the year,"Rohan becomes the Student of the Year, leaving Manav upset.",dde06c3ac5704184852e7b82d3cb55c5,4
+rohan,team,helps his team fight and win the tournament,dde06c3ac5704184852e7b82d3cb55c5,4
+st. teresa,defeated,Rohan's team defeats St. Teresa.,dde06c3ac5704184852e7b82d3cb55c5,4
+rohan,mia,Rohan and Mia embrace.,dde06c3ac5704184852e7b82d3cb55c5,4
+mia,knows,"Mia leaves smiling, knowing that Rohan's dream of being the Student of the Year will now come true.",dde06c3ac5704184852e7b82d3cb55c5,4
+pishorilal,celebrates,Pishorilal celebrates their first-ever victory.,dde06c3ac5704184852e7b82d3cb55c5,4

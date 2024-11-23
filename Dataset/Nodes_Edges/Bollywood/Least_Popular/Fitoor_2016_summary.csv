@@ -1,0 +1,4 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,"A movie consists of a summary, which provides an overview of its plot.",7c5e75ff62364f1a86ece7ce53cbb3b6,4
+message,displayed,"This message is being displayed for some reason. Two possible reasons are that the user has requested the details of a movie's summary, or there is some other issue with the system.",7c5e75ff62364f1a86ece7ce53cbb3b6,4
+user,requested,The user has requested the details of this movie's summary. This message is being displayed as a result of that request.,7c5e75ff62364f1a86ece7ce53cbb3b6,4

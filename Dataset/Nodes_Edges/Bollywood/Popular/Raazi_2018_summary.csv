@@ -1,0 +1,3 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,"A movie has a summary that provides details about its plot, cast, and other important information.",5e57537a55e94f7c90cd4c6a1935c16d,4
+message,displayed,This message is displayed when trying to access certain features of the program or website. It indicates that further details are required before proceeding.,5e57537a55e94f7c90cd4c6a1935c16d,4

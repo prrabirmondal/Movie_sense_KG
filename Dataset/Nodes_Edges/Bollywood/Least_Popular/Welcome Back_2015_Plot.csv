@@ -1,0 +1,26 @@
+node_1,node_2,edge,chunk_id,count
+uday shetty,rajiv,brother-in-law of Uday Shetty,ff58a98b351d43d19057c26f2e87f833,4
+shankar shetty,uday shetty,father of Uday Shetty,ff58a98b351d43d19057c26f2e87f833,4
+poonam,babita,conwomen posing as Maharani Padmavati and Rajkumari Chandni,ff58a98b351d43d19057c26f2e87f833,4
+uday shetty,poonam,financed by Uday Shetty due to attraction of Babita,ff58a98b351d43d19057c26f2e87f833,4
+majnu pandey,poonam,financed by Majnu Pandey due to attraction of Babita,ff58a98b351d43d19057c26f2e87f833,4
+ranjana,shankar shetty,sister from Shankar Shetty's third marriage,ff58a98b351d43d19057c26f2e87f833,4
+majnu pandey,ranjana,emotionally blackmailed by Shankar into arranging the marriage of Ranjana,ff58a98b351d43d19057c26f2e87f833,4
+uday shetty,majnu pandey,emotionally blackmailed by Shankar into arranging the marriage of Ranjana,ff58a98b351d43d19057c26f2e87f833,4
+doctor ghunguroo,rajiv,uncle of Rajiv,ff58a98b351d43d19057c26f2e87f833,4
+ajju,doctor ghunguroo,step son of Doctor Ghunguroo's wife's previous marriage,ff58a98b351d43d19057c26f2e87f833,4
+majnu,ranjana,"arrange the marriage of Ranjana with the step-son of Doctor Ghunguroo, not knowing that he is a goon",ff58a98b351d43d19057c26f2e87f833,4
+majnu,ranjana,"reveal the truth, causing Ajju to retaliate with a fight",ff58a98b351d43d19057c26f2e87f833,4
+ajju,wanted bhai's son honey,"Honey tries to marry Ranjana without the brothers' consent, causing Ajju to retaliate with a fight. Wanted Bhai supports his son and they are both in league with Babita and Poonam against the brothers.",1b47f2ce44fc4fbaa24984fabbf0baf7,4
+uday,majnu,"The brothers visit Wanted Bhai, who is an infamous blind don, expecting to keep Ajju at bay. However, they also return to their old, violent ways in order to kill Ajju.",1b47f2ce44fc4fbaa24984fabbf0baf7,4
+ranjana,decent man for marriage,"The brothers decide to arrange the marriage of Ranjana to some other decent man, in order to sidestep Ajju as well as Wanted Bhai's son.",1b47f2ce44fc4fbaa24984fabbf0baf7,4
+ajju,dr. ghunguroo,Ajju and Dr. Ghunguroo are in league against the brothers and try to convince Honey that he no longer loves Ranjana and that Babita is his true love.,1b47f2ce44fc4fbaa24984fabbf0baf7,4
+dr. ghunguroo,ghost act,Dr. Ghunguroo plans a ghost act to scare Uday and Majnu and tries to finish them off along with Ajju.,1b47f2ce44fc4fbaa24984fabbf0baf7,4
+cctv camera,activities of the brothers,"Their activities have been recorded by CCTV camera, causing Wanted Bhai and Honey to plan to finish them off.",1b47f2ce44fc4fbaa24984fabbf0baf7,4
+camels,chased by wanted bhai,A group of camels heavily march there. The brothers escape towards the desert where they are chased by Wanted Bhai.,1b47f2ce44fc4fbaa24984fabbf0baf7,4
+wanted bhai,gratitude,"As a form of gratitude, Wanted Bhai himself decides to save Honey from the stampede of camels and restoring his sight.",1b47f2ce44fc4fbaa24984fabbf0baf7,4
+wanted bhai,success,is successful in saving,3d75cb4212cd4d3aacb90437f8a34c29,4
+camels,stampede,of,3d75cb4212cd4d3aacb90437f8a34c29,4
+wanted bhai,ranjana,"decides to arrange the marriage of Ajju with as a form of gratitude, calling Ajju his 'second son'",3d75cb4212cd4d3aacb90437f8a34c29,4
+ajju,ranjana,arranges the marriage,3d75cb4212cd4d3aacb90437f8a34c29,4
+sandstorm,conjuring up,making everyone run for their lives,3d75cb4212cd4d3aacb90437f8a34c29,4

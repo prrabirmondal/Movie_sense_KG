@@ -1,0 +1,61 @@
+node_1,node_2,edge,chunk_id,count
+movie,details,"MOVIE's information or attributes such as cast, crew, genre, plot, etc. Are referred to as DETAILS.",7d8927846f2d4d969f50dc0ace4a3f1e,4
+chun-li,street fighter video game series,"The Legend of Chun-Li is a non-canonical spin-off and theatrical tie-in to Street Fighter IV, based upon the Street Fighter video game series produced by Capcom.",c5819f880ae147acad5ecadbc5a1bd03,4
+chun-li,kristin kreuk,Played by Kristin Kreuk in the film.,c5819f880ae147acad5ecadbc5a1bd03,4
+street fighter character,chun-li,The story follows the quest of Street Fighter character Chun-Li before the events of the original Street Fighter.,c5819f880ae147acad5ecadbc5a1bd03,4
+xiang,chun-li's father,Businessman Xiang teaches wushu to Chun-Li in Hong Kong.,c5819f880ae147acad5ecadbc5a1bd03,4
+shadaloo,thugs working for shadaloo,"Attacks Chun-Li's family, with Xiang being abducted.",c5819f880ae147acad5ecadbc5a1bd03,4
+criminal organization,shadaloo,A criminal organization in the film.,c5819f880ae147acad5ecadbc5a1bd03,4
+san francisco,chun-li,Moves from San Francisco to Hong Kong with her family.,c5819f880ae147acad5ecadbc5a1bd03,4
+hong kong,chun-li,Learns wushu from her father in Hong Kong.,c5819f880ae147acad5ecadbc5a1bd03,4
+charlie nash,co-star chris klein,Played by Chris Klein in the film.,c5819f880ae147acad5ecadbc5a1bd03,4
+balrog,michael clarke duncan,Portrayed by Michael Clarke Duncan in the film.,c5819f880ae147acad5ecadbc5a1bd03,4
+vega,taboo,Depicted as Vega in the film.,c5819f880ae147acad5ecadbc5a1bd03,4
+m. bison,neal mcdonough,Appears as M. Bison in the film.,c5819f880ae147acad5ecadbc5a1bd03,4
+chun-li,gen,"Chun-Li meets an elderly woman who translates a mysterious scroll given to her by her mother. The woman tells Chun-Li to find a man named Gen, who teaches her martial arts and helps her locate her father.",b5f493580541454f9e8c9f91d7bcb6db,4
+chun-li,m. bison,"Chun-Li learns that M. Bison is the crime boss who announced complete control of Shadaloo and had other shareholders executed. She later overhears a conversation between Bison's henchman and a property owner, revealing his involvement in forcing landowners to sign their land over to him.",b5f493580541454f9e8c9f91d7bcb6db,4
+chun-li,balrog,Chun-Li spies on Balrog and learns more about Bison's operations.,b5f493580541454f9e8c9f91d7bcb6db,4
+cantana,chun-li,"Chun-Li confronts Cantana, one of Bison's secretaries, in a nightclub and obtains information on the shipment of the 'White Rose'.",b5f493580541454f9e8c9f91d7bcb6db,4
+shadaloo,m. bison,"M. Bison is the crime boss who announced complete control of Shadaloo and had other shareholders executed, which Chun-Li learns while investigating crimes in Bangkok.",b5f493580541454f9e8c9f91d7bcb6db,4
+royal thai police,maya sunee,Maya Sunee is a Royal Thai Police detective who meets Interpol agent Charlie Nash while investigating murders in Bangkok.,b5f493580541454f9e8c9f91d7bcb6db,4
+charlie nash,maya sunee,Maya Sunee meets Interpol agent Charlie Nash while investigating murders in Bangkok.,b5f493580541454f9e8c9f91d7bcb6db,4
+white rose,chun-li,Chun-Li obtains information on the location of the White Rose before escaping from Shadaloo's thugs and Nash and Maya.,1663d5c89cf24084930bd7f159abbddb,4
+white rose,gen,"During lunch, Gen reveals more of Bison's past; he was born in Bangkok to Irish missionaries but abandoned as an infant, grew up an orphan, and lived his life as a thief.",1663d5c89cf24084930bd7f159abbddb,4
+white rose,harbor employee,A harbor employee tells Chun-Li the arrival time of the White Rose.,1663d5c89cf24084930bd7f159abbddb,4
+chun-li,cantana,"Chun-Li confronts Cantana, one of Bison's secretaries, in a nightclub. She obtains information on the location of the White Rose before escaping from Shadaloo's thugs and Nash and Maya.",1663d5c89cf24084930bd7f159abbddb,4
+chun-li,vega,"Chun-Li is later attacked by Vega, whom she defeats and leaves hanging by the side of a building.",1663d5c89cf24084930bd7f159abbddb,4
+gen,bison's past,"During lunch, Gen reveals more of Bison's past; he was born in Bangkok to Irish missionaries but abandoned as an infant, grew up an orphan, and lived his life as a thief.",1663d5c89cf24084930bd7f159abbddb,4
+bison,gen,"Gen is attacked by Shadaloo troops, and Balrog blows up his house.",1663d5c89cf24084930bd7f159abbddb,4
+chun-li,guards,"After Bison and Balrog leave the house, Chun-Li beats up the guards and escapes, during which she is shot in the arm while trying to protect a child.",1663d5c89cf24084930bd7f159abbddb,4
+chun-li,angered thai locals,Angered Thai locals then attack Bison's henchmen.,1663d5c89cf24084930bd7f159abbddb,4
+maya,nash,"Aided by Maya and her SWAT team, they arrive at the shipping yard and engage in a shootout with Shadaloo forces.",1663d5c89cf24084930bd7f159abbddb,4
+chun-li,bison,"In taking down Bison, Chun-Li charges up a Kikoken and shoots it at him before breaking his neck with her legs during their battle.",8ee7a468fd22447f98e792137bb26fcb,4
+gen,balrog,Gen faces off against Balrog in a ship during the engagement of Shadaloo forces.,8ee7a468fd22447f98e792137bb26fcb,4
+maya,shadaloo forces,"Aided by Maya and her SWAT team, they arrive at the shipping yard and engage in a shootout with Shadaloo forces.",8ee7a468fd22447f98e792137bb26fcb,4
+gen,bison,"After taking down Bison's daughter Rose, Chun-Li and the officers arrive at Bison's headquarters while Gen faces Bison in a separate battle.",8ee7a468fd22447f98e792137bb26fcb,4
+rose,bison,Bison flees the scene after taking a Russian-speaking girl named Rose from that ship during the engagement of Shadaloo forces.,8ee7a468fd22447f98e792137bb26fcb,4
+chun-li,ryu,Gen shows Chun-Li a newspaper advert for an upcoming Street Fighter tournament in which a fighter named Ryu might be a recruit for their cause.,8ee7a468fd22447f98e792137bb26fcb,4
+street fighter,chun-li,was cast as Chun-Li.,76aa808126d549598a7c59747bdf4f64,4
+balrog,characters,"Michael Clarke Duncan, Chris Klein, Taboo, Rick Yune and Neal McDonough were cast as characters Balrog, Charlie Nash, Vega, Gen and M. Bison",76aa808126d549598a7c59747bdf4f64,4
+gen,robin shou,Replaced Yune who left the film for unknown reasons.,76aa808126d549598a7c59747bdf4f64,4
+filming locations,"hong kong, china; bangkok, thailand; vancouver, canada; and reno, nevada and herlong, california, united states.",Shooting locations included...,76aa808126d549598a7c59747bdf4f64,4
+writers strike,release date,"Because of the ongoing writers strike at the time, the film was released in theatres in the United States on February 27, 2009.",76aa808126d549598a7c59747bdf4f64,4
+street fighter,direct-to-dvd release,"In Australia, the film did not receive a theatrical release, but a straight-to-DVD release instead on January 14, 2010.",76aa808126d549598a7c59747bdf4f64,4
+madea goes to jail,box office performance,"Madea Goes to Jail had a disappointing box office performance, grossing $12.8 million worldwide against its $50 million budget.",14899fe85a6142978b1106b0dff2ea73,4
+street fighter: the legend of chun-li,critical response,"Street Fighter: The Legend of Chun-Li received overwhelmingly negative critical response, with a rating of 3% on Rotten Tomatoes and an average score of 17 out of 100 on Metacritic.",14899fe85a6142978b1106b0dff2ea73,4
+madea goes to jail,box office rankings,"On its second weekend, Madea Goes to Jail opened at #9 and performed at #9 on the American DVD sales chart.",14899fe85a6142978b1106b0dff2ea73,4
+street fighter: the legend of chun-li,pre-screening for critics,"Similar to the previous live-action film Street Fighter, Street Fighter: The Legend of Chun-Li was not pre-screened for critics.",14899fe85a6142978b1106b0dff2ea73,4
+madea goes to jail,released format,"Madea Goes to Jail was released on home media in DVD and Blu-ray formats, with a Unrated/PG-13 version included.",14899fe85a6142978b1106b0dff2ea73,4
+street fighter: the legend of chun-li,video game adaptation,"Street Fighter: The Legend of Chun-Li is a perfectly forgettable video game adaptation, according to critical consensus.",14899fe85a6142978b1106b0dff2ea73,4
+street fighter: the legend of chun-li,gone with the wind,"according to Leonard Maltin, Street Fighter: The Legend of Chun-Li seems like a worse movie than Gone with the Wind",abc089cf6f564dd89b98413760532b6e,4
+street fighter: the legend of chun-li,four hundred funerals and no sex,"Jae-Claude Van Damme fans couldn't rationalize this pointless and inept action vehicle, which should have been titled Four Hundred Funerals and No Sex",abc089cf6f564dd89b98413760532b6e,4
+street fighter: the legend of chun-li,turkey,"according to Leonard Maltin, Street Fighter: The Legend of Chun-Li is a pointless and inept action vehicle that makes its predecessor seem like Gone with the Wind...Hopelessly contrived, with lamely-choreographed fight sequences",abc089cf6f564dd89b98413760532b6e,4
+street fighter: the legend of chun-li,overwhelming dislike,"based on 11 reviews, Street Fighter: The Legend of Chun-Li indicates overwhelming dislike",abc089cf6f564dd89b98413760532b6e,4
+street fighter: the legend of chun-li,"chris klein's cry of 'bomb! get out, now!'","highlight is Chris Klein's cry of 'Bomb! Get out, now!'",abc089cf6f564dd89b98413760532b6e,4
+street fighter: the legend of chun-li,rob nelson (variety),Rob Nelson of Variety wrote that Street Fighter: The Legend of Chun-Li at least gives action fans plenty to ogle besides the titular heroine (Kristin Kreuck),abc089cf6f564dd89b98413760532b6e,4
+street fighter: the legend of chun-li,jeannette catsoulis (the new york times),"Jeannette Catsoulis of The New York Times wrote that the film's vivid Bangkok locations are crisp and bright, and Dion Lam's action choreography unusually witty",abc089cf6f564dd89b98413760532b6e,4
+street fighter: the legend of chun-li,justin marks' solemn screenplay,"Frank Scheck of The Hollywood Reporter wrote that other than a few reasonably well-staged fight sequences, the proceedings are dull and visually uninspired. Justin Marks' solemn screenplay lacks any trace of wit",abc089cf6f564dd89b98413760532b6e,4
+street fighter: the legend of chun-li,dull and visually uninspired,"Frank Scheck of The Hollywood Reporter wrote that fight scenes, while admirable for shaking off the shaky-cam aesthetic of their big-screen brethren, neither inspire",abc089cf6f564dd89b98413760532b6e,4
+street fighter: the legend of chun-li,few reasonably well-staged fight sequences,"Rob Nelson of Variety wrote that among the film's more positive reviews, Street Fighter: The Legend of Chun-Li gives action fans plenty to ogle besides the titular heroine (Kristin Kreuck)",abc089cf6f564dd89b98413760532b6e,4
+street fighter: the legend of chun-li,more positive reviews,Rob Nelson of Variety wrote that among the film's more positive reviews,abc089cf6f564dd89b98413760532b6e,4
+admirable fight scenes,fx-laden power punches,"While admirable for shaking off the shaky-cam aesthetic of their big-screen brethren, neither inspire nor find a good balance between martial arts and.",eaf9433356964cce99bda48571defc58,4

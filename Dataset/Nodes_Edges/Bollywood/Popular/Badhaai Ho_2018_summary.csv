@@ -1,0 +1,47 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,"A movie is represented by its summary, which provides an overview of the plot and important events in the film.",37257f97773e4d3cbd007cb086fec4ac,4
+badhaai ho,bollywood film,Badhaai Ho is a Bollywood film directed by Amit Ravindernath Sharma.,806565b1e06a436d9709288079dc6194,4
+amit ravindernath sharma,director,Amit Ravindernath Sharma is the director of Badhaai Ho.,806565b1e06a436d9709288079dc6194,4
+badhaai ho,comedy drama film,Badhaai Ho is a comedy drama film directed by Amit Ravindernath Sharma.,806565b1e06a436d9709288079dc6194,4
+ayushmann khurrana,actor,Ayushmann Khurrana stars in Badhaai Ho alongside Neena Gupta and Gajraj Rao.,806565b1e06a436d9709288079dc6194,4
+neena gupta,actress,Neena Gupta plays a pivotal role in Badhaai Ho opposite Ayushmann Khurrana and Gajraj Rao.,806565b1e06a436d9709288079dc6194,4
+gajraj rao,actor,Gajraj Rao features in Badhaai Ho alongside Ayushmann Khurrana and Neena Gupta.,806565b1e06a436d9709288079dc6194,4
+shardul rana,actor,Shardul Rana plays a supporting role in Badhaai Ho.,806565b1e06a436d9709288079dc6194,4
+sanya malhotra,actress,"Sanya Malhotra appears in Badhaai Ho alongside Ayushmann Khurrana, Neena Gupta and Gajraj Rao.",806565b1e06a436d9709288079dc6194,4
+badhaai ho,chrome pictures,Badhaai Ho is produced by Chrome Pictures.,806565b1e06a436d9709288079dc6194,4
+vineet jain,producer,Junglee Pictures' Vineet Jain co-produces Badhaai Ho with Chrome Pictures.,806565b1e06a436d9709288079dc6194,4
+badhaai ho,2018 film,Badhaai Ho is a 2018 Indian Hindi-language comedy drama film directed by Amit Ravindernath Sharma.,806565b1e06a436d9709288079dc6194,4
+nakul kaushik,character,Nakul Kaushik is a character in the storyline of Badhaai Ho.,806565b1e06a436d9709288079dc6194,4
+renee,character,Renee is a character in the storyline of Badhaai Ho opposite Nakul Kaushik.,806565b1e06a436d9709288079dc6194,4
+bollywood film,indian cinema,"Badhaai Ho is a Bollywood film, which falls under the category of Indian cinema.",806565b1e06a436d9709288079dc6194,4
+priyamvada,jeetu kaushik,spouse relationship,3f6332023c00459d852e9b56559287c6,4
+durga,priyamvada,in-law relationship,3f6332023c00459d852e9b56559287c6,4
+gullar kaushik,priyamvada,child relationship,3f6332023c00459d852e9b56559287c6,4
+nakul kaushik,priyamvada,child relationship,3f6332023c00459d852e9b56559287c6,4
+sangeeta,renee,parent-in-law and daughter-in-law relationship,3f6332023c00459d852e9b56559287c6,4
+jeetu kaushik,gullar kaushik,father-child relationship,3f6332023c00459d852e9b56559287c6,4
+priyamvada,durga,daughter-in-law and mother-in-law relationship,3f6332023c00459d852e9b56559287c6,4
+renee,nakul kaushik,girlfriend relationship,3f6332023c00459d852e9b56559287c6,4
+priyamvada,society,undergoes societal judgment due to pregnancy at advanced age,3f6332023c00459d852e9b56559287c6,4
+jeetu kaushik,society,undergoes societal judgment due to pregnancy at advanced age,3f6332023c00459d852e9b56559287c6,4
+nakul kaushik,renee,avoids girlfriend after news of pregnancy reaches her mother,3f6332023c00459d852e9b56559287c6,4
+jeetu kaushik,priyamvada,"consoles his wife and gets intimate with her, leading to pregnancy",3f6332023c00459d852e9b56559287c6,4
+nakul kaushik,renee,unable to get intimate with girlfriend due to mother's pregnancy,3f6332023c00459d852e9b56559287c6,4
+renee,nakul,"rifts in their relationship due to Nakul speaking ill of the Kaushik family, reconciliation through Nakul making amends",bdff9670aff34fcc8a3144fc6035202c,4
+sangeeta,nakul,"speaking ill of the Kaushik family, leading to mistreatment of parents by Nakul but realization and defense by Nakul after overhearing",bdff9670aff34fcc8a3144fc6035202c,4
+priyamvada,durga,dutifulness defended by Durga against ridicule from Jeetu's elder sister-in-law and sister,bdff9670aff34fcc8a3144fc6035202c,4
+gullar,nakul,"stand up for his mother leading to bullying at school, bonding over recent experiences between brothers",bdff9670aff34fcc8a3144fc6035202c,4
+jeetu's elder sister-in-law and sister,priyamvada,ridicule due to late pregnancy,bdff9670aff34fcc8a3144fc6035202c,4
+durga,jeetu's elder sister-in-law and sister,chastisement for selfishness against Priyamvada's dutifulness defense by Durga,bdff9670aff34fcc8a3144fc6035202c,4
+nakul,renee,engagement in the presence of families including baby sister,bdff9670aff34fcc8a3144fc6035202c,4
+badhaai ho,eventually worldwide gross,"The film's eventual worldwide gross was ₹221.48 crore, as reported by various sources.",4a7cdd2f27684c9bb9de45feaad7ce6e,4
+first schedule,mumbai,"The first schedule of the movie wrapped on February 11, 2018, in Mumbai.",4a7cdd2f27684c9bb9de45feaad7ce6e,4
+second schedule,delhi,"The second schedule of the movie began on February 16, 2018, in Delhi.",4a7cdd2f27684c9bb9de45feaad7ce6e,4
+badhaai ho,first day box office collection,The movie earned ₹7.35 crore at the box office on its first day of release.,4a7cdd2f27684c9bb9de45feaad7ce6e,4
+badhaai ho,indian box office collection by week 7,The movie had collected ₹135.95 crore at the Indian Box Office by the seventh week of its release.,4a7cdd2f27684c9bb9de45feaad7ce6e,4
+badhaai ho,remakes in various languages,"The movie is set to be remade in Tamil, Telugu, Kannada and Malayalam by Boney Kapoor.",4a7cdd2f27684c9bb9de45feaad7ce6e,4
+badhaai ho,indonesian remake,The movie is set to be remade in Indonesian under the title Keluarga Slamet.,4a7cdd2f27684c9bb9de45feaad7ce6e,4
+badhaai ho,spiritual sequel,"In March 2020, Junglee Pictures announced that Rajkummar Rao and Bhumi Pednekar will star in the official spiritual sequel of Badhaai Ho, titled Badhaai Do.",4a7cdd2f27684c9bb9de45feaad7ce6e,4
+badhaai ho,principal photography,"The principal photography for Badhaai Do commenced on January 5, 2021, in Dehradun.",4a7cdd2f27684c9bb9de45feaad7ce6e,4
+songs,composers,"The songs of the movie are composed by Tanishk Bagchi, Rochak Kohli, JAM8 and Sunny Bawra-Inder Bawra.",4a7cdd2f27684c9bb9de45feaad7ce6e,4
+songs,lyricists,"The lyrics of the songs are written by Vayu, Kumaar and MellowD.",4a7cdd2f27684c9bb9de45feaad7ce6e,4

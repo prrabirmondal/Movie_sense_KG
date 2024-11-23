@@ -1,0 +1,3 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,"a movie has a summary to provide details about the plot, characters and other important information.",2891b7875a8a47a7a4f4eb18c6a1d283,4
+message,displayed,the message is being displayed for some reason. This could be due to errors or other issues related to the movie or its summary.,2891b7875a8a47a7a4f4eb18c6a1d283,4

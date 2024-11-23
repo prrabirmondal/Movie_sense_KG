@@ -1,0 +1,48 @@
+node_1,node_2,edge,chunk_id,count
+michelle mcnally,blindness,Michelle is blind.,d463bb8610ba4aad86e80088dc010385,4
+michelle mcnally,deafness,Michelle is deaf.,d463bb8610ba4aad86e80088dc010385,4
+michelle mcnally,muteness,Michelle is mute.,d463bb8610ba4aad86e80088dc010385,4
+michelle mcnally,disability,"Michelle has a disability that includes blindness, deafness, and muteness.",d463bb8610ba4aad86e80088dc010385,4
+michelle mcnally,catherine,Michelle's mother is Catherine.,d463bb8610ba4aad86e80088dc010385,4
+sara,michelle mcnally,Michelle has a younger sister named Sara.,d463bb8610ba4aad86e80088dc010385,4
+debraj sahai,michelle mcnally,Michelle comes into contact with Debraj Sahai again in the present time.,d463bb8610ba4aad86e80088dc010385,4
+debraj sahai,alzheimer's disease,Debraj is diagnosed with Alzheimer's disease.,d463bb8610ba4aad86e80088dc010385,4
+michelle mcnally,frustration,Michelle becomes increasingly frustrated by the void in her life due to her disabilities.,d463bb8610ba4aad86e80088dc010385,4
+michelle,paul,parental relationship,ff63ab0e8553474cb942b0df9c400c6d,4
+catherine,michelle,parental relationship,ff63ab0e8553474cb942b0df9c400c6d,4
+sara,catherine,child-parental relationship,ff63ab0e8553474cb942b0df9c400c6d,4
+debraj,michelle,teacher-student relationship,ff63ab0e8553474cb942b0df9c400c6d,4
+dehradun,debraj,place of work for Debraj,ff63ab0e8553474cb942b0df9c400c6d,4
+michelle,violent and uncontrollable child,attribute-entity relationship,ff63ab0e8553474cb942b0df9c400c6d,4
+catherine,gives birth to sara,event-participant relationship,ff63ab0e8553474cb942b0df9c400c6d,4
+paul,disapproves of debraj's methods,opinion-entity relationship,ff63ab0e8553474cb942b0df9c400c6d,4
+catherine,fear of michelle being sent to a mental hospital,feeling-entity relationship,ff63ab0e8553474cb942b0df9c400c6d,4
+debraj,"gives up salary, allowance and alcohol",action-entity relationship,ff63ab0e8553474cb942b0df9c400c6d,4
+debraj,becomes a ray of hope for michelle,effect-cause relationship,ff63ab0e8553474cb942b0df9c400c6d,4
+debraj,sees himself as a magician and is a disillusioned eccentric man,attribute-entity relationship,ff63ab0e8553474cb942b0df9c400c6d,4
+debraj,takes it upon himself to bring the young michelle into the light and build her into someone who can express and communicate,intention-entity relationship,ff63ab0e8553474cb942b0df9c400c6d,4
+michelle,continuing insolent behaviour,attribute-entity relationship,ff63ab0e8553474cb942b0df9c400c6d,4
+debraj,gets frustrated with michelle's continuing insolent behaviour,feeling-entity relationship,ff63ab0e8553474cb942b0df9c400c6d,4
+michelle,water,"As a result of Debraj's action, Michelle suddenly takes to water and begins to understand its meaning.",66c504e4748540e1a5d1e735ded5319f,4
+michelle,parents,Michelle is able to identify her parents at that moment.,66c504e4748540e1a5d1e735ded5319f,4
+michelle,small words,"As a result of Debraj's lessons, Michelle begins to vocalise the first syllables of small words.",66c504e4748540e1a5d1e735ded5319f,4
+debraj,michelle,Debraj immediately takes Michelle out in the courtyard and throws her into a fountain full of water.,66c504e4748540e1a5d1e735ded5319f,4
+debraj,principal,Debraj convinces the principal of a university to grant Michelle an interview.,66c504e4748540e1a5d1e735ded5319f,4
+michelle,bachelor of arts,Michelle becomes the first blind-deaf person to pursue a degree of Bachelor of Arts at that university.,66c504e4748540e1a5d1e735ded5319f,4
+principal,michelle,The principal of the college prepares the whole first-year Arts course of study in braille for Michelle.,66c504e4748540e1a5d1e735ded5319f,4
+michelle,typing skills,One reason for the continuing failure of Michelle is that her typing skills are lacking.,66c504e4748540e1a5d1e735ded5319f,4
+arts course of study,michelle,Arts course of study in braille for Michelle,f3d9374faba146eba7bf01bac22721b4,4
+michelle,typing skills,Michelle's typing skills are lacking and typing is her only way to write down what she knows during exams.,f3d9374faba146eba7bf01bac22721b4,4
+michelle,increased competence,"Michelle almost quits the university and gets into an argument with Debraj. At the same time as Michelle faces all her challenges with resilience, numerous other changes are also witnessed.",f3d9374faba146eba7bf01bac22721b4,4
+debraj,alzheimer's disease,"Debraj begins to succumb to Alzheimer's disease, first forgetting the way out of the principal's office, and then forgetting Michelle and leaving her stranded during an ice-cream celebration for her improved typing.",f3d9374faba146eba7bf01bac22721b4,4
+michelle,sara,"Michelle reconciles with Sara, who turns out was always jealous of her parents' affection for Michelle throughout her life.",f3d9374faba146eba7bf01bac22721b4,4
+debraj,kiss,Debraj reluctantly does so but decides to leave Michelle herself because of this demand and the position she has put him in.,f3d9374faba146eba7bf01bac22721b4,4
+michelle,love,"After attending Sara's marriage, Michelle begins to wonder about love, which she has never experienced,",f3d9374faba146eba7bf01bac22721b4,4
+debraj,leaving,"In the present, which is twelve years after Michelle's enrollment into the college, she successfully manages to gain her BA degree, and with her proud parents looking on her, Michelle even gives a speech to the graduating class. Wearing no black graduation robe, she expresses gratitude to everyone and announces that she will only wear the robe so that her",f3d9374faba146eba7bf01bac22721b4,4
+graduating class,michelle,Michelle belongs to the graduating class.,35ebb104f7a94833b987b72b1aa11e90,4
+black graduation robe,michelle,"Michelle chose not to wear the black graduation robe, but later put it on for her teacher's sake.",35ebb104f7a94833b987b72b1aa11e90,4
+michelle,debraj,"In the mental hospital, Michelle visits Debraj and returns memories to him as he realizes she has graduated.",35ebb104f7a94833b987b72b1aa11e90,4
+rain,michelle,"As the window opens to the rain outside, Debraj's hand is seen reaching into the rain, and Michelle's first syllable of 'water' is heard.",35ebb104f7a94833b987b72b1aa11e90,4
+debraj,michelle,"In the film's final scene, Michelle walks among a crowd dressed in black carrying candles, and Debraj's voiceover is heard explaining that today was his first day of school.",35ebb104f7a94833b987b72b1aa11e90,4
+b l a c k,debraj,"Michelle wrote in a letter to Mrs. Nair that Debraj's alphabet began with the letters 'B L A C K,' implying that he had succumbed to his illness and died.",35ebb104f7a94833b987b72b1aa11e90,4
+mrs. nair,michelle,"In her letter, Michelle addresses Mrs. Nair.",35ebb104f7a94833b987b72b1aa11e90,4

@@ -1,0 +1,28 @@
+node_1,node_2,edge,chunk_id,edge2,count
+pooja verma,rahul verma,"Married couple, Pooja meets Rahul after breaking up with Karan, Rahul becomes blind in a car accident",e34710466ad24f078fc4f2b179d3e977,,4
+pooja verma,karan srivastav,"Ex-boyfriend, Pooja breaks up with Karan due to his possessiveness, Karan leaves town",e34710466ad24f078fc4f2b179d3e977,,4
+rahul verma,karan srivastav,"Business partners, Unaware of each other's relationship with Pooja",e34710466ad24f078fc4f2b179d3e977,,4
+pooja verma,mall incident,Incident that led to the breakup between Pooja and Karan in the mall,e34710466ad24f078fc4f2b179d3e977,,4
+karan srivastav,pooja's jewellery,"Found at Karan's house, Suspected involvement in Pooja's death",e34710466ad24f078fc4f2b179d3e977,,4
+rahul verma,blindness,Resulting from the car accident,e34710466ad24f078fc4f2b179d3e977,,4
+karan srivastav,innocence,"Believes he is being framed, Enlists Rajat Saxena's help to prove innocence",e34710466ad24f078fc4f2b179d3e977,,4
+rahul verma,servant alex,Bribed by Karan to reveal the truth about Rahul's blindness,e34710466ad24f078fc4f2b179d3e977,,4
+pooja verma,death,"Initially believed to be a suicide, Further investigation reveals otherwise",e34710466ad24f078fc4f2b179d3e977,,4
+rahul,pooja,"Rahul's wife, Pooja realised that he was no longer blind and found him in Karan's arms.",a69b7ce6ad6c452d852c58d9fef9d8ae,,4
+rahul,blindness,"Rahul's blindness was curable, and he secretly travelled abroad for the operation.",a69b7ce6ad6c452d852c58d9fef9d8ae,,4
+karan,rahul,Karan tries several tactics to prove that Rahul is not blind but ends up failing.,a69b7ce6ad6c452d852c58d9fef9d8ae,"After Rahul uses his eyesight to save a young boy from an incoming train, the men end up in a fight.",4
+rahul,karan,Rahul believes that Karan had killed Pooja and forces him to confess.,a69b7ce6ad6c452d852c58d9fef9d8ae,"However, Rahul had control of the remote for the recording device and only captured Karan's words, making it appear as if he was confessing to the murder.",4
+alex,rahul,Rahul's servant Alex bribes him to confess that Rahul is not blind.,a69b7ce6ad6c452d852c58d9fef9d8ae,"After he exposes Karan to the bribe, Alex testifies against him in court.",4
+inspector khan,rahul,"The police, led by Inspector Khan, arrive at the scene.",a69b7ce6ad6c452d852c58d9fef9d8ae,"In court, Rahul testifies against Karan.",4
+karan,life imprisonment,Karan is arrested for the murder and sentenced to life imprisonment.,a69b7ce6ad6c452d852c58d9fef9d8ae,The judge rules that Saxena can no longer be Karan's lawyer.,4
+court,rahul,"In court, Rahul confesses to the murder.",a69b7ce6ad6c452d852c58d9fef9d8ae,"However, it is revealed that Karan recorded his confession, and Rahul was in control of the remote.",4
+constable,karan,"In holding cells, Karan manages to bribe a constable.",a69b7ce6ad6c452d852c58d9fef9d8ae,"That night, Rahul comes to meet Karan.",4
+pooja,karan,"had an argument, Pooja threw him out but he followed her back into the bedroom and threatened to burn the house down with her inside it unless she renewed her relationship with him. Pooja had no choice but to agree to divorce Rahul and then marry Karan.",121dc71e60d444b6a9bb26239ab246d2,,4
+rahul,pooja,"was on his business trip, Pooja realised that he was no longer blind and short, but after her death, Rahul found an audio cassette recorded by Pooja",121dc71e60d444b6a9bb26239ab246d2,,4
+rahul,karan,"tells Karan that Pooja did indeed commit suicide, but her death was a result of Karan’s actions, so he is her murderer",121dc71e60d444b6a9bb26239ab246d2,,4
+karan,pooja,"embraced her after writing up divorce papers for Pooja and Rahul. At that moment, Rahul returned from his trip and saw the pair",121dc71e60d444b6a9bb26239ab246d2,,4
+rahul,saxena,had been working with him the entire time and helped him,121dc71e60d444b6a9bb26239ab246d2,,4
+rahul,tape recorder,Rahul says that the tape recorder has no batteries.,a7d682f38cf846d0bb763f47bc9886cc,,4
+rahul,saxena,Rahul reveals that Saxena has been working with him the entire time and helped him with the plan.,a7d682f38cf846d0bb763f47bc9886cc,,4
+karan,cell,Karan is left distraught and alone in his cell by Rahul.,a7d682f38cf846d0bb763f47bc9886cc,,4
+rahul,pooja's ashes,Rahul immerses Pooja's ashes in the river.,a7d682f38cf846d0bb763f47bc9886cc,,4

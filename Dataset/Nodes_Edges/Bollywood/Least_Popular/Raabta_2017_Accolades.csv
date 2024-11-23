@@ -1,0 +1,6 @@
+node_1,node_2,edge,chunk_id,count
+award ceremony,10th mirchi music awards,The given context is about providing details of the awards received by a movie. The 'Award Ceremony' and '10th Mirchi Music Awards' are both related events in this context.,bf61cf6d9a2140519776079f7cefd624,4
+category,album of the year,"In the given context, 'Category' and 'Album of The Year' are two distinct aspects of the awards received by a movie. All the nominees for this category will be listed next.",bf61cf6d9a2140519776079f7cefd624,4
+recipient,"pritam, jam8, irshad kamil, amitabh bhattacharya, kumaar",The 'Recipient' node in this context represents the names of all the people who have been awarded under the 'Album of The Year' category in the 10th Mirchi Music Awards. All these individuals are related to each other through their award-winning work.,bf61cf6d9a2140519776079f7cefd624,4
+result,nominated,"In this context, 'Result' represents whether the individual or group has won the award or not. In this case, it is mentioned that they have been nominated for the award.",bf61cf6d9a2140519776079f7cefd624,4
+ref.,[19],"In this context, 'Ref.' represents any additional details provided about the awards received by a movie. In this case, it is mentioned that there are 19 references listed for the nominees in this category.",bf61cf6d9a2140519776079f7cefd624,4

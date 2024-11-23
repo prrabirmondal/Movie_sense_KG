@@ -1,0 +1,45 @@
+node_1,node_2,edge,chunk_id,count
+izna,aayan thakur,Aayan approaches Izna to be hired as a 'honey trap' by the Intelligence Agency.,90ea477207414da3ab5be9841a372a54,4
+izna,guru saldanah,Guru Saldanah and his father want to hire Izna as a 'honey trap' from Aayan.,90ea477207414da3ab5be9841a372a54,4
+izna,kabir wilson,Izna met Kabir six years ago when he still worked for the Intelligence Agency and she was being used to smuggle drugs into a nightclub.,90ea477207414da3ab5be9841a372a54,4
+izna,love letter,Izna handed Kabir a love letter written in her own blood while following him home.,90ea477207414da3ab5be9841a372a54,4
+kabir wilson,intelligence agency,Kabir used to work for the Intelligence Agency but went rogue and now operates as a hitman.,90ea477207414da3ab5be9841a372a54,4
+kabir,izna,"dislike or anger between the two characters, expressed through Kabir slamming the door on Izna and her throwing a rock at him",3601d7210d0d4576842f3a7b88819aa8,4
+kabir,izna,apology made by Kabir through writing 'Sorry' in his blood on Izna's window,3601d7210d0d4576842f3a7b88819aa8,4
+guru saldanah's team,kabir,"conflict between the two groups, leading to the death of Saldanah's team",3601d7210d0d4576842f3a7b88819aa8,4
+aayan,izna,"engagement between the two characters, as part of their cover story",3601d7210d0d4576842f3a7b88819aa8,4
+karan rajput,aayan,false identity created by Aayan during their undercover mission,3601d7210d0d4576842f3a7b88819aa8,4
+izna,kabir's house,introduction of Izna as a new neighbor to Kabir,3601d7210d0d4576842f3a7b88819aa8,4
+aayan,kabir's laptop,"attempt by Aayan to steal data from the laptop, triggered by a silent alarm",3601d7210d0d4576842f3a7b88819aa8,4
+izna,kabir's murder count,awareness and knowledge of Izna about Kabir's criminal activities,3601d7210d0d4576842f3a7b88819aa8,4
+kabir,sumit,trusted friend,0476ff4b29734ed7a2739087e87d09f8,4
+izna,intelligence agency,involved with,0476ff4b29734ed7a2739087e87d09f8,4
+kabir,izna,"proposes to, asks to move in",0476ff4b29734ed7a2739087e87d09f8,4
+izna,karan,leaves,0476ff4b29734ed7a2739087e87d09f8,4
+sumit,izna,suspects involvement with Intelligence Agency,0476ff4b29734ed7a2739087e87d09f8,4
+kabir,sumit,tells he has no reason to suspect her,0476ff4b29734ed7a2739087e87d09f8,4
+izna,aayan,falls in love with,0476ff4b29734ed7a2739087e87d09f8,4
+izna,kabir's house,moves into,0476ff4b29734ed7a2739087e87d09f8,4
+aayan,izna,"warns about being involved with Intelligence Agency, gets angry",0476ff4b29734ed7a2739087e87d09f8,4
+izna,aayan,believes she'll be able to steal the data more easily when she moves into Kabir's house,0476ff4b29734ed7a2739087e87d09f8,4
+sumit,aayan,"accidentally reads text message, attacks and tries to kill",0476ff4b29734ed7a2739087e87d09f8,4
+izna,kabir,"poison, mixes into drink",0476ff4b29734ed7a2739087e87d09f8,4
+izna,kabir,"historical association between Izna and Kabir, as Kabir reveals that he had left Izna years ago due to his disagreement with some corrupt operatives of the Intelligence Agency. However, in this context, their current relationship is strained as Kabir suspects Izna's involvement in a corruption scandal.",98198321e55b4477bb02d02ef9fc5339,4
+izna,intelligence agency,"professional association between Izna and the Intelligence Agency, as she is currently working for them. However, Kabir's revelation raises doubts about her loyalty towards the agency.",98198321e55b4477bb02d02ef9fc5339,4
+kabir,intelligence agency,"historical association between Kabir and the Intelligence Agency, as he used to work for them before leaving due to his moral objections. This connection highlights the underlying power dynamics between Kabir and Izna in their current encounter.",98198321e55b4477bb02d02ef9fc5339,4
+kabir,corrupt operatives,"historical animosity between Kabir and some corrupt operatives of the Intelligence Agency, as he had discovered their wrongdoings during a sting operation. This context reveals the complexity of Kabir's character as a former patriot turned anti-hero.",98198321e55b4477bb02d02ef9fc5339,4
+aayan,sumit,"spatial association between Aayan and Sumit, as Aayan's hearing aid is found at Sumit's place. This connection creates a potential sub-plot involving these characters.",98198321e55b4477bb02d02ef9fc5339,4
+izna,poison,"agentive association between Izna and the poison, as she blends it into Kabir's coffee with malicious intent. This reveals her potentially murderous nature.",98198321e55b4477bb02d02ef9fc5339,4
+kabir,guru saldanah,Kabir accuses Guru Saldanah of being corrupt and having a team of impostors after incriminating data. He claims that Guru Saldanah is running an unsanctioned operation to retrieve the information and will kill Izna once he gets the hard disk.,ec9413727d8c409a89192b91760b51f5,4
+kabir,impostors,Kabir suggests that Guru Saldanah's team consists of impostors after incriminating data.,ec9413727d8c409a89192b91760b51f5,4
+izna,guru saldanah,Kabir reveals to Izna that Guru Saldanah is corrupt and will kill her once he gets the hard disk.,ec9413727d8c409a89192b91760b51f5,4
+aayan,guru saldanah,Aayan learns from Izna that Guru Saldanah tried to kill her and realizes that Kabir was telling the truth about his corruption.,ec9413727d8c409a89192b91760b51f5,4
+izna,kabir,"After kissing Izna, Kabir asks her to escape and offers her a new passport, tickets, and access to an account maintained at a Swiss bank from which she can withdraw unlimited money. Izna is initially skeptical.",ec9413727d8c409a89192b91760b51f5,4
+izna,kabir,"Izna shoots Kabir in the stomach after he asks her to escape and offers her a new passport, tickets, and access to an account maintained at a Swiss bank from which she can withdraw unlimited money.",ec9413727d8c409a89192b91760b51f5,4
+guru saldanah,izna,"After handing over the hard disk containing original data to Guru Saldanah, Izna discovers that Kabir was telling the truth about his corruption.",ec9413727d8c409a89192b91760b51f5,4
+aayan,izna,Aayan realizes from Izna's revelations that Guru Saldanah had intended to kill her after the mission.,ec9413727d8c409a89192b91760b51f5,4
+aayan,guru saldanah,"Aayan tackles Guru Saldanah and kills him instead, when he tries to kill Izna.",ec9413727d8c409a89192b91760b51f5,4
+aayan,izna,"antagonistic relationship, Izna declines Aayan's offer to start a new life together in Europe and accuses him of lying, leading to Aayan threatening to shoot her if she doesn't change her mind",5210a4f515e44f16a8baa7b808cb0bd7,4
+izna,kabir,"romantic relationship, Izna confesses to killing Kabir due to Aayan's lies and declares that she would rather die with him than spend another day alive with Aayan",5210a4f515e44f16a8baa7b808cb0bd7,4
+izna,heaven,"perception, Izna sees a vision of Kabir who tells her he forgives her and she expresses that without him, heaven is not a heaven",5210a4f515e44f16a8baa7b808cb0bd7,4
+izna,hell,"perception, Izna declares that with Kabir, she has no reason to be afraid of hell before dying",5210a4f515e44f16a8baa7b808cb0bd7,4

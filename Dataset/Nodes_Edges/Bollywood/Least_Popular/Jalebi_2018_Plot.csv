@@ -1,0 +1,11 @@
+node_1,node_2,edge,chunk_id,count
+aisha,dev,"romantic relationship between Aisha and Dev, they fall in love, get married, and have a miscarriage",1596f45520ed4f00b4e3abf77467dee6,4
+disha,aisha,Disha is the name that Aisha and Dev chose for their baby girl before the miscarriage,1596f45520ed4f00b4e3abf77467dee6,4
+dev,anu,Dev marries Anu seven years after his divorce from Aisha,1596f45520ed4f00b4e3abf77467dee6,4
+pulti,disha,"Pulti's given name is Disha, which Aisha discovers and feels upset about",1596f45520ed4f00b4e3abf77467dee6,4
+dev,aisha,Dev and Aisha are former spouses who reunite after a year of separation.,2044fd3adbb348589a4e6db2e5c69c4e,4
+pulti,disha,"Pulti's given name is Disha, and Dev had a specific condition that she be named Disha before their marriage.",2044fd3adbb348589a4e6db2e5c69c4e,4
+anu,dev,"Anu reveals that Pulti, who is not Dev's child, was sired by Anu's boyfriend.",2044fd3adbb348589a4e6db2e5c69c4e,4
+aisha,dev,Aisha chides Dev for naming their daughter Disha and feels upset about it.,2044fd3adbb348589a4e6db2e5c69c4e,4
+dev,aisha's novel,Dev reveals that he had read Aisha's novel many times.,2044fd3adbb348589a4e6db2e5c69c4e,4
+aisha,dev,Aisha thanks Dev for giving her and tells him that she knows that he is still in love with her.,2044fd3adbb348589a4e6db2e5c69c4e,4

@@ -1,0 +1,36 @@
+node_1,node_2,edge,chunk_id,count
+pinocchio,geppetto,father and wooden puppet created by him,68c5041b9bc746cfa1344a6725ba3617,4
+pinocchio,magical log,comes to life from a magical log,68c5041b9bc746cfa1344a6725ba3617,4
+pinocchio,carpenter,blamed and taken to prison for Pinocchio's actions,68c5041b9bc746cfa1344a6725ba3617,4
+pinocchio,town,turns the town upside down with his behavior,68c5041b9bc746cfa1344a6725ba3617,4
+pinocchio,puppet theater,joins a puppet theater,68c5041b9bc746cfa1344a6725ba3617,4
+pinocchio,mangiafuoco,almost gets eaten by the giant puppet master Mangiafuoco,68c5041b9bc746cfa1344a6725ba3617,4
+pinocchio,five gold coins,given five gold coins,68c5041b9bc746cfa1344a6725ba3617,4
+pinocchio,the fox and the cat,tricked out of his money by The Fox and the Cat,68c5041b9bc746cfa1344a6725ba3617,4
+pinocchio,miracle meadow,told to plant his money in the Miracle Meadow near the town of 'Grab-A-Dimwit',68c5041b9bc746cfa1344a6725ba3617,4
+pinocchio,blue fairy,encourages Pinocchio to give up his obnoxious ways and saves him from being hanged,68c5041b9bc746cfa1344a6725ba3617,4
+pinocchio,owl,examined by the Owl,68c5041b9bc746cfa1344a6725ba3617,4
+pinocchio,crow,examined by the Crow,68c5041b9bc746cfa1344a6725ba3617,4
+pinocchio,talking cricket,examined by the Talking Cricket,68c5041b9bc746cfa1344a6725ba3617,4
+pinocchio,medicine,"given medicine but initially refuses it, leading to coffin-bearing rabbits appearing",68c5041b9bc746cfa1344a6725ba3617,4
+fox,cat,steal the gold coins Pinocchio buried,e7bc5fd73dba4cecba92926958c10c9d,4
+pinocchio,fox and cat,theft,e7bc5fd73dba4cecba92926958c10c9d,4
+talking cricket,pinocchio,informs,e7bc5fd73dba4cecba92926958c10c9d,4
+judges,pinocchio,sentenced to five years in jail for foolishness,e7bc5fd73dba4cecba92926958c10c9d,4
+lucignolo,pinocchio,meets while in jail,e7bc5fd73dba4cecba92926958c10c9d,4
+king's son's birth,pinocchio,released during the celebration of,e7bc5fd73dba4cecba92926958c10c9d,4
+dove,pinocchio,tells Pinocchio that his father was heading out to sea to look for him,e7bc5fd73dba4cecba92926958c10c9d,4
+geppetto,pinocchio,was found unconscious by Pinocchio on the shore,e7bc5fd73dba4cecba92926958c10c9d,4
+pinocchio,eugenio,accused of throwing a book at him when he ducked,e7bc5fd73dba4cecba92926958c10c9d,4
+grave,blue fairy,Pinocchio finds the grave of the Blue Fairy who supposedly died of grief because of his antics,e7bc5fd73dba4cecba92926958c10c9d,4
+blue fairy,pinocchio,meets on his way to school,e7bc5fd73dba4cecba92926958c10c9d,4
+kid,pinocchio,throws a book at him while he is on his way to school,e7bc5fd73dba4cecba92926958c10c9d,4
+lucignolo,pinocchio,convinces Pinocchio to join him on a trip to 'Fun Forever Land',e7bc5fd73dba4cecba92926958c10c9d,4
+cricket,pinocchio and others,warns them all they will turn into donkeys if they do not leave and continue being bad,e7bc5fd73dba4cecba92926958c10c9d,4
+pinocchio,donkey,turns into a donkey,e7bc5fd73dba4cecba92926958c10c9d,4
+circus ringmaster,pinocchio as donkey,buys Pinocchio as Donkey from the people who found him in his donkey form,e7bc5fd73dba4cecba92926958c10c9d,4
+pinocchio,shark,"during his performance, pinocchio gets hurt and is thrown into the sea, where he instantly returns to normal and is swallowed by a giant shark which coincidentally has also swallowed geppetto. They escape together.",9c6cf3d1fe6c4bb8be4765d81a6f1916,4
+pinocchio,geppetto,pinocchio takes geppetto to a farm to help him recover by helping out a farmer to get his father better.,9c6cf3d1fe6c4bb8be4765d81a6f1916,4
+geppetto,farmer,"inside the farmer's paddock, pinocchio sees a sick donkey who he immediately recognizes as lucignolo, but his friend tragically dies from working too hard.",9c6cf3d1fe6c4bb8be4765d81a6f1916,4
+pinocchio,blue fairy,"rewarding his efforts to strive for moral prudence, the blue fairy transforms him into a real boy.",9c6cf3d1fe6c4bb8be4765d81a6f1916,4
+real boy,old puppet body,"with his wish granted, he and his father see his old puppet body in the corner of the house, and he sets off his actual first day of school.",9c6cf3d1fe6c4bb8be4765d81a6f1916,4

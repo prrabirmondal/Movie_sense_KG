@@ -1,0 +1,34 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,"A movie is represented by its summary, which provides a brief overview of the story and plot.",363160c51bd54c419eae2153c439226f,4
+vaada,indian hindi-language romantic mystery thriller film,Vaada is a 2005 Indian Hindi-language romantic mystery thriller film directed by Satish Kaushik.,cce43f7ecbac4dfa96959c17137db36f,4
+arjun rampal,amisha patel,"The story revolves around a murder amidst a convoluted love triangle involving Arjun Rampal, Amisha Patel, and Zayed Khan in lead roles.",cce43f7ecbac4dfa96959c17137db36f,4
+rahul verma,pooja verma,"Rahul's wife Pooja is discovered dead, apparently by suicide. However, before the postmortem can take place, her body goes missing.",cce43f7ecbac4dfa96959c17137db36f,4
+karan srivastav,pooja verma,Karan used to be Pooja's boyfriend. The pair broke up in the mall after an incident.,cce43f7ecbac4dfa96959c17137db36f,4
+rahul verma,successful businessman,"After the breakup, Karan leaves town and Pooja meets Rahul, who is a loving successful businessman.",cce43f7ecbac4dfa96959c17137db36f,4
+pooja verma,rahul,"The pair get married; however, tragedy strikes when they are involved in a car crash and Rahul loses his eyesight.",cce43f7ecbac4dfa96959c17137db36f,4
+karan srivastav,rahul,"At a meeting held in Rahul's house, Karan is shocked to learn that Rahul is married to Pooja.",cce43f7ecbac4dfa96959c17137db36f,4
+indian hindi-language romantic mystery thriller film,remake,"Vaada is a remake of Sabhash starring Parthiban, Divya Unni, and Ranjith.",cce43f7ecbac4dfa96959c17137db36f,4
+pooja,karan's house,Pooja's jewellery and other evidence are found at Karan's house.,3aa2ceba016a4e248b369c7a66af923b,4
+karan,rahul,Karan thinks that Rahul is the most likely suspect.,3aa2ceba016a4e248b369c7a66af923b,4
+karan,rajat saxena,Karan enlists his lawyer friend Rajat Saxena to help him prove his innocence.,3aa2ceba016a4e248b369c7a66af923b,4
+alex,rahul,"Rahul's servant Alex agrees to say in court that Rahul is not blind, and he exposes Karan to the bribe.",3aa2ceba016a4e248b369c7a66af923b,4
+rahul,karan,"After a fight, Rahul uses his eyesight to save a young boy from an incoming train.",3aa2ceba016a4e248b369c7a66af923b,4
+rahul,blindness,It is revealed that Rahul has actually regained his sight and is not blind after all.,3aa2ceba016a4e248b369c7a66af923b,4
+karan,rahul,"Karan forces Rahul to confess, recording the admission.",3aa2ceba016a4e248b369c7a66af923b,4
+recording device,rahul,"Rahul had control of the remote for the recording device and only captured Karan's words, making it appear as if he was confessing to the murder.",3aa2ceba016a4e248b369c7a66af923b,4
+police,inspector khan,"The police, led by Inspector Khan, arrive at the scene.",3aa2ceba016a4e248b369c7a66af923b,4
+rahul,karan,Rahul comes to meet Karan and tells him that he knows that Karan did not kill his wife.,3aa2ceba016a4e248b369c7a66af923b,4
+karan,pooja,"Karan came to Pooja and Rahul's house, but she threw him out after an argument. He followed her back into the bedroom and threatened to burn the house down with her inside it unless she renewed her relationship with him. Pooja had no choice but to agree to divorce Rahul and then marry Karan.",cc19a032c2a048c0b5fae472e07b94ec,4
+pooja,rahul,Pooja realised that Rahul was no longer blind and short after he returned from his curable blindness operation. She also committed suicide after he found her in Karan's arms.,cc19a032c2a048c0b5fae472e07b94ec,4
+karan,pooja,"Karan embraced Pooja after she wrote up divorce papers for herself and Rahul, and then he witnessed Rahul's return from his trip.",cc19a032c2a048c0b5fae472e07b94ec,4
+rahul,pooja,"After Rahul returned from his business trip, Pooja tried to contact him, but Karan caught her and told her that the stress of the situation would cause Rahul to become permanently blind.",cc19a032c2a048c0b5fae472e07b94ec,4
+rahul,karan,"Rahul tells Karan that Pooja committed suicide because of his actions, making him her murderer.",cc19a032c2a048c0b5fae472e07b94ec,4
+pooja,divorce papers,Pooja wrote up divorce papers for herself and Rahul.,cc19a032c2a048c0b5fae472e07b94ec,4
+karan,peace,Karan reveals that Rahul vowed to get vengeance by framing Karan for the crime so that he and his wife may finally have peace.,cc19a032c2a048c0b5fae472e07b94ec,4
+rahul,vengeance,Rahul explains that he vowed to get vengeance by framing Karan for the crime.,5fed0f2ea8044966bd0aa5aa511aef3e,4
+rahul,peace,Rahul explains that he vowed to get vengeance by framing Karan for the crime so that he and his wife may finally have peace.,5fed0f2ea8044966bd0aa5aa511aef3e,4
+karan,frame,Rahul then explains how he vowed to get vengeance by framing Karan for the crime.,5fed0f2ea8044966bd0aa5aa511aef3e,4
+tape recorder,reveals,Karan reveals that he has finally caught Rahul and jubilantly shows him the tape recorder.,5fed0f2ea8044966bd0aa5aa511aef3e,4
+tape recorder,no batteries,Rahul tells Karan that he had anticipated this move and says that the tape recorder has no batteries.,5fed0f2ea8044966bd0aa5aa511aef3e,4
+saxena,working with,Rahul further reveals that Saxena has been working with him the entire time and helped him with the plan.,5fed0f2ea8044966bd0aa5aa511aef3e,4
+rahul,immersing,"In the end, Rahul is seen immersing Pooja's ashes in the river.",5fed0f2ea8044966bd0aa5aa511aef3e,4

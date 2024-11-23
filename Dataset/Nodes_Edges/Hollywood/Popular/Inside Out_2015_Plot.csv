@@ -1,0 +1,41 @@
+node_1,node_2,edge,chunk_id,count
+joy,riley andersen,Joy is a personified basic emotion that influences Riley's actions.,0b6185ce272f48b485c6bc367aab83fc,4
+anger,riley andersen,Anger is a personified basic emotion that influences Riley's actions.,0b6185ce272f48b485c6bc367aab83fc,4
+fear,riley andersen,Fear is a personified basic emotion that influences Riley's actions.,0b6185ce272f48b485c6bc367aab83fc,4
+sadness,riley andersen,Sadness is a personified basic emotion that influences Riley's actions.,0b6185ce272f48b485c6bc367aab83fc,4
+disgust,riley andersen,Disgust is a personified basic emotion that influences Riley's actions.,0b6185ce272f48b485c6bc367aab83fc,4
+core memories,riley andersen,"The aspects of the five most important ""core memories"" within her personality take the form of five floating islands.",0b6185ce272f48b485c6bc367aab83fc,4
+joy,sadness,"In the mind of a young girl named Riley Andersen are a series of personified basic emotions that influence her actions: Joy, Anger, Fear, Disgust, and Sadness. Joy acts as the leader, and tries to limit Sadness's influence, perceiving her as an unnecessary burden for Riley.",0b6185ce272f48b485c6bc367aab83fc,4
+sadness,joy,"At first, Riley has poor experiences: the new house is cramped and old; her father hardly has any time for Riley; a local pizza parlor only serves pizza topped with broccoli, which she dislikes; and the moving van with their belongings was misdirected to Texas and will not arrive for weeks. Sadness retroactively saddens joyous memories, causing Riley to cry in front of her class, much to the shock of Joy, Anger, Disgust, and Fear. This also creates Riley's first sad core memory.",0b6185ce272f48b485c6bc367aab83fc,4
+joy,core memories,"Joy tries to dispose of the memory using a pneumatic tube, but accidentally knocks loose the other core memories during a struggle with Sadness, disabling the personality islands. Joy, Sadness, and the core memories are subsequently sucked out of Headquarters.",0b6185ce272f48b485c6bc367aab83fc,4
+joy,anger,"In the absence of Joy and Sadness, Anger, Fear, and Disgust are forced to take control of Riley.",b3aaf45419e14ff19d16ae65a14ddaac,4
+joy,fear,"Anger, Fear, and Disgust are forced to take control of Riley.",b3aaf45419e14ff19d16ae65a14ddaac,4
+joy,disgust,"Anger, Fear, and Disgust are forced to take control of Riley.",b3aaf45419e14ff19d16ae65a14ddaac,4
+anger,fear,"In the absence of Joy and Sadness, Anger, Fear, and Disgust are forced to take control of Riley.",b3aaf45419e14ff19d16ae65a14ddaac,4
+joy,sadness,"While navigating the vast long-term memory area, Joy and Sadness encounter Bing Bong",b3aaf45419e14ff19d16ae65a14ddaac,4
+anger,riley,"Anger, Fear, and Disgust are forced to take control of Riley.",b3aaf45419e14ff19d16ae65a14ddaac,4
+fear,riley,"Anger, Fear, and Disgust are forced to take control of Riley.",b3aaf45419e14ff19d16ae65a14ddaac,4
+disgust,riley,"Anger, Fear, and Disgust are forced to take control of Riley.",b3aaf45419e14ff19d16ae65a14ddaac,4
+sadness,bing bong,"While navigating the vast long-term memory area, Joy and Sadness encounter Bing Bong",b3aaf45419e14ff19d16ae65a14ddaac,4
+joy,core memories,Anger gradually causes Riley's personality islands to crumble and fall into the 'Memory Dump',b3aaf45419e14ff19d16ae65a14ddaac,4
+sadness,bing bong,"While navigating the vast long-term memory area, Joy and Sadness encounter Bing Bong",b3aaf45419e14ff19d16ae65a14ddaac,4
+joy,memory dump,"Without the core memories, Anger gradually causes Riley's personality islands to crumble and fall into the 'Memory Dump'",b3aaf45419e14ff19d16ae65a14ddaac,4
+sadness,core memories,Bing Bong suggests riding the 'train of thought' back to Headquarters.,b3aaf45419e14ff19d16ae65a14ddaac,4
+joy,happy core memories,"Anger, intending to restore Riley's happiness, convinces Disgust and Fear that Riley should run away to Minnesota",b3aaf45419e14ff19d16ae65a14ddaac,4
+joy,peers,"Anger, intending to restore Riley's happiness, convinces Disgust and Fear that Riley should run away to Minnesota",b3aaf45419e14ff19d16ae65a14ddaac,4
+sadness,core memories,"Without the core memories, Anger gradually causes Riley's personality islands to crumble and fall into the 'Memory Dump'",b3aaf45419e14ff19d16ae65a14ddaac,4
+joy,parents,"Anger, intending to restore Riley's happiness, convinces Disgust and Fear that Riley should run away to Minnesota",b3aaf45419e14ff19d16ae65a14ddaac,4
+happiness,core memories,"Joy, who is afraid all of the core memories will become sad, abandons Sadness and tries to ride a 'recall tube' back to Headquarters.",b3aaf45419e14ff19d16ae65a14ddaac,4
+sadness,core memories,Bing Bong suggests riding the 'train of thought' back to Headquarters.,b3aaf45419e14ff19d16ae65a14ddaac,4
+joy,memory dump,"The ground below the tube collapses, breaking it and sending Joy and Bing Bong plunging into the Memory Dump.",b3aaf45419e14ff19d16ae65a14ddaac,4
+joy,sadness,"Joy breaks down crying and she discovers a sad memory of losing a hockey game that turned happy when Riley's parents and friends comforted her, and realizes Sadness's purpose in alerting others when Riley is emotionally overwhelmed and needs help.",13aea93a851a4fc5a44530ac6c3c5066,4
+joy,bing bong,"Joy and Bing Bong try to use his song-fueled wagon rocket to escape the Memory Dump, but are unable to fully ascend due to their combined weight.",13aea93a851a4fc5a44530ac6c3c5066,4
+anger,console,"Anger's idea disables the console, putting Riley into depression as she boards a bus to Minnesota.",13aea93a851a4fc5a44530ac6c3c5066,4
+sadness,console,"To the surprise of the others, Joy hands control of the console to Sadness, who is able to reactivate it and return Riley to her parents.",13aea93a851a4fc5a44530ac6c3c5066,4
+riley,parents,"As Sadness re-installs the core memories, transforming them from happy to sad, Riley tearfully tells her parents she misses her old life. Riley's parents comfort her and tell her they also miss Minnesota.",13aea93a851a4fc5a44530ac6c3c5066,4
+joy and sadness,new core memory,Create a new core memory that is both happy and sad,50ae45d2a1f042538461e7d18721aa92,4
+riley's adaptation,acceptance of her new life in san francisco,"One year later, Riley has adapted to her new home, made new friends, and has acquired new hobbies alongside her old ones",50ae45d2a1f042538461e7d18721aa92,4
+headquarters,riley's emotions,"Inside Headquarters, Riley's emotions admire her new personality islands, powered by core memories that contain a mixture of emotions,",50ae45d2a1f042538461e7d18721aa92,4
+core memories,new island forms,"Creating a new core memory that is both happy and sad, and a new island forms",50ae45d2a1f042538461e7d18721aa92,4
+console,expanded console,"Given a newly expanded console that has enough room for all of them to work together as a team,",50ae45d2a1f042538461e7d18721aa92,4
+emotions,newly expanded console,Although they admit some slight concern over a large red alarm marked puberty.,50ae45d2a1f042538461e7d18721aa92,4

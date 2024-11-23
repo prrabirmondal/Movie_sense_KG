@@ -1,0 +1,55 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,"A movie is represented by its summary, which provides a brief overview of the plot and main events in the movie.",8d2b49b40bc54095a478bc47a6355e28,4
+edward malus,willow woodward,Ex-fiancée and informant,7e766608c80b48598739ef0990f7ec7b,4
+rowan,edward malus,Daughter of Willow Woodward who went missing,7e766608c80b48598739ef0990f7ec7b,4
+island,willow woodward,Location where Rowan was last seen,7e766608c80b48598739ef0990f7ec7b,4
+neo-pagans,island,Group of people who live on the island,7e766608c80b48598739ef0990f7ec7b,4
+sister summersisle,neo-pagans,Leader and representative of the goddess they worship,7e766608c80b48598739ef0990f7ec7b,4
+england,sister summersisle,Origin of Sister Summersille's ancestors before arriving on the island,7e766608c80b48598739ef0990f7ec7b,4
+salem witch trials,sister summersisle,Renewed persecution that Sister Summersisle's ancestors faced after settling near Salem,7e766608c80b48598739ef0990f7ec7b,4
+strongest stock,sister summersisle,Criterion used by Sister Summersisle to choose the population of her community,7e766608c80b48598739ef0990f7ec7b,4
+unwanted males,strongest stock,Explanation provided by Sister Summersisle for the predominantly female population of her community,7e766608c80b48598739ef0990f7ec7b,4
+local honey,island,Economy of the island that relies on this product,7e766608c80b48598739ef0990f7ec7b,4
+decline,local honey,"Recent decrease in production of local honey, mentioned by Edward",7e766608c80b48598739ef0990f7ec7b,4
+rowan,villagers,evasive answers given to Edward's inquiries about Rowan,7c6883d69a534416b34821bbbe1dbf6a,4
+rowan,large bag dripping with blood,two men carrying the bag found by Edward,7c6883d69a534416b34821bbbe1dbf6a,4
+rowan,"fresh, unmarked grave in churchyard",found by Edward,7c6883d69a534416b34821bbbe1dbf6a,4
+rowan,burned doll in grave,found in the same grave as Rowan,7c6883d69a534416b34821bbbe1dbf6a,4
+rowan,sister rose,outrage felt by Edward at Sister Rose's evasiveness about Rowan's whereabouts,7c6883d69a534416b34821bbbe1dbf6a,4
+rowan,class register,Sister Rose tries to prevent Edward from seeing it,7c6883d69a534416b34821bbbe1dbf6a,4
+rowan,crossed out name in class register,discovered by Edward,7c6883d69a534416b34821bbbe1dbf6a,4
+rowan,sister rose,explanation by Sister Rose that Rowan burned to death,7c6883d69a534416b34821bbbe1dbf6a,4
+rowan,willow,reveals to Edward that Rowan is their daughter together,7c6883d69a534416b34821bbbe1dbf6a,4
+rowan,sister summersisle,thanks Rowan for her help during the festival,7c6883d69a534416b34821bbbe1dbf6a,4
+rowan,search for rowan,realized by Edward that the search was a setup orchestrated by Sister Summersisle,7c6883d69a534416b34821bbbe1dbf6a,4
+the wicker man,universal pictures,Universal Pictures had been planning a remake of the 1973 film of the same name since the 1990s.,e0ac4d361067457fbc76113a947b2f23,4
+neil labute,the wicker man,Neil LaBute was writing and directing The Wicker Man for Universal and Nicolas Cage's production company Saturn Films.,e0ac4d361067457fbc76113a947b2f23,4
+robin hardy,the riding of the laddie,"Robin Hardy was preparing a semi-remake of their 1973 film, titled The Riding of the Laddie",e0ac4d361067457fbc76113a947b2f23,4
+vanessa redgrave,the riding of the laddie,"Vanessa Redgrave was attached to the semi-remake of their 1973 film, titled The Riding of the Laddie",e0ac4d361067457fbc76113a947b2f23,4
+christopher lee,the riding of the laddie,"Christopher Lee's Lord of the Rings co-star Sean Astin was attached to the semi-remake of their 1973 film, titled The Riding of the Laddie",e0ac4d361067457fbc76113a947b2f23,4
+sister summersisle,willow,"Willow, known on the island as Sister Willow, is the daughter of Sister Summersisle",e0ac4d361067457fbc76113a947b2f23,4
+edward,sister summersisle,"Sister Summersisle thanks Rowan for her help, and Edward realizes that the search for Rowan was a setup the whole time.",e0ac4d361067457fbc76113a947b2f23,4
+rowan,edward,"While carrying Edward to an enormous wicker man where he is hoisted high above the ground and shut inside, Sisters Willow and Honey agree to go home with two policemen.",e0ac4d361067457fbc76113a947b2f23,4
+rowan,two policemen,"Willow and Honey agree to go home with two policemen, one of them having graduated from the academy.",e0ac4d361067457fbc76113a947b2f23,4
+two policemen,bar,Willow and Honey meet two policemen at a bar.,e0ac4d361067457fbc76113a947b2f23,4
+the wicker man,neil labute's update,The Wicker Man refers to the original horror film that Neil LaBute's updated version is based on.,577d1143424248e1ac6dbaded475eb70,4
+sean astin,attached,"Sean Astin was cast in the updated version of The Wicker Man, as announced.",577d1143424248e1ac6dbaded475eb70,4
+lee,not play the villain as he did in the original wicker man,"In this adaptation, Nicolas Cage's character Lee will not have the same role as Edward Woodward did in the original film.",577d1143424248e1ac6dbaded475eb70,4
+hardy,stated,"Director Neil Jordan revealed that Lee would not be the antagonist in this version, as mentioned by him previously.",577d1143424248e1ac6dbaded475eb70,4
+neo-pagan cult,scots setting,"Neil Jordan initially intended for The Wicker Man to be set in Scotland and feature a neo-pagan group, but the movie ended up being filmed in contemporary America.",577d1143424248e1ac6dbaded475eb70,4
+universal's remake,millennium films,The distribution rights to Neil Jordan's version of The Wicker Man changed from Universal to Millennium Films.,577d1143424248e1ac6dbaded475eb70,4
+alcon entertainment,distribution rights,"Millennium Films sold the distribution rights for this film to Alcon Entertainment, which is distributed by Warner Bros. Pictures through their output deal.",577d1143424248e1ac6dbaded475eb70,4
+"vancouver, canada",filming began,"This movie was filmed in Vancouver, Canada, as stated during production.",577d1143424248e1ac6dbaded475eb70,4
+the wicker man,absurd,"Cage acknowledged that the film was 'absurd'. He remarked in 2010, 'There is a mischievous mind at work on The Wicker Man, you know? You know what I mean? And I finally kind of said, 'I might have known that the movie was meant to be absurd.' But saying that now after the fact is OK, but to say it before the fact is not, because you have...' ",ccc5976380a443f5a9a2416bef3d6498,4
+the wicker man,hollywood remake,Hardy expressed skepticism over the Hollywood remake and had his lawyers make Warner Bros. remove his name from the remake's promotional material.,ccc5976380a443f5a9a2416bef3d6498,4
+the wicker man,original film,"Hardy commented: 'I don't believe in remakes. You can make a follow-up to a film, but to remake a movie with such history and success just doesn't make sense to me.'",ccc5976380a443f5a9a2416bef3d6498,4
+the wicker man,overrated,Gleiberman wrote that the original film is overrated.,ccc5976380a443f5a9a2416bef3d6498,4
+metacritic,generally unfavorable reviews,"On Metacritic, the film has a weighted average score of 36 out of 100, based on 19 critics, indicating 'generally unfavorable reviews'.",ccc5976380a443f5a9a2416bef3d6498,4
+audiences,f',Audiences polled by CinemaScore gave the film a rare average grade of 'F' on an A+ to F scale.,ccc5976380a443f5a9a2416bef3d6498,4
+the wicker man,struggles against unintentional comedy,LaBute's update [of] The Wicker Man struggles against unintentional comedy and fails.',ccc5976380a443f5a9a2416bef3d6498,4
+at the movies,entertainingly bad,"On At the Movies, the film got two thumbs down from Richard Roeper and Aisha Tyler, although they both said the film was 'entertainingly bad'.",ccc5976380a443f5a9a2416bef3d6498,4
+the wicker man,climax,Gleiberman wrote that the original film's climax lacks its 'tingle of madness'.,ccc5976380a443f5a9a2416bef3d6498,4
+the wicker man,japan,"Cage gave a live webchat to promote Ghost Rider: Spirit of Vengeance, where he expressed his desire to collaborate with a renowned Japanese filmmaker, like the director behind Ringu, and bring The Wicker Man to Japan as a ghost.",3f80d128e5cc4442a5a50d2cf0215244,4
+nicolas cage's character,bees,"In the unrated version of The Wicker Man, Nicolas Cage's character is overpowered and tackled by villagers before being sedated with a hive of bees due to his allergy.",3f80d128e5cc4442a5a50d2cf0215244,4
+the wicker man,melusine,"In the film, Nicolas Cage's character searches for a missing girl named Melusine, who is never found and remains a mystery.",3f80d128e5cc4442a5a50d2cf0215244,4
+the wicker man,supernatural,"The film explores supernatural elements, such as the burned doll that Nicolas Cage's character discovers.",3f80d128e5cc4442a5a50d2cf0215244,4

@@ -1,0 +1,31 @@
+node_1,node_2,edge,chunk_id,count
+movie,details,MOVIE's information or characteristics are provided in DETAILS.,41d89598be98401c95c937f67319f060,4
+montu,inder mohan singh,"Montu's assistant, perceived as a better PT teacher by Montu",6172341d72884dc2b0c3e0fa5734acba,4
+neelima mehra,montu,Montu falls in love with Neelima and they grow close,6172341d72884dc2b0c3e0fa5734acba,4
+neelima mehra,inder mohan singh,"Neelima spends more time with Inder Mohan, possibly due to his better PT skills",6172341d72884dc2b0c3e0fa5734acba,4
+montu,mr. shukla,Montu's teacher-buddy,6172341d72884dc2b0c3e0fa5734acba,4
+montu,inder mohan,"Montu quickly realizes that Inder Mohan is a much better PT teacher than him, and gets even more irked when Neelu starts spending more time with Inder Mohan.",f712fceac36b481d90b9975938a08212,4
+neelu,montu,Neelu comes to Montu's side and helps him coach his team.,f712fceac36b481d90b9975938a08212,4
+singh,montu,"Singh keeps Montu's brother, Bablu, pinned to the ground as a punishment for not paying attention. This leads to a fight between Montu and Singh, after which Montu quits his job at the school.",f712fceac36b481d90b9975938a08212,4
+basketball,inder mohan,"Montu challenges Inder Mohan with a three sport competition: basketball, a 400m relay race, and kabaddi.",f712fceac36b481d90b9975938a08212,4
+kabaddi,inder mohan,"Montu challenges Inder Mohan with a three sport competition: basketball, a 400m relay race, and kabaddi.",f712fceac36b481d90b9975938a08212,4
+pt teacher,montu,"Whoever's team won the competition would stay as the PT teacher, while the other would have to leave.",f712fceac36b481d90b9975938a08212,4
+pt teacher,inder mohan,Inder Mohan accepts the challenge.,f712fceac36b481d90b9975938a08212,4
+team,montu,"Montu foolishly lets Singh choose his team first in an attempt to impress Neelu by showing her his humility, and it backfires on him when he is left with a significantly weaker team.",f712fceac36b481d90b9975938a08212,4
+girls,montu's team,"Then, Neelu helps Montu implement very unorthodox training regimes, such as running from guard dogs to increase speed, catching loose chickens to increase agility, and dribbling a basketball through a cow dung minefield to increase dribbling ability. Their efforts pay off.",f712fceac36b481d90b9975938a08212,4
+children's parents,the competition,"The children's parents start to revolt, saying that the competition is dragging their children's focus away from studies.",f712fceac36b481d90b9975938a08212,4
+chhalaang,film production process,Chhalaang is a film undergoing the production process.,dbbbdbbe01864e848f354fe0081f4cb5,4
+hansal mehta,filmmaker,Hansal Mehta is a filmmaker who announced and directed Chhalaang.,dbbbdbbe01864e848f354fe0081f4cb5,4
+rajkummar rao,actor,Rajkummar Rao is an actor playing a lead role in Chhalaang.,dbbbdbbe01864e848f354fe0081f4cb5,4
+nushrat bharucha,actress,Nushrat Bharucha is an actress playing a lead role in Chhalaang.,dbbbdbbe01864e848f354fe0081f4cb5,4
+mohammed zeeshan ayyub,actor,Mohammed Zeeshan Ayyub is an actor playing a supporting role in Chhalaang.,dbbbdbbe01864e848f354fe0081f4cb5,4
+turram khan,original film title,Chhalaang was initially titled Turram Khan before its release.,dbbbdbbe01864e848f354fe0081f4cb5,4
+film city,location,A kabaddi scene for Chhalaang was filmed at Mumbai's Film City.,dbbbdbbe01864e848f354fe0081f4cb5,4
+31 january 2020,initial release date,Chhalaang was initially scheduled to be released on 31 January 2020.,dbbbdbbe01864e848f354fe0081f4cb5,4
+13 march 2020,revised release date,The release date for Chhalaang was postponed to 13 March 2020.,dbbbdbbe01864e848f354fe0081f4cb5,4
+12 june 2020,later revised release date,The release date for Chhalaang was further scheduled to 12 June 2020.,dbbbdbbe01864e848f354fe0081f4cb5,4
+covid-19 pandemic,film,The film was again postponed due to the COVID-19 pandemic.,9188fa88260b46c4a13b4d936e0df530,4
+amazon prime video,film,Finally it was released on 13 November 2020 on Amazon Prime Video coinciding with Diwali.,9188fa88260b46c4a13b4d936e0df530,4
+deedar de,song,The song 'Deedar De' is a recreation of 'Deedar De' from the film Dus by Vishal–Shekhar.,9188fa88260b46c4a13b4d936e0df530,4
+vishal–shekhar,song,"But the duo clarified that they did not recreate the song,",9188fa88260b46c4a13b4d936e0df530,4
+rotten tomatoes,film,The film currently holds a 70% on Rotten Tomatoes.,9188fa88260b46c4a13b4d936e0df530,4

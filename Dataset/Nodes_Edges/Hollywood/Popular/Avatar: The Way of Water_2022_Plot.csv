@@ -1,0 +1,50 @@
+node_1,node_2,edge,chunk_id,node_3,node_4,count
+pandora,rda,"returned to colonize Pandora, the Na'vi repelled them 16 years ago",d43ef1f6815645a989ce78a4cca6cfcc,,,4
+na'vi,resources development administration (rda),repelled the RDA from Pandora 16 years ago,d43ef1f6815645a989ce78a4cca6cfcc,,,4
+jake sully,omatikaya clan,chief of the Omatikaya clan,d43ef1f6815645a989ce78a4cca6cfcc,,,4
+neytiri,jake sully,"raises her family with Neytiri, consisting of two sons Neteyam and Lo'ak, daughter Tuktirey 'Tuk', and adopted daughter Kiri",d43ef1f6815645a989ce78a4cca6cfcc,,,4
+miles socorro,human scientists,frequently visits their children while being raised by human scientists who stayed on Pandora,d43ef1f6815645a989ce78a4cca6cfcc,,,4
+quaritch,resources development administration (rda),"leader of the Recombinants, Na'vi avatars implanted with the memories of deceased human soldiers",d43ef1f6815645a989ce78a4cca6cfcc,,,4
+spider,miles socorro,son of the late Colonel Miles Quaritch,d43ef1f6815645a989ce78a4cca6cfcc,,,4
+quaritch,spider,"captures Spider, subsequently recognizing him as his son",d43ef1f6815645a989ce78a4cca6cfcc,,,4
+jake sully,children,leads a guerilla campaign against the RDA occupation,d43ef1f6815645a989ce78a4cca6cfcc,,,4
+neytiri,children,"arrives and frees them, but Quaritch manages to capture Spider",d43ef1f6815645a989ce78a4cca6cfcc,,,4
+jake sully,metkayina clan,"relocates himself from the Omatikaya to Pandora's eastern sea, inhabited by the Metkayina",d43ef1f6815645a989ce78a4cca6cfcc,,,4
+kiri,pandora's eastern sea,assimilates with the Metkayina: Kiri develops a spiritual bond with,d43ef1f6815645a989ce78a4cca6cfcc,,,4
+pandora's eastern sea,metkayina clan,inhabited by,83b27d2604a54a6b9ddf54b44816c713,,,4
+kiri,sea,develops a spiritual bond with,83b27d2604a54a6b9ddf54b44816c713,,,4
+jake,metkayina clan,assimilates with,83b27d2604a54a6b9ddf54b44816c713,,,4
+tonowari,ronal,husband and wife,83b27d2604a54a6b9ddf54b44816c713,,,4
+aonung,lo'ak,altercation between sons after the former mocked Kiri,83b27d2604a54a6b9ddf54b44816c713,,,4
+lo'ak,tsireya,befriends daughter,83b27d2604a54a6b9ddf54b44816c713,,,4
+payakan,metkayina,intelligent and pacifist whale-like species considered their spiritual brethren,83b27d2604a54a6b9ddf54b44816c713,,,4
+lo'ak,payakan,befriends,83b27d2604a54a6b9ddf54b44816c713,,,4
+kiri,spirit tree,links to and meets Grace in a vision,83b27d2604a54a6b9ddf54b44816c713,,,4
+ronal,kiri,heals,83b27d2604a54a6b9ddf54b44816c713,,,4
+norm spellman,jake,summons for help,83b27d2604a54a6b9ddf54b44816c713,,,4
+max patel,jake,summons for help,83b27d2604a54a6b9ddf54b44816c713,,,4
+kiri,spirit tree,seizure during the link-induced trance and nearly drowns,83b27d2604a54a6b9ddf54b44816c713,,,4
+norm spellman,jake,diagnoses Kiri with epilepsy and warns that she cannot connect to the Spirit Tree again,83b27d2604a54a6b9ddf54b44816c713,,,4
+quaritch,norm spellman's aircraft,tracks to the Metkayina's archipelago,83b27d2604a54a6b9ddf54b44816c713,,,4
+spider,quaritch,joins forces with RDA's marine operations and commandeers a whaling vessel hunting Tulkuns,83b27d2604a54a6b9ddf54b44816c713,,,4
+whaling vessel,tulkuns,hunting,88e29e6c0b704d7699315d68b6ff37dc,,,4
+quaritch's squad,archipelago,raiding,88e29e6c0b704d7699315d68b6ff37dc,,,4
+jake,various tribes,interrogating,88e29e6c0b704d7699315d68b6ff37dc,,,4
+lo'ak,payakan,mentally links with,88e29e6c0b704d7699315d68b6ff37dc,,,4
+metkayina,massacre villages,Quaritch decides to,88e29e6c0b704d7699315d68b6ff37dc,,,4
+tulkuns,kill,Quaritch decides to,88e29e6c0b704d7699315d68b6ff37dc,,,4
+lo'ak,payakan,captured by Quaritch,88e29e6c0b704d7699315d68b6ff37dc,,,4
+jake,neytiri,confronts the humans and rescues,88e29e6c0b704d7699315d68b6ff37dc,,,4
+quaritch,jake,forces Jake to surrender,88e29e6c0b704d7699315d68b6ff37dc,,,4
+payakan,vessel,attacks,88e29e6c0b704d7699315d68b6ff37dc,,,4
+metkayina,battle between the metkayina and the humans,initiating,88e29e6c0b704d7699315d68b6ff37dc,,,4
+spider,vessel,cripples,88e29e6c0b704d7699315d68b6ff37dc,,,4
+neteyam,lo'ak,rescues,88e29e6c0b704d7699315d68b6ff37dc,Tsireya,Spider,4
+jake,kiri,"holds Kiri hostage, but desists when Neytiri does the same with Spider",88e29e6c0b704d7699315d68b6ff37dc,Quaritch,,4
+jake,lo'ak,get trapped inside the sinking vessel,88e29e6c0b704d7699315d68b6ff37dc,Payakan,Tuk,4
+jake,spider,rejects and rejoins Jake's family,88e29e6c0b704d7699315d68b6ff37dc,,,4
+neteyam,funeral,"after Neteyam's funeral, Jake informs Tonowari of his decision to leave the Metkayina.",88e29e6c0b704d7699315d68b6ff37dc,,,4
+jake,tonowari,"After Neteyam's funeral, Jake informs Tonowari of his decision to leave the Metkayina. However, Tonowari identifies Jake's family as being part of the clan out of reverence and welcomes them to stay.",2594546fcee047dd89dfb4bf9fdf302e,,,4
+jake,metkayina,Jake leaves the Metkayina.,2594546fcee047dd89dfb4bf9fdf302e,,,4
+jake's family,metkayina,Jake's family accept their new lives at sea but vow to continue their struggle against the RDA. Jake's family are still part of the Metkayina clan out of reverence and are welcomed by Tonowari.,2594546fcee047dd89dfb4bf9fdf302e,,,4
+rda,jake's family,Jake's family continue their struggle against the RDA.,2594546fcee047dd89dfb4bf9fdf302e,,,4

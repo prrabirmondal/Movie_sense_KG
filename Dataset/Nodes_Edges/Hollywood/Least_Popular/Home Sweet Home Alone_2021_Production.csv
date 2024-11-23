@@ -1,0 +1,16 @@
+node_1,node_2,edge,chunk_id,node_3,count
+home alone,disney ceo bob iger,"announced that a new film in the Home Alone franchise was in development on August 6, 2019",e5fb0838be9d456b98e823f0f1866247,,4
+dan mazer,home alone,directed the new Home Alone movie as of October 2019,e5fb0838be9d456b98e823f0f1866247,,4
+mikey day and streeter seidell,home alone,co-wrote the script for the new Home Alone movie as of October 2019,e5fb0838be9d456b98e823f0f1866247,,4
+hutch parker,dan wilson,"[{'source': 'Hutch Parker', 'target': 'Home Alone', 'label': 'served as producers for the new Home Alone movie as of December 2019'}, {'source': 'Dan Wilson', 'target': 'Home Alone', 'label': 'served as producers for the new Home Alone movie as of December 2019'}]",e5fb0838be9d456b98e823f0f1866247,Home Alone,4
+archie yates,home alone,was announced as a co-star in the new Home Alone movie as of December 2019,e5fb0838be9d456b98e823f0f1866247,,4
+rob delaney,home alone,was announced as a co-star in the new Home Alone movie as of December 2019,e5fb0838be9d456b98e823f0f1866247,,4
+ellie kemper,home alone,was announced as a co-star in the new Home Alone movie as of December 2019,e5fb0838be9d456b98e823f0f1866247,,4
+ally maki,home alone,joined the cast of the new Home Alone movie as of July 2020,e5fb0838be9d456b98e823f0f1866247,,4
+kenan thompson,home alone,joined the cast of the new Home Alone movie as of July 2020,e5fb0838be9d456b98e823f0f1866247,,4
+chris parnell,home alone,joined the cast of the new Home Alone movie as of July 2020,e5fb0838be9d456b98e823f0f1866247,,4
+aisling bea,home alone,joined the cast of the new Home Alone movie as of July 2020,e5fb0838be9d456b98e823f0f1866247,,4
+pete holmes,home alone,joined the cast of the new Home Alone movie as of July 2020,e5fb0838be9d456b98e823f0f1866247,,4
+timothy simons,home alone,joined the cast of the new Home Alone movie as of July 2020,e5fb0838be9d456b98e823f0f1866247,,4
+macaulay culkin,home alone,"[{'source': 'Culkin', 'target': 'Home Alone', 'label': 'was rumored to reprise his role in the new Home Alone movie as of April 2020'}, {'source': 'Macaulay Culkin', 'target': 'Home Alone', 'label': 'denied his involvement in the new Home Alone movie as of October 2021'}]",e5fb0838be9d456b98e823f0f1866247,,4
+devin ratray,home alone,was announced to appear in the new Home Alone movie as of August 2021,e5fb0838be9d456b98e823f0f1866247,,4

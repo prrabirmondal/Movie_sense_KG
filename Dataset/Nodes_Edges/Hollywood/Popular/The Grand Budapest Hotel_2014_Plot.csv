@@ -1,0 +1,27 @@
+node_1,node_2,edge,chunk_id,count
+author,the grand budapest hotel,"The woman visits the shrine of Author and reads his book, which includes details about The Grand Budapest Hotel.",ef4920b57c2b4a85a7e907389c6d1a45,4
+zero moustafa,author,Zero works at The Grand Budapest Hotel owned by Author in 1932.,ef4920b57c2b4a85a7e907389c6d1a45,4
+gustave h.,the grand budapest hotel,Gustave is the concierge of The Grand Budapest Hotel in 1932.,ef4920b57c2b4a85a7e907389c6d1a45,4
+madame d.,gustave h.,Madame D. Has a nearly two-decade affair with Gustave H.,ef4920b57c2b4a85a7e907389c6d1a45,4
+dowager madame céline villeneuve desgoffe-und-taxis,the grand budapest hotel,Madame D. Visits The Grand Budapest Hotel in 1968.,ef4920b57c2b4a85a7e907389c6d1a45,4
+dmitri,madame d.,Dmitri is the son of Madame D.,ef4920b57c2b4a85a7e907389c6d1a45,4
+deputy vilmos kovacs,the grand budapest hotel,Deputy Vilmos Kovacs announces a recent codicil regarding The Grand Budapest Hotel at Madame D.'s estate.,ef4920b57c2b4a85a7e907389c6d1a45,4
+serge x,madame d.,Serge X is the butler of Madame D.,ef4920b57c2b4a85a7e907389c6d1a45,4
+inspector alfred j. henckels,gustave h.,Inspector Alfred J. Henckels arrests Gustave H. For the murder of Madame D.,ef4920b57c2b4a85a7e907389c6d1a45,4
+serge x,dmitri,Dmitri pressured Serge to implicate Gustave for Madame D.'s murder.,971fac7f19514bc682be380de3291a12,4
+madame d.,second will,Madame D. Had a missing second will that would only take effect if she was murdered.,971fac7f19514bc682be380de3291a12,4
+gustave,arrested,Inspector Alfred J. Henckels arrested Gustave for Madame D.'s murder.,971fac7f19514bc682be380de3291a12,4
+gustave,prison break,"During his imprisonment, Gustave joined a gang and helped them escape via a storm-drain sewage system after extensive research of the prison.",971fac7f19514bc682be380de3291a12,4
+gustave,befriended gang,Gustave befriended a gang during his imprisonment and provided them with pastries from Mendl's.,971fac7f19514bc682be380de3291a12,4
+mendl's,pastries,"Mendl's is a well-known bakery, and Gustave provided the gang with pastries from there during his imprisonment.",971fac7f19514bc682be380de3291a12,4
+zero,place hammers,"Zero had place hammers inside pastries made by Agatha, an apprentice of Herr Mendl and Zero's fiancée.",971fac7f19514bc682be380de3291a12,4
+zero,chisels,"Zero had chisels inside pastries made by Agatha, an apprentice of Herr Mendl and Zero's fiancée.",971fac7f19514bc682be380de3291a12,4
+zero,sawblades,"Zero had sawblades inside pastries made by Agatha, an apprentice of Herr Mendl and Zero's fiancée.",971fac7f19514bc682be380de3291a12,4
+pastries,convicts,"The guards responsible for checking contraband couldn't bring themselves to break open the pastries since Mendl's pastries are works of art, and some convicts used them as a means to smuggle in tools during the prison break.",971fac7f19514bc682be380de3291a12,4
+gunther,guards,"During the prison break, Gunther was forced to sacrifice himself to dispatch the guards who secretly gambled at night.",971fac7f19514bc682be380de3291a12,4
+gustave,dmitri,"Dmitri is the real killer of Gustave, but Gustave later finds out that Dmitri also has a missing second will.",f9783c47cd9b40fe9282befea369ff51,4
+madame d.,gustave,"Madame D. leaves Gustave as the beneficiary of her hotel and fortune in her second will, which is discovered later by the group.",f9783c47cd9b40fe9282befea369ff51,4
+zero,gustave,Zero is a trusted friend of Gustave who helps him escape from Jopling and saves his life multiple times.,f9783c47cd9b40fe9282befea369ff51,4
+agatha,gustave,"Agatha is the love interest of Gustave, and they are married eventually.",f9783c47cd9b40fe9282befea369ff51,4
+henckels,zubrowkan troops,Henckels leads the Zubrowkan troops who invade the Grand Budapest after it is converted into a fascist headquarters by Dmitri.,f9783c47cd9b40fe9282befea369ff51,4
+prussian grippe,agatha and their infant son,"Agatha and their infant son die from the deadly disease called Prussian Grippe, which eventually leads to the decline of the Grand Budapest.",f9783c47cd9b40fe9282befea369ff51,4

@@ -1,0 +1,21 @@
+node_1,node_2,edge,chunk_id,count
+zodiac,handgun,"The unknown man used a handgun to attack Darlene Ferrin and Mike Mageau on July 4, 1969.",50f4f825807841d1b0ae685e59cd2942,4
+zodiac,lovers' lane,"The attack by the unknown man occurred at a lovers' lane in Vallejo, California on July 4, 1969.",50f4f825807841d1b0ae685e59cd2942,4
+zodiac,encrypted letters,"The killer, known as Zodiac, sent encrypted letters to the San Francisco Chronicle demanding his identity be published in exchange for not killing more people.",50f4f825807841d1b0ae685e59cd2942,4
+zodiac,political cartoonist robert graysmith,"Robert Graysmith, a political cartoonist, correctly guessed that the killer's identity was not in his encrypted message.",50f4f825807841d1b0ae685e59cd2942,4
+zodiac,crime reporter paul avery,"Paul Avery, a crime reporter, dismissed Graysmith's insights about the killer's letters.",50f4f825807841d1b0ae685e59cd2942,4
+zodiac,bryan hartnell and cecelia shepard,The Zodiac killer stabbed Bryan Hartnell and Cecelia Shepard at Lake Berryessa in Napa County.,50f4f825807841d1b0ae685e59cd2942,4
+zodiac,cecelia shepard,The Zodiac killer stabbed Cecelia Shepard and she died two days later.,50f4f825807841d1b0ae685e59cd2942,4
+zodiac,the most dangerous game,"The Zodiac killer referred to 'man as the most dangerous animal of them all', which was a reference to the villainous Count Zaroff in the 1932 film The Most Dangerous Game.",50f4f825807841d1b0ae685e59cd2942,4
+san francisco taxicab driver paul stine,zodiac killer,Stine was shot and killed by the Zodiac killer in San Francisco's Presidio Heights district.,5c6aa0d9df024ec5805d96c2193e7852,4
+san francisco police inspectors dave toschi and bill armstrong,vallejo's jack mulanax and captain ken narlow in napa,"Toschi, Armstrong, Mulanax, and Narlow worked closely together on the Zodiac case.",5c6aa0d9df024ec5805d96c2193e7852,4
+arthur leigh allen,zodiac killer,"Detectives Toschi, Armstrong, and Mulanax questioned Allen, who wore a Zodiac wristwatch with the same logo used by the killer. Toschi thought Allen might be the killer, but a handwriting expert said he did not write the Zodiac letters.",5c6aa0d9df024ec5805d96c2193e7852,4
+avery,zodiac threatener,"Avery received a letter threatening his life, which made him paranoid and caused him to turn to drugs and alcohol. This angered Toschi and Armstrong because he shared information with the Riverside Police Department about the killer being active before the initial killings.",5c6aa0d9df024ec5805d96c2193e7852,4
+zodiac,hollywood film dirty harry,"Toschi could not sit through this Hollywood film, which was loosely based on the Zodiac case, as it weighed heavily on him because of the case's notoriety.",5c6aa0d9df024ec5805d96c2193e7852,4
+graysmith,toschi,"Graysmith persistently contacts Toschi about the Zodiac murders and eventually impresses him with his knowledge of the case. While Toschi cannot directly give Graysmith access to the evidence, he provides names in other police departments where Zodiac murders occurred.",6da726c268254d03ba60535c94decc3f,4
+graysmith,avery,"By 1978, Avery has moved to the Sacramento Bee.",6da726c268254d03ba60535c94decc3f,4
+toschi,graysmith,"Graysmith continues his own investigation, profiled in the Chronicle, and gives a television interview about the book he is writing on the case.",6da726c268254d03ba60535c94decc3f,4
+toschi,allen,"While circumstantial evidence seems to indicate his guilt, the physical evidence, such as fingerprints and handwriting samples, do not implicate him.",6da726c268254d03ba60535c94decc3f,4
+graysmith,allen,Graysmith learns that Allen lived close to Ferrin and probably knew her and that his birthday matches the one Zodiac gave when he spoke to one of Melvin Belli's maids.,6da726c268254d03ba60535c94decc3f,4
+allen,graysmith,"Eight years later, after Graysmith's book, Zodiac, has become a bestseller, Mike Mageau identifies Allen from a police mugshot.",6da726c268254d03ba60535c94decc3f,4
+melanie,graysmith,"Graysmith's wife Melanie leaves him, taking their children.",6da726c268254d03ba60535c94decc3f,4

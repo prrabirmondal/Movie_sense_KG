@@ -1,0 +1,4 @@
+node_1,node_2,edge,chunk_id,count
+movies,summary,"A movie is a visual representation of a story, and its summary provides a brief overview of the plot.",8259b5590c3c4ecd8c4bccdfe9377cf5,4
+movies,details,"The details of a movie refer to specific information about its content, such as cast, director, genre, and production company.",8259b5590c3c4ecd8c4bccdfe9377cf5,4
+movies,boom,"In this context, 'boom' is being used as a unique identifier to distinguish between multiple meanings of the word 'boom'. This could indicate that the movie's summary contains information about an event or object called 'boom'.",8259b5590c3c4ecd8c4bccdfe9377cf5,4

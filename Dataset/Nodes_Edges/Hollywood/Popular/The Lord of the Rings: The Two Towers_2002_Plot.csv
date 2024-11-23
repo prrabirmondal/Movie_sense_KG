@@ -1,0 +1,42 @@
+node_1,node_2,edge,chunk_id,node_3,count
+frodo baggins,gollum,"Former bearer of the One Ring, captures Gollum and allows him to guide them as they are being tracked in the Emyn Muil near Mordor.",4d5728f3b65c4b12bcad3c8bdee8b162,,4
+frodo baggins,emyn muil,Lost in the Emyn Muil near Mordor while being tracked by Gollum.,4d5728f3b65c4b12bcad3c8bdee8b162,,4
+frodo baggins,mordor,Trying to infiltrate Mordor with the help of Gollum after being lost in the Emyn Muil near Mordor.,4d5728f3b65c4b12bcad3c8bdee8b162,,4
+merry,pippin,Escaped into Fangorn Forest from a band of Uruk-hai during a raid by a group of Rohirrim.,4d5728f3b65c4b12bcad3c8bdee8b162,,4
+aragorn,legolas,"Pursued a band of Uruk-hai to save their companions, Merry and Pippin.",4d5728f3b65c4b12bcad3c8bdee8b162,Gimli,4
+éomer,rohirrim,"Leads a group of Rohirrim who have been exiled by Rohan's king, Théoden.",4d5728f3b65c4b12bcad3c8bdee8b162,,4
+merry,pippin,Escaped into Fangorn Forest from a band of Uruk-hai during a raid by a group of Rohirrim.,4d5728f3b65c4b12bcad3c8bdee8b162,,4
+aragorn's group,fangorn forest,Encounter Gandalf in Fangorn Forest.,4d5728f3b65c4b12bcad3c8bdee8b162,,4
+gandalf,frodo baggins,Meets Frodo Baggins and Samwise Gamgee while they are being guided by Gollum.,4d5728f3b65c4b12bcad3c8bdee8b162,Samwise Gamgee,4
+gandalf,emyn muil,Helps Frodo Baggins and Samwise Gamgee infiltrate Mordor after they are lost in the Emyn Muil near Mordor.,4d5728f3b65c4b12bcad3c8bdee8b162,Mordor,4
+théoden,saruman,Is under the control of Saruman and his servant Gríma Wormtongue.,4d5728f3b65c4b12bcad3c8bdee8b162,,4
+éomer,théoden,Believes Merry and Pippin were killed during the raid but leaves Aragorn's group with two horses.,4d5728f3b65c4b12bcad3c8bdee8b162,Rohirrim,4
+éomer,théoden,Leaves to find after Théoden is freed from Saruman's control by Gandalf.,4d5728f3b65c4b12bcad3c8bdee8b162,,4
+gandalf,théoden,Frees Théoden from Saruman's control in Edoras.,4d5728f3b65c4b12bcad3c8bdee8b162,,4
+wormtongue,gríma wormtongue,Is Saruman's servant and is stopped by Aragorn from executing after Théoden is freed from Saruman's control.,4d5728f3b65c4b12bcad3c8bdee8b162,,4
+théoden,rohan's citizens,Evacuates Rohan's citizens to the fortress of the Hornburg at Helm's Deep.,4d5728f3b65c4b12bcad3c8bdee8b162,,4
+gandalf,fangorn forest,Departs from after encountering Aragorn's group in Fangorn Forest.,4d5728f3b65c4b12bcad3c8bdee8b162,,4
+helm's deep,rohan,"Helm's Deep is a fortress located in Rohan, where Théoden evacuates his citizens during the attack by Saruman's Orcs.",0d691a6ef0784703af42cd326b067fa4,,4
+théoden,rohan,Théoden is the king of Rohan who evacuates his citizens to Helm's Deep during the attack by Saruman's Orcs.,0d691a6ef0784703af42cd326b067fa4,,4
+saruman's orcs,rohan,"Saruman's Orcs attack Rohan, forcing Théoden to evacuate his citizens to Helm's Deep.",0d691a6ef0784703af42cd326b067fa4,,4
+aragorn,théoden's army,"Aragorn befriends Théoden's niece, Éowyn, and later falls from a cliff during the attack on the refugees travelling to Helm's Deep. He is found by Théodred's horse Brego and rides to Helm's Deep.",0d691a6ef0784703af42cd326b067fa4,,4
+éowyn,aragorn,Éowyn becomes infatuated with Aragorn after he befriends her in the context.,0d691a6ef0784703af42cd326b067fa4,,4
+brego,aragorn,Théodred's horse Brego finds Aragorn after he falls from a cliff during the attack on the refugees travelling to Helm's Deep.,0d691a6ef0784703af42cd326b067fa4,,4
+galadriel,elves,Galadriel of Lothlórien convinces Elrond that the Elves should honour their alliance to men during the context.,0d691a6ef0784703af42cd326b067fa4,,4
+elrond,arwen,Elrond informs Arwen that Aragorn will not return in the context.,0d691a6ef0784703af42cd326b067fa4,,4
+treebeard,merry,"Treebeard meets Merry and Pippin in Fangorn during the context. Convinced that they are allies, he brings them to an Ent Council.",0d691a6ef0784703af42cd326b067fa4,Pippin,4
+isengard,saruman's war effort,Merry and Pippin witness Saruman's deforestation efforts in Isengard during the context.,0d691a6ef0784703af42cd326b067fa4,,4
+treebeard,isengard,"Enraged by what he sees, Treebeard and the Ents storm Isengard during the context and trap Saruman in his tower.",0d691a6ef0784703af42cd326b067fa4,,4
+helm's deep,saruman's army approaching,warning Théoden of Saruman's army approaching at Helm's Deep,3434a3ff0a294bbb980ea11f8b377d76,,4
+théoden,battle despite being vastly outnumbered,prepares for battle despite being vastly outnumbered at Helm's Deep,3434a3ff0a294bbb980ea11f8b377d76,,4
+lothlorien elves,aids the people of rohan,shortly before Saruman's army attacks the fortress,3434a3ff0a294bbb980ea11f8b377d76,,4
+haldir,commander of elves',"during the ensuing charge, kills the Elves' commander, Haldir",3434a3ff0a294bbb980ea11f8b377d76,,4
+uruk-hai,outer wall with explosives,breach the outer wall with explosives,3434a3ff0a294bbb980ea11f8b377d76,,4
+aragorn,convince théoden to meet the uruk-hai in one last charge,"at dawn, as the defenders are overwhelmed",3434a3ff0a294bbb980ea11f8b377d76,,4
+frodo,captured by rangers of ithilien led by faramir,led through the Dead Marshes to the Black Gate,3434a3ff0a294bbb980ea11f8b377d76,,4
+faramir,takes his captives to gondor to bring the ring to his father denethor,"passing through the besieged city of Osgiliath, Frodo tries to explain to Faramir the true nature of the Ring",3434a3ff0a294bbb980ea11f8b377d76,,4
+frodo,middle-earth,Frodo is fighting to save Middle-earth from the corrupting influence of the Ring.,b8ab16b0fc174dd6bf4020cd572d6806,,4
+sam,frodo,"Sam saves Frodo when he is in danger, demonstrating his loyalty and devotion to Frodo's cause.",b8ab16b0fc174dd6bf4020cd572d6806,,4
+faramir,frodo,"Feeling impressed by Frodo's resolve, Faramir releases him rather than keeping him captive.",b8ab16b0fc174dd6bf4020cd572d6806,,4
+gollum,ring,"Determined to reclaim the Ring after feeling betrayed by his capture, Gollum decides to lead Frodo and Sam to Shelob.",b8ab16b0fc174dd6bf4020cd572d6806,,4
+faramir,middle-earth,"By releasing Frodo and Sam, Faramir demonstrates his allegiance to the good still left in Middle-earth.",b8ab16b0fc174dd6bf4020cd572d6806,,4

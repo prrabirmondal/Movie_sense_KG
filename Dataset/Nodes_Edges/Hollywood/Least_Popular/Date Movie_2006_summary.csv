@@ -1,0 +1,64 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,A movie is represented by its summary.,cbd1e0fa63894c39858c82d6cf040fdf,4
+date movie,parody film genre,"Date Movie is a parody film genre, referencing popular romantic comedy films such as My Big Fat Greek Wedding, Meet the Fockers, Hitch, Legally Blonde, and Bridget Jones's Diary.",5183cf7d21ba4a47ae60d4141774cc32,4
+alyson hannigan,date movie actress,Alyson Hannigan is an actress who starred in the parody film Date Movie,5183cf7d21ba4a47ae60d4141774cc32,4
+adam campbell,date movie actor,Adam Campbell is an actor who starred in the parody film Date Movie,5183cf7d21ba4a47ae60d4141774cc32,4
+sophie monk,date movie actress,Sophie Monk is an actress who starred in the parody film Date Movie,5183cf7d21ba4a47ae60d4141774cc32,4
+tony cox,date movie actor,Tony Cox is an actor who starred in the parody film Date Movie,5183cf7d21ba4a47ae60d4141774cc32,4
+jennifer coolidge,date movie actress,Jennifer Coolidge is an actress who appeared in the parody film Date Movie,5183cf7d21ba4a47ae60d4141774cc32,4
+eddie griffin,date movie actor,Eddie Griffin is an actor who starred in the parody film Date Movie,5183cf7d21ba4a47ae60d4141774cc32,4
+fred willard,date movie actor,Fred Willard is an actor who appeared in the parody film Date Movie,5183cf7d21ba4a47ae60d4141774cc32,4
+julia jones,character in date movie,"Julia Jones is a character in the parody film Date Movie, who dreams of marrying Napoleon Dynamite but even in her dreams is rejected",5183cf7d21ba4a47ae60d4141774cc32,4
+napoleon dynamite,character in napoleon dynamite,"Napoleon Dynamite is a character in the movie of the same name, and Julia Jones dreams of marrying him in Date Movie",5183cf7d21ba4a47ae60d4141774cc32,4
+frank,character in date movie,"Frank is a character in the parody film Date Movie, who runs a Greek diner",5183cf7d21ba4a47ae60d4141774cc32,4
+grant funkyerdoder,character in date movie,"Grant Funkyerdoder is a character in the parody film Date Movie, whom Julia Jones meets at her father's Greek diner",5183cf7d21ba4a47ae60d4141774cc32,4
+hitch,character in date movie,"Hitch is a character in the parody film Date Movie, who initially rejects Julia Jones but eventually agrees to help her",5183cf7d21ba4a47ae60d4141774cc32,4
+reality television,feature in date movie,Date Movie features a spot on a reality television show for Julia Jones after she is made slimmer by Hitch,5183cf7d21ba4a47ae60d4141774cc32,4
+julia,grant,falls in love with each other and eventually gets engaged,4ed8e7f5e2b448d99ecf0b09fffd091d,4
+julia,reality television dating show,participates in a reality television dating show called The Extreme Bachelor: Desperate Edition,4ed8e7f5e2b448d99ecf0b09fffd091d,4
+grant,julia,falls in love with Julia and proposes to her,4ed8e7f5e2b448d99ecf0b09fffd091d,4
+grant's parents,julia,meet Julia and approve of her,4ed8e7f5e2b448d99ecf0b09fffd091d,4
+bernie and roz,julia,introduce Julia to a wedding planner,4ed8e7f5e2b448d99ecf0b09fffd091d,4
+jell-o,julia and grant,"recommended as wedding planner by Grant's parents, later reveals that she will also be the wedding entertainment",4ed8e7f5e2b448d99ecf0b09fffd091d,4
+tiffany & co.,julia,Grant takes Julia to Tiffany & Co. After their engagement,4ed8e7f5e2b448d99ecf0b09fffd091d,4
+eduardo,grant,"housekeeper with whom Grant lost his virginity, revealed by Roz",4ed8e7f5e2b448d99ecf0b09fffd091d,4
+ty andrews,julia and the other women on the extreme bachelor: desperate edition,introduces Grant to all the women on the show and asks him to eliminate some of them,4ed8e7f5e2b448d99ecf0b09fffd091d,4
+grant,host ty andrews,"meets the host of the reality television dating show, The Extreme Bachelor: Desperate Edition",4ed8e7f5e2b448d99ecf0b09fffd091d,4
+the extreme bachelor: desperate edition,julia,reality television dating show that Julia participates in,4ed8e7f5e2b448d99ecf0b09fffd091d,4
+julia,gold spandex bra and tights,"Reveals provocative dance moves while stripping off clothes, indicating a strong association between Julia's identity and her provocative attire.",bcc0f7b8e1fa4ff3b26e4956e8ea369d,4
+julia,massive buttocks,"Slams desk over with to reveal provocative moves, suggesting an intimate connection between Julia and her body parts.",bcc0f7b8e1fa4ff3b26e4956e8ea369d,4
+julia,gold spandex bra and tights,"Backs up towards couple and smothers them with buttocks, indicating a hostile relation between Julia's provocative attire and the couple's fear.",bcc0f7b8e1fa4ff3b26e4956e8ea369d,4
+julia,ex-fiancé andy,"Introduced by Grant, implying a connection between Julia, Grant and Andy.",bcc0f7b8e1fa4ff3b26e4956e8ea369d,4
+andy,grant,"Seemingly harbors no resentment towards Julia for marrying Grant, suggesting a past relationship or connection between the two.",bcc0f7b8e1fa4ff3b26e4956e8ea369d,4
+julia,wedding dress,"Helps Julia shop for wedding dress at bridal shop, indicating a significant role of Andy in Julia's wedding preparations.",bcc0f7b8e1fa4ff3b26e4956e8ea369d,4
+julia,power box,"Hits head on power box and gains ability to read people's thoughts, revealing a causal relationship between Julia's action and her newfound skill.",bcc0f7b8e1fa4ff3b26e4956e8ea369d,4
+julia,andy,"Reads Andy's mind and realises his desire to get back together with Grant, indicating a potential threat to Julia's marriage with Grant.",bcc0f7b8e1fa4ff3b26e4956e8ea369d,4
+women,kill bill-style fight,"Fight each other in a violent manner, suggesting a contentious relationship between the women.",bcc0f7b8e1fa4ff3b26e4956e8ea369d,4
+julia,grant,"Arrives late at wedding and witnesses Grant's kiss with Andy, causing emotional distress for Julia.",bcc0f7b8e1fa4ff3b26e4956e8ea369d,4
+julia,nicky,"Agrees to marry Nicky due to regret over marriage with Grant, indicating a shift in Julia's preference.",bcc0f7b8e1fa4ff3b26e4956e8ea369d,4
+frank,grant,"Objects to Julia's union with Nicky, revealing his past connection with Grant and his disapproval of Julia's new relationship.",bcc0f7b8e1fa4ff3b26e4956e8ea369d,4
+julia,flashbacks,"Has flashbacks about her and Grant while standing at altar, indicating an ongoing emotional attachment between Julia and Grant.",bcc0f7b8e1fa4ff3b26e4956e8ea369d,4
+grant,julia,"Get back together and get married with Hitch officiating and now dating Jell-O. Julia arrives too late and sees Grant on the streets before she falls off the roof, though Grant conveniently catches her.",6a4a8934a6354664b67e03de2645e59c,4
+grant,king kong,"Grant and Julia go to Skull Island and film a woman tied between two poles. King Kong rips off her dress and gropes her, Anne says 'I like hairy boys', so King Kong flattens her.",6a4a8934a6354664b67e03de2645e59c,4
+aaron seltzer,jason friedberg,Sold an untitled romantic comedy pitch to Regency Enterprises and became attached to helm it.,6a4a8934a6354664b67e03de2645e59c,4
+alyson hannigan,adam campbell,Star in the film.,6a4a8934a6354664b67e03de2645e59c,4
+date movie,unfavorable reviews from critics,Received unfavorable reviews from critics.,6a4a8934a6354664b67e03de2645e59c,4
+date movie,rotten tomatoes,"Has an approval rating of 7% based on 90 reviews, with an average rating of 2.9/10 on Rotten Tomatoes.",6a4a8934a6354664b67e03de2645e59c,4
+date movie,rotten tomatoes',"The site's critical consensus states: 'In an attempt to parody rom-com clichés, Date Movie ultimately makes a mockery of itself, with juvenile toilet humor and empty pop culture references.'",6a4a8934a6354664b67e03de2645e59c,4
+date movie,press screenings,Did not have advance press screenings.,6a4a8934a6354664b67e03de2645e59c,4
+anne,grant and julia,"Grant and Julia go to Skull Island and film a woman tied between two poles. King Kong rips off her dress and gropes her, Anne says 'I like hairy boys', so King Kong flattens her.",6a4a8934a6354664b67e03de2645e59c,4
+anne,king kong,"King Kong rips off her dress and gropes her, Anne says 'I like hairy boys', so King Kong flattens her.",6a4a8934a6354664b67e03de2645e59c,4
+skull island,grant and julia,Grant and Julia go to Skull Island and film a woman tied between two poles.,6a4a8934a6354664b67e03de2645e59c,4
+mockery,self,makes a mockery of itself,31d19741506446b9868920a81b45b17b,4
+juvenile toilet humor,empty pop culture references,of the film,31d19741506446b9868920a81b45b17b,4
+a grade c+,on scale of a to f,CinemaScore gave the film,31d19741506446b9868920a81b45b17b,4
+b- grade,owen gleiberman,awards,31d19741506446b9868920a81b45b17b,4
+joke-a-second comedy,failed to contain a single laugh,Scott Tobias of The A.V. Club,31d19741506446b9868920a81b45b17b,4
+worst supporting actress,carmen electra,Golden Raspberry Award,31d19741506446b9868920a81b45b17b,4
+scary movie 4,film,"In this film, Scary Movie 4, is a horror comedy movie released in 2006.",271fb33fd4cc4f87920ba7783666fa14,4
+jennifer coolidge,actor,Jennifer Coolidge is an actor who appeared in Scary Movie 4 and was nominated for Most Annoying Fake Female Accent at the 2006 Stinkers Bad Movie Awards.,271fb33fd4cc4f87920ba7783666fa14,4
+cindy cheung,actor,Cindy Cheung is an actor who appeared in Lady in the Water and won Most Annoying Fake Female Accent at the 2006 Stinkers Bad Movie Awards.,271fb33fd4cc4f87920ba7783666fa14,4
+lady in the water,film,Lady in the Water is a film that Cindy Cheung appeared in and won Most Annoying Fake Female Accent at the 2006 Stinkers Bad Movie Awards.,271fb33fd4cc4f87920ba7783666fa14,4
+worst screenplay,award,Scary Movie 4 won the award for Worst Screenplay at the 2006 Stinkers Bad Movie Awards.,271fb33fd4cc4f87920ba7783666fa14,4
+most painfully unfunny comedy,award,Scary Movie 4 won the award for Most Painfully Unfunny Comedy at the 2006 Stinkers Bad Movie Awards.,271fb33fd4cc4f87920ba7783666fa14,4
+"may 30, 2006",date,"Scary Movie 4 was released on DVD on May 30, 2006.",271fb33fd4cc4f87920ba7783666fa14,4

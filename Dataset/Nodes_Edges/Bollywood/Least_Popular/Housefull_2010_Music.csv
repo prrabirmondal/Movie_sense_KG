@@ -1,0 +1,2 @@
+node_1,node_2,edge,chunk_id,count
+house full,live at the l.a. troubadour,"In this context, 'House Full' refers to a popular event or concert. The album 'Live at the L.A. Troubadour', which is mentioned next, might be from such an event. So, there exists a relationship of 'originated_from' between 'House Full' and 'Live at the L.A. Troubadour'.",7bee5ada7652401bbd399cb795b56d7d,4

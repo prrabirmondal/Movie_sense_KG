@@ -1,0 +1,4 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,a movie has a summary that provides details about its plot and storyline,32055395305042beb53499c386bbd228,4
+message,displayed,"the message is displayed to the user, indicating that some action or information has been communicated",32055395305042beb53499c386bbd228,4
+other,reasons,"there are other reasons why this specific message might be shown to the user, indicating potential issues or errors with the system or application being used.",32055395305042beb53499c386bbd228,4

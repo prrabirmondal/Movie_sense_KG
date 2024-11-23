@@ -1,0 +1,35 @@
+node_1,node_2,edge,chunk_id,type,count
+lenny feder,stanton,"Lenny moved his family to Stanton, where his friends Eric Lamonsoff, Kurt McKenzie, and Marcus Higgins live.",59bdd25ab7f54b7a9ac9e33df70a2633,,4
+deer,mr. gigglesworth (stuffed animal),The deer tore Mr. Gigglesworth apart after it wreaked havoc through Lenny's house.,59bdd25ab7f54b7a9ac9e33df70a2633,,4
+roxanne feder,lenny feder,Lenny dismissed Roxanne's suggestion that they have another child.,59bdd25ab7f54b7a9ac9e33df70a2633,,4
+eric lamonsoff,sally,Eric worried that Sally was encouraging their children's self-confidence above all else.,59bdd25ab7f54b7a9ac9e33df70a2633,,4
+deanne,kurt mckenzie,"Kurt gave Deanne a gift for their anniversary, which she had forgotten.",59bdd25ab7f54b7a9ac9e33df70a2633,,4
+braden,marcus higgins,"Marcus was intimidated by Braden, who deeply hated him.",59bdd25ab7f54b7a9ac9e33df70a2633,,4
+nick,school bus,Lenny commandeered his children's school bus from Nick.,59bdd25ab7f54b7a9ac9e33df70a2633,,4
+rob hillard,tommy cavanaugh,"Lenny's childhood bully, Tommy Cavanaugh.",59bdd25ab7f54b7a9ac9e33df70a2633,,4
+k-mart,lenny feder,The friends visited K-Mart with Lenny.,59bdd25ab7f54b7a9ac9e33df70a2633,,4
+ballet recital,mcdonough elementary,Police officers Fluzoo and Dante escorted the friends to Becky's ballet recital at McDonough Elementary.,59bdd25ab7f54b7a9ac9e33df70a2633,,4
+tommy cavanaugh,lenny feder,Tommy openly threatened Lenny.,59bdd25ab7f54b7a9ac9e33df70a2633,,4
+abandoned quarry,college party,"The brothers Andre and Greg accompany Braden to an abandoned quarry, where they join a college party.",71392dd92358424580bb4f8f8048a07b,,4
+college fraternity,lenny and his friends,"Confronted by a hostile college fraternity led by Milo and Andy, who force them to jump in naked from the highest point. The frat boys blame Lenny and his friends and swear revenge.",71392dd92358424580bb4f8f8048a07b,,4
+kurt,charlotte,Kurt's daughter Charlotte agrees to go on a date.,71392dd92358424580bb4f8f8048a07b,,4
+lenny,keith,Lenny's younger son Keith struggles with his own bully Duffy.,71392dd92358424580bb4f8f8048a07b,,4
+marcus,van,"The friends take Marcus' van, vandalized by Braden, to Eric's auto body shop,",71392dd92358424580bb4f8f8048a07b,,4
+lenny,keith,"After humiliating their old rival Dickie at the Ice Cream House, Lenny, Eric, Kurt, and Marcus visit the same quarry, where they swam during their youth.",71392dd92358424580bb4f8f8048a07b,,4
+eric,sally,Eric apologizes to Sally for avoiding her to spend time with his mother.,71392dd92358424580bb4f8f8048a07b,,4
+kyle,roxanne,"Lenny becomes suspicious of Kyle's relationship with Roxanne,",71392dd92358424580bb4f8f8048a07b,,4
+penny,lenny,Penny's lifelong obsession with Lenny angers Roxanne.,71392dd92358424580bb4f8f8048a07b,,4
+braden,construction tire,Marcus accidentally rolls through town in a giant runaway construction tire.,71392dd92358424580bb4f8f8048a07b,,4
+andre,driving test,"Andre passes his driving test overseen by Wiley,",71392dd92358424580bb4f8f8048a07b,,4
+nancy arbuckle,greg,"Greg succeeds in asking out Nancy Arbuckle, a girl he has a crush on.",71392dd92358424580bb4f8f8048a07b,,4
+lenny,roxanne,relationship: Lenny tells Roxanne that she is pregnant.,25c67375c17e473c8268fd9ddf73fcfc,has_relation,4
+lenny,kyle,"relationship: Lenny does not have an affair with Kyle, who has repaired Becky's stuffed animal.",25c67375c17e473c8268fd9ddf73fcfc,has_relation,4
+lenny,tommy,relationship: Lenny challenges Tommy to a fight.,25c67375c17e473c8268fd9ddf73fcfc,has_relation,4
+tommy,becky's son,relationship: Becky's son is being bullied.,25c67375c17e473c8268fd9ddf73fcfc,has_relation,4
+tommy,lenny,relationship: Tommy takes a dive to allow Lenny to look tough in front of his bullied son.,25c67375c17e473c8268fd9ddf73fcfc,has_relation,4
+braden,fraternity members,relationship: Braden admits to being the culprit of frat house vandalism.,25c67375c17e473c8268fd9ddf73fcfc,has_relation,4
+fraternity members,townsfolk,relationship: Fraternity members insult the townsfolk.,25c67375c17e473c8268fd9ddf73fcfc,has_relation,4
+townsfolk,fraternity members,relationship: A massive brawl breaks out between them.,25c67375c17e473c8268fd9ddf73fcfc,has_relation,4
+andy,deer,"relationship: Andy gets attacked by the deer, thanks to Becky's tactic with her stuffed animal.",25c67375c17e473c8268fd9ddf73fcfc,has_relation,4
+eric's mother,lenny,relationship: Eric's mother reassures Lenny about his new baby.,25c67375c17e473c8268fd9ddf73fcfc,has_relation,4
+lenny,roxanne,"relationship: Lenny and Roxanne reconcile, looking forward to their growing family.",25c67375c17e473c8268fd9ddf73fcfc,has_relation,4

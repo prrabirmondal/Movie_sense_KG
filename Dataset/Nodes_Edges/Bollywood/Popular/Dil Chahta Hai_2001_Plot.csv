@@ -1,0 +1,22 @@
+node_1,node_2,edge,chunk_id,count
+akash,shalini,"Akash notices a pretty girl called Shalini and approaches her, but she is engaged to the short-tempered Rohit who punches Akash for flirting with his fiancée.",2b3e96455e0a4d3d9e7120257c5204ce,4
+shalini,rohit,Shalini is engaged to the short-tempered Rohit who punches Akash for flirting with his fiancée.,2b3e96455e0a4d3d9e7120257c5204ce,4
+sameer,priya,"Sameer's girlfriend, Priya, asks him to cut ties with Akash after he approaches a pretty girl called Shalini.",2b3e96455e0a4d3d9e7120257c5204ce,4
+sid,deepa,"Sid comes across a clingy ex-girlfriend, Deepa, whom Akash avoids during their road trip to Goa.",2b3e96455e0a4d3d9e7120257c5204ce,4
+christine,sameer,"Sameer takes a liking to Christine, whom he met at the beach and who claims to be of Swiss origin, but is swindled of his money as she turns out to be a crook.",2b3e96455e0a4d3d9e7120257c5204ce,4
+pooja,sameer,"Sameer stays back with Christine after returning home, but is set up by his parents for an arranged marriage with Pooja.",2b3e96455e0a4d3d9e7120257c5204ce,4
+subodh,pooja,Pooja has a boyfriend called Subodh.,2b3e96455e0a4d3d9e7120257c5204ce,4
+tara,sid,"Sid meets an older neighbor called Tara, who is an interior designer and lost custody of her daughter to her ex-husband. Sid finds himself attracted to her despite the associated taboo.",2b3e96455e0a4d3d9e7120257c5204ce,4
+sid,tara,"Despite the associated taboo, Sid finds himself attracted to her. He confesses his feelings one evening to Akash and Sameer. Tara reacts negatively to his feelings for her, leading Sid to leave town. In the present, Sid returns to find Tara suffering from liver cirrhosis due to alcohol. Sid rushes Tara to the hospital, where she wishes Sid happiness before passing away.",e51219cf258d4d389a0b37329c72d158,4
+akash,shalini,"After seeing the opera with Shalini, Akash realises he wants Shalini as a life-partner. Shalini has to return to Mumbai for her wedding to Rohit, but she accepts Akash's proposal publicly for the second time after their graduation, as she has also fallen in love with him.",e51219cf258d4d389a0b37329c72d158,4
+akash,rohit,"Shalini has a wedding to Rohit. Akash compares Sid's infatuation to his own 'first time' with an older woman, leading Sid to slap him when they fall out.",e51219cf258d4d389a0b37329c72d158,4
+pooja,subodh,Pooja breaks up with Subodh and finds love with Sameer after Akash's dismissive comparison of Sid's infatuation to his own 'first time' with an older woman.,e51219cf258d4d389a0b37329c72d158,4
+rohit,shalini,"Rohit is Shalini's husband, but Akash chooses not to come to the hospital when Sid brings Tara suffering from liver cirrhosis due to alcohol.",e51219cf258d4d389a0b37329c72d158,4
+mahesh,shalini,"Shalini visits her uncle Mahesh in Sydney, and Akash runs into her there. They end up going sightseeing together and spend an increasing amount of time with each other to Rohit's dismay.",e51219cf258d4d389a0b37329c72d158,4
+sameer,sid,"Sameer informs Sid of his plans to marry Pooja, and Akash drops by the hospital to bury his grudge when Tara is dying.",e51219cf258d4d389a0b37329c72d158,4
+akash,shalini,"After seeing the opera with Shalini, Akash realises he wants Shalini as a life-partner. Six months later, Sid is grieving, but has accompanied Akash, Sameer, Pooja and",e51219cf258d4d389a0b37329c72d158,4
+ward,death,"She wishes Sid happiness before passing away, implying that her imminent death is related to the concept of dying or mortality.",34ae18ffbd184df9bb802937d1a87cf5,4
+ward,grief,"Sid is grieving after the death of his ward, illustrating the association between bereavement and passing away.",34ae18ffbd184df9bb802937d1a87cf5,4
+sid,happiness,"She wishes Sid happiness before passing away, indicating that there is a positive correlation between her last request for his wellbeing and contentment.",34ae18ffbd184df9bb802937d1a87cf5,4
+sid,goa,"Accompanied Akash, Sameer, Pooja and Shalini, on a trip to Goa. He meets a woman who smiles back at him - implying that Sid's travel destination and newfound romance are related.",34ae18ffbd184df9bb802937d1a87cf5,4
+sid,woman,"He meets a woman who smiles back at him in Goa, indicating the association between Sid's encounter with an unknown female and his current location.",34ae18ffbd184df9bb802937d1a87cf5,4

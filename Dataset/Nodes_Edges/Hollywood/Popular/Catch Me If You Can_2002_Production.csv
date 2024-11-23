@@ -1,0 +1,48 @@
+node_1,node_2,edge,chunk_id,count
+hollywood pictures,dreamworks pictures,"The project was presented to Steven Spielberg at DreamWorks Pictures after going into turnaround from Bungalow 78 Productions, a division of TriStar Pictures.",56e2af4308364dcf96da33a2af1a6542,4
+paramount pictures,dreamworks pictures,Executive producer Michel Shane purchased the film rights for Paramount Pictures in 1990 and brought the project to DreamWorks.,56e2af4308364dcf96da33a2af1a6542,4
+barry kemp,dreamworks pictures,"By December 1997, Barry Kemp purchased the film rights from Michel Shane and brought the project to DreamWorks.",56e2af4308364dcf96da33a2af1a6542,4
+frank abagnale,columbia pictures,Producers Norman Lear and Bud Yorkin purchased the film rights to Frank Abagnale's autobiography in 1980.,56e2af4308364dcf96da33a2af1a6542,4
+hall bartlett,columbia pictures,"Producer Hall Bartlett and business partner Michael J. Lasky hired Steven Kunes to write the screenplay for the project, but Bartlett died before finding a distributor.",56e2af4308364dcf96da33a2af1a6542,4
+leonardo dicaprio,dreamworks pictures,"By April 2000, Leonardo DiCaprio was in discussions to star in the project, with Gore Verbinski attached to direct.",56e2af4308364dcf96da33a2af1a6542,4
+david fincher,dreamworks pictures,"In April 2000, David Fincher was attached to direct the project over the course of a few months, but dropped out in favor of Panic Room.",56e2af4308364dcf96da33a2af1a6542,4
+steven spielberg,dreamworks pictures,Spielberg signed on as producer for the project.,56e2af4308364dcf96da33a2af1a6542,4
+frank abagnale sr.,frank abagnale jr. (portrayed by leonardo dicaprio),father-son relationship,4ded1596f3574e14a84bc8cee315803b,4
+gore verbinski,spielberg,"initial director and producer, respectively, of the film",4ded1596f3574e14a84bc8cee315803b,4
+lasse hallström,spielberg,director considered to replace Verbinski in negotiations,4ded1596f3574e14a84bc8cee315803b,4
+tom hanks,frank abagnale sr.,actor replacing James Gandolfini due to scheduling conflicts with The Sopranos,4ded1596f3574e14a84bc8cee315803b,4
+amy adams,brenda strong (previously played by chloë sevigny),actress chosen to replace Sevigny after months of searching,4ded1596f3574e14a84bc8cee315803b,4
+martin sheen,roger strong,actor cast due to his 'intimidating presence',4ded1596f3574e14a84bc8cee315803b,4
+christopher walken,frank abagnale sr.,actor chosen for role following producer Walter F. Parkes' suggestion,4ded1596f3574e14a84bc8cee315803b,4
+catch me if you can,soundtrack,The musical composition that accompanies the visual elements of a film,076f4705b4604d58af6a66f64a720ec9,4
+john williams,composer,"An individual who creates original music for films, television shows, and video games",076f4705b4604d58af6a66f64a720ec9,4
+catch me if you can,film,A motion picture that is produced by the film industry,076f4705b4604d58af6a66f64a720ec9,4
+"spielberg, steven",director,An individual who supervises and manages all creative and artistic aspects of a film production,076f4705b4604d58af6a66f64a720ec9,4
+leonardo dicaprio,actor,"A person who acts in motion pictures, television programs, or stage plays",076f4705b4604d58af6a66f64a720ec9,4
+martin sheen,actor,"A person who acts in motion pictures, television programs, or stage plays",076f4705b4604d58af6a66f64a720ec9,4
+jennifer garner,actress,"A woman who acts in motion pictures, television programs, or stage plays",076f4705b4604d58af6a66f64a720ec9,4
+brian de palma,filmmaker,"An individual involved in the entire filmmaking process, from initial development to post-production and distribution",076f4705b4604d58af6a66f64a720ec9,4
+nathalie baye,actress,"A woman who acts in motion pictures, television programs, or stage plays",076f4705b4604d58af6a66f64a720ec9,4
+twa flight center,airport terminal,A building at an airport used for boarding and disembarkation of passengers,076f4705b4604d58af6a66f64a720ec9,4
+quebec city,location,"A place where a scene or event takes place in a film, television show, or video game",076f4705b4604d58af6a66f64a720ec9,4
+brooklyn,location,"A place where a scene or event takes place in a film, television show, or video game",076f4705b4604d58af6a66f64a720ec9,4
+montreal,location,"A place where a scene or event takes place in a film, television show, or video game",076f4705b4604d58af6a66f64a720ec9,4
+orange,location,"A place where a scene or event takes place in a film, television show, or video game",076f4705b4604d58af6a66f64a720ec9,4
+park avenue,location,"A place where a scene or event takes place in a film, television show, or video game",076f4705b4604d58af6a66f64a720ec9,4
+waldorf-astoria hotel,hotel,An establishment that provides paid lodging on a short-term basis,076f4705b4604d58af6a66f64a720ec9,4
+catch me if you can (soundtrack),john williams,composed and conducted by,7cbebdfb46224bad8bb00b35ef173871,4
+dreamworks records,catch me if you can (soundtrack),released by,7cbebdfb46224bad8bb00b35ef173871,4
+catch me if you can,music,"The given text is titled 'Catch Me If You Can: Music from the Motion Picture', indicating that 'Catch Me If You Can' is a specific piece of music featured in the movie.",bf3f821c2ab04b44a6447718b9e88699,4
+catch me if you can,the float,"Both songs are listed under the same section, 'Title', implying that they might be related in some way.",bf3f821c2ab04b44a6447718b9e88699,4
+come fly with me,frank sinatra,"The song 'Come Fly with Me' is performed by Frank Sinatra, which indicates a performer-song relation.",bf3f821c2ab04b44a6447718b9e88699,4
+recollections (the father's theme),alan estes,"Soloists Alan Estes and Dan Higgins are associated with the song 'Recollections (The Father's Theme)', suggesting a performer-song connection.",bf3f821c2ab04b44a6447718b9e88699,4
+recollections (the father's theme),dan higgins,"Both Alan Estes and Dan Higgins are credited as soloists for 'Recollections (The Father's Theme)', implying a collaborative relationship.",bf3f821c2ab04b44a6447718b9e88699,4
+the girl from ipanema,stan getz and joao gilberto featuring astrud gilberto and antonio carlos jobim,"The given text lists all performers associated with the song 'The Girl from Ipanema', indicating a collaborative relation between them.",bf3f821c2ab04b44a6447718b9e88699,4
+learning the ropes,8:44,"The duration of the song 'Learning the Ropes' is provided, indicating its significance as a part of the music collection.",bf3f821c2ab04b44a6447718b9e88699,4
+father and son,alan estes,"Both 'Father and Son' and 'Recollections (The Father's Theme)' feature Alan Estes as a soloist, signifying a potential connection between the two songs.",bf3f821c2ab04b44a6447718b9e88699,4
+embraceable you,judy garland and victor young and his orchestra,"The given text includes both the song 'Embraceable You' and the performers associated with it, indicating a performer-song relation.",bf3f821c2ab04b44a6447718b9e88699,4
+the christmas song (merry christmas to you),nat king cole,"The song 'The Christmas Song (Merry Christmas to You)' is performed by Nat King Cole, illustrating a performer-song connection.",bf3f821c2ab04b44a6447718b9e88699,4
+a broken home,4:25,"The duration of 'A Broken Home' is provided, signifying its importance in the music collection.",bf3f821c2ab04b44a6447718b9e88699,4
+un poco adagio,"haydn concerto for piano and strings, no 11 in d-major by franz joseph haydn","The given text includes both the song 'Un Poco Adagio' and its classical origins, highlighting its significance within the context of the music collection.",bf3f821c2ab04b44a6447718b9e88699,4
+the look of love,dusty springfield,"The song 'The Look of Love' is performed by Dusty Springfield, signifying a performer-song connection.",bf3f821c2ab04b44a6447718b9e88699,4
+catch me if you can (reprise and end credits),5:14,"The duration of 'Catch Me If You Can (Reprise and End Credits)' is provided, indicating its prominence in the music collection.",bf3f821c2ab04b44a6447718b9e88699,4

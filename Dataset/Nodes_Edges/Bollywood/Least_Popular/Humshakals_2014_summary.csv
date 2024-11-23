@@ -1,0 +1,5 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,"A movie is a form of visual communication which uses moving pictures and sound to tell stories, convey information, or entertain an audience. A summary is a brief description or statement of the essential features of something.",4246b7f9c1a14dc9980344ac9b05eff8,4
+here,details,"Here refers to the current location, and details means specific information about something.",4246b7f9c1a14dc9980344ac9b05eff8,4
+details,movie's summary,"Details refer to specific facts or information, and a summary is a brief overview of a movie's plot or storyline.",4246b7f9c1a14dc9980344ac9b05eff8,4
+other,reasons,"Other refers to anything additional or remaining after the primary elements have been considered, and reasons could be causes or explanations for something.",4246b7f9c1a14dc9980344ac9b05eff8,4

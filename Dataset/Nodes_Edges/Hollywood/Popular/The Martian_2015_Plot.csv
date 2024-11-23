@@ -1,0 +1,24 @@
+node_1,node_2,edge,chunk_id,count
+here is the details of movie's plot:,acidalia planitia region,located in Acidalia Planitia region during the Ares III mission landing site,17a0534b77e64c3b90cf52f720dc5b03,4
+ares iii mission landing site,mars ascent vehicle (mav),part of the Ares III mission equipment at Acidalia Planitia region,17a0534b77e64c3b90cf52f720dc5b03,4
+mark watney,mav debris,struck by MAV debris during dust storm and presumed dead,17a0534b77e64c3b90cf52f720dc5b03,4
+ares iii crew,hermes,left behind Mark Watney in the evacuation due to severe dust storm threat on Mars,17a0534b77e64c3b90cf52f720dc5b03,4
+mars,4 years,"next Mars mission, Ares IV, will land 3,200 kilometers away at the Schiaparelli crater in 4 years",17a0534b77e64c3b90cf52f720dc5b03,4
+ares iv mav,mindy park,NASA satellite planner notices moved equipment near Ares IV MAV location,17a0534b77e64c3b90cf52f720dc5b03,4
+mark watney,martian soil,creates a garden inside the Hab using Martian soil fertilized with the crew's bio-waste,17a0534b77e64c3b90cf52f720dc5b03,4
+mark watney,whole potatoes,cultivates potatoes using whole potatoes reserved for a special Thanksgiving meal in the Hab,17a0534b77e64c3b90cf52f720dc5b03,4
+mark watney,crewed rover,begins modifying a crewed rover for the journey to the Ares IV MAV,17a0534b77e64c3b90cf52f720dc5b03,4
+watney,pathfinder probe,"In his quest to survive on Mars, Mark Watney retrieves the Pathfinder probe and establishes visual contact with NASA through its camera. This discovery leads to the transmission of a software patch that links the mission's rover with Pathfinder, enabling communication by text.",4cc634cd478b47bc853243974e9890f9,4
+watney,ares iv mav,"For his journey back to Earth, Mark Watney initially plans to travel in the Ares IV Mars Ascent Vehicle. This plan is put on hold as Watney faces other challenges and priorities during his stay on Mars.",4cc634cd478b47bc853243974e9890f9,4
+park,watney,"NASA satellite planner Mindy Park reviews satellite images and notices moved equipment, leading her to suspect that astronaut Mark Watney might still be alive on Mars.",4cc634cd478b47bc853243974e9890f9,4
+sanders,public,"NASA director Teddy Sanders decides to release the news of Watney's survival to the public, but he initially withholds this information from the Ares III crew en route to Earth at Mitch Henderson's strong objection.",4cc634cd478b47bc853243974e9890f9,4
+henderson,sanders,Flight director Mitch Henderson strongly opposes NASA director Teddy Sanders' decision to withhold the news of Watney's survival from the Ares III crew en route to Earth.,4cc634cd478b47bc853243974e9890f9,4
+kapoor,watney,Mars missions director Vincent Kapoor and Jet Propulsion Laboratory (JPL) director Bruce Ng prepare a resupply mission to deliver enough food for Watney to survive until Ares IV's arrival.,4cc634cd478b47bc853243974e9890f9,4
+china national space administration,watney,"The China National Space Administration offers a launch vehicle, originally intended for the Taiyang Shen space probe, to resupply Watney after NASA's routine safety inspections cause catastrophe.",4cc634cd478b47bc853243974e9890f9,4
+purnell,taiyang shen launcher,Astrophysicist Rich Purnell devises an alternative plan for the Taiyang Shen launcher to resupply Watney by rendezvousing with and resupplying the Hermes.,4cc634cd478b47bc853243974e9890f9,4
+watney,schiaparelli,"Watney travels to Schiaparelli, where the MAV for Ares IV is pre-positioned.",98be17913a4045ef940055784254e943,4
+mav for ares iv,hermes,"Watney plans to use the MAV to rendezvous with the Hermes, but needs to lighten it considerably by partially dismantling it.",98be17913a4045ef940055784254e943,4
+mav for ares iv,too fast for watney to be picked up,"As the MAV runs out of fuel, its velocity relative to the Hermes is too fast for Watney to be picked up.",98be17913a4045ef940055784254e943,4
+hermes,watney,"Commander Lewis uses a tethered Manned Maneuvering Unit to reach Watney, but they are still too far apart.",98be17913a4045ef940055784254e943,4
+hermes,lewis,"Commander Lewis quickly improvises, using an explosive to breach a forward airlock, resulting in air violently escaping and slowing down the Hermes.",98be17913a4045ef940055784254e943,4
+watney,earth,"After returning to Earth, Watney becomes a survival instructor for astronaut candidates.",98be17913a4045ef940055784254e943,4

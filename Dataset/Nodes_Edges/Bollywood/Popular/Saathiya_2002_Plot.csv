@@ -1,0 +1,13 @@
+node_1,node_2,edge,chunk_id,count
+aditya sehgal,suhani sehgal,married couple; eloped and got secretly married against the wishes of their respective families; Aditya initially fell in love with Suhani at a wedding; a misunderstanding led to a fight where Suhani accused Aditya of having an affair,a3aeec71084b41138c198aa2257d8de8,4
+aditya sehgal,om sehgal,"Aditya's father who disapproved of his son's marriage to Suhani, a middle-class girl",a3aeec71084b41138c198aa2257d8de8,4
+suhani sehgal,suhani's elder sister,"when Suhani revealed her marriage to her elder sister, she was thrown out of her house by her parents",a3aeec71084b41138c198aa2257d8de8,4
+aditya sehgal,small house,Aditya and Suhani moved into a small house and began their married life together after being thrown out of their respective parents' houses,a3aeec71084b41138c198aa2257d8de8,4
+suhani sehgal,car accident,"while walking home, Suhani got involved in a car accident and was seriously injured",a3aeec71084b41138c198aa2257d8de8,4
+suhani,aditya,"Suhani gets involved in a car accident, seriously injuring her. Aditya, having no idea of the accident, waits for her to return home assuming they would reconcile.",56db6049c58941edb27e9e722a122c34,4
+suhani,hospital,Suhani is admitted to the hospital in critical condition after the car accident.,56db6049c58941edb27e9e722a122c34,4
+aditya,hospital,Aditya arrives at the hospital and learns that Suhani has been registered under a different name.,56db6049c58941edb27e9e722a122c34,4
+yeshwant rao,suhani,Yeshwant Rao caused the car accident that seriously injured Suhani.,56db6049c58941edb27e9e722a122c34,4
+yeshwant rao,hospital,Yeshwant admitted Suhani to the hospital after causing the accident.,56db6049c58941edb27e9e722a122c34,4
+aditya,yeshwant rao,Aditya threatens Yeshwant Rao for causing the car accident that seriously injured Suhani.,56db6049c58941edb27e9e722a122c34,4
+savitri,car accident,"Savitri caused the car accident that seriously injured Suhani, and Yeshwant Rao took the blame to protect her.",56db6049c58941edb27e9e722a122c34,4

@@ -1,0 +1,45 @@
+node_1,node_2,edge,chunk_id,count
+director ridley scott,ridley scott,Director of the movie,b34a6c7045aa4a538ca881473ae5ba8c,4
+simon kinberg,production,Producer of the movie,b34a6c7045aa4a538ca881473ae5ba8c,4
+michael schaefer,production,Producer of the movie,b34a6c7045aa4a538ca881473ae5ba8c,4
+aditya sood,production,Producer of the movie,b34a6c7045aa4a538ca881473ae5ba8c,4
+mark huffam,production,Producer of the movie,b34a6c7045aa4a538ca881473ae5ba8c,4
+drew goddard,screenwriter,Writer of the screenplay,b34a6c7045aa4a538ca881473ae5ba8c,4
+andy weir,author,Author whose work is being adapted into a movie,b34a6c7045aa4a538ca881473ae5ba8c,4
+dariusz wolski,cinematographer,Cameraman responsible for capturing the visual footage of the movie,b34a6c7045aa4a538ca881473ae5ba8c,4
+arthur max,production designer,"Responsible for designing and creating the sets, locations and overall visual style of the movie",b34a6c7045aa4a538ca881473ae5ba8c,4
+janty yates,costume designer,Designs the costumes and clothing worn by the actors in the movie,b34a6c7045aa4a538ca881473ae5ba8c,4
+pietro scalia,editor,Responsible for assembling and shaping the raw footage into a cohesive and engaging final product,b34a6c7045aa4a538ca881473ae5ba8c,4
+the martian,ridley scott,"Director Ridley Scott brought the novel to his attention and was attracted by the emphasis on science, resulting in Scott's eventual commitment to direct the film.",b319411813cd46598266c0ed748e69b5,4
+drew goddard,the martian,Screenwriter Drew Goddard adapted Weir's 2011 novel into a screenplay for the film.,b319411813cd46598266c0ed748e69b5,4
+matt damon,the martian,"Actor Matt Damon expressed interest in starring in The Martian under Goddard's direction, but ultimately appeared in the film directed by Ridley Scott.",b319411813cd46598266c0ed748e69b5,4
+drew goddard,sinister six,"Goddard pursued an opportunity to direct Sinister Six, a comic book film about a team of supervillains, but ultimately did not follow through with this project.",b319411813cd46598266c0ed748e69b5,4
+simon kinberg,the martian,Producer Simon Kinberg was attached to develop the novel into a film and later brought the book to Scott's attention.,b319411813cd46598266c0ed748e69b5,4
+the martian,wadi rum,"External scenes on Mars in filming The Martian were filmed in Wadi Rum, a UNESCO world heritage site in Jordan.",1ccc3d517ba54f00a5765708167c6020,4
+korda studios,interior scenes of the martian,"Interior scenes of The Martian were filmed at Korda Studios, a location 26 kilometers west of Budapest, Hungary.",1ccc3d517ba54f00a5765708167c6020,4
+the martian,jordan,Filming in Jordan was chosen for depicting Mars due to the UNESCO world heritage site Wadi Rum's resemblance.,1ccc3d517ba54f00a5765708167c6020,4
+korda studios,actual potatoes,Actual potatoes were grown in a sound stage next to Korda Studios to show different stages of growth in film scenes.,1ccc3d517ba54f00a5765708167c6020,4
+the martian,mission to mars (2000),"Wadi Rum, a location used for depicting Mars in The Martian, had been used as a location for other films set on Mars such as Mission to Mars (2000).",1ccc3d517ba54f00a5765708167c6020,4
+the martian,red planet (2000),"Wadi Rum, a location used for depicting Mars in The Martian, had been used as a location for other films set on Mars such as Red Planet (2000).",1ccc3d517ba54f00a5765708167c6020,4
+the martian,the last days on mars (2013),"Wadi Rum, a location used for depicting Mars in The Martian, had been used as a location for other films set on Mars such as The Last Days on Mars (2013).",1ccc3d517ba54f00a5765708167c6020,4
+the martian,mars rover model,"A special Mars rover model was built for the filming of The Martian, and presented to Jordan as a gesture of gratitude for their hospitality.",1ccc3d517ba54f00a5765708167c6020,4
+watney,isolation,"The scenes depicting Watney's isolation in the vast, dusty Martian landscape in the movie adaptation of Weir's novel are magnificently represented by exteriors shot in the vicinity of Wadi Rum in Jordan. Scott expected to film Watney as a Robinson Crusoe, a character in full isolation, but learned to film Watney differently since the character would be self-monitoring his behavior under the watch of various mission cameras.",a9daad3fc9df4bad9b7da292c3250e16,4
+earth,aridity,"The scenes back on Earth provide a hectic, densely populated counterweight to the Martian aridity depicted in the movie adaptation of Weir's novel. Todd McCarthy of The Hollywood Reporter wrote that these scenes offer a contrasting view to the barren and dry planet where Watney is stranded.",a9daad3fc9df4bad9b7da292c3250e16,4
+watney,humor,"While Watney's humor in Weir's novel is preserved in the movie adaptation, Scott also depicted the character's isolation and emotions in the vast, dusty Martian landscape.",a9daad3fc9df4bad9b7da292c3250e16,4
+touching the void,inspiration,Damon and Scott were inspired by the documentary film Touching the Void while creating the character of Watney in the movie adaptation of Weir's novel.,a9daad3fc9df4bad9b7da292c3250e16,4
+watney,self-monitoring behavior,Scott learned to film Watney differently since the character would be self-monitoring his behavior under the watch of various mission cameras in the movie adaptation of Weir's novel.,a9daad3fc9df4bad9b7da292c3250e16,4
+robinson crusoe,isolation,"Scott expected to film Watney as a Robinson Crusoe, a character in full isolation, in the movie adaptation of Weir's novel but had to change his approach due to the unique situation of the protagonist being self-monitoring.",a9daad3fc9df4bad9b7da292c3250e16,4
+the martian,nasa involvement,"According to Scott, the first cut of the movie was long and NASA's collaboration for depicting science and technology in The Martian began when the novel was first published. When Scott started preparing the film, author Andy Weir contacted NASA to collaborate on the film. When Scott and producer Mark Huffam had their first production meeting, they called NASA and spoke with its film and television liaison Bert Ulrich. NASA decided to help the filmmakers with depicting the science and technology in The Martian since it saw potential in promoting space exploration.",6de9540db23043d8b3cbb43a308a0e26,4
+the martian,an extended cut of the movie was released on home video,"According to Scott, the first cut of the movie was 2 hours and 45 minutes long.",6de9540db23043d8b3cbb43a308a0e26,4
+damon,nasa involvement,"When the novel was first published, NASA invited Andy Weir to tour the Johnson Space Center and Jet Propulsion Laboratory. During his tour, actor Matt Damon made hand prints in concrete at the Jet Propulsion Laboratory.",6de9540db23043d8b3cbb43a308a0e26,4
+scott,green,Scott conversed with Green twice before filming started.,a8ac283b79e041bdab4c7cebdff0a0ba,4
+nasa staff members,green,Green is a director of the Planetary Science Division at NASA.,a8ac283b79e041bdab4c7cebdff0a0ba,4
+hundreds of questions,green,"NASA answered hundreds of questions on radioisotope systems, the look of potential 'habs', and more, which were answered by Green or passed on to the right expert.",a8ac283b79e041bdab4c7cebdff0a0ba,4
+mars images,green,"NASA provided hundreds of real images of Mars, which were down to what the computer screens look like.",a8ac283b79e041bdab4c7cebdff0a0ba,4
+control centers,green,"NASA provided hundreds of real images of control centers, including what the computer screens look like.",a8ac283b79e041bdab4c7cebdff0a0ba,4
+arthur max,green,Green arranged an eight-hour tour of the Johnson Space Center in Houston for production designer Arthur Max.,a8ac283b79e041bdab4c7cebdff0a0ba,4
+real images of mars,scott,"NASA provided hundreds of real images of Mars, which were down to what the computer screens look like.",a8ac283b79e041bdab4c7cebdff0a0ba,4
+control centers,scott,"NASA provided hundreds of real images of control centers, including what the computer screens look like.",a8ac283b79e041bdab4c7cebdff0a0ba,4
+the martian,nasa,"Collaborated extensively on the film, from script development through principal photography, and are now helping with marketing for the film's theatrical release. NASA presented a new web tool to follow Watney's trek across Mars in October 2015, as well as a health hazards report for a real-world human journey to Mars in 2016. The Los Angeles Times and The New York Times reported that NASA anticipated the film as a way to publicize a human mission to Mars, while Jim Erickson, NASA project manager, said the film would show moviegoers 'the risks and rewards' of humans traveling to Mars.",a7bd9d1d9e1549c499ff24ab98769be6,4
+the martian,mars reconnaissance orbiter,"Signs of liquid water could be seen in photographs taken on Mars by the Mars Reconnaissance Orbiter in October 2015, timing that suggests NASA certainly has the whole cross-promotion thing down.",a7bd9d1d9e1549c499ff24ab98769be6,4
+the martian,moviegoers,"Will show moviegoers 'the risks and rewards' of humans traveling to Mars, according to Jim Erickson, NASA project manager.",a7bd9d1d9e1549c499ff24ab98769be6,4

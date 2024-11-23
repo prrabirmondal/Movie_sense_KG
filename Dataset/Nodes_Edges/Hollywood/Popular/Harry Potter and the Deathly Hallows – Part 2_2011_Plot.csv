@@ -1,0 +1,49 @@
+node_1,node_2,edge,chunk_id,node_3,node_4,description,count
+horcrux,helga hufflepuff's cup,Found in Bellatrix Lestrange's vault at Gringotts bank and is a Horcrux.,fdd309355e2e449cbc828632fec3c130,,,,4
+hogwarts,horcrux connected to rowena ravenclaw,Realised by Harry Potter during the plot details.,fdd309355e2e449cbc828632fec3c130,,,,4
+harry potter,griphook,"Asked Griphook to help him, Ron Weasley and Hermione Granger break into Bellatrix Lestrange's vault at Gringotts bank.",fdd309355e2e449cbc828632fec3c130,,,,4
+ron weasley,harry potter,Mentioned in the same sentence during the plot details.,fdd309355e2e449cbc828632fec3c130,,,,4
+hermione granger,harry potter,Mentioned in the same sentence during the plot details.,fdd309355e2e449cbc828632fec3c130,,,,4
+bellatrix lestrange's vault at gringotts bank,horcrux,"Suspecting a Horcrux is there, Harry Potter, Ron Weasley and Hermione Granger asked Griphook to help them break into.",fdd309355e2e449cbc828632fec3c130,,,,4
+bellatrix lestrange's vault at gringotts bank,griphook,"Agreed to help Harry Potter, Ron Weasley and Hermione Granger break into Bellatrix Lestrange's vault at Gringotts bank in exchange for the Sword of Gryffindor.",fdd309355e2e449cbc828632fec3c130,,,,4
+draco malfoy,bellatrix lestrange,"Belonged to Bellatrix Lestrange and Draco Malfoy, wandmaker Ollivander senses Draco's wand has changed its allegiance to Harry Potter.",fdd309355e2e449cbc828632fec3c130,,,,4
+malfoy manor,dobby,Captured by Harry Potter during the plot details.,fdd309355e2e449cbc828632fec3c130,,,,4
+gringotts bank,security,Trapped by security while trying to escape from Gringotts bank after breaking into Bellatrix Lestrange's vault at Gringotts bank.,fdd309355e2e449cbc828632fec3c130,,,,4
+gringotts bank,dragon guardian,Released the dragon guardian and fled Gringotts bank on its back while trying to escape from Gringotts bank after breaking into Bellatrix Lestrange's vault at Gringotts bank.,fdd309355e2e449cbc828632fec3c130,,,,4
+harry potter,lord voldemort,Harry Potter has a vision of Lord Voldemort at Gringotts during the plot details.,fdd309355e2e449cbc828632fec3c130,,,,4
+aberforth dumbledore,harry potter,"Helped Harry Potter, Ron Weasley and Hermione Granger while apparating into Hogsmeade during the plot details.",fdd309355e2e449cbc828632fec3c130,,,,4
+neville longbottom,a secret passageway,"Guided Harry Potter, Ron Weasley and Hermione Granger through the secret passageway into Hogwarts during the plot details.",fdd309355e2e449cbc828632fec3c130,,,,4
+severus snape,harry potter,Knew Harry Potter has returned and threatened to punish any staff or students who aid Harry Potter.,fdd309355e2e449cbc828632fec3c130,,,,4
+professor mcgonagall,severus snape,Roused the Hogwarts community for battle during the plot details.,fdd309355e2e449cbc828632fec3c130,,,,4
+luna lovegood,helena ravenclaw's ghost,Urged Harry Potter to speak to Helena Ravenclaw's ghost during the plot details.,fdd309355e2e449cbc828632fec3c130,,,,4
+helena ravenclaw's ghost,voldemort,"Revealed Voldemort performed ""dark magic"" on her during the plot details.",fdd309355e2e449cbc828632fec3c130,,,,4
+hogwarts community for battle,battle,Setting in which the events take place,09f1ea080dfe4e839b02afd656b02f3f,,,,4
+luna lovegood,harry,Luna urges Harry to speak to Helena Ravenclaw's ghost,09f1ea080dfe4e839b02afd656b02f3f,,,,4
+helena ravenclaw's ghost,voldemort,Helena reveals Voldemort performed 'dark magic' on her mother's diadem,09f1ea080dfe4e839b02afd656b02f3f,,,,4
+room of requirement,harry,"[{'source': 0, 'target': 1}, {'source': 0, 'target': 2}, {'source': 0, 'target': 3}]",09f1ea080dfe4e839b02afd656b02f3f,Ron,Hermione,"In the Room of Requirement, Ron and Hermione intervene when Draco, Blaise Zabini and Gregory Goyle attack Harry",4
+gregory goyle,fiendfyre curse,"Goyle casts an uncontrollable Fiendfyre curse that kills him while Harry, Ron, and Hermione save Malfoy and Zabini and escape on brooms",09f1ea080dfe4e839b02afd656b02f3f,,,,4
+nagini,final horcrux,Harry realises that Voldemort's snake Nagini is the final Horcrux,09f1ea080dfe4e839b02afd656b02f3f,,,,4
+voldemort's army,harry,"[{'source': 0, 'target': 1}, {'source': 1, 'target': 2}]",09f1ea080dfe4e839b02afd656b02f3f,Seeing into Voldemort's mind,,"As Voldemort's army attacks, Harry, seeing into Voldemort's mind, realises that Voldemort's snake Nagini is the final Horcrux",4
+elder wand,snape,Voldemort tells Snape that the Elder Wand cannot serve Voldemort until Snape dies; Nagini then viciously attacks Snape,09f1ea080dfe4e839b02afd656b02f3f,,,,4
+albus dumbledore,snape,"Following her death, Snape worked with Albus Dumbledore as a double agent amongst the Death Eaters, to protect Harry from Voldemort",09f1ea080dfe4e839b02afd656b02f3f,,,,4
+lily,snape,"Snape despised Harry's late father James, who bullied him, but he loved Harry's mother Lily",09f1ea080dfe4e839b02afd656b02f3f,,,,4
+dumbledore,death,It was Snape who conjured the Patronus doe and Dumbledore was dying and planned for Snape to kill him,09f1ea080dfe4e839b02afd656b02f3f,,,,4
+fred weasley,remus lupin,"[{'source': 0, 'target': 1}, {'source': 0, 'target': 2}, {'source': 1, 'target': 2}]",09f1ea080dfe4e839b02afd656b02f3f,Nymphadora Tonks,,"Fred Weasley, Remus Lupin, and Nymphadora Tonks are killed in the chaos at Hogwarts",4
+harry,voldemort,enemy relation,e7d2e11ab3e4438081a52ee70854b902,,,,4
+harry,dumbledore (dying),"informational relation, Harry learns that Dumbledore was dying",e7d2e11ab3e4438081a52ee70854b902,,,,4
+snape,dumbledore (planned),"informational relation, Snape planned for Dumbledore's death",e7d2e11ab3e4438081a52ee70854b902,,,,4
+snape,patronus doe,"causal relation, Snape conjured the Patronus doe",e7d2e11ab3e4438081a52ee70854b902,,,,4
+harry,horcrux,"accidental relation, Harry became an Horcrux by accident",e7d2e11ab3e4438081a52ee70854b902,,,,4
+voldemort's curse,harry,"informational relation, Voldemort's curse originally failed to kill Harry",e7d2e11ab3e4438081a52ee70854b902,,,,4
+harry,"spirits of parents, sirius black, and remus","causal relation, Harry summons the spirits...",e7d2e11ab3e4438081a52ee70854b902,,,,4
+dumbledore's spirit,harry,"informational relation, Dumbledore's spirit meets Harry",e7d2e11ab3e4438081a52ee70854b902,,,,4
+voldemort,harry (apparent corpse),"causal relation, Voldemort displays Harry's apparent corpse...",e7d2e11ab3e4438081a52ee70854b902,,,,4
+molly,bellatrix,"destructive relation, Molly kills Bellatrix",e7d2e11ab3e4438081a52ee70854b902,,,,4
+neville,sword of gryffindor,"causal relation, Neville draws the Sword of Gryffindor from the Sorting Hat in defiance",e7d2e11ab3e4438081a52ee70854b902,,,,4
+harry,voldemort,"final confrontation and killing relation, Harry finally kills Voldemort after his Expelliarmus charm...",e7d2e11ab3e4438081a52ee70854b902,,,,4
+elder wand,voldemort,"informational relation, Voldemort never commanded the Elder Wand",e7d2e11ab3e4438081a52ee70854b902,,,,4
+elder wand,voldemort,"Never commanded the Elder Wand after the battle, but it recognized him as its true master due to disarming Draco who had previously disarmed Dumbledore atop the Astronomy Tower.",ee1fefcf60764907b28280589a68d68a,,,,4
+elder wand,dumbledore,Previously owned by Dumbledore before being disarmed by Draco on top of the Astronomy Tower.,ee1fefcf60764907b28280589a68d68a,,,,4
+harry potter,elder wand,Destroys the Elder Wand after realizing that Voldemort never commanded it.,ee1fefcf60764907b28280589a68d68a,,,,4
+draco,dumbledore,"Disarmed Dumbledore atop the Astronomy Tower, leading to the Elder Wand recognizing Voldemort as its true master.",ee1fefcf60764907b28280589a68d68a,,,,4
+harry potter's children,king's cross station,Proudly watch their children leave for Hogwarts at King's Cross station nineteen years later.,ee1fefcf60764907b28280589a68d68a,,,,4

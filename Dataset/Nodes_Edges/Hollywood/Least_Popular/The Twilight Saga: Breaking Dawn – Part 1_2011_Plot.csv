@@ -1,0 +1,22 @@
+node_1,node_2,edge,chunk_id,count
+bella swan,edward cullen,Bella and Edward are getting married.,5d9d2dcc717c4a6dba86e5f1d70ae825,4
+jacob black,bella swan,Jacob returns to the wedding reception and shares a dance with Bella in the woods.,5d9d2dcc717c4a6dba86e5f1d70ae825,4
+jacob black,bella swan,"Jacob becomes furious upon hearing that Bella plans to consummate her marriage with Edward while she is still human, fearing it could kill her.",5d9d2dcc717c4a6dba86e5f1d70ae825,4
+edward cullen,bella swan,Bella informs Carlisle that she believes she is pregnant with Edward's baby.,5d9d2dcc717c4a6dba86e5f1d70ae825,4
+rosalie,bella swan,"Edward encourages Bella to receive an abortion from Carlisle, but Bella refuses and convinces Rosalie to be her bodyguard.",5d9d2dcc717c4a6dba86e5f1d70ae825,4
+jacob black,bella swan,"Jacob rushes to the Cullens' house to find a pale, underweight, and visibly pregnant Bella.",5d9d2dcc717c4a6dba86e5f1d70ae825,4
+bella,renesmee,"mother-daughter relationship, Bella gives birth to Renesmee",7b162f2ef952422795fcccff8d53014a,4
+edward,renesmee,"grandfather-granddaughter relationship, Edward is the grandfather of Renesmee",7b162f2ef952422795fcccff8d53014a,4
+carlisle,bella,"treating physician relationship, Carlisle provides medical care to Bella during her pregnancy and delivery",7b162f2ef952422795fcccff8d53014a,4
+renesmee,half-vampire,"Renesmee is a half-vampire, resulting from the union between Bella and Edward",7b162f2ef952422795fcccff8d53014a,4
+jacob,sam,"leader-packmate relationship, Sam is the leader of Jacob's pack",7b162f2ef952422795fcccff8d53014a,4
+bella,human blood,"craving relationship, Bella craves human blood during her pregnancy due to the fetus's accelerated development",7b162f2ef952422795fcccff8d53014a,4
+bella,jacob,"Bella's heart suddenly stops, and Jacob desperately attempts CPR.",f295d31b84f24608a61d4408fab98786,4
+bella,edward,"Edward injects Bella's heart with his venom in an attempt to transform her into a vampire, but his action appears to be futile as Bella remains lifeless.",f295d31b84f24608a61d4408fab98786,4
+bella,venom,"Edward injects Bella's heart with his venom in an attempt to transform her into a vampire, but his action appears to be futile as Bella remains lifeless.",f295d31b84f24608a61d4408fab98786,4
+bella,vampire,"Finally, her eyes open and are blood-red, signifying that she has become a vampire.",f295d31b84f24608a61d4408fab98786,4
+jacob,renesmee,"A distraught Jacob decides to kill Renesmee for apparently causing Bella's death; however, when he looks into the baby's eyes, he 'imprints' on her: a werewolf phenomenon in which one realizes one's soul-mate.",f295d31b84f24608a61d4408fab98786,4
+renesmee,imprinted,This prevents his pack from killing her as their most absolute law is not to harm anyone who has been imprinted on.,f295d31b84f24608a61d4408fab98786,4
+carlisle,letter,"In a post-credits scene, the Volturi receive a letter from Carlisle which summarizes Bella and Edward's wedding and her transformation into a vampire.",f295d31b84f24608a61d4408fab98786,4
+volturi,cullens,The Volturi bicker about how Carlisle is growing his coven and that the Volturis' dispute with the Cullens is over.,f295d31b84f24608a61d4408fab98786,4
+volturi,something,"However, the Volturi leader mentions that the Cullens still have something he wants.",f295d31b84f24608a61d4408fab98786,4

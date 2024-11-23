@@ -1,0 +1,8 @@
+node_1,node_2,edge,chunk_id,count
+award ceremony,10th mirchi music awards,"The provided context mentions the details of a movie's accolades, and specifically lists out awards received at the 10th Mirchi Music Awards. Therefore, 'Award ceremony' and '10th Mirchi Music Awards' are related in that they both represent events where awards are given out.",b494d9520bca46f9aa76479080f0d42f,4
+category,lyricist of the year,"Both 'Category' and 'Lyricist of The Year' refer to honors that are given out during an award ceremony, specifically for excellence in lyric writing.",b494d9520bca46f9aa76479080f0d42f,4
+recipient,kumaar,"The context mentions a specific individual, Kumaar, who received the 'Lyricist of The Year' award at the 10th Mirchi Music Awards.",b494d9520bca46f9aa76479080f0d42f,4
+category,upcoming music composer of the year,"This category, mentioned in the provided context, is a specific type of award presented during an award ceremony.",b494d9520bca46f9aa76479080f0d42f,4
+recipient,vishal mishra,The context specifies that 'Vishal Mishra' is set to receive the 'Upcoming Music Composer of The Year' award at an upcoming event.,b494d9520bca46f9aa76479080f0d42f,4
+result,nominated,"The context indicates that a certain individual has been nominated for an award, but the outcome of the ceremony is not explicitly stated. 'Nominated' and 'Result' both refer to potential outcomes of receiving or not receiving an award.",b494d9520bca46f9aa76479080f0d42f,4
+recipient,kumaar,"The provided context also mentions that 'Kumaar' was nominated for the same award category ('Lyricist of The Year') at a different event ('38th'). However, it is not explicitly stated whether or not he received this award.",b494d9520bca46f9aa76479080f0d42f,4

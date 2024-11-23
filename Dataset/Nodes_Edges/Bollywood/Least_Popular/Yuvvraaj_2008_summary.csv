@@ -1,0 +1,31 @@
+node_1,node_2,edge,chunk_id,count
+movie's,summary,"MOVIE'S SUMMARY refers to the brief description of a film, provided for the benefit of viewers who need to know in advance what the story is about.",b7379e06dd7e4842922afdf8cfcea406,4
+dev,dr. p. k. banton,Dislike and disapproval due to lack of wealth and carelessness,c197931c3ea44742b32b00f50976b6f2,4
+dev,anushka,Girlfriend relationship,c197931c3ea44742b32b00f50976b6f2,4
+dev,parents,Fight and disownment due to disagreement,c197931c3ea44742b32b00f50976b6f2,4
+dev,father,Learning about father's death through newspaper,c197931c3ea44742b32b00f50976b6f2,4
+gyanesh kumar yuvvraaj singh,danny yuvvraaj singh,Estranged brothers who meet after 12 years,c197931c3ea44742b32b00f50976b6f2,4
+deven singh,gyanesh kumar yuvvraaj singh,Shocked to learn that father left everything to mentally challenged brother,c197931c3ea44742b32b00f50976b6f2,4
+danny yuvvraaj singh,gyanesh kumar yuvvraaj singh,Attempt to blackmail and assault in front of lawyers fails,c197931c3ea44742b32b00f50976b6f2,4
+gyanesh,deven,"Brothers, initially at odds due to a money dispute, reconcile and become loving siblings again.",8c6307f9fd58400c9dd99b208a09c651,4
+anushka,gyanesh,"Get along well in Austria, with Anushka being impressed by Gyanesh's singing talent and allowing him to join her orchestra.",8c6307f9fd58400c9dd99b208a09c651,4
+anushka,deven,"Initially unspecified relationship, but Deven plays the good guy and helps Gyanesh, leading Anushka to trust him more.",8c6307f9fd58400c9dd99b208a09c651,4
+danny,gyanesh,"Opponents due to a money dispute, with Danny attempting to blackmail and assault Gyanesh before being thrown out of luxury clubs and losing his girlfriend.",8c6307f9fd58400c9dd99b208a09c651,4
+deven,danny,"Brothers, initially at odds due to a money dispute, but Deven learns to love his brother after realizing how much Danny means to him.",8c6307f9fd58400c9dd99b208a09c651,4
+uncle and family,gyanesh,"Family members try to poison Gyanesh in order to get his money, which breaks his heart and causes him to become distant from Deven and Danny.",8c6307f9fd58400c9dd99b208a09c651,4
+deven,danny,"Family members show them a recording of their plotting to scam Gyanesh, causing tension between the brothers until they realize how much Gyanesh means to him.",8c6307f9fd58400c9dd99b208a09c651,4
+gyanesh,dr. banton,Patient-doctor relationship is strained due to Dr. Banton's refusal to help Gyanesh at the hospital.,8c6307f9fd58400c9dd99b208a09c651,4
+gyanesh,hospital,Deven brings Gyanesh to the hospital for treatment.,1578ec2ec48d4444a1defa8bdc4b12eb,4
+dr. banton,refuses to help,Dr. Banton initially refuses to treat Gyanesh because Deven wants him to survive for financial gain.,1578ec2ec48d4444a1defa8bdc4b12eb,4
+anushka,marriage,"Deven reveals that if Dr. Banton saves Gyanesh, he will not marry Anushka.",1578ec2ec48d4444a1defa8bdc4b12eb,4
+dr. banton,changed man,"After Deven's confession, Dr. Banton is impressed by his sense of responsibility and saves Gyanesh, allowing him to marry Anushka.",1578ec2ec48d4444a1defa8bdc4b12eb,4
+prague,film,"Although set in Prague, some outdoor scenes were actually filmed in Tyrol, Austria.",1578ec2ec48d4444a1defa8bdc4b12eb,4
+yuvvraaj,success,"The film 'Yuvvraaj' received a mixed response from the audience and critics. While some reviews were positive, others were negative. However, despite this, the movie managed to collect around ₹169.5 million at the box office in India.",b5ed06da823f46bcb5e8abb9de4e0ec3,4
+yuvvraaj,flop,"Despite being released with around 1000 prints in India, 'Yuvvraaj' was declared a major flop by Box Office India.",b5ed06da823f46bcb5e8abb9de4e0ec3,4
+rajeev masand,yuvvraaj,"IBN Live critic Rajeev Masand gave 'Yuvvraaj' 1 out of 5 stars, calling it an archaic drama that felt too tired.",b5ed06da823f46bcb5e8abb9de4e0ec3,4
+sonia chopra,yuvvraaj,Sonia Chopra of Sify gave 'Yuvvraaj' 1.5 out of 5 stars.,b5ed06da823f46bcb5e8abb9de4e0ec3,4
+a. r. rahman,yuvvraaj,"The music for 'Yuvvraaj' was composed by A. R. Rahman, with lyrics written by Gulzar.",b5ed06da823f46bcb5e8abb9de4e0ec3,4
+chennai string orchestra,a. r. rahman,"The Chennai String Orchestra performed the score for 'Yuvvraaj', which utilized Western classical music and retro disco music.",b5ed06da823f46bcb5e8abb9de4e0ec3,4
+beethoven's fifth symphony,a. r. rahman,"The Chennai String Orchestra, who performed the score for 'Yuvvraaj', also performed Beethoven's Fifth Symphony.",b5ed06da823f46bcb5e8abb9de4e0ec3,4
+rediff.com,a. r. rahman,"Rediff.com gave A. R. Rahman's work on 'Yuvvraaj' 4 out of 5 stars, describing it as an excelling performance by the composer.",b5ed06da823f46bcb5e8abb9de4e0ec3,4
+hindi film,(1970s),"This article is a stub about a Hindi film from the 1970s, and requires further expansion.",b5ed06da823f46bcb5e8abb9de4e0ec3,4

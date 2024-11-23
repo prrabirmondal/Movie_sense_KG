@@ -1,0 +1,21 @@
+node_1,node_2,edge,chunk_id,sub_edges,count
+devdas,paro,"Deep love transforming from friendship, Kausalya disapproves due to Paro's maternal lineage of nautch girls and nautanki performers, but Devdas's and Paro's love continues secretly.",a0c79016acc84ad68e670e9a4e2eec83,,4
+kausalya,paro,"Disapproval due to Paro's maternal lineage of nautch girls and nautanki performers, considers it inappropriate for a Zamindari family like hers.",a0c79016acc84ad68e670e9a4e2eec83,,4
+kumud,kausalya,Manipulative sister-in-law fuels her mother-in-law's thoughts against Paro and Devdas.,a0c79016acc84ad68e670e9a4e2eec83,,4
+sumitra,paro,"Close childhood friend of Devdas, publicly proposes for Paro-Devdas's wedding but Kausalya discards the proposal with patronizing arrogance and remarks about Sumitra belonging to a lower-class family.",a0c79016acc84ad68e670e9a4e2eec83,,4
+narayan mukherjee,paro,Spots Paro sneaking into Devdas' mansion to meet him and humiliates her and Sumitra.,a0c79016acc84ad68e670e9a4e2eec83,,4
+devdas,narayan mukherjee,"Father of Devdas, spots Paro sneaking into Devdas' mansion to meet him and humiliates her and Sumitra.",a0c79016acc84ad68e670e9a4e2eec83,,4
+paro,bhuvan,"Agrees to marry an aristocrat: Bhuvan, after Devdas' false statement that love never existed between them.",a0c79016acc84ad68e670e9a4e2eec83,,4
+devdas,chandramukhi,"Devdas chances upon a generous courtesan named Chandramukhi, who falls in love with him.",181a2944e991408888659301344fa169,,4
+paro,bhuvan choudhry,"Paro agrees to marry an aristocrat: Bhuvan Choudhry, a forty-year-old widower with three grown-up children.",181a2944e991408888659301344fa169,,4
+devdas,chunnilal,"Devdas's friend Chunnilal gets him to visit a brothel,",181a2944e991408888659301344fa169,,4
+paro,devdas,Paro requests her to forget him and falsely states that love never existed between them.,181a2944e991408888659301344fa169,"[{'start': 'Paro', 'end': 'Devdas', 'relation': 'asks to forget each other'}, {'start': 'Paro', 'end': 'Devdas', 'relation': 'falsely states that love never existed between them'}]",4
+paro,bhuvan choudhry,Bhuvan confesses that their marriage was required to fulfill the position of Lady of the Estate and that his love is only for his late wife.,181a2944e991408888659301344fa169,"[{'start': 'Paro', 'end': 'Bhuvan Choudhry', 'relation': 'married to fulfill a position'}, {'start': 'Paro', 'end': 'Bhuvan Choudhry', 'relation': 'his love is only for his late wife'}]",4
+chandramukhi,devdas,Paro holds her responsible for Devdas's addiction to alcohol but discovers that Chandramukhi loves Devdas.,181a2944e991408888659301344fa169,"[{'start': 'Paro', 'end': 'Chandramukhi', 'relation': 'holds responsible'}, {'start': 'Paro', 'end': 'Devdas', 'relation': 'discovers that Chandramukhi loves Devdas'}]",4
+kalibabu,devdas,causes Kausalya to disown him.,181a2944e991408888659301344fa169,"[{'start': 'Kalibabu', 'end': 'Devdas', 'relation': 'causes to be disowned'}]",4
+paro,chandramukhi,"introduces Chandramukhi as her friend, concealing her profession to avoid disputes.",181a2944e991408888659301344fa169,"[{'start': 'Paro', 'end': 'Chandramukhi', 'relation': 'introduced as friend'}, {'start': 'Paro', 'end': 'Chandramukhi', 'relation': 'concealing profession'}]",4
+devdas,paro,"Romantic relationship between Devdas and Paro, hidden from Bhuvan's family due to social norms.",af9abb656e704f509d43e8f25b24bcfd,,4
+chandramukhi,kalibabu,"Antagonistic relationship between Chandramukhi and Kalibabu, resulting from an earlier encounter that went wrong.",af9abb656e704f509d43e8f25b24bcfd,,4
+devdas,chunnilal,Encounter with Chunnilal leads to Devdas's drinking problem and eventual downfall.,af9abb656e704f509d43e8f25b24bcfd,,4
+paro,devdas's past affair,"Disclosed by Kalibabu, causing Paro to be forbidden from stepping out of Bhuvan's manor.",af9abb656e704f509d43e8f25b24bcfd,,4
+paro,devdas,Promised to visit each other before their deaths but prevented by Bhuvan's family due to social norms.,af9abb656e704f509d43e8f25b24bcfd,,4

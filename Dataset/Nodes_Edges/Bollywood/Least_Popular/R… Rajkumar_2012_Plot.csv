@@ -1,0 +1,24 @@
+node_1,node_2,edge,chunk_id,count
+romeo rajkumar,dhartipur,"Rajkumar arrives in Dhartipur, a small town ruled by drug barons.",db0d84cc379544ee8c9ce68fe7498b1c,4
+shivraj gurjar,manik parmar,Shivraj and Manik Parmar are drug barons who control Dhartipur and have an arch-enemy relationship.,db0d84cc379544ee8c9ce68fe7498b1c,4
+ajit taaka,hong kong,Ajit Taaka is a mafia boss who operates in Hong Kong and has influence over Dhartipur.,db0d84cc379544ee8c9ce68fe7498b1c,4
+chanda,manik parmar,"Chanda is an orphan being raised by Manik Parmar, who opposes her relationship with Rajkumar.",db0d84cc379544ee8c9ce68fe7498b1c,4
+shivraj,chanda,Shivraj sees Chanda emerging from water during a pooja ritual and lusts after her.,db0d84cc379544ee8c9ce68fe7498b1c,4
+rajkumar,chanda,"Rajkumar falls in love with Chanda, despite her uncle's opposition.",db0d84cc379544ee8c9ce68fe7498b1c,4
+shivraj,parmar,Shivraj compromises with Parmar to get Chanda married against her will.,db0d84cc379544ee8c9ce68fe7498b1c,4
+chanda,shivraj,Chanda challenges Shivraj to strip herself naked if he defeats Rajkumar in a challenge.,db0d84cc379544ee8c9ce68fe7498b1c,4
+rajkumar,truck,Rajkumar captures Shivraj's narcotic truck and drives it to Ajit Taaka.,db0d84cc379544ee8c9ce68fe7498b1c,4
+shivraj,rajkumar,Shivraj tries a lot to impress Chanda but keeps failing.,db0d84cc379544ee8c9ce68fe7498b1c,4
+takka,dhartipur,"Ajit Takka is the recipient of Rajkumar's stolen truck, which he believes contains narcotics.",db0d84cc379544ee8c9ce68fe7498b1c,4
+rajkumar,drug cartel,Rajkumar works for Ajit Taaka and was sent to Dhartipur to take over the drug cartel.,db0d84cc379544ee8c9ce68fe7498b1c,4
+shivraj,rajkumar,Shivraj plans to get Rajkumar killed in an encounter by his pet cop.,db0d84cc379544ee8c9ce68fe7498b1c,4
+shivraj,takka,join hands to make Rajkumar steal the empty truck,f1045fb12b41471486c530960ba6d930,4
+rajkumar,shivraj's stolen truck,stole but later discovered that it was empty,f1045fb12b41471486c530960ba6d930,4
+shivraj,chanda,started wedding celebrations with,f1045fb12b41471486c530960ba6d930,4
+rajkumar,shivraj,"[{'sentence': 'interrupted his wedding celebrations with Chanda'}, {'sentence': ""rescued after being buried by Shivraj's men""}]",f1045fb12b41471486c530960ba6d930,4
+shivraj,rajkumar,[{'sentence': 'brutally killed Rajkumar and had his men bury him'}],f1045fb12b41471486c530960ba6d930,4
+shivraj,qamar ali,his henchmen,f1045fb12b41471486c530960ba6d930,4
+rajkumar,shivraj's men,[{'sentence': 'backed off as they are now friends with Rajkumar'}],f1045fb12b41471486c530960ba6d930,4
+rajkumar,shivraj,"[{'sentence': 'overpowers Rajkumar for the majority of the fight'}, {'sentence': 'was killed with a power punch to the throat'}]",f1045fb12b41471486c530960ba6d930,4
+takka,rajkumar,[{'sentence': 'betrayed Rajkumar by joining hands with Shivraj'}],f1045fb12b41471486c530960ba6d930,4
+qamar ali,parmar,beat,f1045fb12b41471486c530960ba6d930,4

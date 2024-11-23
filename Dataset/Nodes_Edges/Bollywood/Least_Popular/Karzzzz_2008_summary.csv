@@ -1,0 +1,34 @@
+node_1,node_2,edge,chunk_id,node_3,count
+movie,summary,"A movie is represented by its summary, which provides a brief overview of the plot and key events.",2b04f7a107f44dbda0825f0b22634566,,4
+karzzzz,karz (1980),"Both are Indian Hindi-language action films, Karzzzzz is a remake of Karz.",47b9b77869854e418293e6598844861c,,4
+debt,wealth,"In the context, debt and wealth are two opposing concepts related to Ravi Verma's case in Kenya.",47b9b77869854e418293e6598844861c,,4
+ravi verma,kamini,"Ravi Verma is the legal recipient of several thousand acres of vineyards and marries Kamini. Kamini sabotages the plane they are travelling in, leaving Ravi to fall to his death.",47b9b77869854e418293e6598844861c,,4
+kamini,princess kamini,"After inheriting Ravi's wealth, Kamini changes her name to Princess Kamini.",47b9b77869854e418293e6598844861c,,4
+ravi verma,mother and sister of ravi,Ravi's mother and sister are forced to live in abject poverty after Kamini inherits his wealth.,47b9b77869854e418293e6598844861c,,4
+monty,j.j. oberoi,Monty is the adopted son of J.J. Oberoi.,47b9b77869854e418293e6598844861c,,4
+monty,tina,Monty has romantic interest in Tina.,47b9b77869854e418293e6598844861c,,4
+monty,dr. dayal,Monty is friends with Dr. Dayal.,47b9b77869854e418293e6598844861c,,4
+monty,ravi,Monty realises that he is the reincarnation of Ravi after getting flashbacks of events from Ravi's life.,47b9b77869854e418293e6598844861c,,4
+tina's caretaker,kabira,"In the context, Tina's caretaker is Kabira and seems happy about Tina and Monty being together.",47b9b77869854e418293e6598844861c,,4
+monty,ravi,reincarnation,873574c9f3b040e5bcc439c78c006cc3,,4
+monty,princess kamini,befriended,873574c9f3b040e5bcc439c78c006cc3,,4
+princess kamini,tina,knows,873574c9f3b040e5bcc439c78c006cc3,,4
+monty,tina,recollected events with,873574c9f3b040e5bcc439c78c006cc3,,4
+princess kamini,mother and sister of monty/ravi,misled about circumstances of accident,873574c9f3b040e5bcc439c78c006cc3,,4
+monty,mother and sister of monty/ravi,discovered living with nephew and niece,873574c9f3b040e5bcc439c78c006cc3,,4
+princess kamini,monty,married,873574c9f3b040e5bcc439c78c006cc3,,4
+monty,properties of ravi,furnished actual papers for,873574c9f3b040e5bcc439c78c006cc3,,4
+princess kamini,monty,confessed to murder of Monty/Ravi in anger,873574c9f3b040e5bcc439c78c006cc3,,4
+mother and sister of monty/ravi,princess kamini,warned about getting dues,873574c9f3b040e5bcc439c78c006cc3,,4
+kabira,police,accompanied with confession on record,873574c9f3b040e5bcc439c78c006cc3,,4
+judah,princess kamini,held Tina hostage and demanded release,873574c9f3b040e5bcc439c78c006cc3,,4
+princess kamini,judah,demands Princess Kamini's release and holds Tina hostage,701feeaa5be64adf98bc2bb617ba5cd1,,4
+tina,princess kamini,rescued by Kabira during the fight with Judah,701feeaa5be64adf98bc2bb617ba5cd1,,4
+monty,princess kamini,chases after Princess Kamini and arrives at the same spot where Ravi was killed in his previous birth,701feeaa5be64adf98bc2bb617ba5cd1,,4
+plane,monty's car,"Princess Kamini boards plane and shoots Monty, resulting in Monty setting the car on fire that engulfs the plane",701feeaa5be64adf98bc2bb617ba5cd1,,4
+fight,judah,"Tina held hostage by Judah, Kabira tackles Judah to rescue Tina",701feeaa5be64adf98bc2bb617ba5cd1,Kabira,4
+ravi,spot,Princess Kamini arrives at the same spot where Ravi was killed in his previous birth,701feeaa5be64adf98bc2bb617ba5cd1,,4
+ek haseena thi,karz (original movie of 1980),"The song 'Ek Haseena Thi' is taken from the original movie of 1980, Karz. The music for the original movie was by Laxmikant Pyarelal.",2edb1010593a4dee855e544e43fbc9e9,,4
+lazy rip-off,karzzzz,"Critics described the film as a 'lazy rip-off' where everything from characters to dialogues has been more-or-less duplicated, the only changes being superficial ones which grate rather than update.",2edb1010593a4dee855e544e43fbc9e9,,4
+thunderous start,karzzzz,"At the box-office, the film should fetch a thunderous start",2edb1010593a4dee855e544e43fbc9e9,,4
+bigger achievers of the year in terms of business,karzzzz,"The film should be amongst the biggest achievers of the year in terms of business, as per the given context.",2edb1010593a4dee855e544e43fbc9e9,,4

@@ -1,0 +1,21 @@
+node_1,node_2,edge,chunk_id,count
+delhi grammar school,prestigious english-medium school in delhi,Pia's parents want her to be admitted to Delhi Grammar School as they believe it will enable her to become a part of elite society.,017ad5c08fbc472ab974d92eb66f1d1d,4
+delhi grammar school,3-km radius requirement,"In order to be admitted, students at Delhi Grammar School must stay within a 3-km radius of the school.",017ad5c08fbc472ab974d92eb66f1d1d,4
+pia,english-medium school in delhi,Pia's parents want her to be admitted to a prestigious English-medium school in Delhi because they believe it will enable her to become a part of elite society.,017ad5c08fbc472ab974d92eb66f1d1d,4
+saumya,consultant,"Despite her misgivings about them, Saumya tutors Pia's parents in the answers to be given in the admission interview.",017ad5c08fbc472ab974d92eb66f1d1d,4
+raj batra,successful boutique owner,"HERE IS THE DETAILS OF MOVIE'S PLOT: ----------------------------------------------------- Raj Batra is a successful boutique owner who lives in the Old Delhi neighbourhood of Chandni Chowk with his wife Meeta and his 5-year-old daughter, Pia.",017ad5c08fbc472ab974d92eb66f1d1d,4
+meeta,raj batra's wife,"HERE IS THE DETAILS OF MOVIE'S PLOT: ----------------------------------------------------- Raj Batra is a successful boutique owner who lives in the Old Delhi neighbourhood of Chandni Chowk with his wife Meeta and his 5-year-old daughter, Pia.",017ad5c08fbc472ab974d92eb66f1d1d,4
+pia,raj batra's daughter,"HERE IS THE DETAILS OF MOVIE'S PLOT: ----------------------------------------------------- Raj Batra is a successful boutique owner who lives in the Old Delhi neighbourhood of Chandni Chowk with his wife Meeta and his 5-year-old daughter, Pia.",017ad5c08fbc472ab974d92eb66f1d1d,4
+shyam prakash,resident of bharat nagar,"After moving to Bharat Nagar, a slum area, Raj and Meeta strike a friendship with Shyam Prakash and his wife Tulsi.",017ad5c08fbc472ab974d92eb66f1d1d,4
+tulsi prakash,resident of bharat nagar,"After moving to Bharat Nagar, a slum area, Raj and Meeta strike a friendship with Shyam Prakash and his wife Tulsi.",017ad5c08fbc472ab974d92eb66f1d1d,4
+mohan,shyam and tulsi's son,"Shyam and Tulsi teach Raj and Meeta to live like truly poor people, and Raj joins Shyam at work. However, while Pia eventually gets admitted to Delhi Grammar School, Mohan is still hopeful that he will be admitted through the RTE quota.",017ad5c08fbc472ab974d92eb66f1d1d,4
+bharat nagar,slum area,"After moving to Bharat Nagar, a slum area, Raj and Meeta learn from an employee that his daughter has been admitted through the RTE quota, a scheme that helps children from poor families to be admitted to prestigious schools. They move to Bharat Nagar for a month and pretend to be poor.",017ad5c08fbc472ab974d92eb66f1d1d,4
+pia,english language,becomes fluent in English through the RTE quota and School's efforts,4bcadcbd453340f896f964f35726413e,4
+mohan,bharat nagar government school,studies at Bharat Nagar Government School through RTE quota,4bcadcbd453340f896f964f35726413e,4
+shyam,vasant vihar,returns to Vasant Vihar with Raj and Meeta after donating to Bharat Nagar Government School,4bcadcbd453340f896f964f35726413e,4
+tulsi,shyam,teaches Pia and Mohan to live like truly poor people alongside Shyam,4bcadcbd453340f896f964f35726413e,4
+raj,poornat trust,"joins Shyam at work, which is associated with Poornat Trust",4bcadcbd453340f896f964f35726413e,4
+lodha singhania,delhi grammar school,principal of Delhi Grammar School,4bcadcbd453340f896f964f35726413e,4
+shyam,principal,"reaches the principal's office in Delhi Grammar School, but meets Pia instead",4bcadcbd453340f896f964f35726413e,4
+pia,shyam,has an emotional meeting with Shyam at Delhi Grammar School,4bcadcbd453340f896f964f35726413e,4
+raj,deceit,pretends to be poor to enable Pia's admission,4bcadcbd453340f896f964f35726413e,4

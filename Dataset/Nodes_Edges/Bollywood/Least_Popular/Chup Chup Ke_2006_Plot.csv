@@ -1,0 +1,17 @@
+node_1,node_2,edge,chunk_id,count
+jeetu,jaidev prasad,father-son relationship,12bd6cd962ff4dda9039f3ed882853ae,4
+pooja,jeetu,engagement relationship,12bd6cd962ff4dda9039f3ed882853ae,4
+gundya,jeetu,rescuing relationship,12bd6cd962ff4dda9039f3ed882853ae,4
+bandya,jeetu,rescuing relationship,12bd6cd962ff4dda9039f3ed882853ae,4
+prabhat singh chauhan,gundya,lending-borrowing relationship,12bd6cd962ff4dda9039f3ed882853ae,4
+shruti,jeetu,mistaken identity relationship,12bd6cd962ff4dda9039f3ed882853ae,4
+mangal,shruti,protective brother-sister relationship,12bd6cd962ff4dda9039f3ed882853ae,4
+pooja,jeetu,widowhood belief relationship,12bd6cd962ff4dda9039f3ed882853ae,4
+jeetu,mangal,Mangal approves Jeetu's marriage with Shruti after discovering that he is not deaf and mute.,2e47898c72194ff8a65e433ef14a1112,4
+jeetu,pooja,"Jeetu was married to Pooja, but later fell in love with Shruti and confessed it to Mangal.",2e47898c72194ff8a65e433ef14a1112,4
+shruti,mangal,"Shruti confesses her love for Jeetu, and Mangal approves their marriage.",2e47898c72194ff8a65e433ef14a1112,4
+gundya,bandya,Gundya and Bandya are sent by Mangal to deliver a suitcase of money to Jeetu's family.,2e47898c72194ff8a65e433ef14a1112,4
+jeetu's family,money,Gundya and Bandya deliver a suitcase of money to Jeetu's family from Mangal to secure their financial well-being.,2e47898c72194ff8a65e433ef14a1112,4
+jeetu's family,jaidev,Jaidev demands that Gundya and Bandya take him to Jeetu when they reveal that he is alive.,2e47898c72194ff8a65e433ef14a1112,4
+jeetu's family,pooja,Jeetu's family demands that he marry Pooja instead of Shruti on the day of the wedding.,2e47898c72194ff8a65e433ef14a1112,4
+shruti,mute,Pooja has a change of heart when she learns that Shruti is mute and tells Jeetu to marry her instead.,2e47898c72194ff8a65e433ef14a1112,4

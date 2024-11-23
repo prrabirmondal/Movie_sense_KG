@@ -1,0 +1,33 @@
+node_1,node_2,edge,chunk_id,count
+roopa,rajeev,"Rajeev falls in love with Roopa after hearing her sing at the village temple, but has not yet seen her disfigured side.",5436c13cf6cf43aca1fde781cf42b2dd,4
+village priest (roopa's father),roopa,"Roopa lives with her father, the village priest.",5436c13cf6cf43aca1fde781cf42b2dd,4
+roopa,disfigured side,"Part of Roopa's face and neck were burned by a pot of boiling oil as a child, leaving her right cheek disfigured.",5436c13cf6cf43aca1fde781cf42b2dd,4
+village priest (roopa's father),roopa,"After the accident, Roopa keeps her right cheek hidden under the veil of her sari.",5436c13cf6cf43aca1fde781cf42b2dd,4
+village priest (roopa's father),roopa,"Despite her disfigurement, Roopa remains religious and goes to the village temple daily, singing hymns and devotional songs.",5436c13cf6cf43aca1fde781cf42b2dd,4
+rajeev,roopa,Rajeev asks Roopa's father for permission to marry her after hearing her sing at the village temple.,5436c13cf6cf43aca1fde781cf42b2dd,4
+roopa,rajeev,Roopa does not want to cheat Rajeev because she loves him deeply and first requests his father to reject the marriage proposal.,5436c13cf6cf43aca1fde781cf42b2dd,4
+village,roopa,Roopa lives in a village.,5436c13cf6cf43aca1fde781cf42b2dd,4
+engineer (rajeev),village,Rajeev arrives in the village to oversee the operation of a major dam.,5436c13cf6cf43aca1fde781cf42b2dd,4
+dam,village,Rajeev is working on a dam in the village.,5436c13cf6cf43aca1fde781cf42b2dd,4
+disfigurement (roopa's),ugly (rajeev's opinion),"Rajeev abhors anything ugly, but has not yet seen Roopa's disfigured side.",5436c13cf6cf43aca1fde781cf42b2dd,4
+rajeev,disfigurement (roopa's),"After seeing Roopa's lovely singing, Rajeev falls in love with her and does not see her disfigured side.",5436c13cf6cf43aca1fde781cf42b2dd,4
+roopa,marriage proposal (rajeev's),Rajeev asks Roopa's father for permission to marry her after falling in love with her.,5436c13cf6cf43aca1fde781cf42b2dd,4
+roopa,marriage proposal (rajeev's),Roopa does not want to cheat Rajeev because she loves him deeply and first requests his father to reject the marriage proposal.,5436c13cf6cf43aca1fde781cf42b2dd,4
+village priest (roopa's father),roopa,"After everyone from the village requests Roopa to change her mind, she agrees to marry Rajeev thinking he may accept her with her condition as he claimed to love her truly.",5436c13cf6cf43aca1fde781cf42b2dd,4
+disfigurement (roopa's),cheating,"After the wedding, Rajeev discovers Roopa's disfigured side and thinks he was cheated and forced to marry someone else.",5436c13cf6cf43aca1fde781cf42b2dd,4
+rajeev,disfigurement (roopa's),"After discovering Roopa's disfigured side, Rajeev disowns her and drives her out of the house.",5436c13cf6cf43aca1fde781cf42b2dd,4
+rajeev,another roopa (his search),"After driving Roopa out of the house, Rajeev roams around the village on the wedding night in search of another Roopa.",5436c13cf6cf43aca1fde781cf42b2dd,4
+roopa,rajeev,"husband-wife relationship; rejection, search for another, mistreatment, accusation of infidelity",a2efe12e6a7d49dc8eb5822dd5ce5be1,4
+roopa,another roopa (mistaken identity),search for on wedding night,a2efe12e6a7d49dc8eb5822dd5ce5be1,4
+rajeev,another girl with the same name,belief in mistaken identity on wedding night,a2efe12e6a7d49dc8eb5822dd5ce5be1,4
+roopa,mistress (loving relationship),"meeting at night, hiding behind veil to conceal scarred side of face",a2efe12e6a7d49dc8eb5822dd5ce5be1,4
+rajeev,mistress,"ignoring wife during days and loving mistress during nights, not knowing they are both the same woman",a2efe12e6a7d49dc8eb5822dd5ce5be1,4
+roopa,pregnant,getting pregnant after making love with mistress/husband,a2efe12e6a7d49dc8eb5822dd5ce5be1,4
+rajeev,wife (suspicion of infidelity),"accusing wife of infidelity, shaming her in public",a2efe12e6a7d49dc8eb5822dd5ce5be1,4
+roopa,father (dies out of agony),"leaving house due to husband's rejection and returning home after being rescued, father dies out of agony",a2efe12e6a7d49dc8eb5822dd5ce5be1,4
+roopa,vows not to return as mistress,vowing not to return as mistress after being publicly shamed by husband,a2efe12e6a7d49dc8eb5822dd5ce5be1,4
+rajeev,realizes wife and mistress are one,recognizing voice of wife while searching for mistress in swirling waters during flood,a2efe12e6a7d49dc8eb5822dd5ce5be1,4
+flood,rajeev,"In the swirling waters of the flood, Rajeev sees how shallow he has been.",ef8d4e69fa8e44278c387d8f6810acbe,4
+rajeev,his wife and mistress is one.,Her voice and realization leads Rajeev to understand that his wife and mistress is one.,ef8d4e69fa8e44278c387d8f6810acbe,4
+rajeev,roopa,Rajeev saves Roopa from drowning in the flood.,ef8d4e69fa8e44278c387d8f6810acbe,4
+rajive,roopa,Rajeev asks for Roopa's forgiveness and accepts Roopa as his wife.,ef8d4e69fa8e44278c387d8f6810acbe,4

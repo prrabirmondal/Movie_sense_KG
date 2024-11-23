@@ -1,0 +1,31 @@
+node_1,node_2,edge,chunk_id,count
+rahul,ranjit,"Rahul lends his apartment to people connected to Ranjit for bringing their girlfriends and affair interests, in exchange for recommendations at work.",2476d07499244ead819e2cb308e65ca0,4
+neha,rahul,"Rahul silently loves Neha, his colleague, who has risen up in the ranks easily due to her relationship with Ranjit.",2476d07499244ead819e2cb308e65ca0,4
+ranjit,neha,"Neha is in a relationship with Ranjit, which has helped her rise up in the ranks at work.",2476d07499244ead819e2cb308e65ca0,4
+amol,shivani,"Shivani loved Amol forty years ago, but he left her to pursue his dreams in the US.",2476d07499244ead819e2cb308e65ca0,4
+shikha,amol,"Shikha's husband reads a letter from Amol, who wishes to meet Shivani and spend his last days with her in India.",2476d07499244ead819e2cb308e65ca0,4
+monty,shruti,"Shruti meets Monty, a prospective groom she finds weird and old.",2476d07499244ead819e2cb308e65ca0,4
+akash,shikha,"Shikha meets Akash, an unsuccessful theatre artist and a divorcee, at a bus stop.",2476d07499244ead819e2cb308e65ca0,4
+monty,shruti,friendship between Monty and Shruti,a7316389eea941a8a8ed232ede0c010f,4
+monty,mother,Monty asks Shruti's help with his mother's wedding shopping,a7316389eea941a8a8ed232ede0c010f,4
+shruti,monty,Shruti slowly starts falling for Monty,a7316389eea941a8a8ed232ede0c010f,4
+amol,shivani,rekindled love between Amol and Shivani,a7316389eea941a8a8ed232ede0c010f,4
+shivani,amol,Shivani dies in Amol's arms during their night together,a7316389eea941a8a8ed232ede0c010f,4
+neha,ranjit,argument between Neha and Ranjit in Rahul's apartment,a7316389eea941a8a8ed232ede0c010f,4
+neha,rahul,Rahul takes care of recovering Neha after she attempts suicide,a7316389eea941a8a8ed232ede0c010f,4
+rahul,father,Rahul's father's dream was to build a good house or restaurant,a7316389eea941a8a8ed232ede0c010f,4
+house,unfulfilled dream,Rahul explains to Neha that his father's dream was not fully realized due to lack of funds for completing the house,a7316389eea941a8a8ed232ede0c010f,4
+shruti,neha,Shruti tracks down Neha in Rahul's house and misunderstands the situation when she finds out that Neha has attempted suicide. This incident leads Shruti to slap Rahul.,7b50343332e74b03ad387ea1a86fcadc,4
+ranjit,neha,Shruti finds out that Ranjit was having an affair with Neha.,7b50343332e74b03ad387ea1a86fcadc,4
+shikha,akash,"Shikha visits Akash's home and gets physically close to him, but she realizes her boundaries before they get even more intimate.",7b50343332e74b03ad387ea1a86fcadc,4
+ranjit,shruti,Ranjit misunderstands the situation when he sees Shikha crying and thinks that Shruti has told her about his affair with Neha.,7b50343332e74b03ad387ea1a86fcadc,4
+ranjit,shikha,"After confessing, Ranjit becomes enraged when he finds out that Shruti never told Shikha about his affair with Neha.",7b50343332e74b03ad387ea1a86fcadc,4
+ranjit,neha,Ranjit decides to move in with Neha after confessing.,7b50343332e74b03ad387ea1a86fcadc,4
+monty,shruti,"Monty announces his wedding date to Shruti, who has fallen for him.",7b50343332e74b03ad387ea1a86fcadc,4
+rahul,mumbai,"Rahul, upset with the way the city has treated him, decides to leave Mumbai by train.",7b50343332e74b03ad387ea1a86fcadc,4
+neha,rahul,"While traveling with Ranjit, Neha realizes that she loves Rahul and starts chasing his taxi to the railway station.",6b3e50a44b624a0ebdd1db0734d8db38,4
+neha,rahul,Neha catches up Rahul and they patch things up in the railway station.,6b3e50a44b624a0ebdd1db0734d8db38,4
+monty,shruti,Shruti conveys her feelings to Monty right before the wedding,6b3e50a44b624a0ebdd1db0734d8db38,4
+monty,shruti,Monty chases Shruti taxi to the railway station on the wedding horse.,6b3e50a44b624a0ebdd1db0734d8db38,4
+monty,shruti,Monty finally finds Shruti in a ladies compartment and enters it in the railway station.,6b3e50a44b624a0ebdd1db0734d8db38,4
+shikha,akash,Shikha searches for Akash in the railway station.,6b3e50a44b624a0ebdd1db0734d8db38,4

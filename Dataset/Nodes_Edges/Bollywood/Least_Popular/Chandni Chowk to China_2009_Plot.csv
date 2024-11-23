@@ -1,0 +1,12 @@
+node_1,node_2,edge,chunk_id,count
+liu sheng,sidhu,Sidhu is recruited to assassinate the evil smuggler Hojo and free the village of Zhange because he is believed to be a reincarnation of Liu Sheng by two villagers from China.,c82919a99794478da38bb7b736384570,4
+hojo,sidhu,"Hojo tries to kill Sidhu, but he apologizes and exposes himself as a loser to the village, leading to Hojo killing Sidhu's foster father Dada and dumping Sidhu over the Great Wall.",c82919a99794478da38bb7b736384570,4
+chiang,suzy,"Suzy is the twin sister of Sakhi, an Indian-Chinese spokesmodel that Sidhu meets on his way to China. Chiang is Suzy's father who became an amnesiac vagrant living around the Great Wall tourist area after Hojo tried to kill him and stole her from him as a baby.",c82919a99794478da38bb7b736384570,4
+chopstick,sidhu,"Trickster Chopstick encourages Sidhu to believe in himself instead of consulting astrologers, tarot card readers, and fake fakirs to turn around his destiny despite his foster father's push.",c82919a99794478da38bb7b736384570,4
+sidhu,dada,"Relationship: Sidhu's companion and friend Dada is killed by Hojo, leaving Sidhu injured and disgraced.",7ca8a599e2f64479aeff8cdb9322248a,4
+sidhu,chiang,"Relationship: After being saved from falling to his death by the amnesiac Chiang, Sidhu is devastated at losing Dada and vows revenge. Chiang later recovers his memory after seeing Sidhu and Sakhi together.",7ca8a599e2f64479aeff8cdb9322248a,4
+sidhu,hojo,"Relationship: Sidhu fights Hojo in single combat, eventually using his own vegetable-cutting technique to overpower him and finally kill him.",7ca8a599e2f64479aeff8cdb9322248a,4
+chopstick,hojo's gang,Relationship: Chopstick infiltrates Hojo's gang to help reunite Sakhi with Suzy.,7ca8a599e2f64479aeff8cdb9322248a,4
+sakhi,suzy,"Relationship: During Sidhu's first attempt at attacking Hojo, Sakhi, and Chopstick see him and realize with joy that he is alive. Suzy later stabs Chiang in retaliation for believing that Chiang killed her real father, but she realizes that Hojo lied to her when she sees her twin, Sakhi.",7ca8a599e2f64479aeff8cdb9322248a,4
+chiang,sidhu,Relationship: Chiang saves injured and disgraced Sidhu from falling to his death and later trains him in kung fu so he can go up against Hojo.,7ca8a599e2f64479aeff8cdb9322248a,4
+suzy,hojo,Relationship: Hojo lies to Suzy that Chiang killed her real father.,7ca8a599e2f64479aeff8cdb9322248a,4

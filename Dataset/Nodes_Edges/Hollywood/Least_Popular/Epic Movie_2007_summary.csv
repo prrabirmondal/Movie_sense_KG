@@ -1,0 +1,62 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,"A movie is a form of visual communication that uses moving pictures and sound to tell stories, convey information, or entertain an audience. In the context provided, 'HERE IS THE DETAILS OF MOVIE'S SUMMARY:' indicates that summary refers to the part that gives a brief idea about the plot, characters, and other important aspects of a movie.",228c63c233ed4b849ac5cab631ee2998,4
+epic movie,parody film genre,"Epic Movie is a parody film that mostly references popular films such as The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, Harry Potter, Charlie and the Chocolate Factory, Pirates of the Caribbean, and X-Men.",9bff2ac2813f4a049c3d0a89369138b7,4
+jason friedberg,aaron seltzer,Jason Friedberg and Aaron Seltzer are the writers and directors of Epic Movie.,9bff2ac2813f4a049c3d0a89369138b7,4
+kal penn,epic movie,Kal Penn is a cast member in Epic Movie.,9bff2ac2813f4a049c3d0a89369138b7,4
+adam campbell,epic movie,Adam Campbell is a cast member in Epic Movie.,9bff2ac2813f4a049c3d0a89369138b7,4
+jayma mays,epic movie,Jayma Mays is a cast member in Epic Movie.,9bff2ac2813f4a049c3d0a89369138b7,4
+jennifer coolidge,epic movie,Jennifer Coolidge is a cast member in Epic Movie.,9bff2ac2813f4a049c3d0a89369138b7,4
+faune a. chambers,epic movie,Faune A. Chambers is a cast member in Epic Movie.,9bff2ac2813f4a049c3d0a89369138b7,4
+crispin glover,epic movie,Crispin Glover is a cast member in Epic Movie.,9bff2ac2813f4a049c3d0a89369138b7,4
+tony cox,epic movie,Tony Cox is a cast member in Epic Movie.,9bff2ac2813f4a049c3d0a89369138b7,4
+fred willard,epic movie,Fred Willard is a cast member in Epic Movie.,9bff2ac2813f4a049c3d0a89369138b7,4
+lucy,adoptive father,Lucy's adoptive father is a museum curator who gives her clues leading to a Golden Ticket before dying from being attacked by Silas.,9bff2ac2813f4a049c3d0a89369138b7,4
+silas,lucy's adoptive father,"Lucy's adoptive father is attacked by Silas, causing him to give Lucy clues leading to a Golden Ticket before dying.",9bff2ac2813f4a049c3d0a89369138b7,4
+golden ticket,lucy,A Golden Ticket is found by Lucy in a vending machine candy bar.,9bff2ac2813f4a049c3d0a89369138b7,4
+edward,displaced adopted girl,"In Epic Movie, Edward finds himself as a disillusioned monk trainee.",9bff2ac2813f4a049c3d0a89369138b7,4
+susan,epic movie,"In Epic Movie, Susan is a displaced adopted girl who finds a Golden Ticket.",9bff2ac2813f4a049c3d0a89369138b7,4
+peter,mutant academy,"In Epic Movie, Peter is a mutant at Mutant Academy and often teased for his chicken-like wings.",9bff2ac2813f4a049c3d0a89369138b7,4
+gnarnia,lucy,"Lucy finds a wardrobe in the middle of a wintry forest, leading her to Gnarnia.",9bff2ac2813f4a049c3d0a89369138b7,4
+mr. tumnus,gnarnia,"In Gnarnia, Lucy meets Mr. Tumnus, who welcomes her and warns her of danger.",9bff2ac2813f4a049c3d0a89369138b7,4
+lucy,mr. tumnus,"finds Mr. Tumnus in the middle of a wintry forest and he welcomes her to Gnarnia, warns her of danger",dd3bf73ef7b24a27a5c75a10efc64753,4
+lucy,white bitch,Edward meets the White Bitch in Gnarnia who convinces him to trap the other orphans and become the king of Gnarnia in her White Castle,dd3bf73ef7b24a27a5c75a10efc64753,4
+lucy,white castle,the White Bitch's castle where she imprisons Edward after he refuses to reveal the location of the other orphans,dd3bf73ef7b24a27a5c75a10efc64753,4
+tumnus,life partner,"Harry Beaver, Tumnus' life partner",dd3bf73ef7b24a27a5c75a10efc64753,4
+lucy,last supper,discover their relation to each other in a copy of the famous painting The Last Supper,dd3bf73ef7b24a27a5c75a10efc64753,4
+white bitch,lucy's parents,killed Lucy's parents,dd3bf73ef7b24a27a5c75a10efc64753,4
+edward,white bitch,"the White Bitch flashes him her breasts, hypnotizing him into giving up the information on the orphans",dd3bf73ef7b24a27a5c75a10efc64753,4
+silas,the orphans,Sent after The Orphans by The White Bitch,dd3bf73ef7b24a27a5c75a10efc64753,4
+tumnus,apparently sacrifices himself,To ensure the safety of The Orphans,dd3bf73ef7b24a27a5c75a10efc64753,4
+harry potter,"lucy, susan, peter","Meet Lucy, Susan, and Peter at Hogwarts to help them train for the war against The White Bitch",dd3bf73ef7b24a27a5c75a10efc64753,4
+ron weasley,harry potter,Balding Ron Weasley accompanies Harry Potter,dd3bf73ef7b24a27a5c75a10efc64753,4
+hermione granger,"lucy, susan, peter","Accompanies Lucy, Susan, and Peter at Hogwarts to help them train for the war against The White Bitch",dd3bf73ef7b24a27a5c75a10efc64753,4
+aslo,edward,"Manages to kill Silas but while breaking Edward out, he is slain by The White Bitch",dd3bf73ef7b24a27a5c75a10efc64753,4
+susan,drunk,Gets drunk at a pre-battle party with their allies,dd3bf73ef7b24a27a5c75a10efc64753,4
+white bitch,silas,"Silas, while breaking Edward out, is slain by the White Bitch during their encounter.",43ab5d9fadb045d9835be02658868316,4
+orphans,allies,The orphans have a pre-battle party with their allies before engaging in battle.,43ab5d9fadb045d9835be02658868316,4
+susan,army,"During the pre-battle party, Susan gets drunk and vomits everywhere, disgusting their army enough that nobody shows up to help the orphans the next day.",43ab5d9fadb045d9835be02658868316,4
+four siblings,white bitch,"The four siblings engage the White Bitch in battle and all, except for Peter, are killed.",43ab5d9fadb045d9835be02658868316,4
+peter,magic remote,"After finding a magic remote, Peter uses its powers to revive his siblings.",43ab5d9fadb045d9835be02658868316,4
+four siblings,army,"Together, they kill the army and defeat the White Bitch, stopping her plan.",43ab5d9fadb045d9835be02658868316,4
+peter,white bitch,Peter declares that the White Bitch will receive a fair and just trial in the new Gnarnia.,43ab5d9fadb045d9835be02658868316,4
+jack's wheel,quartet,"Accidentally, Jack's wheel crushes the four siblings to death.",43ab5d9fadb045d9835be02658868316,4
+borat,quartet,"Decades later, Borat congratulates the now-elderly rulers on a happy ending, but Jack's wheel accidentally runs over them, killing them.",43ab5d9fadb045d9835be02658868316,4
+epic movie,economic success,The film was an economic success for its producers due to its comparatively low budget of $20 million.,06d98b62dad04b3eba6344005727b292,4
+rotten tomatoes,approval rating,Epic Movie has an approval rating of 2% based on 66 reviews and an average rating of 2.8/10.,06d98b62dad04b3eba6344005727b292,4
+cinemascore,average grade,Audiences polled by CinemaScore gave the film an average grade of 'C−' on an A+ to F scale.,06d98b62dad04b3eba6344005727b292,4
+metacritic,score,"The film has a score of 17 out of 100 based on 17 critics, indicating 'overwhelming dislike'.",06d98b62dad04b3eba6344005727b292,4
+a. o. scott,thoughts,"Scott called the film 'irreverent and also appreciative, dragging its satiric prey down to the lowest pop-cultural denominator'.",06d98b62dad04b3eba6344005727b292,4
+jennifer coolidge,"easy, demented class","Coolidge and Fred Willard added some easy, demented class to the film.",06d98b62dad04b3eba6344005727b292,4
+mick lasalle,opinion,LaSalle thought 'only a complete idiot could think Epic Movie is remotely funny or worth making at all'.,06d98b62dad04b3eba6344005727b292,4
+alex chun,description,Chun described the film as 'nothing more than a disjointed''',06d98b62dad04b3eba6344005727b292,4
+perpetrators,filmmakers,"In the Los Angeles Times, Alex Chun called the film 'nothing more than a disjointed series of scenes and references cobbled together as a backdrop for sophomoric humor.' This suggests that the perpetrators or filmmakers were thinking of creating a film with disorganized scenes and jokes that are considered immature by reviewer Alex Chun.",1113b065ba414177ac699bf188e56481,4
+film,epically unfunny,"Ronnie Scheib of Variety called the film 'epically unfunny.' This implies that the concept or idea behind creating this movie was not intended to be humorous on a grand scale, according to Ronnie Scheib's review.",1113b065ba414177ac699bf188e56481,4
+film,unlikely to join the list of blockbusters it lampoons,"Ronnie Scheib of Variety also stated that this movie 'is unlikely to join the list of blockbusters it lampoons.' This suggests that the filmmakers' intention was to spoof or satirize popular blockbuster films, but according to Ronnie Scheib's opinion, it is not expected to be as successful or influential as those movies.",1113b065ba414177ac699bf188e56481,4
+film,disjointed series of scenes and references,"Alex Chun of the Los Angeles Times described the film as 'nothing more than a disjointed series of scenes and references cobbled together as a backdrop for sophomoric humor.' This indicates that the movie's creators may have intended to include scattered scenes and allusions, possibly as a parody or homage to other films.",1113b065ba414177ac699bf188e56481,4
+epic movie,tapeworm,The Chicago Reader described Epic Movie as being 'the cinematic equivalent of a tapeworm'.,02a09456e57d4d2eba4ad565e88b680b,4
+epic movie,epic catastrophe,John Patterson wrote in his review for The Guardian that 'Epic Movie is an epic catastrophe'.,02a09456e57d4d2eba4ad565e88b680b,4
+epic movie,artistic failure of epic proportions,John Patterson also wrote in his review for The Guardian that 'Epic Movie is an artistic failure of epic proportions'.,02a09456e57d4d2eba4ad565e88b680b,4
+epic movie,emetic piece of insufferable crap,The film was described as 'An Emetic Piece of Insufferable Crap',02a09456e57d4d2eba4ad565e88b680b,4
+penn,stoop so low,The Times expressed surprise that 'Penn would stoop so low'.,02a09456e57d4d2eba4ad565e88b680b,4
+epic movie,worst remake or rip-off,"At the 28th Golden Raspberry Awards ceremony, Epic Movie was nominated for 'Worst Remake or Rip-off'.",02a09456e57d4d2eba4ad565e88b680b,4
+carmen electra,worst supporting actress,"At the 28th Golden Raspberry Awards ceremony, Carmen Electra was nominated for 'Worst Supporting Actress' for her role in Epic Movie.",02a09456e57d4d2eba4ad565e88b680b,4

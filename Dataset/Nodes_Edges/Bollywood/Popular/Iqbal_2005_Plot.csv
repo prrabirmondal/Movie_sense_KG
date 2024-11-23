@@ -1,0 +1,12 @@
+node_1,node_2,edge,chunk_id,count
+iqbal,india cricket team,Iqbal dreams of playing cricket for India.,06c51bb3c68441169cb8825ce49cad40,4
+iqbal,father,Iqbal's father wants him to become a farmer instead of pursuing his dream of playing cricket for India.,06c51bb3c68441169cb8825ce49cad40,4
+guruji,iqbal,Guruji accepts Iqbal into his cricket academy due to his talent.,06c51bb3c68441169cb8825ce49cad40,4
+kamal,iqbal,Kamal is a rich boy and star of the cricket academy that Iqbal competes with.,06c51bb3c68441169cb8825ce49cad40,4
+mohit,iqbal,Mohit becomes Iqbal's coach after he is thrown out by Guruji.,06c51bb3c68441169cb8825ce49cad40,4
+andhra pradesh ranji trophy team,iqbal,Mohit gets Iqbal a place on the Andhra Pradesh Ranji Trophy team despite his lack of cricketing experience.,06c51bb3c68441169cb8825ce49cad40,4
+guruji,national cricket team selectors,Guruji tries to bribe Iqbal to bowl badly in the final match against Kamal so that the national team scouts would select Kamal for the national cricket team instead.,06c51bb3c68441169cb8825ce49cad40,4
+iqbal,kamal,Iqbal offers to bowl badly in order for selectors to notice Kamal's talent. Iqbal does this out of concern for his father's financial difficulties and the potential loss of lands.,d142d03e6a2d496f97b8a2ae6d8b0cbe,4
+iqbal,indian national cricket team,"Iqbal impresses the national team selector, Kapil Dev, during a game and is selected to play for the Indian national cricket team.",d142d03e6a2d496f97b8a2ae6d8b0cbe,4
+kamal,indian national cricket team,"As a result of Iqbal's offer, Kamal is noticed by national team selectors and selected to play for the Indian national cricket team.",d142d03e6a2d496f97b8a2ae6d8b0cbe,4
+iqbal,indian cricket team's blue jersey,"After impressing Kapil Dev, Iqbal is seen wearing the Indian Cricket Team's blue jersey and walking onto the field to make his international debut.",d142d03e6a2d496f97b8a2ae6d8b0cbe,4

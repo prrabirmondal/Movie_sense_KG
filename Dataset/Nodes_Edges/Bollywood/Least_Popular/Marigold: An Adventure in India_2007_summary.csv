@@ -1,0 +1,24 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,A movie is represented by its summary which provides a brief overview of the plot.,492a20ca9d1741d6853039635229fdeb,4
+marigold,india,"Marigold arrives in India expecting to be treated like a star despite her previous B movie sequels. She is stranded in Goa after the film she was to star in is canceled, and a sympathetic crew member offers her a ride, which brings her to the set of another movie, a Bollywood musical.",e0104a975b19499f964801917317c1dd,4
+marigold,bollywood musical,"Marigold lands a minor role and a date with the spoiled young lead actor after arriving at the set of another movie, a Bollywood musical.",e0104a975b19499f964801917317c1dd,4
+marigold,prem,"As they grow closer Prem talks to her about the importance of family and she learns that he is estranged from his father, but the day before he received a call from his sister, asking him to come home for her wedding.",e0104a975b19499f964801917317c1dd,4
+marigold,barry,Marigold tells her boyfriend Barry that she was hoping she wouldn't have to marry him if this trip was successful.,e0104a975b19499f964801917317c1dd,4
+prem,marigold,Prem takes Marigold in hand while showing her the nearby towns and countryside in their spare time as they grow closer.,e0104a975b19499f964801917317c1dd,4
+prem,prince,"Prem is a prince and had not seen his family in three years, but the day before he received a call from his sister, asking him to come home for her wedding.",e0104a975b19499f964801917317c1dd,4
+marigold,bollywood musical (again),"Marigold rebuffs the crude proposal of the spoiled young lead actor after arriving at the set of another movie, a Bollywood musical.",e0104a975b19499f964801917317c1dd,4
+prem,marigold,"Prem asks Marigold to go home with him for his sister's wedding in Jodhpur. Marigold is entranced by the generosity and opulence of Prem's family during the wedding preparations, but is shocked to discover that Prem has been betrothed to another since childhood. Prem has fallen totally in love with Marigold but has neglected to mention the long-arranged marriage, and his father has not encouraged him to follow his heart.",8f6e5d5ace994d93a7348924f32d253f,4
+marigold,prem's fiancé,"Prem's fiancé offers to buy Marigold a drink and confesses that although she loves Prem, she doesn't believe he has ever really loved her.",8f6e5d5ace994d93a7348924f32d253f,4
+prem,marigold's departure,"Feeling betrayed, Marigold storms out and decides to return with Barry to the United States. Prem is duty bound to marry the woman his father has chosen.",8f6e5d5ace994d93a7348924f32d253f,4
+barry,marigold's travel companion,Barry accepts Prem's invitation to stay the night at his parents' house and then passes out.,8f6e5d5ace994d93a7348924f32d253f,4
+bollywood musical,150 bollywood films,"Carroll's inspiration for hiring Larter and Khan in a crossover film, as he dislikes the term 'international audience'",012cb98e1b3f4169b95fd5fda76bf4c1,4
+bollywood musical,larter's role in the film,"Similarity between Larter's life and her role in the film due to lack of dance training, requiring preparation with a choreographer",012cb98e1b3f4169b95fd5fda76bf4c1,4
+bollywood musical,composer graeme revell,Balancing Western and Indian sounds in the songs through Graeme Revell's composition,012cb98e1b3f4169b95fd5fda76bf4c1,4
+bollywood musical,cgi effects,Creating most of the white Taj Mahal and all of the mirroring black structure using CGI effects,012cb98e1b3f4169b95fd5fda76bf4c1,4
+bollywood musical,carroll's decision,Some songs being in Hindi,012cb98e1b3f4169b95fd5fda76bf4c1,4
+marigold,bollywood,Marigold is a Bollywood movie.,8ccba75cb1af466babb37af296c6a2d8,4
+american rom-coms,marigold attempts to combine,"Marigold attempts to combine American rom-coms with Bollywood movies, creating an awkward blend that will satisfy fans of neither.",8ccba75cb1af466babb37af296c6a2d8,4
+bollywood fans,marigold,Marigold will be dismissed by Bollywood fans as the work of an American director 'slumming' in a genre outside his own culture.,8ccba75cb1af466babb37af296c6a2d8,4
+western audiences,marigold,Marigold will be found puzzling by Western audiences unfamiliar with Hindi-language masala movies.,8ccba75cb1af466babb37af296c6a2d8,4
+shankar–ehsaan–loy,music of marigold,The music of Marigold is composed by Shankar–Ehsaan–Loy.,8ccba75cb1af466babb37af296c6a2d8,4
+javed akhtar,lyrics of marigold,The lyrics of the music in Marigold are penned by Javed Akhtar.,8ccba75cb1af466babb37af296c6a2d8,4

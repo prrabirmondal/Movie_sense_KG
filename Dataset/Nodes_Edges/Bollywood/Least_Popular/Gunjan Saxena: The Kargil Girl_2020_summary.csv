@@ -1,0 +1,88 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,"A movie has a summary that provides a brief overview of its plot, characters, and other important details.",e4129f1373a1413a933b89a610bdc934,4
+gunjan saxena,indian air force pilot,"Gunjan Saxena, one of the first women to fly in a combat zone, is an Indian Air Force pilot.",1ad1b4e676b14bd48030cddb32e4f1a8,4
+lucknow,gunjan saxena: the kargil girl,The film 'Gunjan Saxena: The Kargil Girl' was extensively filmed across Lucknow.,1ad1b4e676b14bd48030cddb32e4f1a8,4
+anup,gunjan saxena's parents,"Gunjan Saxena's proud parents, Anup and Kirti, were planning to send her to high school.",1ad1b4e676b14bd48030cddb32e4f1a8,4
+high school,gunjan saxena,"Gunjan, however wants to drop out of high school to become a pilot.",1ad1b4e676b14bd48030cddb32e4f1a8,4
+anshuman,gunjan saxena,Young Gunjan Saxena's older brother Anshuman doesn't let her look out of the airplane window in a flight.,1ad1b4e676b14bd48030cddb32e4f1a8,4
+air hostess,gunjan saxena,A kind air hostess tends to the problem and takes Gunjan to the cockpit.,1ad1b4e676b14bd48030cddb32e4f1a8,4
+1984,gunjan saxena,"The story of 'Gunjan Saxena: The Kargil Girl' begins with young Gunjan Saxena in a flight along with her older brother, Anshuman, in 1984.",1ad1b4e676b14bd48030cddb32e4f1a8,4
+academic excellence,gunjan saxena,Gunjan Saxena is congratulated for her academic excellence.,1ad1b4e676b14bd48030cddb32e4f1a8,4
+gunjan,high school,was planning to send,fda845b6f34f413f971c85b92136b3a2,4
+gunjan,pilot,"[{'type': 'desire', 'sentence': 'Gunjan, however wants to drop out of high school to become a pilot.'}, {'type': 'thwarted attempts', 'sentences': ['Gunjan makes multiple attempts, but these are thwarted by concerns regarding her educational qualifications and high costs, causing her to return home dejected']}]",fda845b6f34f413f971c85b92136b3a2,4
+anshuman,gunjan,"feels that women should not be in the cockpit, but in kitchen making food for the family",fda845b6f34f413f971c85b92136b3a2,4
+gunjan's father,anshuman,strongly disagrees,fda845b6f34f413f971c85b92136b3a2,4
+gunjan's father,gender equality,"a firm believer of gender equality,",fda845b6f34f413f971c85b92136b3a2,4
+gunjan,indian air force,"Gunjan's acceptance into the Indian Air Force provides her with an opportunity to pursue her dream, despite initial reservations from family members and a male colleague. However, she faces additional challenges due to her height and gender during training.",d1bca84a03124c43996860671fa08dd9,4
+anup,gunjan,"Anup fully supports Gunjan's decision to pursue her dream of joining the Indian Air Force, encouraging her when others doubt her.",d1bca84a03124c43996860671fa08dd9,4
+kirti,gunjan,"Kirti expresses pride in her sister Gunjan's acceptance into the Indian Air Force, highlighting her own family members' differing opinions.",d1bca84a03124c43996860671fa08dd9,4
+anshuman,gunjan,"Anshuman initially disapproves of Gunjan joining the Indian Air Force due to its male-dominated nature, but she ignores his reservations and continues with her training.",d1bca84a03124c43996860671fa08dd9,4
+gunjan,male-dominated order of the air force,subjected to several harsh realities and inconveniences due to the male-dominated order of the air force,5f3ddfbf1f974511ad027843b8c1bbd7,4
+gunjan,anshuman,meets her and dissuades her from participation,5f3ddfbf1f974511ad027843b8c1bbd7,4
+gunjan,kargil war,"determined to take part in the war, and despite Anshuman meeting her and dissuading her from participation, disregards his reservations yet again",5f3ddfbf1f974511ad027843b8c1bbd7,4
+gunjan,camp,resigns to the camp,5f3ddfbf1f974511ad027843b8c1bbd7,4
+gunjan,army soldiers,"ask her to abort the mission but regardless of their opinion, she proceeds",5f3ddfbf1f974511ad027843b8c1bbd7,4
+gunjan,rpg attack,"rescues the other pilot and the wounded soldiers and successfully completes a risky maneuver, despite being exposed to bullets herself",5f3ddfbf1f974511ad027843b8c1bbd7,4
+air force pilots,kargil war,all Air Force pilots are needed,5f3ddfbf1f974511ad027843b8c1bbd7,4
+gunjan,bravery,earns the respect by her fellow male soldiers and is rewarded with bravery,5f3ddfbf1f974511ad027843b8c1bbd7,4
+lucknow,principal photography for the film,"commenced in February 2019, with the film being extensively shot at Lucknow.",5f3ddfbf1f974511ad027843b8c1bbd7,4
+lucknow,film,The film was commenced in Lucknow in February 2019.,ed978f2b3ece491ab52cefe2d9a74ad5,4
+lucknow,extensively shot at lucknow,"The film's shooting, despite being continued for three months, came to halt in May 2019 citing the bad weather, but later resumed.",ed978f2b3ece491ab52cefe2d9a74ad5,4
+london,film,The team planned to shoot few scenes at London on July.,ed978f2b3ece491ab52cefe2d9a74ad5,4
+georgia,film,The team planned to change the location to Georgia.,ed978f2b3ece491ab52cefe2d9a74ad5,4
+kazbegi,high altitude regions of georgia,"The team planned to shoot some sequences in a town called Kazbegi, which is a mountainous area set over 5700 feet above sea level.",ed978f2b3ece491ab52cefe2d9a74ad5,4
+janhvi kapoor,angad bedi,"Both Janhvi Kapoor and Angad Bedi have shot the sequences for maintaining fitness for their roles, being accompanied by coach Brinston Miranda.",ed978f2b3ece491ab52cefe2d9a74ad5,4
+december 2019,film's shooting,Shooting of the film was wrapped up on 29 December 2019.,ed978f2b3ece491ab52cefe2d9a74ad5,4
+amit trivedi,film's music,The film's music was composed by Amit Trivedi while lyrics were written by Kausar Munir.,ed978f2b3ece491ab52cefe2d9a74ad5,4
+srinagar,gunjan saxena,"Gunjan Saxena came to Srinagar with the next crew few days later, and they participated in the operations together.",ed978f2b3ece491ab52cefe2d9a74ad5,4
+sreevidya rajan,first woman pilot,"Retired Wing Commander Namrita Chandi also said that it was not Gunjan, but Sreevidya Rajan who was the first lady pilot who flew to Kargil.",ed978f2b3ece491ab52cefe2d9a74ad5,4
+gunjan,sreevidya rajan,"Retired Wing Commander Namrita Chandi stated that it was not Gunjan, but Sreevidya Rajan who was the first lady pilot to fly to Kargil. Therefore, credit is being wrongly taken away by Gunjan.",abf45e9ac1e947fa9abe287d8ace1ffe,4
+rajan,gender equality,Rajan stated that she had never claimed credit due to her strong belief in gender equality.,914be41a125948f7a960400c196686d3,4
+iaf personnel,undue negative portrayal,Authorities in the Indian Air Force (IAF) wrote a letter to the Central Board of Film Certification over the alleged 'undue negative portrayal' of the IAF personnel.,5a32676845dc4207863ff32e8216afe2,4
+iaf,authenticity,"Pointing out that IAF was the first branch of Indian Armed Forces to recruit female officers in the force, the IAF said that they have a gender-neutral workforce and do not propagate gender biases in their service.",5a32676845dc4207863ff32e8216afe2,4
+iaf,johar,IAF claimed that Johar had agreed to represent it with authenticity and 'make all efforts to ensure that the film helps inspire the next generation of IAF Officers.',5a32676845dc4207863ff32e8216afe2,4
+iaf,exaggerated gender conflict,Certain scenes and dialogues in the film and its trailer were shown to have projected the IAF in bad light.,5a32676845dc4207863ff32e8216afe2,4
+iaf,female officers,Wing Commander Namrita Chandi also remarked that the makers had exaggerated the gender conflict.,5a32676845dc4207863ff32e8216afe2,4
+iaf,defense ministry,Many ex-army officers expressed similar concerns.,5a32676845dc4207863ff32e8216afe2,4
+iaf,she also stated,She also stated that heroic acts may have been shown as part of cinematic licence.,5a32676845dc4207863ff32e8216afe2,4
+iaf,saxena's name,"During a media interaction arranged by the IAF towards the end of the Kargil conflict, Saxena's name was projected as the first woman to fly for the IAF in a combat zone.",5a32676845dc4207863ff32e8216afe2,4
+gender conflict,wing commander deepa nailwal,wing commander deepa nailwal also stated the same regarding the gender conflict.,a28e220a3cb842e79fd297b016412a4b,4
+gender conflict,defense ministry,"later, the defense ministry also raised concerns over the gender disparity shown in the film regarding the gender conflict.",a28e220a3cb842e79fd297b016412a4b,4
+portrayal of gender bias,saxena,"defending the portrayal of gender bias in the film, saxena clarified that the 'bias is not at an organizational level'.",a28e220a3cb842e79fd297b016412a4b,4
+grit,women officers',"since the bias is not at an organizational level, the experiences of different woman officers would be different. To deny it completely speaks of a feudal mindset and undermines the grit of women officers'.",a28e220a3cb842e79fd297b016412a4b,4
+gunjan saxena: the kargil girl,campaign targeted against the film,"following the death of actor sushant singh rajput, gunjan saxena: the kargil girl was subject to a campaign targeted against the film",a28e220a3cb842e79fd297b016412a4b,4
+gunjan saxena: the kargil girl,producer karan johar,"for casting janhvi kapoor, daughter of actress sridevi and producer boney kapoor, in the film",a28e220a3cb842e79fd297b016412a4b,4
+gunjan saxena: the kargil girl,teaser poster announcing the film's release date,"in a teaser poster announcing the film's release date on netflix, johar and dharma productions were not mentioned",a28e220a3cb842e79fd297b016412a4b,4
+gunjan saxena: the kargil girl,netflix,"on 9 june 2020, netflix released a teaser video introducing gunjan saxena and also announcing the film's release date",a28e220a3cb842e79fd297b016412a4b,4
+gunjan saxena: the kargil girl,review aggregator website rotten tomatoes,"on the review aggregator website rotten tomatoes, 100% of",a28e220a3cb842e79fd297b016412a4b,4
+film,streaming platform,The film was premiered on the streaming platform,72904c8a53c9408498736fc6eb6faf12,4
+film,release date,release date.,72904c8a53c9408498736fc6eb6faf12,4
+streaming platform,"august 12, 2020","On August 12, 2020, the film was premiered on the streaming platform",72904c8a53c9408498736fc6eb6faf12,4
+film,positive reviews,The film received positive reviews,72904c8a53c9408498736fc6eb6faf12,4
+review aggregator website rotten tomatoes,17 critics' reviews,"On the review aggregator website Rotten Tomatoes, 17 critics' reviews were posted.",72904c8a53c9408498736fc6eb6faf12,4
+review aggregator website rotten tomatoes,positive reviews,Most of these reviews were positive,72904c8a53c9408498736fc6eb6faf12,4
+review aggregator website rotten tomatoes,average rating,The average rating of these reviews is 6.7 out of 10.,72904c8a53c9408498736fc6eb6faf12,4
+gunjan saxena: the kargil girl,received well in review from critics,The film was received with positive critiques by the media.,b2a0e512d75b40fdb5589fe4e5121d85,4
+gunjan saxena: the kargil girl,a deeply moving tale of a feminist father and his feisty daughter,The film tells a powerful story about a progressive parent and his courageous child.,b2a0e512d75b40fdb5589fe4e5121d85,4
+gunjan saxena: the kargil girl,wages war against patriarchal mind-set and discrimination,The movie challenges traditional gender roles and highlights the injustices faced by women.,b2a0e512d75b40fdb5589fe4e5121d85,4
+renuka vyavahare,gunjan saxena: the kargil girl,The critic Renuka Vyavahare praised the film in her review.,b2a0e512d75b40fdb5589fe4e5121d85,4
+geetika mantri,gunjan saxena: the kargil girl,Geetika Mantri gave the movie a favorable rating and opinion.,b2a0e512d75b40fdb5589fe4e5121d85,4
+anna m.m. vetticad,gunjan saxena: the kargil girl,The reviewer Anna M.M. Vetticad appreciated the film and deemed it a captivating biography.,b2a0e512d75b40fdb5589fe4e5121d85,4
+the times of india,gunjan saxena: the kargil girl,Renuka Vyavahare's affiliation with this publication was mentioned in her piece about the movie.,b2a0e512d75b40fdb5589fe4e5121d85,4
+the news minute,gunjan saxena: the kargil girl,Geetika Mantri is a part of this media outlet and reviewed the film.,b2a0e512d75b40fdb5589fe4e5121d85,4
+gunjan saxena,impressive watch,Gunjan Saxena seals a place in our hearts,d63c6641219f4c87a91a83d11f97727a,4
+gunjan saxena,emotional scenes,"The real, steady moments where the film shines are in the emotional scenes, stripped of melodrama.",d63c6641219f4c87a91a83d11f97727a,4
+gunjan saxena,contribution to the kargil war,"The Kargil Girl is named as cleverly as it is written. The film is first about Gunjan Saxena’s journey, and then about her contribution to the Kargil War",d63c6641219f4c87a91a83d11f97727a,4
+gunjan saxena,misogyny,Highlights misogyny that triggers feelings of angst,d63c6641219f4c87a91a83d11f97727a,4
+gunjan saxena,touching tale,A heroine we can cheer without resorting to a blood-curdling war cry,d63c6641219f4c87a91a83d11f97727a,4
+gunjan saxena,restraint,An intensely emotional tale told with restraint,d63c6641219f4c87a91a83d11f97727a,4
+gunjan saxena: the kargil girl,a rating of 3.5/5.,"The film, Gunjan Saxena: The Kargil Girl, received a rating of 3.5 out of 5.",f91cfcf921af4b87bb7191de830d1510,4
+gunjan saxena: the kargil girl,pankaj tripathi,Pankaj Tripathi played the role of a feminist father in Gunjan Saxena: The Kargil Girl.,f91cfcf921af4b87bb7191de830d1510,4
+gunjan saxena: the kargil girl,aishwarya vasudevan,"Aishwarya Vasudevan, a critic from Dna India, gave the film Gunjan Saxena: The Kargil Girl a rating of 3 out of 5.",f91cfcf921af4b87bb7191de830d1510,4
+gunjan saxena: the kargil girl,janhvi kapoor,Janhvi Kapoor played the lead role in Gunjan Saxena: The Kargil Girl.,f91cfcf921af4b87bb7191de830d1510,4
+gunjan saxena: the kargil girl,family audience,"The Hindustan Times praised the film Gunjan Saxena: The Kargil Girl as a refreshing change of pace for war films in India, which have forever been defined by whatever JP Dutta does. It further mentioned that this film would touch a chord especially with family audience.",f91cfcf921af4b87bb7191de830d1510,4
+janhvi kapoor,ghost stories,"Janhvi Kapoor gave an excellent performance in her small part in Ghost Stories, as mentioned by Shubhra Gupta of The Indian Express.",f91cfcf921af4b87bb7191de830d1510,4
+janhvi kapoor,female war hero of india,The Indian Express wrote that Janhvi Kapoor played the role of a female war hero of India in Gunjan Saxena: The Kargil Girl.,f91cfcf921af4b87bb7191de830d1510,4
+janhvi kapoor,performance-wise work-in-progress,"Shubhra Gupta of The Indian Express mentioned that Janhvi Kapoor, in her review of Gunjan Saxena: The Kargil Girl, was still clearly a work-in-progress when it came to performance-wise.",f91cfcf921af4b87bb7191de830d1510,4
+gunjan saxena: the kargil girl,ordinariness and familiar storytelling,"Kennith Rosario of The Hindu praised the film Gunjan Saxena: The Kargil Girl by stating that narrated in a tried-and-tested three-act structure, it made ordinariness and familiar storytelling its strengths.",f91cfcf921af4b87bb7191de830d1510,4
+pankaj tripathi,feminist father,"In Gunjan Saxena: The Kargil Girl, Pankaj Tripathi played the role of a feminist father.",f91cfcf921af4b87bb7191de830d1510,4

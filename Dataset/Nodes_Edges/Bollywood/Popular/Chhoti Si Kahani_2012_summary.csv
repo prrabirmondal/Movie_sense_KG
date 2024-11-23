@@ -1,0 +1,4 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,"A movie has a summary that provides details about its plot, characters, and other important information.",ee92ae7158fc45cfa5331251f0f59512,4
+message,displayed,"When an error occurs or unexpected behavior is detected in a system, a message is displayed to notify the user. This message may also indicate that specific details related to the issue are being displayed.",ee92ae7158fc45cfa5331251f0f59512,4
+other,reasons,"The phrase 'Other reasons' is often used as a catch-all category when listing potential causes of an event or issue. In this case, it suggests that there may be additional explanations for why the message is being displayed beyond what has already been provided.",ee92ae7158fc45cfa5331251f0f59512,4

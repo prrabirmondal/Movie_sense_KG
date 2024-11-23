@@ -1,0 +1,36 @@
+node_1,node_2,edge,chunk_id,node_3,count
+carol danvers,tony stark,Carol Danvers rescues Tony Stark and Nebula from deep space.,c8962918ada24188b3e12c5ada489202,,4
+carol danvers,nebula,Carol Danvers rescues Tony Stark and Nebula from deep space.,c8962918ada24188b3e12c5ada489202,,4
+tony stark,nebula,Carol Danvers rescues Tony Stark and Nebula from deep space.,c8962918ada24188b3e12c5ada489202,,4
+carol danvers,remaining avengers,"Locating Thanos on an uninhabited planet, they plan to use the Infinity Stones to reverse his actions but find that Thanos has destroyed them.",c8962918ada24188b3e12c5ada489202,,4
+tony stark,remaining avengers,"Locating Thanos on an uninhabited planet, they plan to use the Infinity Stones to reverse his actions but find that Thanos has destroyed them.",c8962918ada24188b3e12c5ada489202,,4
+bruce banner,stark,"Locating Thanos on an uninhabited planet, they plan to use the Infinity Stones to reverse his actions but find that Thanos has destroyed them.",c8962918ada24188b3e12c5ada489202,,4
+natasha romanoff,remaining avengers,"Locating Thanos on an uninhabited planet, they plan to use the Infinity Stones to reverse his actions but find that Thanos has destroyed them.",c8962918ada24188b3e12c5ada489202,,4
+james rhodes,remaining avengers,"Locating Thanos on an uninhabited planet, they plan to use the Infinity Stones to reverse his actions but find that Thanos has destroyed them.",c8962918ada24188b3e12c5ada489202,,4
+rocket,stark and banner,"Banner, Rocket, Rogers, and Stark build a time machine.",c8962918ada24188b3e12c5ada489202,,4
+thor,new asgardian refugee settlement,"Recruit an overweight, despondent Thor from the New Asgardian refugee settlement.",c8962918ada24188b3e12c5ada489202,,4
+banner,ancient one,Banner convinces the Ancient One to give him the Time Stone after,c8962918ada24188b3e12c5ada489202,,4
+loki's attack,new york city,"Banner, Lang, Rogers, and Stark time-travel to New York City during Loki's attack in 2012.",c8962918ada24188b3e12c5ada489202,,4
+barton,family,Becomes a vigilante after the erasure of his family.,c8962918ada24188b3e12c5ada489202,,4
+new york city,loki's attack in 2012.,Location where Loki's attack in 2012 occurred.,f0920b29cf8d40d39b7f84e0330b6539,,4
+sanctum sanctorum,banner,Place where Banner convinced the Ancient One to give him the Time Stone.,f0920b29cf8d40d39b7f84e0330b6539,,4
+stark tower,hydra sleeper agents,Location where Rogers retrieved the Mind Stone from Hydra sleeper agents.,f0920b29cf8d40d39b7f84e0330b6539,,4
+stark tower,space stone,Failed attempt by Stark and Lang to steal the Space Stone from its location in Stark Tower.,f0920b29cf8d40d39b7f84e0330b6539,,4
+lewisberg air force base,camp lehigh,Location where Rogers traveled back to in 1970.,f0920b29cf8d40d39b7f84e0330b6539,,4
+stark tower,space stone,Earlier version of the Space Stone obtained by Stark at Camp Lehigh in 1970.,f0920b29cf8d40d39b7f84e0330b6539,,4
+camp lehigh,peggy carter,"Location where Rogers saw his lost love, Peggy Carter.",f0920b29cf8d40d39b7f84e0330b6539,,4
+asgard,reality stone,Location where Rocket extracted the Reality Stone from Jane Foster.,f0920b29cf8d40d39b7f84e0330b6539,,4
+asgard,mjolnir,"Location where Thor retrieved his old hammer, Mjolnir.",f0920b29cf8d40d39b7f84e0330b6539,,4
+2014,nebula,Travel location of Barton and Romanoff in 2014.,f0920b29cf8d40d39b7f84e0330b6539,,4
+morag,power stone,Location where Rhodes and Nebula stole the Power Stone before Peter Quill could.,f0920b29cf8d40d39b7f84e0330b6539,,4
+vormir,soul stone,Travel location of Barton and Romanoff in their search for the Soul Stone.,f0920b29cf8d40d39b7f84e0330b6539,,4
+present,red skull,Person who is the keeper of the Soul Stone.,f0920b29cf8d40d39b7f84e0330b6539,,4
+thanos,nebula (future self),"In the present, Nebula (impersonating her future self) uses a time machine to transport Thanos and his warship to the present and destroys the Avengers Compound. However, present-day Nebula convinces 2014-Nebula to betray Thanos, but is unable to convince her future self.",90bb85a1d00644c3a1d856cc03acf663,,4
+thanos,stones,Thanos uses the Stones to destroy the universe and create a new one.,90bb85a1d00644c3a1d856cc03acf663,,4
+stark,banner,"Stark, Banner, and Rocket build a gauntlet to place the Stones into for undoing Thanos's disintegrations.",90bb85a1d00644c3a1d856cc03acf663,Rocket,4
+banner,gauntlet,"Banner uses the gauntlet, as he has the most resistance to their radiation, to undo Thanos's disintegrations.",90bb85a1d00644c3a1d856cc03acf663,,4
+thor,mjolnir,Thor and a Mjolnir-wielding Rogers are overpowered by Thanos.,90bb85a1d00644c3a1d856cc03acf663,Rogers,4
+stark,thanos's army,"Stark steals the Stones and uses them to disintegrate Thanos and his army, sacrificing himself.",90bb85a1d00644c3a1d856cc03acf663,,4
+valkyrie,new asgard,Thor appoints Valkyrie as the new king of New Asgard.,90bb85a1d00644c3a1d856cc03acf663,,4
+carter,rogers,Rogers returns the Stones and Mjolnir to their proper timelines and remains in the past to live with Carter.,90bb85a1d00644c3a1d856cc03acf663,,4
+sam wilson,shield,"In the present, an elderly Rogers passes his shield to Sam Wilson.",90bb85a1d00644c3a1d856cc03acf663,,4

@@ -1,0 +1,35 @@
+node_1,node_2,edge,chunk_id,edge_expansion,count
+development,l'accordeur,"Inspiration for the basic germ of the production details. Director-writer Sriram Raghavan saw L'Accordeur, a French short film about a blind pianist, in 2013 at the recommendation of his friend, filmmaker Hemanth M Rao.",debc96bc14d54c04bbf60aa90b7bca90,,4
+director-writer sriram raghavan,hemanath m rao,Friendship between the two filmmakers that led to the recommendation of L'Accordeur.,debc96bc14d54c04bbf60aa90b7bca90,,4
+badlapur,script writing process,Sriram Raghavan worked on Badlapur while having the 'gist of the story' for this production.,debc96bc14d54c04bbf60aa90b7bca90,,4
+kaabil,similarity with this production,"Sriram Raghavan stopped script writing when he found out about another film on blind people, but later resumed with a different approach.",debc96bc14d54c04bbf60aa90b7bca90,,4
+agent vinod,inspiration for a similar scene,Sriram Raghavan had written a similar scene for this film in which a blind girl plays the piano while surrounded by mayhem.,debc96bc14d54c04bbf60aa90b7bca90,,4
+varun dhawan,unfinished script,"Sriram Raghavan gave the story idea to Varun Dhawan, but he became busy with other films and the script was left unfinished.",debc96bc14d54c04bbf60aa90b7bca90,,4
+"writers (arijit biswas, yogesh chandekar, rao, pooja ladha surti)",script writing process,Sriram Raghavan discussed the scenes with these writers who reacted as viewers.,debc96bc14d54c04bbf60aa90b7bca90,,4
+dialogue translation,unhappiness,Arijit Biswas and Sriram Raghavan were unhappy while translating the dialogue from English to Hindi because they thought in.,debc96bc14d54c04bbf60aa90b7bca90,,4
+raghavan,inspiration (fargo and eponymous television series),called them 'realistic and yet ... bizarre',ddc05fd2b8a94b259d96635720570aa6,,4
+ayushmann khurrana,screen tests for the scene in which the protagonist wakes up blind,conducted by Raghavan,ddc05fd2b8a94b259d96635720570aa6,,4
+khurrana,blind students,"met several and observed how [a blind pianist] plays, conducts and moves his hands",ddc05fd2b8a94b259d96635720570aa6,,4
+khurrana,piano,played the piano in the film,ddc05fd2b8a94b259d96635720570aa6,,4
+khurrana,body double,did not use a body double in the film,ddc05fd2b8a94b259d96635720570aa6,,4
+casting directors mukesh chhabra and girdhar swami,ayushmann khurrana,"contacted Raghavan, expressing interest in working on the film",ddc05fd2b8a94b259d96635720570aa6,,4
+raghavan,most challenging role,Called it the 'most challenging role' of his career.,18ebe514497e46c2813419ceb4af2d09,,4
+khurrana,blind protagonist,Played in the film.,18ebe514497e46c2813419ceb4af2d09,"[{'node_1': 'Khurrana', 'node_2': 'Raghavan', 'edge': 'Called not to watch films with a blind protagonist and took him to the National School of the Blind.', 'edge_expansion': [{'node_1': 'Khurrana', 'node_2': ""Raghavan's guidance"", 'edge': 'Learned how to hold the stick and climb the stairs'}]}, {'node_1': 'Khurrana', 'node_2': 'Special lenses', 'edge': 'Wore a pair of special lenses that impaired his vision by around 80 percent.', 'edge_expansion': [{'node_1': 'Khurrana', 'node_2': ""Special lenses' effect"", 'edge': 'His body language changed because he could no longer see properly.'}]}, {'node_1': 'Khurrana', 'node_2': 'Blindfolded', 'edge': 'Made omelettes and walked on the street blindfolded.', 'edge_expansion': [{'node_1': 'Khurrana', 'node_2': ""Blindfolded's impact"", 'edge': 'Shot the entire film like that.'}]}]",4
+apte,love interest,Agreed to play Khurrana's love interest.,18ebe514497e46c2813419ceb4af2d09,"[{'node_1': 'Radhika Apte', 'node_2': 'Raghavan', 'edge': ""Did not brief her about scenes and they 'kept developing [the character] as it went'"", 'edge_expansion': []}]",4
+tabu,simi,Raghavan's first choice for Simi.,18ebe514497e46c2813419ceb4af2d09,[],4
+dhawan,former actor,"Played a former actor, a version of himself.",18ebe514497e46c2813419ceb4af2d09,,4
+raghavan,fun sort of thriller,Wanted to make a 'fun sort of thriller' to follow Badlapur.,18ebe514497e46c2813419ceb4af2d09,[],4
+shoot the piano player,andhadhun,Title change due to apprehension from producers about audience acceptance of an English title,3a02ba8c47ae43f9bc75ce608be36906,,4
+akash,blindness,Key concept and condition related to the protagonist,3a02ba8c47ae43f9bc75ce608be36906,,4
+piano player,musical instrument,Relation between the profession of one of the characters and a musical instrument,3a02ba8c47ae43f9bc75ce608be36906,,4
+principal photography,film production stage,Stage of film production during which shooting takes place,3a02ba8c47ae43f9bc75ce608be36906,,4
+june 2017,date,Specific date during which principal photography took place,3a02ba8c47ae43f9bc75ce608be36906,,4
+raghavan,director,Role played by the person involved in making the movie,3a02ba8c47ae43f9bc75ce608be36906,,4
+differentiation,unique characteristics,Need for distinctiveness of each term,3a02ba8c47ae43f9bc75ce608be36906,,4
+rehearsal,preparation,Action taken to prepare for a scene,3a02ba8c47ae43f9bc75ce608be36906,,4
+assistants,supporting cast members,"Persons involved in the making of the movie, other than the lead cast",3a02ba8c47ae43f9bc75ce608be36906,,4
+piano piece,musical composition,Specific piece played during a scene,3a02ba8c47ae43f9bc75ce608be36906,,4
+timing,duration,Duration for which the actors had to perform the scene,3a02ba8c47ae43f9bc75ce608be36906,,4
+uncertainty,lack of predictability,Need for uncertainty during the scene's performance,3a02ba8c47ae43f9bc75ce608be36906,,4
+open ending,conclusion without clear resolution,Type of ending that Raghavan intended for the movie,3a02ba8c47ae43f9bc75ce608be36906,,4
+production teams,movie production groups,"Groups involved in making the movie, other than actors and director",3a02ba8c47ae43f9bc75ce608be36906,,4

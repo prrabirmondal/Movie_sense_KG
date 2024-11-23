@@ -1,0 +1,83 @@
+node_1,node_2,edge,chunk_id,relationship,count
+movie,summary,"The given context provides a detailed description of a movie, and the term 'summary' represents an essential aspect of this description.",6aee0297168d42f4b7452b1b0b47633f,,4
+bloodrayne,video game franchise,Based on the video game franchise of the same name,0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+bloodrayne,action horror film,"Is a 2005 action horror film directed by Uwe Boll, from a screenplay written by Guinevere Turner.",0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+bloodrayne,loose prequel,Acts as a loose prequel to the first game,0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+majesco entertainment,bloodrayne,"Is a video game franchise developed by Terminal Reality, published by Majesco Entertainment.",0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+terminal reality,bloodrayne,Is a video game franchise developed by Terminal Reality,0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+uwe boll,bloodrayne,Is a 2005 action horror film directed by Uwe Boll,0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+guinevere turner,bloodrayne,"Wrote the screenplay for BloodRayne, which is a 2005 action horror film directed by Uwe Boll",0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+kristanna loken,bloodrayne,"Is the protagonist of BloodRayne, which is a 2005 action horror film directed by Uwe Boll",0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+michael madsen,bloodrayne,"Appears in BloodRayne, which is a 2005 action horror film directed by Uwe Boll",0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+matthew davis,bloodrayne,"Appears in BloodRayne, which is a 2005 action horror film directed by Uwe Boll",0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+will sanderson,bloodrayne,"Appears in BloodRayne, which is a 2005 action horror film directed by Uwe Boll",0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+billy zane,bloodrayne,"Appears in BloodRayne, which is a 2005 action horror film directed by Uwe Boll",0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+udo kier,bloodrayne,"Appears in BloodRayne, which is a 2005 action horror film directed by Uwe Boll",0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+michael paré,bloodrayne,"Appears in BloodRayne, which is a 2005 action horror film directed by Uwe Boll",0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+meat loaf,bloodrayne,"Appears in BloodRayne, which is a 2005 action horror film directed by Uwe Boll",0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+michelle rodriguez,bloodrayne,"Appears in BloodRayne, which is a 2005 action horror film directed by Uwe Boll",0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+ben kingsley,bloodrayne,"Appears in BloodRayne, which is a 2005 action horror film directed by Uwe Boll",0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+geraldine chaplin,bloodrayne,"Appears in BloodRayne, which is a 2005 action horror film directed by Uwe Boll",0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+dhampir,rayne,"Rayne is an unholy breed of human and vampire, known simply as a ""dhampir"".",0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+vampire king,kagan,"Rayne was conceived when Kagan raped her mother, who was murdered when she refused to hand Rayne over to him.",0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+action horror film,bloodrayne,"Is a 2005 action horror film directed by Uwe Boll, from a screenplay written by Guinevere Turner.",0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+video game character,bloodrayne,BloodRayne is a video game character,0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+hollywood production company,constantin film,"Produced BloodRayne, which is a 2005 action horror film directed by Uwe Boll.",0bdec93e568e4e0cb8a52b0d37ec8b9b,,4
+rayne,brimstone society,"Sebastian, Vladimir, and Katarin are members of the 'Brimstone Society'",6c4afb2713764e418a76783aff6f8847,member_of,4
+rayne,escapes captivity,Tries to rape her,6c4afb2713764e418a76783aff6f8847,caused_by,4
+fortune teller,kagan,Reveals to Rayne,6c4afb2713764e418a76783aff6f8847,informs,4
+monks,talisman,Guards the talisman,6c4afb2713764e418a76783aff6f8847,protects,4
+rayne,talisman,Finds it,6c4afb2713764e418a76783aff6f8847,finds,4
+talisman,eye,Is the mystical eye,6c4afb2713764e418a76783aff6f8847,is_a,4
+rayne,eye,The eye becomes absorbed into her own eye,6c4afb2713764e418a76783aff6f8847,becomes_absorbed_into,4
+eye,water,"when she falls into the water, she is somehow unaffected by it",6868ffb8a29d4d4a8ccc4014a51ff4ce,,4
+belial,ancient vampire,named as an ancient vampire called Belial,6868ffb8a29d4d4a8ccc4014a51ff4ce,,4
+body parts,belial,"the artifact is one of three body parts which came from an ancient vampire called Belial, who had found a way to overcome the weaknesses of a vampire.",6868ffb8a29d4d4a8ccc4014a51ff4ce,,4
+eye,belial,overcomes holy water (mentioned as one of three body parts which came from Belial),6868ffb8a29d4d4a8ccc4014a51ff4ce,,4
+rayne,kagan,"Kagan desires all these parts in order to assume Belial's powers, and it becomes the heroes' mission to stop him.",6868ffb8a29d4d4a8ccc4014a51ff4ce,,4
+headquarters of the brimstone society,rayne,Brimstone agrees to work together to kill Kagan (mentioned as a location where Rayne is brought),6868ffb8a29d4d4a8ccc4014a51ff4ce,,4
+katarin,grandfather,hid the heart talisman in water-filled caves (mentioned as a location known to Katarin),6868ffb8a29d4d4a8ccc4014a51ff4ce,,4
+heart talisman,katarin,Katarin seeks it out (mentioned as the sought-after object by Katarin),6868ffb8a29d4d4a8ccc4014a51ff4ce,,4
+rayne,heart talisman,gives Kagan an empty box instead of the heart,6868ffb8a29d4d4a8ccc4014a51ff4ce,,4
+kagan,heart talisman,plans to extract the heart as part of a ritual (mentioned as the intention of Kagan),6868ffb8a29d4d4a8ccc4014a51ff4ce,,4
+sebastian,vladimir,"both are fatally wounded, leaving Rayne in a final battle against Kagan",6868ffb8a29d4d4a8ccc4014a51ff4ce,,4
+katarin,father,"betrays Rayne to her father, Elrich (mentioned as the one who falls in league with Kagan)",6868ffb8a29d4d4a8ccc4014a51ff4ce,,4
+rayne,kagan,"antagonistic relationship between Rayne and Kagan during the battle; Kagan catches Rayne's father's last bolt fired by Sebastian, indicating his superiority and ultimately defeating Sebastian. Rayne avenges her father's death by plunging a bolt into Kagan's heart.",db3229f11cfb46e5a768c3ffaa466650,,4
+sebastian,rayne,father-daughter relationship between Sebastian and Rayne; Sebastian chooses to die rather than let Rayne save him in the aftermath of the battle.,db3229f11cfb46e5a768c3ffaa466650,,4
+rayne,sebastian's throne,"Rayne sits on her father's throne, reflecting on the events that have transpired after defeating Kagan and losing her father.",db3229f11cfb46e5a768c3ffaa466650,,4
+guinevere turner,boll,"collaborative relationship between screenwriter Guinevere Turner and director Uwe Boll; Boll accepted Turner's first draft, made many of his own changes, and then asked the actors to contribute.",db3229f11cfb46e5a768c3ffaa466650,,4
+boll,zane,"business relationship between director Uwe Boll and actor Billy Zane; Zane was involved with distributor Romar Entertainment, and Boll later sued him for revenue owed.",db3229f11cfb46e5a768c3ffaa466650,,4
+boll,romania,"location-based relationship between director Uwe Boll and the country of Romania; filming took place in Romania, specifically in the Carpathian Mountains.",db3229f11cfb46e5a768c3ffaa466650,,4
+bloodrayne,uwe boll,"The film BloodRayne, which grossed $3,591,980 against a production budget of $25 million and has a 4% approval rating on Rotten Tomatoes, is associated with director Uwe Boll.",84c65fbacdd249d9a99bc994d02f07cb,,4
+bloodrayne,vid-game adaptation,"The film BloodRayne, which grossed $3,591,980 against a production budget of $25 million and has a 4% approval rating on Rotten Tomatoes, is classified as a video game adaptation.",84c65fbacdd249d9a99bc994d02f07cb,,4
+bloodrayne,rotten tomatoes,"The film BloodRayne, which grossed $3,591,980 against a production budget of $25 million and has a 4% approval rating, is mentioned on the review aggregator Rotten Tomatoes.",84c65fbacdd249d9a99bc994d02f07cb,,4
+bloodrayne,2000s,"The film BloodRayne, which grossed $3,591,980 against a production budget of $25 million and has a 4% approval rating on Rotten Tomatoes, was ranked 48th in Rotten Tomatoes's list of worst reviewed films from the 2000s.",84c65fbacdd249d9a99bc994d02f07cb,,4
+bloodrayne,june 2006,"The film BloodRayne, which grossed $3,591,980 against a production budget of $25 million and has a 4% approval rating on Rotten Tomatoes, ended up grossing this amount in June 2006.",84c65fbacdd249d9a99bc994d02f07cb,,4
+bloodrayne,$25 million,"The film BloodRayne, which grossed $3,591,980 against this production budget and has a 4% approval rating on Rotten Tomatoes, is associated with this amount.",84c65fbacdd249d9a99bc994d02f07cb,,4
+bloodrayne,distinguished cast,"The film BloodRayne, which grossed $3,591,980 against a production budget of $25 million and has a 4% approval rating on Rotten Tomatoes, features a distinguished cast.",84c65fbacdd249d9a99bc994d02f07cb,,4
+bloodrayne,overwhelming dislike,"The film BloodRayne, which grossed $3,591,980 against a production budget of $25 million and has a 4% approval rating on Rotten Tomatoes, received overwhelming dislike according to Metacritic.",84c65fbacdd249d9a99bc994d02f07cb,,4
+bloodrayne,joe leydon,"The film BloodRayne, which grossed $3,591,980 against a production budget of $25 million and has a 4% approval rating on Rotten Tomatoes, is associated with Variety critic Joe Leydon.",84c65fbacdd249d9a99bc994d02f07cb,,4
+bloodrayne,tv guide,"The film BloodRayne, which grossed $3,591,980 against a production budget of $25 million and has a 4% approval rating on Rotten Tomatoes, is mentioned in an article by TV Guide critic Maitland McDonagh.",84c65fbacdd249d9a99bc994d02f07cb,,4
+boll,critics,Ridiculed by Critics for hiring actual prostitutes instead of actors for a scene featuring Meat Loaf in order to save on production costs.,9e39283721bf479b9560c097a1b637d9,,4
+meat loaf,prostitutes,Featured in a scene where Boll hired actual prostitutes instead of actors for cost-saving reasons.,9e39283721bf479b9560c097a1b637d9,,4
+boll,low-budget vampire film,"Adequate, bloody video game adaptation featuring surprisingly fun and bloody action sequences according to Berge Garabedian of JoBlo's movie reviews.",9e39283721bf479b9560c097a1b637d9,,4
+kristanna loken,hot lead actress,Featured in the film as described by Berge Garabedian of JoBlo's movie reviews.,9e39283721bf479b9560c097a1b637d9,,4
+berge garabedian,joblo's movie reviews,Provided description of the film as 'actually pretty decent...for what it is' and 'not as bad as you'd suspect.',9e39283721bf479b9560c097a1b637d9,,4
+bloodrayne,steve chupnick,Chupnick gave the film a B rating and mentioned it as something in favor.,df285687f9704a3dae2a95505500ce4f,,4
+bloodrayne,kristanna loken nude scene,Mentioned by Chupnick as something in favor of the film.,df285687f9704a3dae2a95505500ce4f,,4
+bloodrayne,a horrifying and preposterous movie,"Called it by Michael Madsen, who also enjoyed working with Boll.",df285687f9704a3dae2a95505500ce4f,,4
+laura bailey,bloodrayne games,Voiced Rayne in the games.,df285687f9704a3dae2a95505500ce4f,,4
+bloodrayne,laura bailey's thoughts on the film adaptation,She found the movie sucked and couldn't get through 20 minutes of it.,df285687f9704a3dae2a95505500ce4f,,4
+guinevere turner,bloodrayne,Wrote the draft screenplay for the film.,df285687f9704a3dae2a95505500ce4f,,4
+bloodrayne,camp value of the film,Guinevere Turner found it laughable and suggested that it was so camp it might ripen with age.,df285687f9704a3dae2a95505500ce4f,,4
+bloodrayne,worst picture nomination,Received this award at the Stinkers Bad Movie Awards.,df285687f9704a3dae2a95505500ce4f,,4
+uwe boll,bloodrayne,Directed the film.,df285687f9704a3dae2a95505500ce4f,,4
+bloodrayne,worst picture nomination,Received this award for Uwe Boll at the Stinkers Bad Movie Awards.,df285687f9704a3dae2a95505500ce4f,,4
+time magazine,bloodrayne,Listed it as #6 on their list of top ten worst video game movies in 2009.,df285687f9704a3dae2a95505500ce4f,,4
+bloodrayne,alone in the dark,Both movies are based on video games and were released by Uwe Boll's studio.,916dce450d184b9698d77f0e8224d8d6,,4
+bloodrayne,bloodrayne: the third reich,All three BloodRayne movies feature Michael Paré in different roles.,916dce450d184b9698d77f0e8224d8d6,,4
+alone in the dark,bloodrayne: the third reich,Both movies were directed by Uwe Boll and involve supernatural elements.,916dce450d184b9698d77f0e8224d8d6,,4
+bloodrayne,bloodrayne 2: deliverance,Natassia Malthe played the lead role in both BloodRayne movies.,916dce450d184b9698d77f0e8224d8d6,,4
+alone in the dark,bloodrayne 2: deliverance,Both movies received negative critical reception and were distributed by Romar.,916dce450d184b9698d77f0e8224d8d6,,4
+bloodrayne: the third reich,bloodrayne 2: deliverance,The sequels to both BloodRayne movies were directed by Uwe Boll and went straight-to-video due to poor box office performance of the first films.,916dce450d184b9698d77f0e8224d8d6,,4
+bloodrayne,romar,"Both BloodRayne movies were distributed by Romar, but this relationship ended due to negative critical reception.",916dce450d184b9698d77f0e8224d8d6,,4

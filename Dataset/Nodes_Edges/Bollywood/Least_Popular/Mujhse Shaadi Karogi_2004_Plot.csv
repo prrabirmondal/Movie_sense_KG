@@ -1,0 +1,27 @@
+node_1,node_2,edge,chunk_id,sub_edges,count
+sameer malhotra,roma,Sameer's girlfriend Roma breaks up with him because of his temper.,0b7d0f9f4620432d8e6e75bc3edab881,,4
+sameer malhotra,anger-management issues,Sameer has anger-management issues since his parents died during his childhood.,0b7d0f9f4620432d8e6e75bc3edab881,,4
+sameer malhotra,rani,Sameer falls in love with Rani.,0b7d0f9f4620432d8e6e75bc3edab881,,4
+rani,jugraj singh,Rani's father Jugraj Singh.,0b7d0f9f4620432d8e6e75bc3edab881,,4
+sameer malhotra,pandit raj purohit jyotshi,"Sameer disagrees with Pandit Raj Purohit Jyotshi, which angers Rani when she overhears him saying bad things about her.",0b7d0f9f4620432d8e6e75bc3edab881,,4
+suraj,sameer malhotra,Suraj makes Sameer think that he is a thief by asking him where he keeps important things (like money) in his luggage.,0b7d0f9f4620432d8e6e75bc3edab881,,4
+suraj,security guard,Suraj is a security guard at Sameer's resort.,0b7d0f9f4620432d8e6e75bc3edab881,,4
+trouble,sunny,arrives in the form of Sunny,cbeb2904888f45248dff156aca23d288,,4
+sameer,rani,falls in love with,cbeb2904888f45248dff156aca23d288,"[{'edge': ""decides to capitalise on Sameer's mistakes and creates friction between the roommates""}]",4
+sameer,rani,"anonymously gives Rani the money she needs for a fashion competition, calling himself her 'well-wisher'",cbeb2904888f45248dff156aca23d288,"[{'edge': ""Rani wants to thank her 'well wisher' in person""}]",4
+sameer,grandmother,gave Rani the money he had saved for his grandmother's eye surgery,cbeb2904888f45248dff156aca23d288,,4
+sameer,sister,gave Rani the money he had saved for his sister's wedding,cbeb2904888f45248dff156aca23d288,,4
+sunny,rani,takes credit for a painting of Rani by Sameer,cbeb2904888f45248dff156aca23d288,[{'edge': 'kidnaps her dog Tommy and frames Sameer'}],4
+sameer,rani,assumes that they had sex when Rani sees a bar dancer sleeping in Sameer's room one morning,cbeb2904888f45248dff156aca23d288,[{'edge': 'goes to invite him for breakfast'}],4
+sameer,eagle gang,"is now the leader of the Eagle Gang, a group of bikers who roam the streets of Goa and cause trouble",cbeb2904888f45248dff156aca23d288,,4
+rani,sameer,reconciles with the help of a magician at a New Year's Eve party,cbeb2904888f45248dff156aca23d288,,4
+sameer,rani's mother,Pushespara mistakes Rani's mother for Rani and tries to persuade her to marry Sameer.,1eabd47cc97f4337bd92c2ad38986778,,4
+sameer,rani,Sameer makes another attempt to apologize and tries to reunite with Rani,1eabd47cc97f4337bd92c2ad38986778,,4
+suraj,sameer,Suraj is Rani's uncle who now knows that Sameer loves Rani.,1eabd47cc97f4337bd92c2ad38986778,,4
+sunny,sameer,Sunny gets close to Rani because of Sameer's mistakes,1eabd47cc97f4337bd92c2ad38986778,,4
+rani,sunny,Rani considers whether she loves Sameer or Sunny more,1eabd47cc97f4337bd92c2ad38986778,,4
+sameer,india and pakistan,Sameer chases Sunny through the crowd at a cricket stadium where India and Pakistan are playing a friendly match.,1eabd47cc97f4337bd92c2ad38986778,,4
+kapil dev,sameer,Sameer takes the microphone from the guest of honour Kapil Dev,1eabd47cc97f4337bd92c2ad38986778,,4
+rani,sameer,"Rani runs onto the field and embraces Sameer, reuniting with him",1eabd47cc97f4337bd92c2ad38986778,,4
+arun,sameer,Arun poses as Sameer's enemy to help him reunite with Rani and her parents,1eabd47cc97f4337bd92c2ad38986778,,4
+pushpa,arun,Pushpa tells Arun about Sameer's heartbreak and departure for Goa,1eabd47cc97f4337bd92c2ad38986778,,4

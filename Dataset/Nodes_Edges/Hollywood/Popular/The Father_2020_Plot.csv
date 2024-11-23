@@ -1,0 +1,18 @@
+node_1,node_2,edge,chunk_id,count
+anne,anthony,father-daughter relationship,e1ace0a471e044419fc2ac126e589578,4
+anne,paris,location where Anne is moving to be with a man,e1ace0a471e044419fc2ac126e589578,4
+anthony,dementia,"suffers from dementia, leading to forgetfulness of important events and locations around his flat",e1ace0a471e044419fc2ac126e589578,4
+anthony,watch,believes caregiver stole his watch,e1ace0a471e044419fc2ac126e589578,4
+anne,james,husband in Anne's life since the end of her marriage with James,e1ace0a471e044419fc2ac126e589578,4
+anthony,nursing home,says he will never move out of his flat if no caregiver is provided,e1ace0a471e044419fc2ac126e589578,4
+paul,anne's husband,introduced by Anthony as Anne's husband,e1ace0a471e044419fc2ac126e589578,4
+laura,caregiver,interviews for the caregiver position,e1ace0a471e044419fc2ac126e589578,4
+anthony,lucy,"daughter Lucy, whom Anthony has not seen for a long time",e1ace0a471e044419fc2ac126e589578,4
+laura,lucy,reminds Anthony of Lucy,e1ace0a471e044419fc2ac126e589578,4
+anthony,doctor,taken to a doctor and rejects the idea that he has memory problems,e1ace0a471e044419fc2ac126e589578,4
+anthony,anne,"Anthony has no recollection of the accident, implying that Anne might have been involved in it. Over the course of the film, it becomes clear that Anthony has really been living with Anne for years, but believes he still lives in his own flat. This indicates a close relationship between the two, possibly one of a caregiver and a patient.",fbd8f1b3a4474162979e6c7356879e89,4
+anne,paul (also known as james),Anne and her husband have arguments about Anthony's needs and sacrifices for him. This suggests some tension or disagreement between Anne and her husband.,fbd8f1b3a4474162979e6c7356879e89,4
+anthony,lucy,"Anthony remembers Lucy lying in a hospital bed with blood on her face, indicating that she might be a significant character in the context of Anthony's past.",fbd8f1b3a4474162979e6c7356879e89,4
+anthony,catherine,"Anthony wakes up and finds Catherine as his nurse. Initially, Catherine appeared as both Anne and Laura, but now she identifies herself as Catherine. This suggests that Catherine is involved in Anthony's caregiving and might be one of the people who visited him earlier.",fbd8f1b3a4474162979e6c7356879e89,4
+anthony,bill,"Another nurse named Bill also visits Anthony, identical to one of the men who earlier appeared to be Anne's husband. This could indicate that Bill might be involved in Anthony's caregiving or might have some connection with Anne.",fbd8f1b3a4474162979e6c7356879e89,4
+anthony,mother,"Anthony says he wants his mother, suggesting that she might be a significant character in his past or current life.",fbd8f1b3a4474162979e6c7356879e89,4

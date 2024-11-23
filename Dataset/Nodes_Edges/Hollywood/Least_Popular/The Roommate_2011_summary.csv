@@ -1,0 +1,33 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,a movie has a summary that provides details about the plot and storyline,6dd8581afd814aeba8cb7e4795e852ea,4
+sara matthews,rebecca,roommate; bond; obsession; threatens to kill; drives away anyone,38b00e48ebc84125867bf42de4ed8859,4
+tracy,rebecca,party girl; attacked in the shower; pinned down; belly button ring ripped out; threatened unless stays away,38b00e48ebc84125867bf42de4ed8859,4
+irene,sara matthews,old friend; invites to move in; moves in with her,38b00e48ebc84125867bf42de4ed8859,4
+cuddles,rebecca,kills; lies about running away,38b00e48ebc84125867bf42de4ed8859,4
+sara matthews,irene,moves in with her after cat disappears,38b00e48ebc84125867bf42de4ed8859,4
+roberts,sara matthews,fashion design professor; kisses Sara,38b00e48ebc84125867bf42de4ed8859,4
+rebecca,roberts,plans to get the professor out of the picture,38b00e48ebc84125867bf42de4ed8859,4
+sara,rebecca,roommate; plans to get professor out of picture; hints of friendship troubles; mother's mention of medication; Zyprexa pills found; moves out after realization of obsession,399a78fcdec041fabaa251b330829b28,4
+sara,irene,decides to move in with; overhears conversation between Irene and Rebecca; alarmed by Rebecca's obsession,399a78fcdec041fabaa251b330829b28,4
+rebecca,sara,obsessed with; tattoos sister's name in same place as Sara; intercepts note from Jason for Sara; disguises herself as Sara to meet Jason,399a78fcdec041fabaa251b330829b28,4
+rebecca,jason,meets at hotel room; stabs to death,399a78fcdec041fabaa251b330829b28,4
+irene,sara,invites Sara over; gagged and handcuffed to bed by Rebecca,399a78fcdec041fabaa251b330829b28,4
+sara,rebecca,"close friendship turned into obsession and jealousy, with Rebecca revealing her love and loyalty for Sara and revealing her responsibility in harming several people to win Sara's friendship. Rebecca also attempts to harm Irene in front of Sara, leading to a deadly confrontation where Sara ultimately kills Rebecca.",7f2e6522e1b74c95a085e51d894a158c,4
+irene,sara,"close friends, with Irene being found gagged and handcuffed in Sara's dorm by Sara. Irene pleads for Sara to save herself when Rebecca enters the room and aims a gun at Irene.",7f2e6522e1b74c95a085e51d894a158c,4
+stephen,rebecca,disarms Rebecca briefly but is knocked unconscious while trying to stop her from harming Irene.,7f2e6522e1b74c95a085e51d894a158c,4
+sara,university of southern california,"location where the film was shot, as Sara moves back into her dorm and moves an extra bed out due to not wanting anyone as a roommate for a while.",7f2e6522e1b74c95a085e51d894a158c,4
+sara,leighton meester,"original choice to play Sara, but replaced by Minka Kelly.",7f2e6522e1b74c95a085e51d894a158c,4
+billy zane,frances fisher,"both starred together in the movie Titanic fourteen years earlier, though they did not share any scenes in this film.",7f2e6522e1b74c95a085e51d894a158c,4
+billy zane,frances fisher,"Both actors had previously worked together in Titanic fourteen years earlier, but do not share scenes in this film.",eed309c5dd65423b9bdbd1a539faad60,4
+the roommate,generally unfavorable reviews,"The film holds an approval rating of 3% based on 86 reviews on Rotten Tomatoes, with an average rating of 2.86/10.",eed309c5dd65423b9bdbd1a539faad60,4
+keith staskiewicz,meester's role,"When reviewing The Roommate for Entertainment Weekly, Keith Staskiewicz stated that Meester brought 'the slightest trace of something fascinating to her role. When she smiles, it's perfectly located between a sweet display of affection and a snarling warning.'",eed309c5dd65423b9bdbd1a539faad60,4
+peter travers,the roommate's quality,"When reviewing The Roommate for Rolling Stone, Peter Travers stated that 'The Roommate sucks bad, real bad'.",eed309c5dd65423b9bdbd1a539faad60,4
+christian e. christiansen,suspense,Danish director Christian E. Christiansen has no flair for suspense according to Peter Travers' review in Rolling Stone.,eed309c5dd65423b9bdbd1a539faad60,4
+meester's performance,flawed film,"When reviewing The Roommate for the Los Angeles Times, it states that 'Here, her performance often has the feeling of a sports car in neutral. When she punches it for quick changes of'",eed309c5dd65423b9bdbd1a539faad60,4
+"christy administration building from southwestern college in winfield, kansas",film promotion,Primary concerns hinged that permission to use the photograph of the building was not properly obtained and investigated the legality of its use. Concerns continued even after the image was replaced on the film's official website and subsequent promotional material.,d3f7b68613fb44ff84110139b2ab96e1,4
+meryl streep's performance in the film,two-thirds of its audience being females under the age of 21,"Some critics noted that while her performance often had the feeling of a sports car in neutral, she showed how much more capable she was when punching it for quick changes of tone from manic to wounded or around the bend.",d3f7b68613fb44ff84110139b2ab96e1,4
+the film,box office success,"Opened in 2,534 theaters and grossed $15.6 million on its opening weekend to take first place at the box office.",d3f7b68613fb44ff84110139b2ab96e1,4
+the roommate,the image of the building,"was replaced on the film's official website and on subsequent promotional material due to licensing issues with iStockPhoto based in Calgary, Alberta.",8844446a45554cd789f5052b6b8f9e63,4
+istockphoto,the image of the building,was licensed from for use in promotional material related to The Roommate.,8844446a45554cd789f5052b6b8f9e63,4
+students at the school,the topic of the building's licensing issues,"reportedly had mixed feelings, with some believing it may have been helpful for the college and others reporting that they saw how it could have been harmful to the school's image.",8844446a45554cd789f5052b6b8f9e63,4
+the roommate,"no lawsuits had been filed as of february 8, 2011, but discussions had taken place.",This is related to the licensing issues with iStockPhoto.,8844446a45554cd789f5052b6b8f9e63,4

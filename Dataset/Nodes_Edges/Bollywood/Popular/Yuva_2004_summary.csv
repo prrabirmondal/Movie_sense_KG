@@ -1,0 +1,4 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,"a movie has a summary which provides details about the plot, characters, and other important aspects of the film.",dac93db14d9f44869cebcf8141322e17,4
+details,summary,"the details in a summary provide an overview of the events, scenes, and developments that take place in the movie.",dac93db14d9f44869cebcf8141322e17,4
+message,details,a message may contain details about a specific event or scene from the movie which is being summarized.,dac93db14d9f44869cebcf8141322e17,4

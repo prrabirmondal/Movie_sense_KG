@@ -1,0 +1,11 @@
+Question,Answer
+"""Did Hans Zimmer compose the score for 'The Martian' released in 2015?""",no
+"""Was the score for the 2015 movie 'The Martian' composed by Harry Gregson-Williams?""",yes
+"[""Does the 2015 movie 'The Martian' end with the song 'I Will Survive' following 'Don't Leave Me This Way' in the exit music?""]",yes
+"[""In the 2015 film 'The Martian', does the song 'I Will Survive' play before 'Don't Leave Me This Way' in the exit music?""]",no
+"[""Is the song 'Waterloo' by ABBA not included in the soundtrack of 'The Martian' released in 2015?""]",no
+"[""Is 'Waterloo' by ABBA included in the soundtrack of 'The Martian' which was released in 2015?""]",yes
+"""Did the 2015 movie 'The Martian' feature a song by an artist other than Gloria Gaynor during its closing credits?""",no
+"""Is the song 'I Will Survive' by Gloria Gaynor played during the closing credits of the 2015 movie 'The Martian'?""",yes
+"[""Did the 2015 movie 'The Martian' exclude 'Starman' by David Bowie from its soundtrack?""]",no
+"[""Is the song 'Starman' by David Bowie included in the soundtrack of 'The Martian' released in 2015?""]",yes

@@ -1,0 +1,16 @@
+node_1,node_2,edge,chunk_id,count
+johnny,lisa,romantic partner,c9d3ceb25ab34843a50b3baa6a720797,4
+lisa,mark,affair,c9d3ceb25ab34843a50b3baa6a720797,4
+johnny,mark,best friend,c9d3ceb25ab34843a50b3baa6a720797,4
+denny,lisa,lusts for,c9d3ceb25ab34843a50b3baa6a720797,4
+johnny,chris-r,rescued from fight with drug dealer,c9d3ceb25ab34843a50b3baa6a720797,4
+lisa,johnny,accuses of physical abuse,c9d3ceb25ab34843a50b3baa6a720797,4
+peter,mark,confides in about affair with Lisa,c9d3ceb25ab34843a50b3baa6a720797,4
+steven,lisa,catches kissing Mark at surprise birthday party for Johnny,c9d3ceb25ab34843a50b3baa6a720797,4
+lisa,mark,"announce false pregnancy and flaunt affair, leading to physical altercation with Johnny",cdee035ffc4e4f12aa672b0efe974fc0,4
+johnny,lisa,betrayal in affair with Mark,cdee035ffc4e4f12aa672b0efe974fc0,4
+mark,johnny,physical altercation caused by Lisa's betrayal,cdee035ffc4e4f12aa672b0efe974fc0,4
+lisa,johnny,Lisa calls Mark after Johnny berates her for betraying him,cdee035ffc4e4f12aa672b0efe974fc0,4
+johnny,cassette recorder,attaches cassette recorder to phone to listen to intimate call between Lisa and Mark,cdee035ffc4e4f12aa672b0efe974fc0,4
+johnny,apartment,destroys apartment in fit of nervous breakdown after listening to intimate call,cdee035ffc4e4f12aa672b0efe974fc0,4
+johnny,suicide,commits suicide by shooting himself in the mouth,cdee035ffc4e4f12aa672b0efe974fc0,4

@@ -1,0 +1,31 @@
+node_1,node_2,edge,chunk_id,count
+nina sayers,new york city ballet,Member of New York City Ballet,eea12fd9cd5c4064ab07e0cea68d2ce1,4
+erica,nina sayers,Overprotective mother of Nina Sayers,eea12fd9cd5c4064ab07e0cea68d2ce1,4
+thomas leroy,nina sayers,Artistic director who gives Nina the lead role in Swan Lake,eea12fd9cd5c4064ab07e0cea68d2ce1,4
+elizabeth 'beth' macintyre,nina sayers,"Competitor for lead roles, initially replaced by Nina, later accused of providing sexual favors to Thomas",eea12fd9cd5c4064ab07e0cea68d2ce1,4
+odette,nina sayers,White Swan role played by Nina during audition,eea12fd9cd5c4064ab07e0cea68d2ce1,4
+odile,nina sayers,Black Swan role failed to be embody by Nina during audition,eea12fd9cd5c4064ab07e0cea68d2ce1,4
+lily,nina sayers,"Newcomer with physical resemblance to Nina, observed by Nina during rehearsals",eea12fd9cd5c4064ab07e0cea68d2ce1,4
+beth,thomas leroy,Forced retirement by Thomas,eea12fd9cd5c4064ab07e0cea68d2ce1,4
+car,beth,"Hit by a car, believed to be suicide attempt",eea12fd9cd5c4064ab07e0cea68d2ce1,4
+legs,beth,"Critically injured legs, preventing Beth from being a dancer if she recovers",eea12fd9cd5c4064ab07e0cea68d2ce1,4
+nina,lily,physical resemblance; uninhibited quality differing from Nina's,04735a3c919d49a7a24eaf5c89a768cd,4
+nina,erica,arguement and request to leave her alone,04735a3c919d49a7a24eaf5c89a768cd,4
+nina,lily,invitation for drinks; acceptance despite objection from Erica,04735a3c919d49a7a24eaf5c89a768cd,4
+lily,nina,offer of ecstasy capsule; initial refusal followed by acceptance,04735a3c919d49a7a24eaf5c89a768cd,4
+nina (under influence of ecstasy),men at the bar,flirtation,04735a3c919d49a7a24eaf5c89a768cd,4
+nina (under influence of ecstasy),lily,flirtation,04735a3c919d49a7a24eaf5c89a768cd,4
+nina,erica,yelling to leave her alone after accepting Lily's invitation for drinks,04735a3c919d49a7a24eaf5c89a768cd,4
+nina (under influence of ecstasy),lily,masturbation,04735a3c919d49a7a24eaf5c89a768cd,4
+nina (under influence of ecstasy),lily,prompted hangover and disorientation after sexual encounter,04735a3c919d49a7a24eaf5c89a768cd,4
+nina,lincoln center,arrival late for dress rehearsal due to disorientation and hangover,04735a3c919d49a7a24eaf5c89a768cd,4
+nina (under influence of ecstasy),lily,accusation of intending to take her place as Odile,04735a3c919d49a7a24eaf5c89a768cd,4
+nina (under the effects of ecstasy and/or hallucinations),lily,confusion regarding their sexual encounter the previous night,04735a3c919d49a7a24eaf5c89a768cd,4
+nina (under influence of ecstasy and/or hallucinations),lily,denial of sexual encounter by Lily,04735a3c919d49a7a24eaf5c89a768cd,4
+nina,thomas,appointment of Lily as alternate,04735a3c919d49a7a24eaf5c89a768cd,4
+nina (under influence of ecstasy and/or hallucinations),odile,hallucination of transformation into Odile,04735a3c919d49a7a24eaf5c89a768cd,4
+nina (under the effects of ecstasy and/or hallucinations),injuries,"increase in hallucinated injuries, including scratch marks on back",04735a3c919d49a7a24eaf5c89a768cd,4
+nina,lily,"Nina worries that the role might be too much for her and tells them she is not well enough to perform, causing Lily to prepare to replace her. Later, Nina convinces Thomas to allow her to take back her role. However, during the ballet, Nina's hallucination distracts her and causes her to lose stability as Odette, leading to the male dancer dropping her on stage. This infuriates Thomas. In their dressing room, Nina confronts Lily preparing as Odile. During the fight, Lily transforms into Nina, and they break a mirror. Nina stabs herself with a large shard of glass from the mirror, thinking she has killed Lily. However, when Nina opens her door later, she finds Lily alive, apologizing for the misunderstanding and congratulating Nina before taking her leave. Nina realizes that she had stabbed herself instead.",e9a96ac4db424f18890e517a6129d7f7,4
+nina,odette,"Nina dances flawlessly as Odile, seemingly turns into a black swan, and is covered in feathers. However, Nina hears a knock at her door later and realizes that she still has on the Odette tutu and white swan makeup.",e9a96ac4db424f18890e517a6129d7f7,4
+nina,odette,"Nina, while performing the final act of the ballet, mistakenly stabs herself with a piece of glass, believing it to be Odette. She realizes her mistake and continues with the performance until the end, where Odette throws herself off a cliff. This is followed by Nina's landing on a mattress, portraying Odette's death. The audience applauds while Thomas, Lily, and others gather to congratulate Nina. However, as Thomas sees the spreading blood at Nina's waist, he becomes concerned and inquires about what happened to her. Nina calmly responds that she felt it was perfect.",01bde619598049f1b6ae6031711663c2,4
+nina,thomas,"As Thomas sees the blood spreading at Nina's waist, he becomes concerned and inquires about what happened to her. Nina remains calm and explains that she felt it was perfect.",01bde619598049f1b6ae6031711663c2,4

@@ -1,0 +1,22 @@
+node_1,node_2,edge,chunk_id,count
+jay ray,gina,"Jay, a dance teacher in Las Vegas, marries immigrant women to get them green cards for money. Gina, the rich daughter of a powerful Anglo-Indian casino owner, falls for him. Jay goes along with her proposal to marry into money.",eb0fe56085e94294bcdcfe1e93395a81,4
+jay ray,bob grover,"Jay's future brother-in-law is the vicious, homicidal Tony. Bob Grover is Gina's rich and powerful Anglo-Indian casino owner father.",eb0fe56085e94294bcdcfe1e93395a81,4
+tony,natasha,"Tony is about to marry a Mexican woman named Natasha, whom Jay knows as Linda.",eb0fe56085e94294bcdcfe1e93395a81,4
+linda,jay ray,"Linda and Jay humorously agree to a 'divorce' the night before Tony and Natasha's wedding. They are married immigrants, but Linda reveals herself as an imposter in order to escape from Tony.",eb0fe56085e94294bcdcfe1e93395a81,4
+tony,linda,"A jealous, gun-wielding Tony arrives at Linda's apartment while Jay is there. After he hits her, Linda knocks him out with a heavy object while he tussles with Jay.",eb0fe56085e94294bcdcfe1e93395a81,4
+robin,linda,"Robin helps Linda and Jay go on the run towards Mexico, giving them fake passports and IDs.",eb0fe56085e94294bcdcfe1e93395a81,4
+jay ray,robin,Robin is a friend of Jay's who helps them escape from Tony and the police in pursuit.,eb0fe56085e94294bcdcfe1e93395a81,4
+wedding,robin,Robin comes to their house after their wedding.,7545235bbd1d409b865716a26587b7d0,4
+house,robin,Robin visits their house.,7545235bbd1d409b865716a26587b7d0,4
+robin,passports,Robin brings the passports to them.,7545235bbd1d409b865716a26587b7d0,4
+tony,robin,Tony and his men shoot Robin unexpectedly.,7545235bbd1d409b865716a26587b7d0,4
+linda,jay,Linda and Jay escape together.,7545235bbd1d409b865716a26587b7d0,4
+house,linda,They are at their house when Robin comes to give them the passports.,7545235bbd1d409b865716a26587b7d0,4
+train,jay,Linda puts Jay aboard a train during the car chase.,7545235bbd1d409b865716a26587b7d0,4
+train,jamaal,Jamaal tells Jay of Linda's whereabouts while Jay is aboard the train.,7545235bbd1d409b865716a26587b7d0,4
+jamaal,tony's men,"Tony's men ambush Jamaal and kill him, but not before he tells Jay of Linda's whereabouts.",7545235bbd1d409b865716a26587b7d0,4
+tony's men,jay,Jay kills off all of Tony's men.,7545235bbd1d409b865716a26587b7d0,4
+car door,tony,Jay kills Tony by smashing his face into the car door.,7545235bbd1d409b865716a26587b7d0,4
+gina,jay,Gina shoots Jay.,7545235bbd1d409b865716a26587b7d0,4
+text message,linda,"Linda sends Jay a text message saying, 'I am going...Sorry, forget me' during the car chase.",7545235bbd1d409b865716a26587b7d0,4
+cliff,linda,"Linda drives off of a cliff during the car chase, killing herself by drowning.",7545235bbd1d409b865716a26587b7d0,4

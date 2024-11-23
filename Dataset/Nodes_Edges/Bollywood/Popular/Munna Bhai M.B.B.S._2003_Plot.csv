@@ -1,0 +1,34 @@
+node_1,node_2,edge,chunk_id,count
+munna bhai,hariprasad,Munna Bhai is the son of Hariprasad,6803bfbef0d34db9a4416af416696af9,4
+parvati,munna bhai,Parvati is the wife of Munna Bhai's father Hariprasad,6803bfbef0d34db9a4416af416696af9,4
+hariprasad,parvati,Hariprasad is the husband of Parvati,6803bfbef0d34db9a4416af416696af9,4
+munna bhai,sarkeshwar 'circuit' sharma,Munna Bhai and Sarkeshwar 'Circuit' Sharma are members of the same gang,6803bfbef0d34db9a4416af416696af9,4
+dean dr. jagdish asthana,chinki,Dr. Jagdish Asthana and Chinki are friends,6803bfbef0d34db9a4416af416696af9,4
+munna bhai,chinki,Munna Bhai and Chinki are childhood friends,6803bfbef0d34db9a4416af416696af9,4
+dean dr. jagdish asthana,hari,Dr. Jagdish Asthana and Hari know each other,6803bfbef0d34db9a4416af416696af9,4
+munna bhai,asthana college,Munna Bhai enrolls into Asthana College,6803bfbef0d34db9a4416af416696af9,4
+dr. rustom pawri,munna bhai,Dr. Rustom Pawri helps Munna Bhai enroll into the college,6803bfbef0d34db9a4416af416696af9,4
+asthana college,dr. jagdish asthana,Dean Dr. Jagdish Asthana is associated with Asthana College,6803bfbef0d34db9a4416af416696af9,4
+munna bhai,common-sense treatment,Munna Bhai challenges the conventional method of 'common-sense treatment',6803bfbef0d34db9a4416af416696af9,4
+munna,asthana's conventional opinions,directly challenges Asthana's conventional opinions to get under his skin,fa7f353ee0194df1aa000f931d2a1232,4
+munna,empathetic and almost holistic regimen,constantly seeks to impose a more empathetic and almost holistic regimen around himself,fa7f353ee0194df1aa000f931d2a1232,4
+conventional medicine,incurable patients,"lack of empathy towards patients, especially those who are deemed incurable by conventional medicine",fa7f353ee0194df1aa000f931d2a1232,4
+munna,hospital staff and patients,his behavior is well-received by the hospital staff and patients,fa7f353ee0194df1aa000f931d2a1232,4
+asthana,chaos,perceiving this as chaos,fa7f353ee0194df1aa000f931d2a1232,4
+asthana,laughter therapy,resorts to laughter therapy to deal with his stress,fa7f353ee0194df1aa000f931d2a1232,4
+dr. suman,chinki,unaware that she is 'Chinki',fa7f353ee0194df1aa000f931d2a1232,4
+dr. suman,old-fashioned kindness and love,uses old-fashioned kindness and love to 'cure' many patients at the hospital,fa7f353ee0194df1aa000f931d2a1232,4
+karan,munna,"develops a friendly relationship with Dr. Suman, who works at the hospital, unaware that she is 'Chinki'",fa7f353ee0194df1aa000f931d2a1232,4
+dr. pawri's father,munna,friends in the process,fa7f353ee0194df1aa000f931d2a1232,4
+zaheer,munna,"befriends Zaheer, a man dying from stomach cancer who he meets on his first day of college",fa7f353ee0194df1aa000f931d2a1232,4
+stomach cancer,munna,"Munna, a patient with stomach cancer, befriends the college dean Asthana during his treatment. Asthana tries to expel Munna due to a stripper episode, but he is prevented from doing so after injuring himself.",4ef4a67f53a849f19abac33cac014954,4
+munna,zaheer,"Munna's friend Zaheer dies, leaving Munna in shock and causing him to give up during a test.",4ef4a67f53a849f19abac33cac014954,4
+anand banerjee,life,"Paraplegic patient Anand Banerjee, who has been brain-dead for 12 years, comes back to life after Munna's 'miraculous' treatments. His recovery is attributed to Munna.",4ef4a67f53a849f19abac33cac014954,4
+suman,munna,"After learning of Suman's true identity, Munna marries her and they open a real hospital in Munna's family village together.",4ef4a67f53a849f19abac33cac014954,4
+circuit,munna,"Circuit becomes friends with Munna during his treatment, and later gets married and has a son named 'Short Circuit'.",4ef4a67f53a849f19abac33cac014954,4
+asthana,munna,"After learning of Anand Banerjee's recovery, Suman gives a heartfelt speech defending Munna's actions. Asthana is moved and changes his opinion about Munna.",4ef4a67f53a849f19abac33cac014954,4
+suman,anand banerjee,"After Anand Banerjee recovers, Suman falls in love with him, but it is revealed that he was already married and had died years ago.",4ef4a67f53a849f19abac33cac014954,4
+munna's parents,munna,"After hearing news of Munna's 'miraculous' treatments, Munna's parents return to the city and forgive him.",4ef4a67f53a849f19abac33cac014954,4
+asthana,munna,"After injuring himself to stay in the hospital, Munna prevents Asthana from expelling him due to a stripper episode.",4ef4a67f53a849f19abac33cac014954,4
+patients and students,munna,"The patients, students, and hospital staff stand in Asthana's way and refuse to let Munna leave after he recovers from his injuries.",4ef4a67f53a849f19abac33cac014954,4
+asthana,munna,"After Munna gives up during the test, Asthana is finally moved by Suman's heartfelt speech and changes his opinion about Munna.",4ef4a67f53a849f19abac33cac014954,4

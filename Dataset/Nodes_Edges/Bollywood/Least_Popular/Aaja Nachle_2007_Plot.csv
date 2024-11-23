@@ -1,0 +1,45 @@
+node_1,node_2,edge,chunk_id,count
+dia srivastav,makrand,"Dia returns to Shamli after learning of Makrand's death and takes over the responsibility of saving his deserted dance theatre, Ajanta, from demolition. This action highlights the close relationship between Dia and Makrand.",fd740b31b1fb427a82c2bdb9e4c2d198,4
+dia srivastav,shamli,"Dia's return to Shamli after a decade shows that Shamli holds significant importance in her life, indicating a strong relation between Dia and the town.",fd740b31b1fb427a82c2bdb9e4c2d198,4
+dia srivastav,radha srivastav,"Dia travels with her daughter Radha to Shamli, implying a close relationship between mother and daughter.",fd740b31b1fb427a82c2bdb9e4c2d198,4
+dia srivastav,steve,"Dia's divorce from Steve is significant because it sheds light on her past relationships and experiences, which could further develop her character.",fd740b31b1fb427a82c2bdb9e4c2d198,4
+dia srivastav,najma,"Dia's greeting by Najma coldly indicates a possible falling out between the two friends, which could have an impact on the plot.",fd740b31b1fb427a82c2bdb9e4c2d198,4
+dia srivastav,doctor saab,Dia's alliance with Doctor Saab hints at a possible support system for her in Shamli.,fd740b31b1fb427a82c2bdb9e4c2d198,4
+dia srivastav,raja uday singh,"Dia's confrontation with Raja Uday Singh leads to him challenging her, which sets up a significant plot development for the movie.",fd740b31b1fb427a82c2bdb9e4c2d198,4
+shamli,ajanta,"The deserted dance theatre, Ajanta, is at risk of demolition, and Dia's responsibility to save it highlights a potential conflict between preserving the cultural heritage of Shamli and the need for development.",fd740b31b1fb427a82c2bdb9e4c2d198,4
+shamli,demolition,"The demolition threat against Ajanta shows that the progression of Shamli is at odds with preserving its cultural heritage, setting up a significant conflict for the movie.",fd740b31b1fb427a82c2bdb9e4c2d198,4
+shamli,mp raja uday singh,"Raja Uday Singh's challenge to Dia sets up an interesting plot development, as it could lead to a significant confrontation between the two.",fd740b31b1fb427a82c2bdb9e4c2d198,4
+shamli,local community,Dia's attempt to put on a successful theatrical performance using only people from Shamli highlights the potential involvement and contribution of the local community in preserving cultural heritage.,fd740b31b1fb427a82c2bdb9e4c2d198,4
+steve,divorce,"Dia's divorce from Steve is significant as it could provide insights into her past experiences, which may have an impact on the plot or character development.",fd740b31b1fb427a82c2bdb9e4c2d198,4
+people from shamli,shamli,locational relationship between people and their origin,f10dbbbf5cdf4bcb865db7335c42404d,4
+dia,shamli,people's origin,f10dbbbf5cdf4bcb865db7335c42404d,4
+he,demolition,action-object relationship,f10dbbbf5cdf4bcb865db7335c42404d,4
+dia,ajanta,people's location,f10dbbbf5cdf4bcb865db7335c42404d,4
+dia,laila majnu,performances in plays or shows,f10dbbbf5cdf4bcb865db7335c42404d,4
+people in the town,auditions,event participation,f10dbbbf5cdf4bcb865db7335c42404d,4
+thugs,set,attempt to destroy property or resources,f10dbbbf5cdf4bcb865db7335c42404d,4
+chaudhary om singh,ajanta,political support for cultural activities or events,f10dbbbf5cdf4bcb865db7335c42404d,4
+imran pathan,laila majnu,casting decisions in plays or shows,f10dbbbf5cdf4bcb865db7335c42404d,4
+anokhi,laila,actresses' selection for roles,f10dbbbf5cdf4bcb865db7335c42404d,4
+chaudhary,laila's father,casting decisions in plays or shows,f10dbbbf5cdf4bcb865db7335c42404d,4
+mohan,laila's husband,casting decisions in plays or shows,f10dbbbf5cdf4bcb865db7335c42404d,4
+chojar,play,participation in performances,f10dbbbf5cdf4bcb865db7335c42404d,4
+ajanta,success,The night is a success and Ajanta is saved.,501004fcc94342ccb0601dce78aa7a9b,4
+dia,loss of hope,Dia loses hope until Najma arrives to apologise,501004fcc94342ccb0601dce78aa7a9b,4
+najma,apology,Najma arrives to apologise,501004fcc94342ccb0601dce78aa7a9b,4
+chaudhary,political intentions,"Chaudhary tries to get Imran to give up his part, but Imran is aware of Chaudhary's political intentions and refuses",501004fcc94342ccb0601dce78aa7a9b,4
+imran,attack,Chaudhary's men attack Imran while Anokhi tries to protect him,501004fcc94342ccb0601dce78aa7a9b,4
+anokhi,protection,"Anokhi tries to protect Imran, making Imran fall in love with her",501004fcc94342ccb0601dce78aa7a9b,4
+farooque,spread hurtful stories,Farooque pays Chaudhary to abandon Ajanta and makes Najma spread hurtful stories about Dia,501004fcc94342ccb0601dce78aa7a9b,4
+inspector,help,Uday asks the inspector to make sure that whoever wants to attend the program should not face any obstacles in reaching the venue,501004fcc94342ccb0601dce78aa7a9b,4
+chaudhary,changed mind,"With the whole town against her, Dia loses hope until Chaudhary tries to get Imran to give up his part, but Imran is aware of Chaudhary's political intentions and refuses, leading him to be attacked by Chaudhary's men while Anokhi tries to protect him and Chaudhary changes his mind",501004fcc94342ccb0601dce78aa7a9b,4
+mrs. chojar,shock,Mrs. Chojar is shocked and thrilled when her husband appears singing and dancing on stage,501004fcc94342ccb0601dce78aa7a9b,4
+inspector,stage appearance,The inspector returns to the stage for an encore after Uday asks him to make sure that whoever wants to attend the program should not face any obstacles in reaching the venue,501004fcc94342ccb0601dce78aa7a9b,4
+entire town,attendance,The entire town has come to Ajanta on the night of the show,501004fcc94342ccb0601dce78aa7a9b,4
+ajanta,success,"In the end, the audience cheers loudly as the cast return to the stage for an encore. The night is a success and Ajanta is saved.",45b533474564421b9b1b3ba404d60d6a,4
+imran,anokhi,Imran and Anokhi become a couple.,45b533474564421b9b1b3ba404d60d6a,4
+raja uday,dia,"Raja Uday tries to convince Dia to stay behind for another round of 'fighting' as he has developed a crush on her, but she playfully says no.",45b533474564421b9b1b3ba404d60d6a,4
+radha,dia's new york number,"Radha hands over Dia's New York number to Uday, to which Dia does not seem to mind very much and he seems very happy to receive.",45b533474564421b9b1b3ba404d60d6a,4
+shamli,dance,"Afterwards, Dia says her farewells to Shamli, and she and Radha leave to find her parents in another part of India.",45b533474564421b9b1b3ba404d60d6a,4
+imran,anokhi,Imran and Anokhi go on to teach dance classes at Ajanta with Doctor Saab's help and dance becomes an inherent part of Shamli once again.,45b533474564421b9b1b3ba404d60d6a,4
+raja uday,dia,"Later it is shown that Raja Uday visits Dia in New York and is seen watching her dance. They smile at each other and he hands her a cup of coffee, implying that they will develop a romance.",45b533474564421b9b1b3ba404d60d6a,4

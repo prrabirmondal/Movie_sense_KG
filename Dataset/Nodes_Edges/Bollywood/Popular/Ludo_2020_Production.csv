@@ -1,0 +1,6 @@
+node_1,node_2,edge,chunk_id,count
+film,production,"The sentence 'HERE IS THE DETAILS OF MOVIE'S PRODUCTION:' explicitly states that the given context is about providing details related to a movie's production. Hence, 'film' and 'production' are directly related.",e5f816a308d14377b226962d3adf9f8f,4
+production,anurag basu,"'The film is produced by Anurag Basu,' implies that the person Anurag Basu is involved in the production process of this movie.",e5f816a308d14377b226962d3adf9f8f,4
+production,taani basu,"'The film is produced by Anurag Basu, Taani Basu,' shows that both Anurag Basu and Taani Basu are producers of this movie.",e5f816a308d14377b226962d3adf9f8f,4
+production,bhushan kumar,"'The film is produced by Anurag Basu, Taani Basu, and Bhushan Kumar,' indicates that Bhushan Kumar also plays a role in the production of this movie.",e5f816a308d14377b226962d3adf9f8f,4
+music,pritam,"'The film features music by Pritam,' specifies that the composer responsible for the soundtrack is Pritam.",e5f816a308d14377b226962d3adf9f8f,4

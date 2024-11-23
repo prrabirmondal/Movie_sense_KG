@@ -1,0 +1,40 @@
+node_1,node_2,edge,chunk_id,count
+spider-man,quentin beck,frames Spider-Man for murder and reveals his true identity,d2b1aff7c49648b8aecb5ccf0567ce33,4
+peter parker,spider-man,is Spider-Man,d2b1aff7c49648b8aecb5ccf0567ce33,4
+mj jones-watson,peter parker,is Peter Parker's girlfriend,d2b1aff7c49648b8aecb5ccf0567ce33,4
+ned leeds,peter parker,is Peter Parker's best friend,d2b1aff7c49648b8aecb5ccf0567ce33,4
+may parker,peter parker,is Peter Parker's aunt,d2b1aff7c49648b8aecb5ccf0567ce33,4
+matt murdock,peter parker,gets Peter's charges dropped,d2b1aff7c49648b8aecb5ccf0567ce33,4
+mit,"mj jones-watson, ned leeds",rejects MJ and Ned's applications,d2b1aff7c49648b8aecb5ccf0567ce33,4
+dr. stephen strange,peter parker,helps Peter at the New York Sanctum,d2b1aff7c49648b8aecb5ccf0567ce33,4
+otto octavius,peter parker,attacks Peter and steals nanotechnology from his Iron Spider suit,d2b1aff7c49648b8aecb5ccf0567ce33,4
+norman osborn,"peter parker, dr. stephen strange",arrives and attacks both Peter and Dr. Strange,d2b1aff7c49648b8aecb5ccf0567ce33,4
+max dillon,"dr. stephen strange, spider-man","is captured by Peter, MJ, and Ned at a military research facility",d2b1aff7c49648b8aecb5ccf0567ce33,4
+flint marko,"dr. stephen strange, spider-man","is captured by Peter, MJ, and Ned at a military research facility",d2b1aff7c49648b8aecb5ccf0567ce33,4
+peter,osborn,"orders Peter, MJ, and Ned to find and capture the others.",84f3e1139da54dd6a160da8691751b09,4
+peter,max dillon,locate and retrieve Max Dillon at a military research facility.,84f3e1139da54dd6a160da8691751b09,4
+peter,flint marko,locate and retrieve Flint Marko at a military research facility.,84f3e1139da54dd6a160da8691751b09,4
+osborn,max dillon,reclaims control of himself from his split Green Goblin personality and destroys the Goblin mask with May's help until Peter retrieves him.,84f3e1139da54dd6a160da8691751b09,4
+osborn,flint marko,reclaims control of himself from his split Green Goblin personality and destroys the Goblin mask with May's help until Peter retrieves him.,84f3e1139da54dd6a160da8691751b09,4
+octavius,osborn,"discusses their battles with Spider-Man with Osborn, Octavius, and Dillon realize they were pulled from their universes just before their deaths.",84f3e1139da54dd6a160da8691751b09,4
+dillon,octavius,"discusses their battles with Spider-Man with Osborn, Octavius, and Dillon realize they were pulled from their universes just before their deaths.",84f3e1139da54dd6a160da8691751b09,4
+marko,octavius,"discusses their battles with Spider-Man with Osborn, Octavius, and Dillon realize they were pulled from their universes just before their deaths.",84f3e1139da54dd6a160da8691751b09,4
+strange,peter,prepares to reverse the contained spell and send the villains back to their respective universes.,84f3e1139da54dd6a160da8691751b09,4
+peter,strange,argues that they should first help each villain to possibly change their fates upon their return before Peter steals the spell and traps Strange in the Mirror Dimension.,84f3e1139da54dd6a160da8691751b09,4
+peter,octavius,uses Stark Industries technology to cure Octavius.,84f3e1139da54dd6a160da8691751b09,4
+osborn,dillon,"betrays Peter and fatally injures May as Dillon, Marko, and Connors escape with the Goblin persona retaking control of Osborn.",84f3e1139da54dd6a160da8691751b09,4
+may,peter,"dies and tells Peter that 'with great power, there must also come great responsibility'.",84f3e1139da54dd6a160da8691751b09,4
+ned,mj,discovers that he can create portals using Strange's sling ring which they use to try to locate Peter but instead find alternate versions of Peter who were also summoned from the villains' universes by Strange's spell and are nicknamed 'Peter-Two' and 'Peter-Three'.,84f3e1139da54dd6a160da8691751b09,4
+peter-one,peter-two,encouraged each other while mourning May and dealing with villains in their respective universes. They shared stories of losing loved ones and developed cures for the villains to lure them to the Statue of Liberty.,83c765d4f4074ed2a3f1c2448a701fee,4
+peter-one,connors,"Cured by alternate Peter, Connors was helped to heal in this universe by Peter-One and Peter-Two.",83c765d4f4074ed2a3f1c2448a701fee,4
+peter-one,marko,"Cured by alternate Peter, Marko was helped to heal to this universe by Peter-One and Peter-Two.",83c765d4f4074ed2a3f1c2448a701fee,4
+octavius,dillon,Helped cure Dillon at the Statue of Liberty while lured by alternate Peter's cures.,83c765d4f4074ed2a3f1c2448a701fee,4
+ned,strange,"Accidentally freed Strange from the Mirror Dimension, causing chaos in multiple universes.",83c765d4f4074ed2a3f1c2448a701fee,4
+goblin,peter-one,"Wanted to kill Peter-One out of grief for May and was stopped by alternate Peter. However, the Goblin stabbed Peter-Two during the fight.",83c765d4f4074ed2a3f1c2448a701fee,4
+strange,goblin,"Attempted to hold off invading universes while Peter-One tried to kill the Goblin. Strange cast a spell to erase Peter's memory from everyone, promising MJ and Ned that he would find them again.",83c765d4f4074ed2a3f1c2448a701fee,4
+brock,venom symbiote,"Left behind a piece of the symbiote in this universe while returning to his own. Eddie Brock, unaware, left it behind.",83c765d4f4074ed2a3f1c2448a701fee,4
+spider-man,peter parker,Spider-Man is the superhero alter ego of Peter Parker.,518fc0f9abfd4788b67ee39f48e306ff,4
+peter parker,mj,"Peter Parker had a relationship with MJ, but he decides against reintroducing himself to her and Ned.",518fc0f9abfd4788b67ee39f48e306ff,4
+spider-man,new york city,Spider-Man vigilantly protects the people of New York City from harm.,518fc0f9abfd4788b67ee39f48e306ff,4
+may's grave,peter parker,"While mourning at May's grave, Peter Parker reflects on his life and finds inspiration to carry on.",518fc0f9abfd4788b67ee39f48e306ff,4
+hogan,peter parker,"At May's grave, Hogan encourages Peter Parker to continue his heroic actions as Spider-Man.",518fc0f9abfd4788b67ee39f48e306ff,4

@@ -1,0 +1,30 @@
+node_1,node_2,edge,chunk_id,count
+satyam shivam sundaram,laxmikant-pyarelal,The music of the movie 'Satyam Shivam Sundaram' is composed by Laxmikant-Pyarelal.,9b57f6bda392426bac851610da926b2a,4
+satyam shivam sundaram,studio album,The movie 'Satyam Shivam Sundaram' has a studio album named after it.,9b57f6bda392426bac851610da926b2a,4
+laxmikant-pyarelal,badalte rishtey,The music composers Laxmikant-Pyarelal also composed the music for the movie 'Badalte Rishtey'.,9b57f6bda392426bac851610da926b2a,4
+satyam shivam sundaram,raj kapoor,"The lead character in the movie, portrayed by Raj Kapoor",ac52f2df0ace4357b7f00dc3a0abb258,4
+satyam shivam sundaram,lata mangeshkar,The iconic singer Lata Mangeshkar lent her voice to the main theme song of the movie,ac52f2df0ace4357b7f00dc3a0abb258,4
+satyam shivam sundaram,laxmikant pyarelal,The Music Directors Laxmikant Pyarelal won the Filmfare Best Music Director Award for their work in this movie,ac52f2df0ace4357b7f00dc3a0abb258,4
+chanchal sheetal nirmal komal,mukesh,The late singer Mukesh gave his final performance for this song before his untimely demise,ac52f2df0ace4357b7f00dc3a0abb258,4
+satyam shivam sundaram,yashomati maiya se,"A popular song from the movie, listed at #6 on Binaca Geetmala annual list 1977",ac52f2df0ace4357b7f00dc3a0abb258,4
+satyam shivam sundaram,chanchal sheetal nirmal komal,"Another hit song from the movie, listed at #24 on Binaca Geetmala annual list 1978",ac52f2df0ace4357b7f00dc3a0abb258,4
+satyam shivam sundaram,raj kapoor,Dedicated to the late actor Mukesh by Raj Kapoor,ac52f2df0ace4357b7f00dc3a0abb258,4
+satyam shivam sundaram,soundtrack,"Satyam Shivam Sundaram is a Bollywood film released in 1978, and its soundtrack is still considered a shining example of melodious music by Rakesh Budhu of Planet Bollywood, who gave it 9 stars.",01004477af4f4aaf95bdf37907a25bf0,4
+rakesh budhu,planet bollywood,"Rakesh Budhu is a critic associated with Planet Bollywood, where he has given Satyam Shivam Sundaram's soundtrack 9 stars, calling it still a shining example of melodious music amidst L-P's many melody accomplishments.",01004477af4f4aaf95bdf37907a25bf0,4
+maiya se,satyam shivam sundaram,"Maiya Se is a song from the Bollywood film Satyam Shivam Sundaram, listed at #7 on Binaca Geetmala annual list 1978.",01004477af4f4aaf95bdf37907a25bf0,4
+chanchal sheetal nirmal komal,binaca geetmala annual list,Chanchal Sheetal Nirmal Komal is a song listed at #24 on Binaca Geetmala annual list 1978.,01004477af4f4aaf95bdf37907a25bf0,4
+song,singers,A song is performed by singers.,6cd94b43233045e8813481eddee188e0,4
+song,lyricist,A song has lyrics written by a lyricist.,6cd94b43233045e8813481eddee188e0,4
+song,time,A song is played for a certain duration of time.,6cd94b43233045e8813481eddee188e0,4
+"""satyam shivam sundaram""",lata mangeshkar,"The singer Lata Mangeshkar performs the song ""Satyam Shivam Sundaram""",6cd94b43233045e8813481eddee188e0,4
+"""bhor bhaye panghat pe""",lata mangeshkar,"The singer Lata Mangeshkar performs the song ""Bhor Bhaye Panghat Pe""",6cd94b43233045e8813481eddee188e0,4
+woh aurat hai too mehbooba,lata mangeshkar,"The singer Lata Mangeshkar performs the song ""Woh Aurat Hai Too Mehbooba""",6cd94b43233045e8813481eddee188e0,4
+chanchal sheetal nirmal komal,mukesh & chorus,"The singers Mukesh and chorus perform the song ""Chanchal Sheetal Nirmal Komal""",6cd94b43233045e8813481eddee188e0,4
+saiyan nikas gaye,lata mangeshkar,"The singer Lata Mangeshkar performs the song ""Saiyan Nikas Gaye"" along with Bhupinder Singh.",6cd94b43233045e8813481eddee188e0,4
+vitalbhai patel,4:45,"The duration of the performance by singer(s) is 4:45, dedicated to Vitalbhai Patel.",6cd94b43233045e8813481eddee188e0,4
+"""suni jo unke aane ki aahat""",lata mangeshkar,"The singer Lata Mangeshkar performs the song ""Suni Jo Unke Aane Ki Aahat""",6cd94b43233045e8813481eddee188e0,4
+"""satyam shivam sundaram""",pandit narendra sharma,"The lyrics of the song ""Satyam Shivam Sundaram"" are written by Pandit Narendra Sharma.",6cd94b43233045e8813481eddee188e0,4
+yashomati maiya se bole nandlala,"lata mangeshkar, nitin mukesh","The singers Lata Mangeshkar and Nitin Mukesh perform the song ""Yashomati Maiya Se Bole Nandlala""",6cd94b43233045e8813481eddee188e0,4
+yashomati maiya se bole nandlala,lata mangeshkar,"The singer Lata Mangeshkar performs the song ""Yashomati Maiya Se Bole Nandlala""",6cd94b43233045e8813481eddee188e0,4
+shree radha mohan shyam shobhan,"lata mangeshkar, manna dey & chorus","The singers Lata Mangeshkar, Manna Dey and chorus perform the song ""Shree Radha Mohan Shyam Shobhan""",6cd94b43233045e8813481eddee188e0,4
+shri radhamohan,manna dey,"The singer Manna Dey performs the song ""Shri Radhamohan""",6cd94b43233045e8813481eddee188e0,4

@@ -1,0 +1,32 @@
+node_1,node_2,edge,chunk_id,count
+anton chigurh,sheriff's deputy,strangled by Chigurh while escaping from custody,f1acca48110d4dd4a706c3e27c7da062,4
+anton chigurh,captive bolt pistol,used by Chigurh to kill driver and steal car,f1acca48110d4dd4a706c3e27c7da062,4
+llewelyn moss,pronghorns,Moss is hunting pronghorns in the desert,f1acca48110d4dd4a706c3e27c7da062,4
+llewelyn moss,drug deal gone wrong,Moss comes across the aftermath of a drug deal gone wrong,f1acca48110d4dd4a706c3e27c7da062,4
+llewelyn moss,dead men,Moss finds several dead men in the aftermath of the drug deal gone wrong,f1acca48110d4dd4a706c3e27c7da062,4
+llewelyn moss,wounded mexican man,Moss finds a wounded Mexican man begging for water in the aftermath of the drug deal gone wrong,f1acca48110d4dd4a706c3e27c7da062,4
+llewelyn moss,truck,Moss finds a truck containing drugs in the aftermath of the drug deal gone wrong,f1acca48110d4dd4a706c3e27c7da062,4
+briefcase,$2 million in cash,The briefcase contains $2 million in cash that Moss finds in the aftermath of the drug deal gone wrong,f1acca48110d4dd4a706c3e27c7da062,4
+llewelyn moss,carla jean,"Moss sends his wife, Carla Jean, to stay with her mother",f1acca48110d4dd4a706c3e27c7da062,4
+two men with guns,river,"Moss escapes into a river, shooting the men's dog as it chases him",f1acca48110d4dd4a706c3e27c7da062,4
+chigurh,moss,"hired to recover missing money, Chigurh searches Moss' trailer home using his bolt pistol to blow out the door lock",bb327eae4ced4a7380df05e5fd38f8d1,4
+moss,del rio motel,takes a taxi to a motel in Del Rio and hides the briefcase in his room's air duct,bb327eae4ced4a7380df05e5fd38f8d1,4
+chigurh,moss' motel,goes to Moss' motel and kills a group of Mexicans following a tracking device hidden in the case,bb327eae4ced4a7380df05e5fd38f8d1,4
+moss,del rio motel,retrieves the briefcase before Chigurh opens the duct,bb327eae4ced4a7380df05e5fd38f8d1,4
+moss,hotel in eagle pass,moves to a hotel in the border town of Eagle Pass,bb327eae4ced4a7380df05e5fd38f8d1,4
+chigurh,moss,"firefight spills onto the streets, badly wounding both and killing a truck driver in Eagle Pass",bb327eae4ced4a7380df05e5fd38f8d1,4
+carson wells,moss,"offers Moss protection in exchange for the money, but he refuses",bb327eae4ced4a7380df05e5fd38f8d1,4
+chigurh,wells,ambushes Wells at his hotel and shoots him while bartering for his life,bb327eae4ced4a7380df05e5fd38f8d1,4
+moss,rio grande,hides the case along the Rio Grande,bb327eae4ced4a7380df05e5fd38f8d1,4
+chigurh,carla jean,vows to kill Carla Jean unless Moss gives up the money via phone call,bb327eae4ced4a7380df05e5fd38f8d1,4
+moss,carla jean,"Moss retrieves the case from the Rio Grande and arranges to meet Carla Jean at a motel in El Paso, where he plans to give her the money and hide her from danger.",cc31b49a2aef4503979c6b8afbc803b8,4
+carla jean,moss' location,"Bell reaches the motel in El Paso, only to find that the Mexicans have killed Moss. Carla Jean arrives later and bursts into tears when Bell somberly removes his hat.",cc31b49a2aef4503979c6b8afbc803b8,4
+carla jean's mother,group of mexicans tailing them,"Bell's thoughts: Bell thinks that Chigurh is hiding, but when Bell hesitantly enters, he finds the room empty. Later, Bell visits his cousin Ellis and tells him he plans to retire because he feels overmatched by the recent violence.",cc31b49a2aef4503979c6b8afbc803b8,4
+carla jean,chigurh,"Chigurh waits in the bedroom. Chigurh says he must fulfill his vow, but offers a coin toss as a compromise. Carla Jean refuses to call it, saying that he will be responsible for her fate.",cc31b49a2aef4503979c6b8afbc803b8,4
+chigurh,bell,"Carla Jean returns from her mother's funeral to find Chigurh waiting in the bedroom. As he drives through the neighborhood, another car crashes into him, breaking his arm.",cc31b49a2aef4503979c6b8afbc803b8,4
+chigurh,passing boy,Chigurh asks a passing boy for a shirt to use as a sling and flees on foot.,cc31b49a2aef4503979c6b8afbc803b8,4
+retirement,bell,Bell has retired from his previous occupation.,2357c5d9390841938ff26b709a8f4055,4
+bell,father,Bell's father is still alive and has given him some money.,2357c5d9390841938ff26b709a8f4055,4
+money,bell,Bell lost some money that his father had given him in his dreams.,2357c5d9390841938ff26b709a8f4055,4
+pass,bell,"In Bell's dream, he rode through a snowy mountain pass.",2357c5d9390841938ff26b709a8f4055,4
+father,campfire,"In Bell's dream, his father rode past him to prepare a campfire ahead.",2357c5d9390841938ff26b709a8f4055,4

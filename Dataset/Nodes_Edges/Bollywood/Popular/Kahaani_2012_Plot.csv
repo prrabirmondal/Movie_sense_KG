@@ -1,0 +1,31 @@
+node_1,node_2,edge,chunk_id,count
+poison-gas attack,kolkata metro rail compartment,kills the passengers on board,3905ecd9ad114e2ab649274c424e2be0,4
+vidya bagchi,arnab bagchi,husband missing in Kolkata during Durga Puja festivities,3905ecd9ad114e2ab649274c424e2be0,4
+satyoki 'rana' sinha,vidya bagchi,offers to help in search for husband,3905ecd9ad114e2ab649274c424e2be0,4
+national data center (ndc),arnab bagchi,"employed by NDC, initially investigated",3905ecd9ad114e2ab649274c424e2be0,4
+agnes d'mello,national data center (ndc),head of human resources,3905ecd9ad114e2ab649274c424e2be0,4
+bob biswas,agnes d'mello,"assassin working undercover as a life insurance agent, kills Agnes",3905ecd9ad114e2ab649274c424e2be0,4
+damji's file,national data center (ndc),found by Vidya and Rana in NDC office,3905ecd9ad114e2ab649274c424e2be0,4
+bhaskaran k.,intelligence bureau officials,chief of Intelligence Bureau officials in Delhi,3905ecd9ad114e2ab649274c424e2be0,4
+khan,intelligence bureau officials,deputy of Intelligence Bureau officials in Delhi,3905ecd9ad114e2ab649274c424e2be0,4
+damji,rogue ib agent,"responsible for poison gas attack, revealed by Khan's arrival in Kolkata",3905ecd9ad114e2ab649274c424e2be0,4
+damji,ib agent,Damji was a rogue IB agent responsible for the poison gas attack.,fc64995523f743a9a520abbc90265f11,4
+damji,vidya,"Despite Khan's warnings, Vidya continues her search, fearing that Arnab's resemblance to Damji may have led him into trouble.",fc64995523f743a9a520abbc90265f11,4
+damji,sridhar,"An errand boy from the neighbourhood tea stall identifies R. Sridhar, an NDC officer, as a frequent visitor to Damji's flat.",fc64995523f743a9a520abbc90265f11,4
+damji,bob,"Bob attempts, but fails, to kill Vidya and is soon run over by a truck during a chase.",fc64995523f743a9a520abbc90265f11,4
+damji,vidya,"Vidya accidentally kills Sridhar during a scuffle, which upsets Khan, who had wanted him alive.",fc64995523f743a9a520abbc90265f11,4
+sridhar,computer data,"Sridhar's computer data reveals a code, which when deciphered reveals Bhaskaran's phone number.",fc64995523f743a9a520abbc90265f11,4
+bhaskaran,documents,"Vidya calls Bhaskaran to tell him that she has retrieved sensitive documents from Sridhar's office. She asks Bhaskaran to help find her husband in exchange for the documents, but Bhaskaran tells her to contact the local police.",fc64995523f743a9a520abbc90265f11,4
+unknown number,vidya,"Vidya soon gets a call from an unknown number, warning her that she should hand over the documents to the caller if she wishes to see her husband alive.",fc64995523f743a9a520abbc90265f11,4
+damji,khan,Khan thinks the caller is Damji.,fc64995523f743a9a520abbc90265f11,4
+vidya,rana,followed by Rana and Khan.,5a01c33c281547938de0134ef50ffdaf,4
+damji,vidya,"cuts the meeting short when Vidya expresses her doubt that he will be able to return her husband in exchange for the sensitive file, and he attempts to leave.",5a01c33c281547938de0134ef50ffdaf,4
+damji,vidya,"in the ensuing struggle, Damji draws a gun on her.",5a01c33c281547938de0134ef50ffdaf,4
+vidya,damji,disarms him using the prosthetic belly she has been using to fake her pregnancy and promptly stabbing him in the neck with her hairstick before finally killing him with his own gun.,5a01c33c281547938de0134ef50ffdaf,4
+vidya,rana,"leaves before the police arrive, leaving a thank-you note for Rana and a pen drive containing data from Sridhar's computer, which leads to Bhaskaran's arrest.",5a01c33c281547938de0134ef50ffdaf,4
+arnab bagchi,vidya,neither Vidya nor Arnab Bagchi ever existed,5a01c33c281547938de0134ef50ffdaf,4
+vidya,arup basu,"widow of Major Arup Basu, an IB and Army officer and Damji's colleague,",5a01c33c281547938de0134ef50ffdaf,4
+damji,major arup basu,Damji's colleague.,5a01c33c281547938de0134ef50ffdaf,4
+vidya,arup basu,"major arup basu, an ib and army officer and damji's colleague,",5a01c33c281547938de0134ef50ffdaf,4
+vidya,damji,causes vidya to immediately fall unconscious upon seeing her husband's corpse and suffer a miscarriage.,5a01c33c281547938de0134ef50ffdaf,4
+col. pratap bajpayee,damji,"retired ib officer, who suspected the involvement of a top ib official.",5a01c33c281547938de0134ef50ffdaf,4

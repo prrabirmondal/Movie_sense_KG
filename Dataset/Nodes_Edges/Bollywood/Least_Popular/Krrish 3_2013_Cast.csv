@@ -1,0 +1,27 @@
+node_1,node_2,edge,chunk_id,count
+krishna mehra,rohit mehra,Krishna Mehra is Rohit's son,71c60d0d147546f8b5a66c721e1afd24,4
+krishna mehra,krrish,"Krishna Mehra moonlights as Krrish, a superhero",71c60d0d147546f8b5a66c721e1afd24,4
+priya mehra,krishna mehra,Priya Mehra is Krishna's wife,71c60d0d147546f8b5a66c721e1afd24,4
+priya mehra,krrish,Krishna's wife Priya Mehra transforms into Krrish for a mission,71c60d0d147546f8b5a66c721e1afd24,4
+kaya,kaal,"Kaya, Kaal's secretary and girlfriend, is created by fusing the serum of a woman and a chameleon",71c60d0d147546f8b5a66c721e1afd24,4
+kaya,krishna,Kaya falls in love with Krishna after shapeshifting into Priya,71c60d0d147546f8b5a66c721e1afd24,4
+kaal,krishna,"Kaal, the main antagonist, and Krishna have a rivalry",71c60d0d147546f8b5a66c721e1afd24,4
+dr. varun shetty,rohit mehra,Rohit's scientist friend Dr. Varun Shetty,71c60d0d147546f8b5a66c721e1afd24,4
+dr. alok sen,kaal pharmaceuticals,Scientist working at Kaal Pharmaceuticals Dr. Alok Sen,71c60d0d147546f8b5a66c721e1afd24,4
+kripal sharma,krishna,Krishna's friend and co-worker Kripal Sharma,71c60d0d147546f8b5a66c721e1afd24,4
+sharma's wife,kripal sharma,Sharma's wife is married to Krishna's friend Kripal Sharma,71c60d0d147546f8b5a66c721e1afd24,4
+striker|frogman,none,Mutant Striker|Frogman does not have a direct relation with any other character,71c60d0d147546f8b5a66c721e1afd24,4
+cheetah woman,none,Mutant Cheetah Woman does not have a direct relation with any other character,71c60d0d147546f8b5a66c721e1afd24,4
+ant man,none,Mutant Ant Man does not have a direct relation with any other character,71c60d0d147546f8b5a66c721e1afd24,4
+scorpion woman,none,Mutant Scorpion Woman does not have a direct relation with any other character,71c60d0d147546f8b5a66c721e1afd24,4
+rhino man,none,Mutant Rhino Man does not have a direct relation with any other character,71c60d0d147546f8b5a66c721e1afd24,4
+vineet sharma,air india aircraft,Pilot Vineet Sharma of Air India aircraft,71c60d0d147546f8b5a66c721e1afd24,4
+chief minister of maharashtra,none,Special appearance by Chief minister of Maharashtra (Sachin Khedekar),71c60d0d147546f8b5a66c721e1afd24,4
+danniel kaleb,rhino man,"In this context, 'Danniel Kaleb' and 'Rhino Man' refer to the same character portrayed by an actor. This could suggest a synonym or alias relationship between the two terms.",711bd531b6794eeaa82ed93783d8066a,4
+vineet sharma,pilot of air india aircraft,"In this context, 'Vineet Sharma' and 'Pilot of Air India aircraft' are related as the former is playing the role of the latter.",711bd531b6794eeaa82ed93783d8066a,4
+sachin khedekar,chief minister of maharashtra (special appearance),"In this context, 'Sachin Khedekar' is appearing in a special role as the 'Chief minister of Maharashtra'. This relationship could be seen as an instance-of or part-of relationship between the two terms.",711bd531b6794eeaa82ed93783d8066a,4
+naseeruddin shah,dr. siddhant arya (special appearance),"In this context, 'Naseeruddin Shah' is making a special appearance as 'Dr. Siddhant Arya'. This relationship could be seen as an instance-of or part-of relationship between the two terms.",711bd531b6794eeaa82ed93783d8066a,4
+mohnish behl,kaal's adoptive father (special appearance),"In this context, 'Mohnish Behl' is appearing in a special role as 'Kaal's adoptive father'. This relationship could be seen as an instance-of or part-of relationship between the two terms.",711bd531b6794eeaa82ed93783d8066a,4
+raju kher,scientist in kaal's lab,"In this context, 'Raju Kher' is playing the role of a scientist working in 'Kaal's lab'. This relationship could be seen as an instance-of or part-of relationship between the two terms.",711bd531b6794eeaa82ed93783d8066a,4
+rekha,sonia mehra (flashback scenes),"In this context, 'Rekha' is appearing in flashback scenes as 'Sonia Mehra'. This relationship could be seen as an instance-of or part-of relationship between the two terms.",711bd531b6794eeaa82ed93783d8066a,4
+preity zinta,nisha (flashback scenes),"In this context, 'Preity Zinta' is appearing in flashback scenes as 'Nisha'. This relationship could be seen as an instance-of or part-of relationship between the two terms.",711bd531b6794eeaa82ed93783d8066a,4

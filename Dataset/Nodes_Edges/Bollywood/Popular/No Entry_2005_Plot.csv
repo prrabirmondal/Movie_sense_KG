@@ -1,0 +1,15 @@
+node_1,node_2,edge,chunk_id,count
+kishan,kajal,"married to each other, Kishan is faithful to Kajal, but she suspects him of having an affair with another woman",74523fc803b24e3cba727e53bbd4a938,4
+prem,pooja,"married to each other, Prem has many affairs with other girls despite Pooja's trusting nature",74523fc803b24e3cba727e53bbd4a938,4
+shekhar,sanjana,"accidentally falls in love with Sanjana, who hates lies and doesn't tolerate other women in a man's life",74523fc803b24e3cba727e53bbd4a938,4
+bobby,kishan,"accidentally meets at Kishan's home, Bobby is sent by Prem to seduce Kishan, Kishan thinks Bobby is Shekhar's wife",74523fc803b24e3cba727e53bbd4a938,4
+bobby,shekhar,"introduced as Shekhar's wife by Kishan, Sanjana thinks Bobby is Kishan's wife",74523fc803b24e3cba727e53bbd4a938,4
+prem,bobby,"was Prem's first wife to save his friends' marriages, Prem tells this to Sanjana and Kajal",74523fc803b24e3cba727e53bbd4a938,4
+kishan,prem,friendship,1cd2d3d3e7404a7f83b28a57a9fdc715,4
+shekhar,kishan,friendship,1cd2d3d3e7404a7f83b28a57a9fdc715,4
+shekhar,prem,friendship,1cd2d3d3e7404a7f83b28a57a9fdc715,4
+sameera reddy,kishan,interaction,1cd2d3d3e7404a7f83b28a57a9fdc715,4
+sameera reddy,prem,interaction,1cd2d3d3e7404a7f83b28a57a9fdc715,4
+sameera reddy,shekhar,interaction,1cd2d3d3e7404a7f83b28a57a9fdc715,4
+"kishan, prem, and shekhar",apparent change in behavior,seemingly turn over a new leaf,1cd2d3d3e7404a7f83b28a57a9fdc715,4
+sameera reddy,"kishan, prem, and shekhar",potential role in uncovering true nature of the friends,1cd2d3d3e7404a7f83b28a57a9fdc715,4

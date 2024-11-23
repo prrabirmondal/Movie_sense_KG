@@ -1,0 +1,72 @@
+node_1,node_2,edge,chunk_id,count
+movies,details,MOVIES have DETAILS associated with them.,1d5eae10536d481696accb3a8bb372f1,4
+summary,details,Each MOVIE has a SUMMARY that is part of its DETAILS.,1d5eae10536d481696accb3a8bb372f1,4
+baywatch,mitch buchannon,"Baywatch is a 2017 American action comedy film directed by Seth Gordon, with Mitch Buchannon as the lead character in this movie based on the television series of the same name.",0441afdd08a348339f22de08dfd38712,4
+mitch buchannon,baywatch lifeguard division,"Mitch Buchannon is a beloved member of an elite lifeguard division known as Baywatch, which protects the beaches and the bay.",0441afdd08a348339f22de08dfd38712,4
+stephanie holden,baywatch team,"Stephanie Holden is a part of the elite lifeguard division known as Baywatch, which includes Mitch Buchannon and veteran C. J. Parker.",0441afdd08a348339f22de08dfd38712,4
+c. j. parker,baywatch team,"Veteran C. J. Parker is a part of the elite lifeguard division known as Baywatch, which includes Mitch Buchannon and Stephanie Holden.",0441afdd08a348339f22de08dfd38712,4
+garner ellerbee,opposed to baywatch team,Jealous beat cop Garner Ellerbee is opposed to the elite lifeguard division known as Baywatch.,0441afdd08a348339f22de08dfd38712,4
+captain thorpe,baywatch team's superior,"Captain Thorpe is the superior of the elite lifeguard division known as Baywatch, which includes Mitch Buchannon and Stephanie Holden.",0441afdd08a348339f22de08dfd38712,4
+victoria leeds,baywatch,"In Emerald Bay, Florida, Lt. Mitch Buchannon finds a small pouch of flakka near the Huntley Club owned by powerful businesswoman Victoria Leeds.",0441afdd08a348339f22de08dfd38712,4
+matt brody,mitch buchannon's colleague,"Later, Mitch meets Matt Brody, who is his colleague in this movie.",0441afdd08a348339f22de08dfd38712,4
+patrol,baywatch team,"The context involves a scene where Mitch is on patrol and he meets Matt Brody, who later joins the Baywatch team.",84d9f34445634ac4a4bf04cbde844320,4
+mitch,victoria leeds,"Mitch finds a small pouch of flakka near the Huntley Club, owned by Victoria Leeds.",84d9f34445634ac4a4bf04cbde844320,4
+victoria leeds,drugs,The context suggests that drugs are being retrieved from barrels of fish at the Huntley Club owned by Victoria Leeds.,84d9f34445634ac4a4bf04cbde844320,4
+mitch,rodriguez,Mitch and his team continue to investigate Rodriguez's murder.,84d9f34445634ac4a4bf04cbde844320,4
+rodriguez,dead body,Another dead body is found on the beach.,84d9f34445634ac4a4bf04cbde844320,4
+ellerbee,leeds' henchmen,"Mitch and his team hide and take a video of Leeds' henchmen planting an autopsy report to cover up Rodriguez's murder, but are discovered and the recording is destroyed.",84d9f34445634ac4a4bf04cbde844320,4
+leeds,drugs,The context suggests that drugs are being retrieved from barrels of fish at the Huntley Club owned by Victoria Leeds.,84d9f34445634ac4a4bf04cbde844320,4
+brody,baywatch team,"Mitch and Brody compete in a variety of physical tests, which Mitch wins. As the course is ending, a mom and her two kids fall into the water and the lifeguards and Brody rush to save them.",84d9f34445634ac4a4bf04cbde844320,4
+brody,olympic gold medal-winning swimmer,"Mitch meets Matt Brody, an entitled Olympic gold medal-winning swimmer who expects to make the Baywatch team without trying out.",84d9f34445634ac4a4bf04cbde844320,4
+leeds,powerful businesswoman,"The context involves a scene where Mitch finds a small pouch of flakka near the Huntley Club, owned by Victoria Leeds.",84d9f34445634ac4a4bf04cbde844320,4
+thorpe,mitch,"Thorpe fires Mitch, naming Brody the new lieutenant.",84d9f34445634ac4a4bf04cbde844320,4
+brody,sand grifters,Brody later sees 'sand grifters (beach thieves)' steal bags using a cooler. He orders them off the beach.,84d9f34445634ac4a4bf04cbde844320,4
+thorpe,mitch's desertion,"Enraged that Mitch deserted his post, Thorpe fires him.",84d9f34445634ac4a4bf04cbde844320,4
+brody,sand grifters (beach thieves),Orders them off the beach after witnessing their theft using a cooler.,32f30f824d1a431ea2e36e28dac87d9c,4
+brody,another pouch of flakka,Finds it on the beach and uses a cooler to steal the second victim's report from Ellerbee's desk.,32f30f824d1a431ea2e36e28dac87d9c,4
+summer,the second victim's report,Confirms that the man was killed by knife instead of a shark attack after receiving it from Brody.,32f30f824d1a431ea2e36e28dac87d9c,4
+ronnie,dave (brody's friend),Recognizes him as his friend and realizes that Mitch was right about the Huntley after seeing him working for Ellerbee.,32f30f824d1a431ea2e36e28dac87d9c,4
+leeds,dave (brody's friend),Uses the hull to smuggle drugs and bribes Thorpe to replace Mitch with Brody before pushing him into a bait cage.,32f30f824d1a431ea2e36e28dac87d9c,4
+leeds,mitch,Gloats about her plan to privatize the entire beach after capturing Brody and pushing him into a bait cage.,32f30f824d1a431ea2e36e28dac87d9c,4
+summer,brody,"Swims to him and gives him mouth-to-mouth resuscitation after he hallucinates that she is Mitch. However, Brody realizes that it's a hallucination.",32f30f824d1a431ea2e36e28dac87d9c,4
+mitch,leeds,Catches up to her before she can escape on a helicopter after discovering that she's been using the hull to smuggle drugs.,32f30f824d1a431ea2e36e28dac87d9c,4
+mitch,thorpe,Punches him in the face and gets him arrested for his role in Leeds' plan after he berates Mitch for returning to the beach.,32f30f824d1a431ea2e36e28dac87d9c,4
+ellerbee,leeds' henchmen,Takes them into custody after they capture Brody.,32f30f824d1a431ea2e36e28dac87d9c,4
+thorpe,william richardson,Dies shortly after as a result of Thorpe's actions.,32f30f824d1a431ea2e36e28dac87d9c,4
+baywatch movie,dwayne johnson (star),"announced in 2004 but stuck in development hell over the years with several writers penning drafts. In October 2014, Dwayne Johnson was attached to star in the lead role and Justin Malen was set to rewrite the script.",19aaace628a64494a821866b1c8ff2df,4
+seth gordon,baywatch movie (director),replaced Sean Anders as director in July 2015,19aaace628a64494a821866b1c8ff2df,4
+damian shannon and mark swift,baywatch movie (screenwriters),"wrote the latest draft, and the film would be comedic in style.",19aaace628a64494a821866b1c8ff2df,4
+beau flynn and ivan reitman,baywatch movie (producers),"joined to produce with Johnson's Seven Bucks Productions on August 10, 2015",19aaace628a64494a821866b1c8ff2df,4
+alexandra daddario,baywatch movie (lead female role),"short list testing for the lead female role as of November 9, 2015",19aaace628a64494a821866b1c8ff2df,4
+kelly rohrbach,c. j. parker,"cast as C. J. Parker on January 4, 2016",19aaace628a64494a821866b1c8ff2df,4
+kelly rohrbach,c. j. parker,Kelly Rohrbach's casting as C. J. Parker was confirmed by Johnson's Instagram post.,571bc467ccf746a6a41b95becf59e829,4
+johnson,dany garcia,"Johnson's partner Dany Garcia, through their Seven Bucks Productions,",571bc467ccf746a6a41b95becf59e829,4
+damian shannon,mark swift,"Damian Shannon and Mark Swift wrote the screenplay,",571bc467ccf746a6a41b95becf59e829,4
+ilfenesh hadera,johnson's love interest,"On January 20, 2016, Johnson again posted on his Instagram about casting Ilfenesh Hadera as Johnson's love interest.",571bc467ccf746a6a41b95becf59e829,4
+jon bass,ronnie,"Bass was cast in the film to play Ronnie, a funny, awkward, and skilled disco dancer at the beach,",571bc467ccf746a6a41b95becf59e829,4
+hannibal buress,community local,"On February 12, 2016, Hannibal Buress joined the cast of the film to play a bay community local.",571bc467ccf746a6a41b95becf59e829,4
+priyanka chopra,antagonist,"On February 17, 2016, Priyanka Chopra signed on to star as the antagonist in the film.",571bc467ccf746a6a41b95becf59e829,4
+yahya abdul-mateen ii,ellerbee,"In March 2016, Yahya Abdul-Mateen II joined the cast as Ellerbee, a police officer who is constantly reminding Mitch that being a lifeguard, he has no actual jurisdiction on the beach.",571bc467ccf746a6a41b95becf59e829,4
+baywatch,deerfield beach,"Principal photography on the film Baywatch began in Deerfield Beach, Florida.",64005009cbce49a3aa8f45d2ad024fb8,4
+baywatch,miami,The film was shot in Miami.,64005009cbce49a3aa8f45d2ad024fb8,4
+baywatch,"savannah, georgia","The film was shot in Savannah, Georgia.",64005009cbce49a3aa8f45d2ad024fb8,4
+terminator genisys,baywatch,"In January 2016, Paramount Pictures scheduled Baywatch for a May 19, 2017 release, which was originally scheduled for a sequel to Terminator Genisys.",64005009cbce49a3aa8f45d2ad024fb8,4
+baywatch,alien: covenant,"In December 2016, Paramount pushed the release date back one week to May 26, 2017, to avoid competition with Alien: Covenant.",64005009cbce49a3aa8f45d2ad024fb8,4
+baywatch,pirates of the caribbean: dead men tell no tales,"In April 2017, the film was moved one day earlier, to avoid direct competition with Pirates of the Caribbean: Dead Men Tell No Tales.",64005009cbce49a3aa8f45d2ad024fb8,4
+baywatch,digital hd,"Baywatch was released on Digital HD on August 15, 2017.",64005009cbce49a3aa8f45d2ad024fb8,4
+baywatch,blu-ray and dvd,"Baywatch was released on Blu-ray and DVD on August 29, 2017.",64005009cbce49a3aa8f45d2ad024fb8,4
+baywatch,critics',"receives largely unfavorable reviews from, with an average score of 37 out of 100 on Metacritic and a Rotten Tomatoes rating of 17% based on 246 reviews.",174682ef68d242998782885fd970225b,4
+baywatch,audiences',"gave the film an average grade of 'B+' on an A+ to F scale according to CinemaScore, while PostTrak reported overall positive score of 76%.",174682ef68d242998782885fd970225b,4
+baywatch,dwayne johnson',responded to critics' reviews by saying that the film was made for fans.,174682ef68d242998782885fd970225b,4
+baywatch,junk tv adaptation,"according to Richard Roeper from Chicago Sun-Times, who compared it to other poorly received adaptations of television shows in his review",4708888f38bc4c62945e348d5ad149a3,4
+baywatch,entertainment value,"according to Owen Gleiberman from Variety, who called it 'stupidly entertaining... for a while'",4708888f38bc4c62945e348d5ad149a3,4
+baywatch,critics' reviews,Dwayne Johnson responded to critics' reviews in relation to the film's reception,4708888f38bc4c62945e348d5ad149a3,4
+baywatch,fans' love,Dwayne Johnson also mentioned fans' love for the film while responding to critics' reviews,4708888f38bc4c62945e348d5ad149a3,4
+rolling stone,critical review,"Peter Travers' critical review of Baywatch, which focused on the 'easy rapport' between the lead actors",4708888f38bc4c62945e348d5ad149a3,4
+usa today,review,"Brian Truitt's review of Baywatch, where he stated that the film yearned to be both a sendup farce and a straight action film",4708888f38bc4c62945e348d5ad149a3,4
+junk movie,sequel,"In May 2017, producer Beau Flynn revealed plans for a sequel were in development.",c4b2da782aef49e7a51557b5f41dc8f8,4
+junk movie,titular team's adventures,The plot would revolve around the titular team's adventures overseas.,c4b2da782aef49e7a51557b5f41dc8f8,4
+sequel,co-screenwriters,"Damian Shannon and Mark Swift were stated to be returning to their roles as co-screenwriters,",c4b2da782aef49e7a51557b5f41dc8f8,4
+junk movie,dwayne johnson,"Dwayne Johnson entered early negotiations to reprise his role,",c4b2da782aef49e7a51557b5f41dc8f8,4
+junk movie,zac efron,"Zac Efron entered early negotiations to reprise his role,",c4b2da782aef49e7a51557b5f41dc8f8,4
+sequel,remaining cast,while the remaining cast were expected to also return in the potential sequel.,c4b2da782aef49e7a51557b5f41dc8f8,4

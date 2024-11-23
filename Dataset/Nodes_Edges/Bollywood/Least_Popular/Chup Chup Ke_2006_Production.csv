@@ -1,0 +1,4 @@
+node_1,node_2,edge,chunk_id,count
+gujarati house,film,"The text mentions 'HERE IS THE DETAILS OF MOVIE'S PRODUCTION:'. 'Gujarati House' is identified as the title of this movie. Hence, 'Gujarati House' and 'film' are related.",6e6714f960474b20be029ed38e29b9d4,4
+dileep,dubbing artiste,"The director wasn't satisfied with the voice for the dumb portions. As a result, Dileep turned dubbing artiste. This establishes that 'Dileep' and 'dubbing artiste' are related.",6e6714f960474b20be029ed38e29b9d4,4
+punjabi house,original film,"The text mentions Dileep as a star of the original film Punjabi House. Hence, 'Punjabi House' and 'original film' are related.",6e6714f960474b20be029ed38e29b9d4,4

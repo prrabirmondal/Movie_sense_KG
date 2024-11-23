@@ -1,0 +1,38 @@
+node_1,node_2,edge,chunk_id,count
+frankenstein,monster,"Frankenstein creates a monster by putting together parts of corpses and reanimating them. Horrified by his creation, Frankenstein tries to destroy it, but the monster survives and murders his wife Elizabeth. Frankenstein chases it to the Arctic, but he succumbs to the cold weather.",166cbc3b20d74fbcb4e86fef877ab67f,4
+monster,demons,"The monster's creation leads to the death of Frankenstein's wife Elizabeth. The monster is pursued by demons, but survives and eventually buries Frankenstein in the Arctic.",166cbc3b20d74fbcb4e86fef877ab67f,4
+adam,demon,"For the next two hundred years, Adam lives apart from society, killing any demon that pursues him and hiding from them. During the fight, a police officer is killed.",166cbc3b20d74fbcb4e86fef877ab67f,4
+adam,gargoyles,"Deciding to rejoin society in the modern-day, Adam looks for and confronts a group of demons. During the fight, a police officer is killed. This causes Adam to be summoned by the gargoyles once more and they decide to imprison him as punishment.",166cbc3b20d74fbcb4e86fef877ab67f,4
+adam,gargoyle queen leonore,"Leonore explains that they were created by the Archangel Michael to battle demons on Earth and protect humanity. She names the creature 'Adam' and invites him to join them, but he declines and chooses to depart.",166cbc3b20d74fbcb4e86fef877ab67f,4
+gargoyles,demons,The gargoyles were created by the Archangel Michael to battle demons on Earth and protect humanity. They invite Adam to join them in this mission.,166cbc3b20d74fbcb4e86fef877ab67f,4
+adam,baton-like weapons,"The gargoyles give Adam baton-like weapons to protect himself, as more demons will come after him. The weapons allow him to 'descend' demons (destroying their bodies and trapping their souls in Hell) as they have the symbol of the Gargoyle Order carved on them.",166cbc3b20d74fbcb4e86fef877ab67f,4
+officer,adam,causal relation,1af7e0402f40484984ff2498a285cc98,4
+adam,gargoyles,summoned by the gargoyles as punishment,1af7e0402f40484984ff2498a285cc98,4
+helek,naberius,"reports to his leader, the demon prince Naberius",1af7e0402f40484984ff2498a285cc98,4
+adam,wessex,disguised as billionaire businessman Charles Wessex,1af7e0402f40484984ff2498a285cc98,4
+terra wade,carl avery,employed by Naberius to conduct experiments,1af7e0402f40484984ff2498a285cc98,4
+demon prince naberius,helek,"his most formidable warrior, Zuriel",1af7e0402f40484984ff2498a285cc98,4
+gargoyles' cathedral,demon warriors,attack,1af7e0402f40484984ff2498a285cc98,4
+gargoyles' cathedral,leonore,captured,1af7e0402f40484984ff2498a285cc98,4
+gideon,adam,"trades Adam for Leonore, but Adam escapes after the attack",1af7e0402f40484984ff2498a285cc98,4
+frankenstein's journal,gideon,offers to trade for Leonore,1af7e0402f40484984ff2498a285cc98,4
+zuriel,leonore,takes Leonore to an abandoned theater,1af7e0402f40484984ff2498a285cc98,4
+wessex institute,adam,follows Zuriel to the Wessex Institute,1af7e0402f40484984ff2498a285cc98,4
+wessex institute,thousands of corpses underground,discovers thousands of corpses underground,1af7e0402f40484984ff2498a285cc98,4
+naberius,frankenstein's experiment,plans to recreate Frankenstein's experiment by reanimating the corpses and using them as hosts for the descended demons so he can rebuild his armies and destroy humanity,cb60a5d4325f4aa2beb3b32bd5026aab,4
+adam,terra,tracks down Terra and asks for her help,cb60a5d4325f4aa2beb3b32bd5026aab,4
+adam,zuriel,"attacked by Zuriel, where Adam fights him and manages to descend him",cb60a5d4325f4aa2beb3b32bd5026aab,4
+leonore,gargoyles,agrees to give them the journal if they get him and Terra to safety,cb60a5d4325f4aa2beb3b32bd5026aab,4
+gideon,adam,secrely sends Gideon to kill him after he retrieves the journal,cb60a5d4325f4aa2beb3b32bd5026aab,4
+adam,demon spirits,descended Naberius's right-hand man Dekar and then battles more demons,cb60a5d4325f4aa2beb3b32bd5026aab,4
+naberius,demon spirits,forces to begin the process of reanimating the corpses,cb60a5d4325f4aa2beb3b32bd5026aab,4
+adam,terra,"leads them to the Wessex Institute, where they descend Naberius's right-hand man Dekar and then battle more demons",cb60a5d4325f4aa2beb3b32bd5026aab,4
+naberius,adam,"overpowers Adam and tries to have one of the demon spirits possess him, but it doesn't work because Adam has developed a soul of his own",cb60a5d4325f4aa2beb3b32bd5026aab,4
+naberius,abbyss,"collapses and falls into an abyss, where all the demons and all the possessed corpses are destroyed and Naberius' plan is thwarted",cb60a5d4325f4aa2beb3b32bd5026aab,4
+leonore,gargoyles,luring them out of the cathedral,cb60a5d4325f4aa2beb3b32bd5026aab,4
+institute,abyss,"collapses and falls into, where all the demons and all the possessed corpses are destroyed and Naberius' plan is thwarted.",078eb1fee69f406abb45d2d950a5fe99,4
+leonore,institute,rescues Adam and Terra from falling into as well,078eb1fee69f406abb45d2d950a5fe99,4
+leonore,abyss,prevents them from falling into in the ending scene,078eb1fee69f406abb45d2d950a5fe99,4
+adam,gideon's death,Leonore forgives him for in the ending scene,078eb1fee69f406abb45d2d950a5fe99,4
+adam,terra,bids farewell to in the ending scene,078eb1fee69f406abb45d2d950a5fe99,4
+frankenstein,adam,declares himself in the ending scene,078eb1fee69f406abb45d2d950a5fe99,4

@@ -1,0 +1,25 @@
+node_1,node_2,edge,chunk_id,count
+chris washington,rose armitage,boyfriend and girlfriend,c0fd56d038f54885a092856d052f6237,4
+dean,missy,husband and wife,c0fd56d038f54885a092856d052f6237,4
+chris washington,dean,boyfriend meets husband of girlfriend,c0fd56d038f54885a092856d052f6237,4
+chris washington,missy,boyfriend meets wife of girlfriend,c0fd56d038f54885a092856d052f6237,4
+georgina,walter,black servants mentioned in context,c0fd56d038f54885a092856d052f6237,4
+chris washington,georgina,photographer meets black servant mentioned in context,c0fd56d038f54885a092856d052f6237,4
+chris washington,walter,photographer meets black servant mentioned in context,c0fd56d038f54885a092856d052f6237,4
+missy,chris washington,wife of girlfriend tries to hypnotize photographer mentioned in context,c0fd56d038f54885a092856d052f6237,4
+chris,wealthy white people,Feel uncomfortable with their remarks about him,a12d9bc366144b7db283a9d5ed0ca7f3,4
+chris,blind art dealer jim hudson,Takes an interest in Chris's photography,a12d9bc366144b7db283a9d5ed0ca7f3,4
+chris,black man logan king,Finds familiar,a12d9bc366144b7db283a9d5ed0ca7f3,4
+logan king,wealthy white woman thirty years his senior,Married to,a12d9bc366144b7db283a9d5ed0ca7f3,4
+logan king,chris,Behaves oddly and becomes hysterical when camera flash goes off,a12d9bc366144b7db283a9d5ed0ca7f3,4
+rose,chris,"Dates a black person, contradicting his claim that she's never dated a black person before",a12d9bc366144b7db283a9d5ed0ca7f3,4
+walter,rose,Has been in prior relationships with Rose,a12d9bc366144b7db283a9d5ed0ca7f3,4
+georgina,rose,Has been in prior relationships with Rose,a12d9bc366144b7db283a9d5ed0ca7f3,4
+rod williams,logan king (andre hayworth),Recognizes him as a missing person from Brooklyn,a12d9bc366144b7db283a9d5ed0ca7f3,4
+chris,hudson,explains transplanting brains to preferred physical characteristics; host's consciousness powerless in sunken place; only wants Chris's eyesight,e7315df69ed84230bcc8b454e922ddf7,4
+chris,rod,reported as missing person; police laughed him off due to fixation on sex trafficking,e7315df69ed84230bcc8b454e922ddf7,4
+missy,chris,hypnotic trigger; blocked by stuffing ears with cotton,e7315df69ed84230bcc8b454e922ddf7,4
+jeremy,chris,attacked Chris; killed by Chris,e7315df69ed84230bcc8b454e922ddf7,4
+dean,chris,killed by Chris,e7315df69ed84230bcc8b454e922ddf7,4
+georgina,chris,"hit by Chris while escaping; possessed by Rose's grandmother Marianne; attacked Chris, causing car crash and killing her",e7315df69ed84230bcc8b454e922ddf7,4
+rose,walter,possessed by Rose's grandfather Roman; apprehended Chris; Walter temporarily regained control of body and took Rose's rifle to shoot her and then himself,e7315df69ed84230bcc8b454e922ddf7,4

@@ -1,0 +1,19 @@
+node_1,node_2,edge,chunk_id,count
+chunni,makdee,"witch asks Chunni to strike a deal to turn her sister Munni back into a human, but in exchange, she has to acquire hundred hens for her.",fb08d58556e042c1b823a68d0b4dae96,4
+chunni,munni,"sisterly relationship between Chunni and Munni, Chunni fools the villagers by impersonating her sister Munni.",fb08d58556e042c1b823a68d0b4dae96,4
+chunni,kallu,"local butcher Kallu chases Munni to the haunted mansion, mistaking her for Chunni in a fit of rage.",fb08d58556e042c1b823a68d0b4dae96,4
+munni,haunted mansion,"Munni enters the haunted mansion after being chased by Kallu, and is presumed to have been turned into a hen by the witch.",fb08d58556e042c1b823a68d0b4dae96,4
+chunni,haunted mansion,Chunni enters the haunted mansion alone to search for her sister Munni.,fb08d58556e042c1b823a68d0b4dae96,4
+witch,haunted mansion,"the legend goes that a witch called Makdee resides in the haunted mansion, and whoever enters it comes out as an animal.",fb08d58556e042c1b823a68d0b4dae96,4
+chunni,villagers,"Chunni's credibility is at an all-time low, and the entire village refuses to believe her about her sister being turned into a hen.",fb08d58556e042c1b823a68d0b4dae96,4
+munni,hens,The witch asks Chunni to acquire hundred hens in exchange for turning Munni back into a human.,fb08d58556e042c1b823a68d0b4dae96,4
+munni,hundred hens,The witch asks Chunni to acquire hundred hens in exchange for turning Munni back into a human.,94024d46b2f84e4784efd8210ea55443,4
+chunni,the biggest challenge of her life,Chunni is confronted with the biggest challenge of her life when she has to acquire hundred hens for the witch in exchange for turning Munni back into a human.,94024d46b2f84e4784efd8210ea55443,4
+makdee,conwoman,"Makdee, who is actually a conwoman, abducts many children to dig up the place to find the treasure.",94024d46b2f84e4784efd8210ea55443,4
+village,treasure,Makdee has been looking for a treasure that has been hidden in the village.,94024d46b2f84e4784efd8210ea55443,4
+chunni,children,Chunni finds the treasure after Makdee abducts many children to dig up the place to find the treasure.,94024d46b2f84e4784efd8210ea55443,4
+kallu,makdee,"Kallu engages in a brief fight with Makdee when she tries to flee the village after trapping everyone, including the policemen.",94024d46b2f84e4784efd8210ea55443,4
+people,policemen,"As soon as Chunni finds the treasure, the conwoman traps everyone, including the policemen, in an attempt to flee the village.",94024d46b2f84e4784efd8210ea55443,4
+chunni,children,The kids and other people beat up the policemen for their notoriety and helped Chunni stop the conwoman.,94024d46b2f84e4784efd8210ea55443,4
+conwoman,woman,"tricks and deceives other people, just like the woman in this context does. The conwoman falls into her own trap when she is caught by the children, who have been freed from their captivity.",66e9db97b5814aeb96349e6ff1511eb7,4
+children,woman,"overpower and defeat the woman, who had previously imprisoned them. This demonstrates that justice has been served and all those who were once victims are now victors.",66e9db97b5814aeb96349e6ff1511eb7,4

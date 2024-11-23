@@ -1,0 +1,26 @@
+node_1,node_2,edge,chunk_id,count
+raj malhotra,priya saxena,Raj fell in love with Priya at first sight and they soon got married.,9645077bc5d84aa2b88c53098f3cf716,4
+voice mobiles,raj malhotra,Raj works as a product engineer for Voice Mobiles.,9645077bc5d84aa2b88c53098f3cf716,4
+barrister ram chotrani,priya saxena,"Priya came to interview Barrister Ram Chotrani, but mistaken him for Raj Malhotra.",9645077bc5d84aa2b88c53098f3cf716,4
+raj malhotra,two years later,"Raj and Priya moved into their own bungalow, expecting Raj’s promotion to CEO two years later.",9645077bc5d84aa2b88c53098f3cf716,4
+ranjit roy,barrister ram chotrani,"Ranjit arrives with his younger wife, Sonia.",9645077bc5d84aa2b88c53098f3cf716,4
+sonia,raj malhotra,Sonia makes inappropriate advances towards Raj multiple times.,9645077bc5d84aa2b88c53098f3cf716,4
+rakesh,ranjit roy,Ranjit appoints Rakesh as the new CEO.,9645077bc5d84aa2b88c53098f3cf716,4
+sonia,defect in their new mobile handset,Sonia falsely accuses Raj of causing defects in their new mobile handset.,9645077bc5d84aa2b88c53098f3cf716,4
+ranjit roy,downfall of the company,Ranjit demands Raj’s resignation to avoid the downfall of the company.,9645077bc5d84aa2b88c53098f3cf716,4
+raj,sonia,accuses Raj of sexual harassment and attempted rape,b3c29341c2e346a881e4a1e9064ff3f1,4
+ranjit,raj,demands Raj's resignation to avoid the downfall of the company,b3c29341c2e346a881e4a1e9064ff3f1,4
+society,raj,"won't believe him if he files a case against Sonia, thinking society would not believe him and it is less likely for him to win the case",b3c29341c2e346a881e4a1e9064ff3f1,4
+rakesh,raj,doesn't believe Raj when he says he didn't sexually assault Sonia,b3c29341c2e346a881e4a1e9064ff3f1,4
+priya,raj,"doesn't want him to resign since the lie will be assumed as the truth if he does, at which point, Raj decides to send the case to court, gaining media attention",b3c29341c2e346a881e4a1e9064ff3f1,4
+advocate ravi patel,raj,tries to humiliate Raj by revealing past drunken comments and showing scratches on his back to paint him as guilty,b3c29341c2e346a881e4a1e9064ff3f1,4
+sonia,ranjit,married Ranjit for money,b3c29341c2e346a881e4a1e9064ff3f1,4
+bank manager,raj,returns with a tape from the defective handset that recorded Raj’s visit to Sonia,b3c29341c2e346a881e4a1e9064ff3f1,4
+ram,raj,"becomes injured in an accident orchestrated by Sonia, preventing him from submitting the tape to court",b3c29341c2e346a881e4a1e9064ff3f1,4
+priya,sonia,"confronts Sonia instead of handing over the case to her, exposing her affair with Raj and playing a voicemail from Rakesh that reveals Sonia’s manipulations",b3c29341c2e346a881e4a1e9064ff3f1,4
+raj,affair,Raj had an affair with Sonia before she married Ranjit for money and power.,877371bb57344e7398a7e02fcba6d9a7,4
+sonia,marriage,Sonia married Ranjit for money and power but sought to rekindle her relationship with Raj when her marriage didn't satisfy her.,877371bb57344e7398a7e02fcba6d9a7,4
+raj,child,Raj and Priya have a newborn child after overcoming their turbulent past.,877371bb57344e7398a7e02fcba6d9a7,4
+sonia,manipulations,Sonia's manipulations are revealed through a voicemail played by Rakesh in the context.,877371bb57344e7398a7e02fcba6d9a7,4
+ranjit,divorce,Ranjit divorces Sonia after realizing her true intentions.,877371bb57344e7398a7e02fcba6d9a7,4
+sonia,suicide,"Guilt-ridden, Sonia commits suicide by jumping from her office building.",877371bb57344e7398a7e02fcba6d9a7,4

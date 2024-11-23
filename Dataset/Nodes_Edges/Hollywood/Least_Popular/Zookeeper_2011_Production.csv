@@ -1,0 +1,11 @@
+node_1,node_2,edge,chunk_id,count
+zookeeper,tweet,"During the filming, the giraffe Tweet died after eating pieces of blue tarp that covered his cage. This tragedy led to protests and criticism from animal rights organization PETA at the film's premiere.",d2f83643b66c4c13afcf0ac432455458,4
+zookeeper,"bart the bear 2, honey bump","The two bears in this live action film were performed by Heber City, Utah's Wasatch Rocky Mountain Wildlife veteran Grizzly actors Bart the Bear 2 and Honey Bump.",d2f83643b66c4c13afcf0ac432455458,4
+zookeeper,tai the elephant,"A video showing Tai the elephant being abused by his trainers was released in 2011 by Animal Defenders International (ADI), sparking a campaign to boycott the movie.",d2f83643b66c4c13afcf0ac432455458,4
+boycott,film,The campaign to boycott the movie was formed since the outbreak of the news.,94bbe2ecdd274413a939e78397c5699d,4
+news,outbreak,"Since the outbreak of the news,",94bbe2ecdd274413a939e78397c5699d,4
+movie,abuse,"in 2011 by Animal Defenders International (ADI), which showed him being abused by its trainers.",94bbe2ecdd274413a939e78397c5699d,4
+adi,movie,in 2011 by Animal Defenders International (ADI),94bbe2ecdd274413a939e78397c5699d,4
+adi,contacted,"ADI has also contacted the American Humane Association,",94bbe2ecdd274413a939e78397c5699d,4
+humane association,re-evaluate,urging them to re-evaluate how they assess the use of animals in films and the statements being made which effectively endorse the use of performing animals.,94bbe2ecdd274413a939e78397c5699d,4
+peta,urged,Animal rights advocates PETA also urged the public to boycott the film.,94bbe2ecdd274413a939e78397c5699d,4

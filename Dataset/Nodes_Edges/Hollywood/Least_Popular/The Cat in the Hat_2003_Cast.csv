@@ -1,0 +1,15 @@
+node_1,node_2,edge,chunk_id,node_3,node_4,count
+mike myers,cat in the hat,"Mike Myers portrays the character of Cat in the Hat, an anthropomorphic and large humanoid wise-cracking cat who wears an oversized red bow-tie and a magical red-and-white striped top-hat that reveals many humorous gadgets.",9c51f7c4653f429cb7e88ed51db8c557,,,4
+tim allen,cat in the hat,Initially considered for the role of Cat in the Hat in the movie.,9c51f7c4653f429cb7e88ed51db8c557,,,4
+joan walden,conrad walden,"Conrad is Joan's imaginative, yet destructive and misbehaved, 12-year-old son.",9c51f7c4653f429cb7e88ed51db8c557,,,4
+joan walden,sally walden,"Sally is Joan's dull, somewhat bossy, well-behaved and rule-obeying 8-year-old daughter, and the younger sister of Conrad.",9c51f7c4653f429cb7e88ed51db8c557,,,4
+joan walden,lawrence 'larry' quinn,"Lawrence 'Larry' Quinn is the Waldens' arrogant, lazy, unscrupulous, and unemployed next-door neighbor.",9c51f7c4653f429cb7e88ed51db8c557,,,4
+alec baldwin,joan walden,Determined to marry Joan Walden to mooch off of her wealth.,9c51f7c4653f429cb7e88ed51db8c557,,,4
+joan walden,mrs. kwan,"Mrs. Kwan, an overweight and elderly Taiwanese woman who was hired to watch the children, but sleeps through her job.",9c51f7c4653f429cb7e88ed51db8c557,,,4
+amy hill,cat in the hat,"Sleeps through her job, which (as well as her weight) serves as a running gag.",9c51f7c4653f429cb7e88ed51db8c557,,,4
+sean hayes,hank humberfloob,"Seemingly friendly boss, but quickly fires employees for small infractions due to germophobia and does so in a loud voice.",3489c185981c4513a78242a25cc790b6,,,4
+danielle chuchran,taylor rice,"[{'source': 'Thing 1', 'target': 'Danielle Chuchran'}, {'source': 'Thing 2', 'target': 'Taylor Rice'}]",3489c185981c4513a78242a25cc790b6,Thing 1,Thing 2,4
+steven anthony lawrence,dumb schweitzer,Intellectually and socially inferior pre-teen boy with a Bronx accent. Cat whacks him in the groin with a wooden bat at a birthday party.,3489c185981c4513a78242a25cc790b6,,,4
+bugsy,nevins,Pet dog of the Waldens,3489c185981c4513a78242a25cc790b6,,,4
+candace dean brown,secretary,Works for Hank Humberfloob Real Estate,3489c185981c4513a78242a25cc790b6,,,4
+victor brandt,narrator,Revealed to be the Cat using a voice-changer at the end.,3489c185981c4513a78242a25cc790b6,,,4

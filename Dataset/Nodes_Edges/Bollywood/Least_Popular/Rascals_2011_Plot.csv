@@ -1,0 +1,22 @@
+node_1,node_2,edge,chunk_id,count
+chetan chauhan,anthony gonsalves,"Chetan and Bhagat rob Anthony, but Chetan's fake suitcase accidentally falls out of Bhagat's fake one, causing Anthony to chase Bhagat. Chetan helps Bhagat cover it up by taking Anthony's car to a dealer who changes the color.",f7f3e202d57c4d2c832e360884334602,4
+bhagat bhosle,dolly,"Bhagat brags to Chetan about meeting a woman named Dolly for 4 nights and 3 days, revealing his intention to rob her.",f7f3e202d57c4d2c832e360884334602,4
+chetan chauhan,bhagat bhosle,"Chetan and Bhagat meet on a flight to Bangkok, where they both rob each other but only Chetan is successful.",f7f3e202d57c4d2c832e360884334602,4
+khushi,chetan chauhan,Chetan lies about being a donor who helps the needy to win over Khushi.,f7f3e202d57c4d2c832e360884334602,4
+bhagat bhosle,khushi,"Bhagat poses as a blind man, who was once a Navy officer to win over Khushi.",f7f3e202d57c4d2c832e360884334602,4
+bhagat bhosle,khushi,"Both Chetan and Bhagat play foul tricks to get Khushi, leading to disastrous results.",f7f3e202d57c4d2c832e360884334602,4
+bhagat bhosle,anthony gonsalves,"After robbing Anthony, Bhagat lies that he has returned the stolen items to Anthony.",f7f3e202d57c4d2c832e360884334602,4
+bhagat bhosle,khushi,"Bhagat's motorbike accident leads him to claim that his eyesight has been restored, which Chetan later discovers was a lie.",f7f3e202d57c4d2c832e360884334602,4
+chetan,father pascal,"The two fight, while accidentally hitting Father Pascal in the process.",565bc6360e2e49c49729fa3908e0520d,4
+khushi,anthony,"Khushi says she wants to marry both Bhagat and Chetan, but Father Pascal says that only one will marry Khushi, and the two must fight each other in the ring. Later, Anthony greets the two cons, and tells them that he has kidnapped Khushi. When the cons ask Khushi who does she love more, she goes straight to Anthony.",565bc6360e2e49c49729fa3908e0520d,4
+bhagat,father pascal,"The two fight, while accidentally hitting Father Pascal in the process.",565bc6360e2e49c49729fa3908e0520d,4
+chetan,khushi,"Chetan and Bhagat eventually get unconscious, and wake up to find Pascal beaten up(by the cons themselves), and Khushi is missing.",565bc6360e2e49c49729fa3908e0520d,4
+bhagat,khushi,"Chetan, Bhagat, and Khushi go to a church while they are drunk. Bhagat gets hurt in an accident with his motorbike, and claims that the shock repaired his eyesight.",565bc6360e2e49c49729fa3908e0520d,4
+anthony,cons (bhagat and chetan),"If they want her, they need to give him the money that they stole from him in 24 hours.",565bc6360e2e49c49729fa3908e0520d,4
+cons (bhagat and chetan),real robbers,"The cons first go to a local bank in Bangkok, and tries to tell the bankers to give them money. A group of real robbers come to the bank. One of them insults Bhagat and Chetan, and the two fight back, taking out all the robbers in the process.",565bc6360e2e49c49729fa3908e0520d,4
+cons (bhagat and chetan),anthony's plane,"The cons steal money dressed as Santa, and goes to Anthony's plane. Anthony gives them Khushi.",565bc6360e2e49c49729fa3908e0520d,4
+anthony,khushi,girlfriend,9425738e4a1b44bfa165035b41668e7a,4
+bhagat,anthony,"['conned by Anthony', 'stole from his own home to give him the ransom money, thus conning him of his own cash']",9425738e4a1b44bfa165035b41668e7a,4
+chetan,anthony,"['conned by Anthony', 'stole from his own home to give him the ransom money, thus conning him of his own cash']",9425738e4a1b44bfa165035b41668e7a,4
+bbc,anthony,a friend of Anthony,9425738e4a1b44bfa165035b41668e7a,4
+father pascal,khushi,real father,9425738e4a1b44bfa165035b41668e7a,4

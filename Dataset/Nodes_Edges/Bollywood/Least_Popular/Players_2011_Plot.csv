@@ -1,0 +1,26 @@
+node_1,node_2,edge,chunk_id,count
+raj,russian mafia,Raj was killed by the Russian mafia.,fd84a43060004c39bbbe8209005e06b0,4
+shaila,charlie,"At Raj's funeral, Shaila handed Charlie a CD containing information about the transfer of gold ingots by train from Russia to Romania.",fd84a43060004c39bbbe8209005e06b0,4
+shaila,russian mafia,Shaila provided Charlie with information about the Russian mafia's transfer of gold ingots by train from Russia to Romania.,fd84a43060004c39bbbe8209005e06b0,4
+charlie,victor braganza,"Charlie seeks help from his mentor and conman, Victor Braganza.",fd84a43060004c39bbbe8209005e06b0,4
+spider,russian satellite system,Spider hacks into a Russian satellite system.,fd84a43060004c39bbbe8209005e06b0,4
+bilal bashir,explosives,Bilal Bashir is an explosives expert.,fd84a43060004c39bbbe8209005e06b0,4
+sunny,prosthetic makeup,Sunny is a prosthetic makeup artist.,fd84a43060004c39bbbe8209005e06b0,4
+ronnie,daughter,Ronnie has a daughter who got paralyzed during one of his magic performances and hopes to help her recover soon.,fd84a43060004c39bbbe8209005e06b0,4
+spider,shaila,Spider gets information about the gold from Shaila beforehand.,fd84a43060004c39bbbe8209005e06b0,4
+spider,ronnie,Spider stops Ronnie and gets shot by Spider's assassins.,bf1e7fdfb07745488830f1ea9946fef8,4
+spider,assassins,Spider is stopped by Ronnie's assassins while trying to flee with the gold.,bf1e7fdfb07745488830f1ea9946fef8,4
+charlie,gold dealers,Charlie contacts various gold dealers to learn which one has Spider's stolen gold.,bf1e7fdfb07745488830f1ea9946fef8,4
+naina,charlie,Charlie explains to Naina the reason behind stealing the gold.,bf1e7fdfb07745488830f1ea9946fef8,4
+naina,spider,"Spider flirts with Naina but discovers a hidden camera in her dress, revealing that she is working with Charlie.",bf1e7fdfb07745488830f1ea9946fef8,4
+riya,spider,"Riya is still alive and living in New Zealand, seeking revenge on Spider.",bf1e7fdfb07745488830f1ea9946fef8,4
+spider,riya,"Spider is working with Riya, who is being rescued by Charlie in an armored truck. Riya later reveals that she was working with Spider all along.",c36a7e0a0add4e539f6bcd22cd79ac59,4
+charlie,spider,Spider betrays and tries to kill Charlie after discovering that he was not stealing the gold for him.,c36a7e0a0add4e539f6bcd22cd79ac59,4
+naina,spider,Naina shoots Spider three times seeking revenge for the death of Victor.,c36a7e0a0add4e539f6bcd22cd79ac59,4
+mini coopers,gold,"The gang hides the gold inside three Mini Coopers, but later reveals that the real Mini Coopers containing the gold are elsewhere.",c36a7e0a0add4e539f6bcd22cd79ac59,4
+gang,mini coopers,"The gang uses three large trucks and hacks into the traffic system to take the gold from Spider, but later reveals that the trunks of the Mini Coopers are empty.",c36a7e0a0add4e539f6bcd22cd79ac59,4
+russian mafia,spider,Spider makes a final call to the Russian mafia and falsely accuses Charlie of stealing Russian gold.,c36a7e0a0add4e539f6bcd22cd79ac59,4
+car dealership business,business,"in the given context, 'car dealership business' and 'business' are both considered as key concepts related to each other.",f4a12f982b5243ada337517b57e97922,4
+sunny,theatre actor,"in the given context, 'Sunny' becomes a 'theatre actor'. This indicates a transition or transformation of Sunny from being associated with one concept to another.",f4a12f982b5243ada337517b57e97922,4
+charlie,victor's dream orphanage,"in the given context, 'Charlie' and 'Victor's dream orphanage' are both considered as key concepts related to each other. 'Charlie' and 'Naina' open this orphanage, implying their association with it.",f4a12f982b5243ada337517b57e97922,4
+ronnie,daughter,"in the given context, 'Charlie' raises 'Ronnie's daughter as his own'. This indicates a relationship between 'Charlie', 'Ronnie' and their respective children.",f4a12f982b5243ada337517b57e97922,4

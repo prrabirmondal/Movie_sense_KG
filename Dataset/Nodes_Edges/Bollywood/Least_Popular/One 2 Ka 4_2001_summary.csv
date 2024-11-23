@@ -1,0 +1,42 @@
+node_1,node_2,edge,chunk_id,count
+movie's,summary,"A summary is a brief description or account of something. In this context, it refers to the overview of a movie.",c83eec0cf9aa465d809017bbc74bb565,4
+one and two makes four,indian hindi-language action thriller film,is a subcategory of,45c08bab35214ef29b9957dbf0bffa8b,4
+shah rukh khan,one 2 ka 4 (film),acts in,45c08bab35214ef29b9957dbf0bffa8b,4
+juhi chawla,one 2 ka 4 (film),acts in,45c08bab35214ef29b9957dbf0bffa8b,4
+jackie shroff,one 2 ka 4 (film),acts in,45c08bab35214ef29b9957dbf0bffa8b,4
+shashilal k. nair,one 2 ka 4 (film),directed by,45c08bab35214ef29b9957dbf0bffa8b,4
+a. r. rahman,one 2 ka 4 (film),composed score and soundtrack for,45c08bab35214ef29b9957dbf0bffa8b,4
+red chillies entertainment,one 2 ka 4 (film),current owner of,45c08bab35214ef29b9957dbf0bffa8b,4
+senior superintendent of police officer javed abbas,one 2 ka 4 (film),character in,45c08bab35214ef29b9957dbf0bffa8b,4
+assistant commissioner of police officer arun verma,one 2 ka 4 (film),character in,45c08bab35214ef29b9957dbf0bffa8b,4
+police commissioner,one 2 ka 4 (film),role played by an unspecified character in,45c08bab35214ef29b9957dbf0bffa8b,4
+geeta,one 2 ka 4 (film),friend of Javed Abbas in,45c08bab35214ef29b9957dbf0bffa8b,4
+traitor,unknown assailant,"Javed was shot dead by an unknown assailant, who could potentially be the traitor being sought after.",9128af81e21543e4b8ada7a7ac690a36,4
+geeta,javed,Geeta is Javed's friend.,9128af81e21543e4b8ada7a7ac690a36,4
+arun,geeta,"After meeting Arun, Geeta falls in love with him at first sight. However, Arun does not show any special interest in her and avoids her.",9128af81e21543e4b8ada7a7ac690a36,4
+arun,javed's children,"As Javed's best friend, Arun decides to adopt Javed's children instead of sending them to an orphanage after Javed's death.",9128af81e21543e4b8ada7a7ac690a36,4
+arun,geeta,"As their relationship develops and time goes on, Arun begins to develop feelings for Geeta.",9128af81e21543e4b8ada7a7ac690a36,4
+arun,kkv,"In a visit to KKV's club to threaten him, Arun unexpectedly finds that Geeta is a dancer at that club.",9128af81e21543e4b8ada7a7ac690a36,4
+arun,geeta,Arun becomes angry with Geeta because he thinks being a bar dancer is a filthy job and that Geeta has been cheating him by pretending to be decent.,9128af81e21543e4b8ada7a7ac690a36,4
+children,geeta,"The children all say that Geeta was with them the whole day and never once left, leaving Arun to believe that the bar dancer is another person that simply looks like Geeta.",9128af81e21543e4b8ada7a7ac690a36,4
+arun,kkv,"Under the pressure of his living situation, Arun robs KKV and steals a large amount of drug money from KKV, knowing it's dirty money.",9128af81e21543e4b8ada7a7ac690a36,4
+arun,kkv,robbed by Arun for drug money,f55d1da71e054b57b58d7965cd2c4fab,4
+arun,family,bought a big house for with stolen drug money,f55d1da71e054b57b58d7965cd2c4fab,4
+police,arun,illegal drug possession charge against Arun,f55d1da71e054b57b58d7965cd2c4fab,4
+police,geeta,testified against Arun as police officer at KKV's bar during court hearing,f55d1da71e054b57b58d7965cd2c4fab,4
+arun,suspected spy,framed for being KKV's spy by someone unknown,f55d1da71e054b57b58d7965cd2c4fab,4
+police officer,arun,admitted to being a spy for KKV and following JD's orders,f55d1da71e054b57b58d7965cd2c4fab,4
+geeta,commissioner,permission granted by Commissioner for joining Arun in questioning JD,f55d1da71e054b57b58d7965cd2c4fab,4
+police officer,arun,killed by Arun after admitting to being a spy for KKV,f55d1da71e054b57b58d7965cd2c4fab,4
+police commissioner,spie,belief that Police Commissioner is the spy due to him being the only third person present during Geeta's phone call and JD's murder,f55d1da71e054b57b58d7965cd2c4fab,4
+arun,police commissioner,believes Police Commissioner is spy as he knows they are heading for JD,9760f24e0a1241a18d4a7d6a412d2bec,4
+geeta,cbi chief,realizes CBI Chief is real spy after finding him with KKV in his house,9760f24e0a1241a18d4a7d6a412d2bec,4
+jd,arun and team,"to question JD, only to find JD was killed right before they arrive",9760f24e0a1241a18d4a7d6a412d2bec,4
+kkv,geeta,"tries to kill Geeta, but she manages to escape",9760f24e0a1241a18d4a7d6a412d2bec,4
+kkv,police commissioner,planned JD's killing with Police Commissioner's help,9760f24e0a1241a18d4a7d6a412d2bec,4
+kkv,cbi chief,works with CBI Chief as real spy for KKV,9760f24e0a1241a18d4a7d6a412d2bec,4
+javed,inspector sawant,"killer of Javed, who always belittled Sawant and upset him",9760f24e0a1241a18d4a7d6a412d2bec,4
+film,success (financial or critical),"The film grossed ₹11.20 crore in India and $565,000 in other countries, for a worldwide total of ₹13.82 crore against its ₹12 crore budget. It had a worldwide opening weekend of ₹4.89 crore and grossed ₹8.01 crore in its first week.",634985d278084bf183159c3bc1ad003b,4
+film,composer (soundtrack),AR Rahman composed the soundtrack of the film,634985d278084bf183159c3bc1ad003b,4
+lyricist,songwriter (lyrics),The lyrics were written by Majrooh Sultanpuri and Mehboob.,634985d278084bf183159c3bc1ad003b,4
+child,character arc (development of a character in the story),"Children (who now love him for his character arc), and marries Geeta. They live happily ever after.",634985d278084bf183159c3bc1ad003b,4

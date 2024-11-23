@@ -1,0 +1,27 @@
+node_1,node_2,edge,chunk_id,count
+ruby rossi,miles,crush,0ffdd5c899c149ceadeaf522a23e6679,4
+ruby rossi,mr. bernardo 'mr. v' villalobos,music teacher,0ffdd5c899c149ceadeaf522a23e6679,4
+ruby rossi,duet partner,assigned by Mr. Bernardo 'Mr. V' Villalobos,0ffdd5c899c149ceadeaf522a23e6679,4
+frank,leo,sibling relationship,0ffdd5c899c149ceadeaf522a23e6679,4
+frank,ruby rossi,parent-child relationship,0ffdd5c899c149ceadeaf522a23e6679,4
+jackie,ruby rossi,parent-child relationship,0ffdd5c899c149ceadeaf522a23e6679,4
+frank,local board,struggle against new fees and sanctions imposed by,0ffdd5c899c149ceadeaf522a23e6679,4
+leo,fishing business,dependence on Ruby Rossi's interpretation skills for communication with customers,0ffdd5c899c149ceadeaf522a23e6679,4
+frank,new fishing company,plans to start in order to get around new restrictions imposed by the local board,0ffdd5c899c149ceadeaf522a23e6679,4
+fishing boats,local harbor,disappearance from due to new fees and sanctions imposed by the local board,0ffdd5c899c149ceadeaf522a23e6679,4
+frank,other local fishermen,invitation to join his new fishing company,0ffdd5c899c149ceadeaf522a23e6679,4
+ruby rossi,berkeley college of music,encouraged by Mr. Bernardo 'Mr. V' Villalobos to audition for,0ffdd5c899c149ceadeaf522a23e6679,4
+mr. bernardo 'mr. v' villalobos,private lessons for ruby rossi,offered as preparation for her Berklee College of Music audition,0ffdd5c899c149ceadeaf522a23e6679,4
+ruby rossi,latecomer to mr. bernardo 'mr. v' villalobos' lessons,due to her increasing commitments to the family business,0ffdd5c899c149ceadeaf522a23e6679,4
+ruby,mr. v,constant tardiness to their lessons leads to irritation and chastisement from Mr. V due to wasting his time and lack of care for music,bdd62e7a169245b7825c6a98189fe75b,4
+ruby,family,"joins the business full-time instead of going to college, leads to supportive parents but angry reaction from Leo",bdd62e7a169245b7825c6a98189fe75b,4
+leo,ruby,angrily reacts to Ruby's decision not to go to college and insists that they can manage without her talent,bdd62e7a169245b7825c6a98189fe75b,4
+ruby,miles,"sees each other before Ruby's Berklee audition, where Miles reveals failure at his own audition",bdd62e7a169245b7825c6a98189fe75b,4
+ruby,boston,Ruby and her family drive to Boston with Ruby for her Berklee audition.,ad80303b2a194108be87a803d967dafd,4
+ruby,berklee,Ruby goes to Berklee College of Music for her audition in Boston.,ad80303b2a194108be87a803d967dafd,4
+ruby,miles,"Before Ruby's Berklee audition, she meets Miles who wishes her luck and fails at his own audition.",ad80303b2a194108be87a803d967dafd,4
+mr. v,ruby,"During Ruby's Berklee audition, Mr. V accompanies her on the piano.",ad80303b2a194108be87a803d967dafd,4
+ruby,joni mitchell,"Ruby sings 'Both Sides, Now' by Joni Mitchell during her Berklee audition and signs along so her family can understand.",ad80303b2a194108be87a803d967dafd,4
+hearing workers,family's fishing business,The hearing workers in the family's fishing business learn sign language to communicate with and interpret for the family.,ad80303b2a194108be87a803d967dafd,4
+ruby,gertie,"After Ruby's acceptance into Berklee, Gertie drives her to Boston for college as the family sees them off.",ad80303b2a194108be87a803d967dafd,4
+ruby,family,"Before leaving for college, Ruby signs 'I love you so much' (literal translation: 'I really love you') to her family as they drive away.",ad80303b2a194108be87a803d967dafd,4

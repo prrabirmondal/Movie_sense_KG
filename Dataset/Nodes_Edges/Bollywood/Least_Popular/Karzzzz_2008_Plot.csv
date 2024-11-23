@@ -1,0 +1,26 @@
+node_1,node_2,edge,chunk_id,count
+monty,ravi,Monty is the reincarnation of Ravi.,4cca1bb84a60415d8d7c9e7cb7ece60d,4
+j.j. oberoi,monty,J.J. Oberoi is the adoptive father of Monty.,4cca1bb84a60415d8d7c9e7cb7ece60d,4
+tina,monty,Monty has romantic feelings for Tina.,4cca1bb84a60415d8d7c9e7cb7ece60d,4
+dr. dayal,monty,Monty considers Dr. Dayal to be a close friend and confidante.,4cca1bb84a60415d8d7c9e7cb7ece60d,4
+kabira,tina,Kabira is the caretaker of Tina.,4cca1bb84a60415d8d7c9e7cb7ece60d,4
+princess kamini,monty,Princess Kamini becomes acquainted with Monty during his trip to Kenya.,4cca1bb84a60415d8d7c9e7cb7ece60d,4
+ravi verma,princess kamini,Kamini is the wife of Ravi and inherits his wealth after his death.,4cca1bb84a60415d8d7c9e7cb7ece60d,4
+sir judah,ravi verma,Ravi wins a court case against Sir Judah in Kenya.,4cca1bb84a60415d8d7c9e7cb7ece60d,4
+kenya,ravi verma,Ravi visits Kenya with his wife Kamini and later dies in Kenya.,4cca1bb84a60415d8d7c9e7cb7ece60d,4
+accident,ravi's previous birth,The accident that led to Ravi's death in his previous birth.,c3ec73e33ec44812996906399140f337,4
+monty,ravi,Monty is the reincarnation of Ravi.,c3ec73e33ec44812996906399140f337,4
+princess kamini,tina,Princess Kamini knows both Monty and Tina.,c3ec73e33ec44812996906399140f337,4
+judah,princess kamini,Judah is the mistress of Princess Kamini.,c3ec73e33ec44812996906399140f337,4
+monty,princess kamini,Monty befriends Princess Kamini.,c3ec73e33ec44812996906399140f337,4
+tina,kabira,Tina and Kabira are involved in Monty's plan to bring Princess Kamini to justice.,c3ec73e33ec44812996906399140f337,4
+princess kamini,monty,Monty convinces Princess Kamini to marry him.,c3ec73e33ec44812996906399140f337,4
+monty,princess kamini,Monty reenacts the accident to make Princess Kamini believe that he remembers she killed him/Ravi.,c3ec73e33ec44812996906399140f337,4
+princess kamini,ravi's mother and sister,Princess Kamini lies to Monty about the decease of Ravi's mother and sister.,c3ec73e33ec44812996906399140f337,4
+monty,princess kamini,Monty brings Princess Kamini to justice with Tina and Kabira.,c3ec73e33ec44812996906399140f337,4
+kabira,police,"Kabira appears with the police in tow, who have her confession on record.",c3ec73e33ec44812996906399140f337,4
+judah,princess kamini,Judah demands Princess Kamini's release while holding Tina hostage.,c3ec73e33ec44812996906399140f337,4
+princess kamini,ravi,"In previous birth, Princess Kamini arrives at the same spot where Ravi was killed.",966d649db8ab4bc4831f27e26dadc449,4
+monty,princess kamini,Tina tries to run away with Monty at her heels. Princess Kamini boards a plane and shoots Monty at the same spot where Ravi was killed in his previous birth.,966d649db8ab4bc4831f27e26dadc449,4
+monty's car,princess kamini's plane,"As Princess Kamini's plane approaches Monty, Monty sets the car on fire that soon engulfs the plane, killing Princess Kamini.",966d649db8ab4bc4831f27e26dadc449,4
+tina,monty,"With Princess Kamini dead, Monty and Tina are united as the end credits roll.",966d649db8ab4bc4831f27e26dadc449,4

@@ -1,0 +1,99 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,"A movie is presented in this context, and its summary is provided. The summary provides a brief overview of the movie's plot, characters, and other important aspects.",9dfb95e67656446cb9f31b5f3d1b4669,4
+gotti,john gotti,"Gotti is a biographical crime film about the life of John Gotti, portrayed by John Travolta in the movie.",88d27a12c62444f4a338b77dc2d3299b,4
+john gotti,victoria,"In the film, Victoria is played by Kelly Preston and portrays John Gotti's wife.",88d27a12c62444f4a338b77dc2d3299b,4
+gotti,mobster,"John Gotti was a notorious New York City mobster, and the film depicts his criminal activities.",88d27a12c62444f4a338b77dc2d3299b,4
+barry levinson,director,"Initially, Barry Levinson was set to direct the film, but he left the project due to creative differences.",88d27a12c62444f4a338b77dc2d3299b,4
+al pacino,actor,"Al Pacino was previously cast as John Gotti in the movie, before being replaced by John Travolta.",88d27a12c62444f4a338b77dc2d3299b,4
+"gotti, john","mcbratney, james","In 1973, Aniello ""Neil"" Dellacroce tasks Gotti, a young associate, with killing gangster James McBratney, who is believed to have kidnapped and murdered boss Carlo Gambino's nephew Emanuel.",2daee99c3dad429b9228928e53196d9a,4
+"gotti, john",green haven correctional facility,"After executing McBratney at a bar, Gotti is identified as his killer in 1974 and sentenced to 4 years at Green Haven Correctional Facility the following year; due to the Gambino family's influence, however, he is released on ""medical furloughs""",2daee99c3dad429b9228928e53196d9a,4
+"gotti, john",family's dentist,"He is identified as his killer in 1974 and sentenced to 4 years at Green Haven Correctional Facility the following year; due to the Gambino family's influence, however, he is released on ""medical furloughs"" both for appointments with the family's dentist and for conducting further criminal business, including another hit.",2daee99c3dad429b9228928e53196d9a,4
+"gotti, john",new york military academy,"Gotti operates out of the Bergin Hunt and Fish Club with his childhood friend Angelo Ruggiero. His oldest son John ""Junior"" Gotti enters the New York Military Academy, but aspires to join the Mafia.",2daee99c3dad429b9228928e53196d9a,4
+"dellacroce, aniello ""neil""","gotti, john","In 1973, Aniello ""Neil"" Dellacroce tasks Gotti, a young associate, with killing gangster James McBratney, who is believed to have kidnapped and murdered boss Carlo Gambino's nephew Emanuel.",2daee99c3dad429b9228928e53196d9a,4
+"dellacroce, aniello ""neil""","casso, anthony","Despite Dellacroce's counsel and the assurances of fellow capo Frank DeCicco, Gotti mistrusts the Lucchese crime family's top underboss, Anthony Casso.",2daee99c3dad429b9228928e53196d9a,4
+lucchese crime family,gambino family,"Despite Dellacroce's counsel and the assurances of fellow capo Frank DeCicco, Gotti mistrusts the Lucchese crime family's top underboss, Anthony Casso.",2daee99c3dad429b9228928e53196d9a,4
+victoria,"gotti, john","Reunites with his wife Victoria and children at their new residence in Howard Beach, Queens, and becomes a ""made man"", immediately climbing the Mafia hierarchy to become a capo.",2daee99c3dad429b9228928e53196d9a,4
+frank,"gotti, john","On March 18, 1980, his 12-year-old middle son Frank is accidentally struck and killed by a car",2daee99c3dad429b9228928e53196d9a,4
+"gotti, john",mafia hierarchy,"Reunites with his wife Victoria and children at their new residence in Howard Beach, Queens, and becomes a ""made man"", immediately climbing the Mafia hierarchy to become a capo.",2daee99c3dad429b9228928e53196d9a,4
+"gotti, john",boss carlo gambino's nephew emanuel,"Tasks Gotti, a young associate, with killing gangster James McBratney, who is believed to have kidnapped and murdered boss Carlo Gambino's nephew Emanuel.",2daee99c3dad429b9228928e53196d9a,4
+green haven correctional facility,"gotti, john","After executing McBratney at a bar, Gotti is identified as his killer in 1974 and sentenced to 4 years at Green Haven Correctional Facility the following year; due to the Gambino family's influence, however, he is released on ""medical furloughs""",2daee99c3dad429b9228928e53196d9a,4
+mafia,"gotti, john","His oldest son John ""Junior"" Gotti enters the New York Military Academy, but aspires to join the Mafia.",2daee99c3dad429b9228928e53196d9a,4
+"howard beach, queens","gotti, john","Reunites with his wife Victoria and children at their new residence in Howard Beach, Queens, and becomes a ""made man"", immediately climbing the Mafia hierarchy to become a capo.",2daee99c3dad429b9228928e53196d9a,4
+green haven correctional facility,"gotti, john","After executing McBratney at a bar, Gotti is identified as his killer in 1974 and sentenced to 4 years at Green Haven Correctional Facility the following year; due to the Gambino family's influence, however, he is released on ""medical furloughs""",2daee99c3dad429b9228928e53196d9a,4
+mafia hierarchy,"gotti, john","Reunites with his wife Victoria and children at their new residence in Howard Beach, Queens, and becomes a ""made man"", immediately climbing the Mafia hierarchy to become a capo.",2daee99c3dad429b9228928e53196d9a,4
+frank decicco,"dellacroce, aniello ""neil""","Despite Dellacroce's counsel and the assurances of fellow capo Frank DeCicco, Gotti mistrusts the Lucchese crime family's top underboss, Anthony Casso.",2daee99c3dad429b9228928e53196d9a,4
+lucchese crime family,gambino family,"both families mentioned in the same context, indicating a relationship between organized crime syndicates",c4c5f2b1bc494b5796ac259e3927265b,4
+anthony casso,frank casso,"father-son relationship, with Frank's accidental death causing tension",c4c5f2b1bc494b5796ac259e3927265b,4
+john favara,anthony casso,"neighborhood relationship between the two men, with Favara accidentally killing Casso's son and later disappearing",c4c5f2b1bc494b5796ac259e3927265b,4
+leon papon,john favara,"witness to Favara's abduction, intimidated into silence by unspecified forces",c4c5f2b1bc494b5796ac259e3927265b,4
+paul castellano,gotti,leader-underboss relationship within the Gambino family,c4c5f2b1bc494b5796ac259e3927265b,4
+johnson,gotti,"close associate and confidential informant for the FBI, with Johnson's status as an informant potentially causing tension between the two men",c4c5f2b1bc494b5796ac259e3927265b,4
+dellacroce,gotti,"senior member of the Gambino family, with Dellacroce informing Gotti of Castellano's plans and helping him secure approval to eliminate him",c4c5f2b1bc494b5796ac259e3927265b,4
+castellano,bilotti,leader-bodyguard relationship within the Gambino family,c4c5f2b1bc494b5796ac259e3927265b,4
+dellacroce,gotti,Gotti fails to attend Dellacroce's funeral two days after his death on December 2.,ca1c81fdab854608905ff7ed543cd33e,4
+castellano,gottí,"Gottí takes over the Gambino family, becoming 'the real-life Godfather' after Castellano and his bodyguard Thomas Bilotti are gunned down outside Sparks Steak House in midtown Manhattan, on December 16.",ca1c81fdab854608905ff7ed543cd33e,4
+gigante,casso,Rival boss Vincent 'The Chin' Gigante of the Genovese crime family plots with Casso to eliminate Gottí.,ca1c81fdab854608905ff7ed543cd33e,4
+decicco,gotti,"DeCicco is killed by a car bomb that Ruggiero believes was meant for Gotti on April 13, 1986.",ca1c81fdab854608905ff7ed543cd33e,4
+hydell,casso,Casso tracks down and tortures the hitman James Hydell into revealing he was sent by Ruggiero.,ca1c81fdab854608905ff7ed543cd33e,4
+gotti,gigante,Gotti reconciles with Gigante before excommunicating Ruggiero from his crew to shield him from further retribution.,ca1c81fdab854608905ff7ed543cd33e,4
+gotti,gravano,"Underboss Salvatore 'Sammy the Bull' Gravano testifies against Gotti, leading to his conviction and imprisonment in 1992.",ca1c81fdab854608905ff7ed543cd33e,4
+junior,gambino family,Junior is inducted into the Gambino family on Christmas Eve 1988.,ca1c81fdab854608905ff7ed543cd33e,4
+kim,junior,Junior marries his wife Kim in April 1990.,ca1c81fdab854608905ff7ed543cd33e,4
+gotti,rivals,Several family members are killed as rivals target the organization after Junior assumes control.,ca1c81fdab854608905ff7ed543cd33e,4
+junior gotti,gotti sr.,"father-son relationship, Junior follows in his father's criminal footsteps but eventually abandons it for his family's sake after Gotti Sr.'s death from throat cancer",602f2aeb020e429388e74e0d4fb09d3c,4
+junior gotti,united states medical center for federal prisoners,Junior visits his ailing father at this prison in Missouri to inform him of his plea bargain consideration,602f2aeb020e429388e74e0d4fb09d3c,4
+gotti sr.,throat cancer,Gotti Sr. Dies from this illness in 2002,602f2aeb020e429388e74e0d4fb09d3c,4
+junior gotti,five trials,Junior is released from prison after going through five trials,602f2aeb020e429388e74e0d4fb09d3c,4
+fiore films,gotti: in the shadow of my father,Fiore Films acquires the rights to produce a film about Junior's life in 2010,602f2aeb020e429388e74e0d4fb09d3c,4
+barry levinson,gotti: in the shadow of my father,Levinson is attached as director for this project early on,602f2aeb020e429388e74e0d4fb09d3c,4
+nick cassavetes,gotti: in the shadow of my father,Cassavetes is also attached to direct at a later point in time,602f2aeb020e429388e74e0d4fb09d3c,4
+joe johnston,gotti: in the shadow of my father,Johnston is similarly attached as director at some stage,602f2aeb020e429388e74e0d4fb09d3c,4
+al pacino,gotti: in the shadow of my father,Pacino is cast to star in this film project at one point,602f2aeb020e429388e74e0d4fb09d3c,4
+lindsay lohan,gotti: in the shadow of my father,Lohan is also announced as part of the casting lineup,602f2aeb020e429388e74e0d4fb09d3c,4
+ben foster,gotti: in the shadow of my father,Foster is another actor attached to star in this movie at a certain point,602f2aeb020e429388e74e0d4fb09d3c,4
+joe pesci,angelo ruggiero,Pesci is cast to play Ruggiero in the film but later sues Fiore Films for $3 million due to having his salary cut and being recast as Lucchese underboss Anthony Casso,602f2aeb020e429388e74e0d4fb09d3c,4
+chazz palminteri,paul castellano,Palminteri reprises his role from the TV film Boss of Bosses by playing Castellano in this movie project,602f2aeb020e429388e74e0d4fb09d3c,4
+kevin connolly,gotti: in the shadow of my father,Connolly takes over as director for this movie adaptation in 2015,602f2aeb020e429388e74e0d4fb09d3c,4
+gotti,kevin connolly,The project was moving forward with Kevin Connolly as director.,5e6ccf7ba83147cb83805c34974beb57,4
+victoria,kelly preston,"Gotti's wife Victoria, played by Kelly Preston.",5e6ccf7ba83147cb83805c34974beb57,4
+aniello dellacroce,stacy keach,"Aniello Dellacroce, the underboss of the Gambino crime family who mentored Gotti, played by Stacy Keach.",5e6ccf7ba83147cb83805c34974beb57,4
+angelo ruggiero,pruitt taylor vince,"A deferential friend of Gotti, played by Pruitt Taylor Vince.",5e6ccf7ba83147cb83805c34974beb57,4
+john gotti jr.,spencer lofranco,"Gotti's eldest son, played by Spencer Lofranco.",5e6ccf7ba83147cb83805c34974beb57,4
+sammy gravano,william demeo,"Gotti's right-hand man who later became an FBI informant and helped them in bringing down Gotti, played by William DeMeo.",5e6ccf7ba83147cb83805c34974beb57,4
+bobby boriello,leo rossi,"Gotti's enforcer, played by Leo Rossi.",5e6ccf7ba83147cb83805c34974beb57,4
+father murphy,victor gojcaj,"Father Murphy, played by Victor Gojcaj.",5e6ccf7ba83147cb83805c34974beb57,4
+brooklyn,filming location,Some scenes were filmed in Brooklyn.,5e6ccf7ba83147cb83805c34974beb57,4
+gotti,limited release,The film Gotti had a limited release.,1aebbd4dd0f5432fbbe929a869e255d2,4
+gotti,$4.3 million,The film Gotti grossed $4.3 million in the United States.,1aebbd4dd0f5432fbbe929a869e255d2,4
+gotti,503 theaters,Gotti began its limited release in 503 theaters.,1aebbd4dd0f5432fbbe929a869e255d2,4
+gotti,$1.7 million,"In its opening weekend, Gotti made $1.7 million at the box office.",1aebbd4dd0f5432fbbe929a869e255d2,4
+gotti,vertically entertainment,"After failing to secure a wide release through Lionsgate Premiere, distributors Vertical Entertainment picked up Gotti for wider distribution.",1aebbd4dd0f5432fbbe929a869e255d2,4
+"december 15, 2017",limited release and vod,"Gotti was originally scheduled to be released in a limited release and through video on demand on December 15, 2017.",1aebbd4dd0f5432fbbe929a869e255d2,4
+ohio's revised motion picture tax credit,filming for some scenes,"Some scenes of Gotti were filmed in Brooklyn on February 21, 2017, as part of Ohio's revised Motion Picture Tax Credit.",1aebbd4dd0f5432fbbe929a869e255d2,4
+gotti,poorly written,"According to Jordan Mintzer's review in The Hollywood Reporter, the film Gotti is related to 'poorly written'.",076f6d5fa1274515a6555e73f6e95234,4
+gotti,devoid of tension,"According to Jordan Mintzer's review in The Hollywood Reporter, the film Gotti is related to 'devoid of tension'.",076f6d5fa1274515a6555e73f6e95234,4
+gotti,ridiculous,"According to Jordan Mintzer's review in The Hollywood Reporter, the film Gotti is related to 'ridiculous'.",076f6d5fa1274515a6555e73f6e95234,4
+gotti,dull,"According to Jordan Mintzer's review in The Hollywood Reporter, the film Gotti is related to 'just plain dull'.",076f6d5fa1274515a6555e73f6e95234,4
+john gotti jr.,victim,"According to Jordan Mintzer's review in The Hollywood Reporter, the film portrays John Gotti Jr. As a 'victim'.",076f6d5fa1274515a6555e73f6e95234,4
+john gotti,loving family man,"According to Jordan Mintzer's review in The Hollywood Reporter, the film mostly portrays John Gotti as a 'loving family man'.",076f6d5fa1274515a6555e73f6e95234,4
+rotten tomatoes,gotti,"The film Gotti on Rotten Tomatoes has an approval rating of 0% based on 58 reviews, with an average rating of 2.2/10, according to their website.",076f6d5fa1274515a6555e73f6e95234,4
+metacritic,gotti,"According to Metacritic, the film Gotti has a weighted average score of 24 out of 100 based on reviews from 16 critics, indicating 'generally unfavorable reviews'.",076f6d5fa1274515a6555e73f6e95234,4
+gotti,glorified subject,"movie 'Gotti' validates criticism that mob movies invariably glorify their subjects, as the film does its best to make Gotti come off as a noble and ruthless warrior-leader who only killed his own and kept a lid on neighborhood crime.",407753d8ea79450d9e9cbd686a60bf3f,4
+gotti,likable guy,"the fact that it mostly portrays John Gotti as a loving family man is a first in the history of the genre, according to the given context.",407753d8ea79450d9e9cbd686a60bf3f,4
+gotti jr.,victim of government persecution,"the fact that it mostly portrays John Gotti as a loving family man and altogether likable guy, and his son John Gotti Jr. As a victim of government persecution, may be a first in the history of the genre.",407753d8ea79450d9e9cbd686a60bf3f,4
+gotti,mob movie misfire,"'Listen to me, and listen to me good. You never gonna see another guy like me if you live to be five thousand,' Travolta's Teflon Don boasts in the final scene of the movie 'Gotti'. With any luck, we'll never see another mob-movie misfire like this either,' according to Nick Schager's review.",407753d8ea79450d9e9cbd686a60bf3f,4
+new york post,worst mob movie of all-time,'the worst mob movie of all-time' - according to Johnny Oleksinski's review in the New York Post,407753d8ea79450d9e9cbd686a60bf3f,4
+gotti,rotten tomatoes,"The large disparity between the audience approval score and critics' score on Rotten Tomatoes during the film's opening weekend, which led to accusations of vote manipulation against the production studio and marketing team.",7b453f062e344969a58361011e246a9b,4
+gotti,trustworthy people,"The campaign proclaimed by the production studio and marketing team asking consumers to ignore the 'trolls behind a keyboard' and trust the people, in response to the criticism from the critics.",7b453f062e344969a58361011e246a9b,4
+gotti,first-time reviewers on rotten tomatoes,"It was noted that 32 of the 54 written reviews for 'Gotti' were found to be from first-time reviewers on the site, who had also only left a review for 'Gotti' itself.",7b453f062e344969a58361011e246a9b,4
+richard roeper,entertaining and well-acted b-movie,Described by Richard Roeper of the Chicago Sun-Times in his review of the film.,7b453f062e344969a58361011e246a9b,4
+observers,large disparity on rotten tomatoes,"Noted by observers during the film's opening weekend, between the audience approval score and the critics' score on Rotten Tomatoes.",7b453f062e344969a58361011e246a9b,4
+moviepass,gotti,MoviePass is the company responsible for distributing and marketing the film Gotti through its subsidiary MoviePass Ventures.,c2583b67ba34468e8551a1ce7941bd24,4
+accounts,first-time reviewers,"Of the 54 written reviews for Gotti, 32 were found to be from first-time reviewers on the site. These accounts also only left a review for Gotti itself.",c2583b67ba34468e8551a1ce7941bd24,4
+reviews,gotti,A total of 54 written reviews were found for the film Gotti on the site.,c2583b67ba34468e8551a1ce7941bd24,4
+reviews,american animals,"Many of the accounts that left reviews for Gotti also wrote a review for American Animals, which along with Gotti are the only films owned by MoviePass through its company MoviePass Ventures.",c2583b67ba34468e8551a1ce7941bd24,4
+accounts,first-time reviewers,"Additionally, 45 of the accounts created to leave reviews for Gotti were also first-time reviewers on the site and created their account in the same month.",c2583b67ba34468e8551a1ce7941bd24,4
+reviews,american animals,The praised American Animals is also owned by MoviePass Ventures.,c2583b67ba34468e8551a1ce7941bd24,4
+tickets,moviepass,MoviePass's business model of offering unlimited movies is responsible for 40% of the tickets sold.,c2583b67ba34468e8551a1ce7941bd24,4
+reviewers,first-time reviewers,Many of the first-time reviewers who left reviews for Gotti only wrote a review for Gotti and did not leave any other reviews on the site.,c2583b67ba34468e8551a1ce7941bd24,4
+movies,gotti,The film Gotti is distributed and marketed by MoviePass Ventures.,c2583b67ba34468e8551a1ce7941bd24,4

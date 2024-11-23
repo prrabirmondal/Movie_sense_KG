@@ -1,0 +1,43 @@
+node_1,node_2,edge,chunk_id,count
+raj malhotra,sanjana,Husband-wife relationship,1e899c498da148c695cde44e4e082af8,4
+vikram chopra,shivani,Husband-wife relationship,1e899c498da148c695cde44e4e082af8,4
+yogi mathur,maya,Husband-wife relationship,1e899c498da148c695cde44e4e082af8,4
+sanjana,free necklace,Issue regarding receiving a free necklace from Raj in a mall,1e899c498da148c695cde44e4e082af8,4
+maya,secret friend spying on yogi,Relationship between Maya and her secret friend who spies on Yogi's infidelity,1e899c498da148c695cde44e4e082af8,4
+sanjana,detective kishan khurana,Meeting arranged between Sanjana and Kishan to solve the issue of a free necklace from Raj,1e899c498da148c695cde44e4e082af8,4
+kishan khurana,sanjana's accusations against raj,Accusations made by Sanjana against Raj that Kishan investigates,1e899c498da148c695cde44e4e082af8,4
+raj malhotra,girlfriends,Relationship between Raj and multiple girlfriends,1e899c498da148c695cde44e4e082af8,4
+kishan khurana,new year's eve party,Location of Kishan's plan to expose Raj by calling all his girlfriends,1e899c498da148c695cde44e4e082af8,4
+vikram chopra,saves raj,Action taken by Vikram to save Raj during Kishan's plan to expose him,1e899c498da148c695cde44e4e082af8,4
+raj,kd,friend and Canadian Security Intelligence Service agent KD suggests hiring a private detective as the matter is too trivial and unprofessional for an intelligence agency to handle.,5cc7d21f32d84cab8c170f2e3ce28c1b,4
+raj,kishan,"land up at Kishan's place and, having recognized him from the party, enlist his help.",5cc7d21f32d84cab8c170f2e3ce28c1b,4
+sanjana,kishan,apparently crushing on Sanjana,5cc7d21f32d84cab8c170f2e3ce28c1b,4
+raj,yogi,mistakenly assuming Yogi as the informer after Kishan shows them a doctored video of Yogi conversing with Sanjana,5cc7d21f32d84cab8c170f2e3ce28c1b,4
+raj,sanjana,"exposing him on one of his cheat dates, resulting in ceasing their friendship with him.",5cc7d21f32d84cab8c170f2e3ce28c1b,4
+vikram,raj,assume Yogi as the informer after Kishan shows them a doctored video of Yogi conversing with Sanjana.,5cc7d21f32d84cab8c170f2e3ce28c1b,4
+sanjana,raj,"believes the story and forgives Raj, later snubbing Kishan over the exposé.",5cc7d21f32d84cab8c170f2e3ce28c1b,4
+raj,king's brother,responsible for killing during a 'mission' for KD.,5cc7d21f32d84cab8c170f2e3ce28c1b,4
+kishan,sanjana,"has plan to expose deceitful deal involving Kishan and Yogi, realizes something is wrong, decides to stage himself as King and have them assemble blindfolded",0add9816890e4dc4ae40ddbfa1ed76cf,4
+sanjana,kishan,"tries to commit suicide after truth is out, convinced otherwise by Kishan's persuasion",0add9816890e4dc4ae40ddbfa1ed76cf,4
+raj,sanjana,"former loving relationship with Sanjana, current deceitful and dishonest behavior revealed by Kishan's plan",0add9816890e4dc4ae40ddbfa1ed76cf,4
+yogi,raj,"informs Raj and Vikram of Sanjana beginning an affair and relationship with a dynamic, handsome man who is Kishan himself, part of Kishan's plan to entice Raj into jealousy",0add9816890e4dc4ae40ddbfa1ed76cf,4
+sanjana,"dynamic, handsome man",begins an affair and relationship with Sanjana as part of Kishan's plan to entice Raj into jealousy,0add9816890e4dc4ae40ddbfa1ed76cf,4
+kishan,"dynamic, handsome man",none other than Kishan himself in his staged plan to reform Raj and bring his loving former self back to Sanjana's life,0add9816890e4dc4ae40ddbfa1ed76cf,4
+kishan,shivani,"Shivani carries out Kishan's plan of the jealousy game, but trouble brews for Vikram when Shivani gets him to sign 'bank account' papers upon Kishan's help. This leads to Vikram being thrown out of the house and losing his property.",d9c934809d8e420f9e63ed23334dce39,4
+kishan,raj,"Kishan advises a troubled Raj, who makes him a witness while getting Raj to sign 'bank account' papers during the time he was in trouble. This leads to Raj obtaining ownership of all Kishan's property.",d9c934809d8e420f9e63ed23334dce39,4
+shivani,vikram,Shivani gets Vikram thrown out of the house upon having obtained ownership of all his property by getting him to sign 'bank account' papers during the time he was in trouble.,d9c934809d8e420f9e63ed23334dce39,4
+kishan,sanjana,Sanjana keeps a fast for Raj as per Kishan's request.,d9c934809d8e420f9e63ed23334dce39,4
+kishan,king,"Kishan arranges for the trio to meet King's wife Maddy, who also has doubts about King's possible affair. However, their meeting turns out to be a disaster as Maddy starts shooting at King for flirting with another girl.",d9c934809d8e420f9e63ed23334dce39,4
+kishan,sanjana,double-crossing each other while playing for their wives,f045f6a19b404facb09ca5a34e7ecadc,4
+kishan,raj,intentionally exposing him during a fight at the office,f045f6a19b404facb09ca5a34e7ecadc,4
+sanjana,maya,posing as Sanjana's boyfriend,f045f6a19b404facb09ca5a34e7ecadc,4
+sanjana,shivani,presenting herself as Shivani's brother,f045f6a19b404facb09ca5a34e7ecadc,4
+kishan,maya's friend,referencing himself as Maya's friend,f045f6a19b404facb09ca5a34e7ecadc,4
+sanjana,intention,luring the three women to King's lair out of intent,f045f6a19b404facb09ca5a34e7ecadc,4
+raj,sanjana,"demanding a divorce from Sanjana, assuming her to be openly in league and in love with Kishan",f045f6a19b404facb09ca5a34e7ecadc,4
+raj,sanjana,"While in the cell, Raj rues about Sanjana and contemplates deceiving her. When Sanjana confronts him after his success, it turns out that the assembly of people is for their remarriage.",1d29b3cfe53247d9ac7088f9e3b2543c,4
+raj,king,"King has his henchman Benny give Raj a gun to kill Kishan, as Raj is in fury and decides to kill Kishan.",1d29b3cfe53247d9ac7088f9e3b2543c,4
+kishan,sanjana,"Sanjana confronts Kishan after it turns out that the assembly of people is for their remarriage. However, when Kishan reveals himself to be alive, Sanjana and others are relieved.",1d29b3cfe53247d9ac7088f9e3b2543c,4
+king,maddy,King and Maddy show up after Kishan had arranged for their bail.,1d29b3cfe53247d9ac7088f9e3b2543c,4
+kishan,divya,"Kishan reveals that his wife Divya once walked in on him cheating and killed herself by slitting her wrist. Feeling guilty and breaking down, he set off on a mission to help aggrieved ladies of his wife's kind in order to redeem himself.",1d29b3cfe53247d9ac7088f9e3b2543c,4
+sanjana,kishan,Kishan decides to help Sanjana as he sees a reflection of his wife in her.,1d29b3cfe53247d9ac7088f9e3b2543c,4

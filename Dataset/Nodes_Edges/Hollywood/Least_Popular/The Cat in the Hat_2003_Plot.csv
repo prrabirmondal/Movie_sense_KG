@@ -1,0 +1,23 @@
+node_1,node_2,edge,chunk_id,count
+conrad,joan,mother-son relationship,37f61bd2e8c94ed88dca0297f06f8579,4
+sally walden,joan,parent-child relationship,37f61bd2e8c94ed88dca0297f06f8579,4
+hank humberfloob,joan,employer-employee relationship,37f61bd2e8c94ed88dca0297f06f8579,4
+mrs. kwan,sally walden and conrad,babysitter-child relationship,37f61bd2e8c94ed88dca0297f06f8579,4
+the cat in the hat,sally walden and conrad,intruder-children relationship,37f61bd2e8c94ed88dca0297f06f8579,4
+nevins,"joan, sally walden and conrad",pet-family relationship,37f61bd2e8c94ed88dca0297f06f8579,4
+humberfloob's office,joan,workplace-employee relationship,37f61bd2e8c94ed88dca0297f06f8579,4
+larry quinn,joan,romantic partner-partner relationship,37f61bd2e8c94ed88dca0297f06f8579,4
+thing 1,thing 2,cause destruction and chaos in the house by doing the opposite of what they are told,f83ff71968034e07aad0d4606062ba54,4
+cat,pinata,disguise as and get hit by children at a birthday party for Sally's former friend Denise,f83ff71968034e07aad0d4606062ba54,4
+larry,nevins,kidnap and hold captive until the Cat tricks him into giving them back,f83ff71968034e07aad0d4606062ba54,4
+thing 1,thing 2,pose as police officers to stall Larry and Joan,f83ff71968034e07aad0d4606062ba54,4
+cat,larry's car,use super-powered car to chase after Nevins and Larry,f83ff71968034e07aad0d4606062ba54,4
+larry,the cat,"Larry sees The Cat drive past him on a police motorcycle and becomes suspicious. However, The Cat reveals his plan to transform the house into 'The Mother of All Messes' and scares Larry away with purple gooey abyss. Later, Larry realizes that The Cat was behind the entire day's events and becomes angry.",08a86a809d6848f58a9243c25dd9c2c6,4
+larry,the things,"Conrad poses as police officers with The Things to stall Joan and allow Larry to return home first. Later, Larry races after them on their police motorcycle.",08a86a809d6848f58a9243c25dd9c2c6,4
+joan,larry,"Joan returns home with Sally while Larry races after her on a police motorcycle. Later, Joan reveals that she understands Larry's nature as a troublemaker but appreciates his nice qualities inside.",08a86a809d6848f58a9243c25dd9c2c6,4
+conrad,joan,"Conrad resigns himself to the consequences of his actions when Joan returns home with Sally. Later, Joan accepts Conrad's true nature as a troublemaker but acknowledges his nice qualities inside.",08a86a809d6848f58a9243c25dd9c2c6,4
+the cat,mrs. kwan,"The Cat and the trio ride on Mrs. Kwan to navigate through the surreal house transformed into 'The Mother of All Messes'. Later, when the house collapses, The Cat returns with a cleaning invention to fix it.",08a86a809d6848f58a9243c25dd9c2c6,4
+joan,larry,"Joan dumps Larry, much to his humiliation and dismay, after he begs her to accept his feelings for him.",08a86a809d6848f58a9243c25dd9c2c6,4
+joan,house,spends quality time with her children by jumping on the couch with them in the house,ef3f5d2164d04e2dacf4b223147bfbd5,4
+humberfloob,joan,congratulates Joan on the clean house,ef3f5d2164d04e2dacf4b223147bfbd5,4
+troublemaker,larry,"he is nice on the inside and politely dumps Larry, much to his humiliation and dismay",ef3f5d2164d04e2dacf4b223147bfbd5,4

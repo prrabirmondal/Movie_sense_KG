@@ -1,0 +1,21 @@
+node_1,node_2,edge,chunk_id,count
+doctor arthur neuman,loki,"Neuman mentions that Loki, the God of Mischief, created the mask and unleashed it on Earth to spread chaos among humankind, and that those who wear it are granted his powers. When Neuman mentions Loki's imprisonment at his father Odin's hands, a stranger becomes furious and transforms, revealing himself to be Loki.",7ff252a39e114295b5d3aff5896e11da,4
+loki,odin,"Loki asks his father for help, but Odin says that he has to take responsibility for his actions.",7ff252a39e114295b5d3aff5896e11da,4
+tim avery,mask,"The real mask is found in a river by a dog named Otis, who belongs to Tim Avery. An aspiring animator, Tim is reluctant to accept parenthood with his wife, Tonya.",7ff252a39e114295b5d3aff5896e11da,4
+tim avery (with mask),party,"When the party turns out to be a bore, Tim uses his newfound powers to perform a remix of 'Can't Take My Eyes Off You', invigorating the event and giving Tim's boss, ",7ff252a39e114295b5d3aff5896e11da,4
+alvey,tim,"relationship between father and son, Alvey uses his powers to torment Tim who is trying to work at home",a1a9a754a6e44183816b40d89d447d11,4
+otis,alvey,"relationship between Otis and Alvey, Otis tries to get rid of Alvey using the mask's powers but fails",a1a9a754a6e44183816b40d89d447d11,4
+loki,alvey,"relationship between Loki and Alvey, Loki finds Alvey and confronts Tim for the mask",a1a9a754a6e44183816b40d89d447d11,4
+tim,moss,"relationship between Tim and his boss Moss, Tim fails to impress Moss during a pitch and is later fired",a1a9a754a6e44183816b40d89d447d11,4
+daniel moss,tim,"relationship between Daniel Moss and Tim, Daniel Moss inspires Tim's cartoon idea after being invigorated by Tim's performance",a1a9a754a6e44183816b40d89d447d11,4
+alvey,odin,"relationship between Alvey and Odin, Alvey is born with the same powers as the mask which alerts Odin",a1a9a754a6e44183816b40d89d447d11,4
+tim,alvey,father-son relationship,d2fcbb2e041441409aee795facd5ead5,4
+loki,odin,son-god relationship,d2fcbb2e041441409aee795facd5ead5,4
+alvey,mask,object related to Alvey's powers and identity crisis,d2fcbb2e041441409aee795facd5ead5,4
+odin,loki,god-son relationship with a disciplinary tone,d2fcbb2e041441409aee795facd5ead5,4
+tim,avery household,residence of Tim's family,d2fcbb2e041441409aee795facd5ead5,4
+loki,avery household,place where Loki invades and tries to trick Alvey into staying with him,d2fcbb2e041441409aee795facd5ead5,4
+tonya,tim,spouse-husband relationship,d2fcbb2e041441409aee795facd5ead5,4
+otis,tim,friendship or acquaintance between the two characters,d2fcbb2e041441409aee795facd5ead5,4
+alvey,odin,god's decision to restore Alvey's powers with conditions attached,d2fcbb2e041441409aee795facd5ead5,4
+tim,mask,object that helps Tim become the Mask and face off against Loki in a fight,d2fcbb2e041441409aee795facd5ead5,4

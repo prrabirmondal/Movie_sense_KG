@@ -1,0 +1,43 @@
+node_1,node_2,edge,chunk_id,count
+duke leto atreides,arrakis," Duke Leto Atreides is assigned by the Padishah Emperor Shaddam IV to replace Baron Vladimir Harkonnen as the fiefholder of Arrakis, a harsh desert planet and the sole source of 'spice'",2e7752664e3044f49ac6ab5da253d532,4
+arrakis,spice," Spice is the valuable psychotropic substance that imparts heightened vitality and awareness, and Arrakis is the sole source of it",2e7752664e3044f49ac6ab5da253d532,4
+spice,spacing guild navigators, Spacing Guild Navigators use spice to guide starships to traverse space instantaneously and safely,2e7752664e3044f49ac6ab5da253d532,4
+house atreides,arrakis," Duke Leto Atreides, as the fiefholder of Arrakis, represents House Atreides in this context",2e7752664e3044f49ac6ab5da253d532,4
+house harkonnen,arrakis, Baron Vladimir Harkonnen previously held the position of fiefholder of Arrakis before being replaced by Duke Leto Atreides,2e7752664e3044f49ac6ab5da253d532,4
+emperor shaddam iv,duke leto atreides, Emperor Shaddam IV assigns Duke Leto Atreides to replace Baron Vladimir Harkonnen as the fiefholder of Arrakis,2e7752664e3044f49ac6ab5da253d532,4
+emperor shaddam iv,house harkonnen," Emperor Shaddam IV plots for House Harkonnen to retake Arrakis, secretly aided by his Sardaukar troops",2e7752664e3044f49ac6ab5da253d532,4
+lady jessica,bene gesserit, Lady Jessica is an acolyte of the Bene Gesserit,2e7752664e3044f49ac6ab5da253d532,4
+bene gesserit,centuries-long breeding program, The Bene Gesserit have implemented a centuries-long breeding program to produce the Kwisatz Haderach,2e7752664e3044f49ac6ab5da253d532,4
+paul,lady jessica," Paul is the son of Lady Jessica, who disobeyed the Bene Gesserit's orders to bear a daughter",2e7752664e3044f49ac6ab5da253d532,4
+paul,duncan idaho," Paul is trained by Duncan Idaho, one of Duke Leto Atreides' aides",2e7752664e3044f49ac6ab5da253d532,4
+paul,gurney halleck," Paul is trained by Gurney Halleck, another of Duke Leto Atreides' aides",2e7752664e3044f49ac6ab5da253d532,4
+paul,suk doctor wellington yueh," Paul is trained by the Suk doctor Wellington Yueh, who was previously employed by House Harkonnen",2e7752664e3044f49ac6ab5da253d532,4
+paul,thufir hawat," Paul is trained by Thufir Hawat, a Mentat employed by Duke Leto Atreides",2e7752664e3044f49ac6ab5da253d532,4
+fremen,arrakis, The Fremen are the mysterious natives of Arrakis mentioned in the context,2e7752664e3044f49ac6ab5da253d532,4
+paul,jessica,confides in Jessica and Duncan about troubling visions of the future,19fb96375cb3412fbb857a0a79d56722,4
+paul,reverend mother,subjects Paul to a deadly gom jabbar test to assess his humanity and impulse control,19fb96375cb3412fbb857a0a79d56722,4
+jessica,fremen,she explains is due to the Bene Gesserit sowing beliefs on Arrakis centuries earlier,19fb96375cb3412fbb857a0a79d56722,4
+paul,fremen,natives revere Paul and Jessica,19fb96375cb3412fbb857a0a79d56722,4
+mohiam,baron harkonnen,"insists Baron Harkonnen spare Paul and Jessica in his coup, to which he duplicitously agrees",19fb96375cb3412fbb857a0a79d56722,4
+leto,stilgar,meets and negotiates with Fremen chieftain Stilgar,19fb96375cb3412fbb857a0a79d56722,4
+kynes,fremen,lives among the Fremen,19fb96375cb3412fbb857a0a79d56722,4
+yueh,arrakeen's shields,"disables Arrakeen's shields, allowing the Harkonnens and Sardaukar to invade",19fb96375cb3412fbb857a0a79d56722,4
+yueh,leto,"plans to exchange him for his wife, the Baron's prisoner",19fb96375cb3412fbb857a0a79d56722,4
+baron harkonnen,leto,invaded by; incapacitated by; planned to exchange for wife; poison gas capsule left by Yueh,4d5fb988fd6d4a81982ffb27425c8ef0,4
+baron harkonnen,yueh,murdered by; double-crossed by,4d5fb988fd6d4a81982ffb27425c8ef0,4
+yueh,leto,poison gas capsule left for; replaced tooth with,4d5fb988fd6d4a81982ffb27425c8ef0,4
+baron harkonnen,paul,dropped deep in the desert to die by,4d5fb988fd6d4a81982ffb27425c8ef0,4
+baron harkonnen,jessica,dropped deep in the desert to die by,4d5fb988fd6d4a81982ffb27425c8ef0,4
+yueh,paul and jessica,left with fremkit for; survival supplies left by,4d5fb988fd6d4a81982ffb27425c8ef0,4
+jessica,captors,overpowered and killed by 'the Voice' of,4d5fb988fd6d4a81982ffb27425c8ef0,4
+paul,spice,visions of holy war fought across the universe in his name triggered by,4d5fb988fd6d4a81982ffb27425c8ef0,4
+baron harkonnen,rabban,appointed to oversee Arrakis by,4d5fb988fd6d4a81982ffb27425c8ef0,4
+duncan,paul and jessica,enabled escape of by sacrificing himself,4d5fb988fd6d4a81982ffb27425c8ef0,4
+kynes,paul and jessica,found by; disclosed escape plan to,4d5fb988fd6d4a81982ffb27425c8ef0,4
+kynes,sardaukar soldiers,caught by; mortally wounded and lured sandworm to devour herself and,4d5fb988fd6d4a81982ffb27425c8ef0,4
+paul,emperor shaddam's daughters,planned to marry one of to avert civil war arising from the Emperor's betrayal,4d5fb988fd6d4a81982ffb27425c8ef0,4
+paul,fremen tribe,"encounter in the desert, part of Paul's journey towards fulfilling his father's goal of bringing peace to Arrakis.",52bcd2834370412dafbdc4c8bbda0d8b,4
+jessica,fremen tribe,"accompanies Paul in encountering the Fremen tribe, but disagrees with his decision to join them.",52bcd2834370412dafbdc4c8bbda0d8b,4
+chani,paul,young woman from Paul's visions encountered by him and Jessica while deep in the desert with Stilgar's Fremen tribe.,52bcd2834370412dafbdc4c8bbda0d8b,4
+stilgar,fremen tribe,leader of the Fremen tribe who shows lenience towards Paul and Jessica.,52bcd2834370412dafbdc4c8bbda0d8b,4
+jamis,paul,Fremen warrior who challenges Paul to a ritual duel to the death.,52bcd2834370412dafbdc4c8bbda0d8b,4

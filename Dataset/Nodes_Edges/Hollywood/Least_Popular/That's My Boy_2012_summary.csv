@@ -1,0 +1,58 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,A MOVIE is represented through its SUMMARY.,1ca4d2e4d7034b86aeea7afdab8cb530,4
+donny berger,mary mcgarricle,"In 1984 Massachusetts, Donny Berger flirts with his middle-school teacher, Mary McGarricle, who seems repulsed by his actions and gives him a month's detention. However, in detention, Mary seduces Donny and they begin a sexual relationship, which is discovered during an auditorium speech. Subsequently, Mary is sentenced to 30 years in prison for statutory rape while the scandal makes Donny famous.",f93feeda25614796b2816cfdaa3581b6,4
+donny berger,famousness,The scandal involving Mary McGarricle makes Donny Berger famous.,f93feeda25614796b2816cfdaa3581b6,4
+mary mcgarricle,statutory rape,"In 1984 Massachusetts, teacher Mary McGarricle is sentenced to 30 years in prison for statutory rape.",f93feeda25614796b2816cfdaa3581b6,4
+donny berger,tax debts,"In the film, Donny Berger has tax debts and tries to earn money by having his televised reunion with his adult son Todd Peterson/Han Solo Berger.",f93feeda25614796b2816cfdaa3581b6,4
+todd peterson/han solo berger,donny berger,"In the film, Todd Peterson/Han Solo Berger is born as a result of the illicit relationship between his father Donny Berger and teacher Mary McGarricle.",f93feeda25614796b2816cfdaa3581b6,4
+todd peterson/han solo berger,donny berger (televised reunion),"In the film, Donny Berger tries to rekindle his relationship with his adult son Todd Peterson/Han Solo Berger in hopes that their televised reunion will earn him enough money to avoid going to prison for his tax debts.",f93feeda25614796b2816cfdaa3581b6,4
+todd peterson/han solo berger,han solo berger,"In the film, Todd Peterson is also known by his stage name Han Solo Berger.",f93feeda25614796b2816cfdaa3581b6,4
+that's my boy,columbia pictures,"That's My Boy was released in the United States on June 15, 2012, by Columbia Pictures.",f93feeda25614796b2816cfdaa3581b6,4
+happy madison productions,that's my boy,"Produced by Sandler's Happy Madison Productions in association with Relativity Media, That's My Boy was released in the United States on June 15, 2012, by Columbia Pictures.",f93feeda25614796b2816cfdaa3581b6,4
+relativity media,that's my boy,"Produced by Sandler's Happy Madison Productions in association with Relativity Media, That's My Boy was released in the United States on June 15, 2012, by Columbia Pictures.",f93feeda25614796b2816cfdaa3581b6,4
+columbia pictures,that's my boy (commercial failure),"That's My Boy was a commercial failure, grossing only $57 million against a $57–70 million budget.",f93feeda25614796b2816cfdaa3581b6,4
+mary,statutory rape,sentenced to 30 years in prison for,73ea5fa843c843b48cff087587688b57,4
+donny,famous,the scandal makes,73ea5fa843c843b48cff087587688b57,4
+mary,pregnant,after Mary is also revealed to be,73ea5fa843c843b48cff087587688b57,4
+donny's abusive father,custody of their unborn son,until Donny turns 18 to assume full custody,73ea5fa843c843b48cff087587688b57,4
+mary,30 years in prison,is sentenced to,73ea5fa843c843b48cff087587688b57,4
+donny,irs in back taxes,"to avoid spending three years in prison for this,",73ea5fa843c843b48cff087587688b57,4
+donny,8000:1 runner in an upcoming race,places a $20 bet on,73ea5fa843c843b48cff087587688b57,4
+todd peterson,han solo berger,"changed his name from Han Solo Berger to Todd Peterson and told others that his parents died in an explosion,",73ea5fa843c843b48cff087587688b57,4
+randall morgan,donny,"offers him $50,00 if he can organize a reunion with Todd and Mary,",73ea5fa843c843b48cff087587688b57,4
+todd peterson,donny,"arrives at Cape Cod. Todd, who did not expect the visit, pretends Donny is an old friend,",73ea5fa843c843b48cff087587688b57,4
+todd peterson,popularity with the guests,"annoyed him. He initially refuses to see Mary,",73ea5fa843c843b48cff087587688b57,4
+todd,mary,"refuses to see Mary, but after Donny convinces Jamie's family to have the wedding rehearsal away from churches and Todd's friends to have the bachelor party at a strip club, Todd reconciles with him and agrees to the prison meeting. However, as a television crew arrives to film in the middle of Todd and Mary's encounter, Todd leaves in disgust without signing a release form.",ebd81cf3482046ed854b71521d8f313b,4
+todd,donny,"refuses to see Mary, but after Donny convinces Jamie's family to have the wedding rehearsal away from churches and Todd's friends to have the bachelor party at a strip club, Todd reconciles with him and agrees to the prison meeting.",ebd81cf3482046ed854b71521d8f313b,4
+jamie,steve,Jamie is having affairs with Steve,ebd81cf3482046ed854b71521d8f313b,4
+jamie,chad,Jamie is having affairs with Chad,ebd81cf3482046ed854b71521d8f313b,4
+donny,jamie,feels guilty for withholding the truth and reveals Jamie's infidelity and incest during her wedding ceremony.,ebd81cf3482046ed854b71521d8f313b,4
+todd,jamie,breaks up with Jamie after discovering her infidelity and incest,ebd81cf3482046ed854b71521d8f313b,4
+todd,han solo,"accepts Donny as his father and reclaims his birth name, Han Solo.",ebd81cf3482046ed854b71521d8f313b,4
+brie,han solo,begins dating strip club bartender Brie,ebd81cf3482046ed854b71521d8f313b,4
+donny,todd,declines the money offered by Han Solo and insists on taking responsibility for his actions.,ebd81cf3482046ed854b71521d8f313b,4
+that's my boy,financial failure,"The film grossed $36.9 million in the US and $57.7 million worldwide, failing to recoup its $57–70 million budget, making it a financial failure.",20d6eb2a8d0c44e4ad1591f63fc74686,4
+that's my boy,critical consensus,"Rotten Tomatoes, That's My Boy has an approval rating of 20% based on 115 reviews and an average rating of 3.80/10.",20d6eb2a8d0c44e4ad1591f63fc74686,4
+that's my boy,audience grade,Audiences polled by CinemaScore gave the film an average grade of 'B−' on an A to F scale.,20d6eb2a8d0c44e4ad1591f63fc74686,4
+adam sandler,that's my boy,"Filming began on May 2, 2011, and ended on July 15, 2011.",20d6eb2a8d0c44e4ad1591f63fc74686,4
+adam sandler,financial failure,"The film grossed $36.9 million in the US and $57.7 million worldwide, failing to recoup its $57–70 million budget, making it a financial failure.",20d6eb2a8d0c44e4ad1591f63fc74686,4
+adam sandler,critical consensus,"Rotten Tomatoes, That's My Boy has an approval rating of 20% based on 115 reviews and an average rating of 3.80/10.",20d6eb2a8d0c44e4ad1591f63fc74686,4
+adam sandler,audience grade,Audiences polled by CinemaScore gave the film an average grade of 'B−' on an A to F scale.,20d6eb2a8d0c44e4ad1591f63fc74686,4
+adam sandler,opening weekend,"That's My Boy opened on June 15, 2012, grossing $13,453,714 in its opening weekend,",20d6eb2a8d0c44e4ad1591f63fc74686,4
+adam sandler,studio filming,"Studio filming at Columbia Pictures in Culver City, California.",20d6eb2a8d0c44e4ad1591f63fc74686,4
+adam sandler,massachusetts,"Filming took place in Massachusetts,",20d6eb2a8d0c44e4ad1591f63fc74686,4
+rotten tomatoes,that's my boy,That's My Boy has an approval rating of 20% based on 115 reviews and an average rating of 3.80/10.,20d6eb2a8d0c44e4ad1591f63fc74686,4
+rotten tomatoes,critical consensus,"Rotten Tomatoes, That's My Boy has an approval rating of 20% based on 115 reviews and an average rating of 3.80/10.",20d6eb2a8d0c44e4ad1591f63fc74686,4
+variety,financial failure,"Film critic Richard Roeper gave the film an F, calling it 'an ugly, tasteless, deadly and mean-spirited piece of filmmaking.'",20d6eb2a8d0c44e4ad1591f63fc74686,4
+variety,that's my boy,"Film critic Richard Roeper gave the film an F, calling it 'an ugly, tasteless, deadly and mean-spirited piece of filmmaking.'",20d6eb2a8d0c44e4ad1591f63fc74686,4
+variety,critical consensus,"Film critic Richard Roeper gave the film an F, calling it 'an ugly, tasteless, deadly and mean-spirited piece of filmmaking.'",20d6eb2a8d0c44e4ad1591f63fc74686,4
+cinemascore,that's my boy,Audiences polled by CinemaScore gave the film an average grade of 'B−' on an A to F scale.,20d6eb2a8d0c44e4ad1591f63fc74686,4
+statutory rape,child neglect,The film has been criticized for making light of both statutory rape and child neglect.,76f7dc51b93a4754952f2affa0996af4,4
+incest,child neglect,The film has also faced criticism for making light of incest and child neglect.,76f7dc51b93a4754952f2affa0996af4,4
+pathetic,film,Half in the Bag called the film 'pathetic'.,76f7dc51b93a4754952f2affa0996af4,4
+painful,film,Half in the Bag also described the film as 'painful'.,76f7dc51b93a4754952f2affa0996af4,4
+worst film of 2012,film,Justin Chang of Variety called it 'the worst film of 2012'.,76f7dc51b93a4754952f2affa0996af4,4
+shameless celebration of degenerate behavior,film,Justin Chang of Variety also described the film as a 'shameless celebration of degenerate behavior'.,76f7dc51b93a4754952f2affa0996af4,4
+staggering moral idiocy,film,Justin Chang of Variety also labeled the film as an example of 'staggering moral idiocy'.,76f7dc51b93a4754952f2affa0996af4,4
+adam sandler,unable to create humor,Half in the Bag suggested that Adam Sandler was unable to create humor that was not based on childish jokes.,76f7dc51b93a4754952f2affa0996af4,4
+childish jokes,humor,Half in the Bag labeled the humor in the film as 'childish jokes'.,76f7dc51b93a4754952f2affa0996af4,4

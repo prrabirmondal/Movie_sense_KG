@@ -1,0 +1,4 @@
+node_1,node_2,edge,chunk_id,count
+udaan,movies,Udaan is a type of movie.,d72ad7f83cf643bbba4712b40ea8bfab,4
+udaan,summary,Udaan has details related to its summary.,d72ad7f83cf643bbba4712b40ea8bfab,4
+here is,details,HERE IS is followed by details in this context.,d72ad7f83cf643bbba4712b40ea8bfab,4

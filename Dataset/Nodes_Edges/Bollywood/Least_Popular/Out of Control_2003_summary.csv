@@ -1,0 +1,13 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,"A movie is represented by its summary, which provides a brief overview of the plot and major events.",e6b0ca399754456bbcc6d9f8ae4de3a4,4
+jaswinder,sally,"Jaswinder goes to the United States and meets Sally, eventually marrying her for his visa while promising his parents he would return soon. This decision causes him to forget about keeping his promise to set his sister's marriage.",f82a8ac93e9640babc0e3179eae45264,4
+richa,jaswinder,"Richa is found as a bride for Jaswinder by his parents in India while he is in the United States with Sally. After Jaswinder returns to India, he strongly detests the idea of marrying Richa but eventually marries her and leaves for the United States once again without telling Sally.",f82a8ac93e9640babc0e3179eae45264,4
+jaswinder,richa,"Initially, Jaswinder does not want to be separated from Sally and ends up falling in love with Richa. However, this causes tension between them as Richa is surprised that her husband left soon after marriage.",f82a8ac93e9640babc0e3179eae45264,4
+flower,richa,"Flower meets Richa in New York and inspires her to become a modern girl in her appearance, which Jaswinder does not tolerate.",f82a8ac93e9640babc0e3179eae45264,4
+jaswinder,richa,"As Richa follows Jaswinder to New York, he eventually chucks her out. This decision causes Sally to be unaware of the situation.",f82a8ac93e9640babc0e3179eae45264,4
+jaswinder,richa,"After some time, Jaswinder realizes that he wants to lead a happy life with Richa and does not want to be separated from her.",f82a8ac93e9640babc0e3179eae45264,4
+sally,jaswinder,It is unclear whether Sally finds out about Jaswinder's actions with Richa.,f82a8ac93e9640babc0e3179eae45264,4
+out of control,decent entertainer,Taran Adarsh of Bollywood Hungama described the movie as 'a decent entertainer'.,1bcb130e24744d599f45449a37ee5fd0,4
+out of control,initial attract cinegoers,The critic from Rediff.com mentioned that 'the film will attract cinegoers in good numbers initially'.,1bcb130e24744d599f45449a37ee5fd0,4
+out of control,"been there, done that feeling","A critic from Rediff.com stated that 'the film reeks of that 'been there, done that' feeling'",1bcb130e24744d599f45449a37ee5fd0,4
+taran adarsh,bollywood hungama,Taran Adarsh is a critic from Bollywood Hungama.,1bcb130e24744d599f45449a37ee5fd0,4

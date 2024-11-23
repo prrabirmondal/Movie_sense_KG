@@ -1,0 +1,22 @@
+node_1,node_2,edge,chunk_id,count
+best film,"ajay devgn ffilms, t",Recipient of the Best Film award at the Filmfare Awards and IIFA Awards. Ajay Devgn FFilms is the production house responsible for producing the movie.,2f17a4a0a7ca4ba79b397f421682413c,4
+best film,national film awards,Won the Best Popular Film Providing Wholesome Entertainment award at the National Film Awards for the movie.,2f17a4a0a7ca4ba79b397f421682413c,4
+best actor,ajay devgn,Recipient of the Best Actor award at the Filmfare Awards and National Film Awards for his performance in the movie.,2f17a4a0a7ca4ba79b397f421682413c,4
+best supporting actor,saif ali khan,Won the Best Supporting Actor award at the Filmfare Awards for his role in the movie.,2f17a4a0a7ca4ba79b397f421682413c,4
+category,best film,"A category of awards presented at the Filmfare Awards, IIFA Awards, and National Film Awards.",2f17a4a0a7ca4ba79b397f421682413c,4
+date of ceremony,filmfare awards,The date on which the Filmfare Awards ceremony was held in 2021.,2f17a4a0a7ca4ba79b397f421682413c,4
+result,best film,Indicates whether the movie won or was nominated for the Best Film award at various ceremonies.,2f17a4a0a7ca4ba79b397f421682413c,4
+recipient(s),best actor,The person(s) who received the Best Actor award at various ceremonies.,2f17a4a0a7ca4ba79b397f421682413c,4
+nominated,best film,Indicates whether the movie was nominated for the Best Film award at various ceremonies.,2f17a4a0a7ca4ba79b397f421682413c,4
+recipient(s),best supporting actor,The person who received the Best Supporting Actor award at various ceremonies.,2f17a4a0a7ca4ba79b397f421682413c,4
+nominated,best dialogue,Indicates whether the movie was nominated for the Best Dialogue award at various ceremonies.,2f17a4a0a7ca4ba79b397f421682413c,4
+recipient(s),best cinematography,The person who received the Best Cinematography award at various ceremonies.,2f17a4a0a7ca4ba79b397f421682413c,4
+nominated,best action,Indicates whether the movie was nominated for the Best Action award at various ceremonies.,2f17a4a0a7ca4ba79b397f421682413c,4
+won,best choreography,Indicates whether the movie won or was nominated for the Best Choreography award at various ceremonies.,2f17a4a0a7ca4ba79b397f421682413c,4
+nominated,best special effects,Indicates whether the movie was nominated for the Best Special Effects award at various ceremonies.,2f17a4a0a7ca4ba79b397f421682413c,4
+won,best background score,Indicates whether the movie won or was nominated for the Best Background Score award at various ceremonies.,2f17a4a0a7ca4ba79b397f421682413c,4
+nominated,best sound design,Indicates whether the movie was nominated for the Best Sound Design award at various ceremonies.,2f17a4a0a7ca4ba79b397f421682413c,4
+ajay devgn,won,Ajay Devgn won the award for Best Actor.,c17fe91b3f9344f789a94650cf600dd4,4
+nachiket barve & mahesh sherla,won,Nachiket Barve & Mahesh Sherla won the award for Best Costume Design.,c17fe91b3f9344f789a94650cf600dd4,4
+tanhaji,highest most-rated film of the year,"Tanhaji was the highest most-rated film of the year, according to a survey report by Book My Show.",c17fe91b3f9344f789a94650cf600dd4,4
+google trends,third most searched films,"According to a report from Google Trends, Tanhaji was the third most searched film of Google.",c17fe91b3f9344f789a94650cf600dd4,4

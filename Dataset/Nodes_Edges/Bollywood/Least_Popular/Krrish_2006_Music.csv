@@ -1,0 +1,37 @@
+node_1,node_2,edge,chunk_id,count
+krrish,movie's,The phrase 'HERE IS THE DETAILS OF MOVIE'S MUSIC' indicates that Krrish and Movie's are related as Krrish is a specific movie for which the details of its music are being provided.,e4e67f0d92ec4608920d2d5ddb718a7c,4
+krrish,soundtrack,The statement 'HERE IS THE DETAILS OF MOVIE'S MUSIC' implies that the soundtrack of Krrish is being discussed.,e4e67f0d92ec4608920d2d5ddb718a7c,4
+krrishsoundtrack,album,"The phrase 'KrrishSoundtrack album by Rajesh Roshan' suggests that 'KrrishSoundtrack' is a specific album containing the music for the movie Krrish, and it was produced by Rajesh Roshan.",e4e67f0d92ec4608920d2d5ddb718a7c,4
+krrishsoundtrack,released,The statement 'HERE IS THE DETAILS OF MOVIE'S MUSIC: ----------------------------------------------------- KrrishSoundtrack album by Rajesh RoshanReleased28 April 2006Recorded2005GenreFilm soundtrackLabelT-SeriesProducerRajesh RoshanRajesh Roshan chronology' specifies that the release date for 'KrrishSoundtrack' was 28th April 2006.,e4e67f0d92ec4608920d2d5ddb718a7c,4
+krrishsoundtrack,recorded,The sentence 'HERE IS THE DETAILS OF MOVIE'S MUSIC: ----------------------------------------------------- KrrishSoundtrack album by Rajesh RoshanReleased28 April 2006Recorded2005GenreFilm soundtrackLabelT-SeriesProducerRajesh RoshanRajesh Roshan chronology' indicates that 'KrrishSoundtrack' was recorded in the year 2005.,e4e67f0d92ec4608920d2d5ddb718a7c,4
+krrishsoundtrack,genre,The statement 'HERE IS THE DETAILS OF MOVIE'S MUSIC: ----------------------------------------------------- KrrishSoundtrack album by Rajesh RoshanReleased28 April 2006Recorded2005GenreFilm soundtrackLabelT-SeriesProducerRajesh RoshanRajesh Roshan chronology' explains that the genre of 'KrrishSoundtrack' is Film soundtrack.,e4e67f0d92ec4608920d2d5ddb718a7c,4
+krrishsoundtrack,label,The phrase 'HERE IS THE DETAILS OF MOVIE'S MUSIC: ----------------------------------------------------- KrrishSoundtrack album by Rajesh RoshanReleased28 April 2006Recorded2005GenreFilm soundtrackLabelT-SeriesProducerRajesh RoshanRajesh Roshan chronology' specifies that 'KrrishSoundtrack' was released under the label T-Series.,e4e67f0d92ec4608920d2d5ddb718a7c,4
+krrishsoundtrack,producer,The sentence 'HERE IS THE DETAILS OF MOVIE'S MUSIC: ----------------------------------------------------- KrrishSoundtrack album by Rajesh RoshanReleased28 April 2006Recorded2005GenreFilm soundtrackLabelT-SeriesProducerRajesh RoshanRajesh Roshan chronology' indicates that 'KrrishSoundtrack' was produced by Rajesh Roshan.,e4e67f0d92ec4608920d2d5ddb718a7c,4
+krrishsoundtrack,movie,The statement 'HERE IS THE DETAILS OF MOVIE'S MUSIC: ----------------------------------------------------- KrrishSoundtrack album by Rajesh RoshanReleased28 April 2006Recorded2005GenreFilm soundtrackLabelT-SeriesProducerRajesh RoshanRajesh Roshan chronology' suggests that 'KrrishSoundtrack' is related to the movie Krrish.,e4e67f0d92ec4608920d2d5ddb718a7c,4
+movie's,music,The phrase 'HERE IS THE DETAILS OF MOVIE'S MUSIC: ----------------------------------------------------- KrrishSoundtrack album by Rajesh RoshanReleased28 April 2006Recorded2005GenreFilm soundtrackLabelT-SeriesProducerRajesh RoshanRajesh Roshan chronology' indicates that the context being discussed is related to the music of a specific movie.,e4e67f0d92ec4608920d2d5ddb718a7c,4
+krrish soundtrack,bollywood soundtrack,"The film's soundtrack, composed by Rajesh Roshan, was released by T-Series in 2006. It became the seventh best-selling Bollywood soundtrack of the year.",690b71b1d1dc4bb18ad40192e5e9c22b,4
+krrish soundtrack,hindi krrish soundtrack,The Tamil version of the soundtrack also exists.,690b71b1d1dc4bb18ad40192e5e9c22b,4
+then vadikkum,title,"A song from the Tamil version of the Krrish Soundtrack, sung by Sonu Nigam and Shreya Ghoshal.",690b71b1d1dc4bb18ad40192e5e9c22b,4
+then vadikkum,tamil song,A song in the Tamil language from the Krrish Soundtrack.,690b71b1d1dc4bb18ad40192e5e9c22b,4
+un pol yaarum,title,"Another song from the Tamil version of the Krrish Soundtrack, also sung by Sonu Nigam and Shreya Ghoshal.",690b71b1d1dc4bb18ad40192e5e9c22b,4
+sokki sokki summa,title,"The third song in the Tamil version of the Krrish Soundtrack, featuring Udit Narayan and Shreya Ghoshal's vocals.",690b71b1d1dc4bb18ad40192e5e9c22b,4
+dil illaiya,title,"The fourth song from the Tamil version of the Krrish Soundtrack, with Kunal Ganjawala providing the vocals.",690b71b1d1dc4bb18ad40192e5e9c22b,4
+naane un vaaname,title,"A fifth and final song from the Tamil version of the Krrish Soundtrack, sung by Gopal Rao and Alka Yagnik.",690b71b1d1dc4bb18ad40192e5e9c22b,4
+bollywood soundtrack,hindi krrish soundtrack,"The Hindi version of the Krrish Soundtrack also exists, featuring songs by various singers and lyricists.",690b71b1d1dc4bb18ad40192e5e9c22b,4
+pyaar ki ek kahaani,title,"The first song from the Hindi version of the Krrish Soundtrack, sung by Sonu Nigam and Shreya Ghoshal.",690b71b1d1dc4bb18ad40192e5e9c22b,4
+koi tumsa nahin,title,"The second song from the Hindi version of the Krrish Soundtrack, featuring Sonu Nigam and Shreya Ghoshal's vocals.",690b71b1d1dc4bb18ad40192e5e9c22b,4
+chori chori chupke chupke,title,"The third song from the Hindi version of the Krrish Soundtrack, sung by Udit Narayan and Shreya Ghoshal.",690b71b1d1dc4bb18ad40192e5e9c22b,4
+dil na diya,title,"The fourth song from the Hindi version of the Krrish Soundtrack, with vocals provided by Kunal Ganjawala.",690b71b1d1dc4bb18ad40192e5e9c22b,4
+main hoon woh aasmaan,title,"The fifth and final song from the Hindi version of the Krrish Soundtrack, featuring Rafaqat Ali Khan and Alka Yagnik's vocals.",690b71b1d1dc4bb18ad40192e5e9c22b,4
+big band mix,title,"A remixed song from both versions of the Krrish Soundtrack, sung by Sonu Nigam and Shreya Ghoshal.",690b71b1d1dc4bb18ad40192e5e9c22b,4
+mystic love mix,title,"Another remixed song from both versions of the Krrish Soundtrack, featuring Gopal Rao and Alka Yagnik's vocals.",690b71b1d1dc4bb18ad40192e5e9c22b,4
+joginder tuteja,critic,"A film critic who reviewed the Krrish Soundtrack in 2006, and gave it positive feedback.",690b71b1d1dc4bb18ad40192e5e9c22b,4
+disappointment,media,in the media called it a disappointment,f203846e2e084ea7a7a5fb0a1b2756d1,4
+3.5,rating,"Joginder Tuteja of Bollywood Hungama gave the album a rating of 3.5 out of 5 stars,",f203846e2e084ea7a7a5fb0a1b2756d1,4
+lovers,bollywood music lovers,another good outing for Bollywood music lovers.,f203846e2e084ea7a7a5fb0a1b2756d1,4
+chori chori,songs,"praised the songs 'Chori Chori',",f203846e2e084ea7a7a5fb0a1b2756d1,4
+koi tumsa nahi,songs,and 'Koi Tumsa Nahi'.,f203846e2e084ea7a7a5fb0a1b2756d1,4
+pyaar ki ek kahaani,songs,"praised the songs 'Chori Chori', 'Koi Tumsa Nahi' and 'Pyaar Ki Ek Kahaani.'",f203846e2e084ea7a7a5fb0a1b2756d1,4
+staying power,none of them bear the staying power of rajesh roshan's earlier soundtracks.,"while the songs meshed with the film, 'none of them bear the staying power of Rajesh Roshan's earlier soundtracks.'",f203846e2e084ea7a7a5fb0a1b2756d1,4
+catchy,sukanya verma of rediff gave a favourable review for the soundtrack's 'catchy' songs.,Sukanya Verma of Rediff gave a favourable review for the soundtrack's 'catchy' songs.,f203846e2e084ea7a7a5fb0a1b2756d1,4
+expectations,did not live up to the pre-release expectations.,Dr. Mandar V. Bichu of Gulf News said that it did not live up to the pre-release expectations.,f203846e2e084ea7a7a5fb0a1b2756d1,4

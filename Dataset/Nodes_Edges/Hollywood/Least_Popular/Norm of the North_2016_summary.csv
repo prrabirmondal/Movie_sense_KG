@@ -1,0 +1,54 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,Movie's Summary refers to the brief description or details provided about a particular movie.,23ff580690134c98a8d7b2122756a7ed,4
+norm,king of the arctic,"Relationship between Norm, a polar bear, and his father, the King of the Arctic",7bf6055cb0814887ba0ef0cbeaca1474,4
+norm,grandfather,Norm's grandfather has disappeared,7bf6055cb0814887ba0ef0cbeaca1474,4
+norm,elizabeth,"Norm is in love with Elizabeth, a female polar bear",7bf6055cb0814887ba0ef0cbeaca1474,4
+socrates,norm,Socrates accepts Norm as an outcast from the other animals,7bf6055cb0814887ba0ef0cbeaca1474,4
+other animals,norm,Norm is made an outcast from the other animals because of his ability to speak to humans,7bf6055cb0814887ba0ef0cbeaca1474,4
+humans,norm,Norm has the unique trait of being able to communicate with humans,7bf6055cb0814887ba0ef0cbeaca1474,4
+arctic,kingdom,The Arctic is ruled by a king,7bf6055cb0814887ba0ef0cbeaca1474,4
+tourists,arctic,Human tourists are filling the Arctic,7bf6055cb0814887ba0ef0cbeaca1474,4
+norm,elizabeth,Norm is in love with a female polar bear named Elizabeth.,eb692b096217419eb6ec2054b6b47388,4
+norm's grandfather,human tourists,Human tourists have replaced Norm's grandfather in the Arctic.,eb692b096217419eb6ec2054b6b47388,4
+socrates,luxury condo,Socrates shows Norm and three Arctic lemmings a luxury condo that has been installed on the ice.,eb692b096217419eb6ec2054b6b47388,4
+vera,wealthy developer mr. greene,Vera is a representative for wealthy developer Mr. Greene.,eb692b096217419eb6ec2054b6b47388,4
+norm,actress dressed as a polar bear,"Norm, pretending to be an actress dressed as a polar bear, auditions for Mr. Greene's commercial and is taken to dinner by Vera.",eb692b096217419eb6ec2054b6b47388,4
+mr. greene,norm's grandfather,Mr. Greene has captured Norm's grandfather.,eb692b096217419eb6ec2054b6b47388,4
+norm,tranquilizer gun,Mr. Greene confronts Norm with a tranquilizer gun because he suspects that Norm has come to free his grandfather.,eb692b096217419eb6ec2054b6b47388,4
+norm,approval ratings,Norm's popularity further increases Mr. Greene's approval ratings.,eb692b096217419eb6ec2054b6b47388,4
+mr. greene,recorded dialogue,Mr. Greene uses recorded dialogue to claim that Norm supports his developments.,eb692b096217419eb6ec2054b6b47388,4
+vera,daughter olympia,Vera's daughter Olympia tells Norm to speak out against Mr. Greene and his campaign so he can save the Arctic.,eb692b096217419eb6ec2054b6b47388,4
+norm,approval ratings,"Defeated, Norm is comforted by Vera and Olympia, who reveal that Mr. Greene is developing more.",eb692b096217419eb6ec2054b6b47388,4
+norm,arctic,"Norm supports his developments in the Arctic. Defeated, Norm is comforted by Vera and Olympia who reveal that Mr. Greene is developing more homes to install in the Arctic.",a7ab6621b29d49d987303b0969460b86,4
+mr. greene,polar council,"Mr. Greene is bribing a high-ranking member of the Polar Council,",a7ab6621b29d49d987303b0969460b86,4
+pablo,vera,"After Vera resigns her position, she is hired by Pablo.",a7ab6621b29d49d987303b0969460b86,4
+norm's grandfather,animal control truck,"The animal control sends the truck carrying Norm's grandfather,",a7ab6621b29d49d987303b0969460b86,4
+norm,grandfather,Norm and his grandfather get reunited after being freed by the lemmings.,a7ab6621b29d49d987303b0969460b86,4
+norm,arctic houses,"Norm and his grandfather are able to detach the houses in the Arctic,",a7ab6621b29d49d987303b0969460b86,4
+mr. greene,reputation,Mr. Greene's reputation is ruined after his bribery is publicly revealed.,a7ab6621b29d49d987303b0969460b86,4
+norm,king of the arctic,"Because of his heroism, Norm is crowned the King of the Arctic,",a7ab6621b29d49d987303b0969460b86,4
+norm,lionsgate,"Lionsgate and Crest Animation Studios announced the project in February 2010, as part of a three-film deal between both parties.",c6949f57ed1847e28a5050e7b4382225,4
+norm,steven and daniel altiere,"Steven and Daniel Altiere were set to write the film, based on their own original story.",c6949f57ed1847e28a5050e7b4382225,4
+norm,rob schneider,"Rob Schneider was cast in the film as the titular character,",c6949f57ed1847e28a5050e7b4382225,4
+norm,ken jeong,Ken Jeong and Loretta Devine also being cast around the same time.,c6949f57ed1847e28a5050e7b4382225,4
+norm,bill nighy,"Bill Nighy, Gabriel Iglesias, Colm Meaney and Michael McElhatton were added to the cast,",c6949f57ed1847e28a5050e7b4382225,4
+norm,trevor wall,Trevor Wall was hired to direct.,c6949f57ed1847e28a5050e7b4382225,4
+norm of the north,television commercials,"The film Norm of the North had television commercials played on several channels during its release, according to [17].",3932b360dbf243f1ba7f4dc1066ebd5c,4
+norm of the north,box office performance,"As of August 2016, Norm of the North had grossed $30.5 million worldwide against a budget of $18 million [5]. It finished 6th at the box office during its opening weekend and grossed $9.4 million over four days on Martin Luther King Jr. Day weekend.",3932b360dbf243f1ba7f4dc1066ebd5c,4
+norm of the north,critical reception,Norm of the North has an approval rating of 6% based on 70 reviews on Rotten Tomatoes and a rating of 3.10/10 [21]. It was temporarily rated 0% on Rotten Tomatoes until The Emoji Movie surpassed it.,3932b360dbf243f1ba7f4dc1066ebd5c,4
+norm of the north,audiences,The film's CinemaScore rating from audiences was an average grade of [].,3932b360dbf243f1ba7f4dc1066ebd5c,4
+"january 15, 2016",release date,"Norm of the North was released on January 15, 2016, alongside other films like 13 Hours: The Secret Soldiers of Benghazi and Ride Along 2.",3932b360dbf243f1ba7f4dc1066ebd5c,4
+norm of the north,quality animated family films,"The reviewer from The A.V. Club compares Norm of the North unfavorably to quality animated family films, such as those produced by Pixar.",9d21c80047c04c0fab1f68277e94b340,4
+norm of the north,below-par ice age-style tale,The reviewer from The Observer describes Norm of the North as a below-par version of an Ice Age-style tale.,9d21c80047c04c0fab1f68277e94b340,4
+norm of the north,dull,The reviewer from The Observer labels Norm of the North as dull.,9d21c80047c04c0fab1f68277e94b340,4
+norm of the north,generally unfavorable reviews,The context includes information that 21 out of 100 critics gave Norm of the North generally unfavorable reviews.,9d21c80047c04c0fab1f68277e94b340,4
+audiences,b- grade,"According to CinemaScore, audiences polled by CinemaScore gave Norm of the North an average grade of 'B-' on an A+ to F scale.",9d21c80047c04c0fab1f68277e94b340,4
+norm of the north,animals of the arctic,The reviewer from Mark Dujsik doesn't think Norm of the North cares about the animals of the Arctic.,9d21c80047c04c0fab1f68277e94b340,4
+norm of the north,environment,The reviewer from Mark Dujsik doesn't think Norm of the North cares about the environment.,9d21c80047c04c0fab1f68277e94b340,4
+norm of the north,kids,The reviewer from Mark Dujsik doesn't think Norm of the North cares about kids either.,9d21c80047c04c0fab1f68277e94b340,4
+norm of the north,lemmings,"According to a reviewer from The Observer, Norm of the North features a group of vulgar lemmings.",9d21c80047c04c0fab1f68277e94b340,4
+norm of the north,ancillary afterlife,The reviewer from Variety predicts that Norm of the North will quickly head south to an ancillary afterlife.,9d21c80047c04c0fab1f68277e94b340,4
+norm,quality animated family films,"In a post-Pixar world, where audiences have become accustomed to quality animated family films, Norm's existence as a low-budget animation is perceived as a waste of money.",ddcf1b5ea69b46b8abc56325fc411ab6,4
+norm,preschoolers,"Despite being hardly original ... 'Norm' has oodles of charm, a razor-sharp wit, and pacing that should keep even preschoolers attentive.",ddcf1b5ea69b46b8abc56325fc411ab6,4
+norm,role model,Your kids will enjoy Norm's company–he's funny and a role model for doing the right thing,ddcf1b5ea69b46b8abc56325fc411ab6,4
+difference,condescending,The difference between Norm and other animated films is not just seen as condescending.,ddcf1b5ea69b46b8abc56325fc411ab6,4

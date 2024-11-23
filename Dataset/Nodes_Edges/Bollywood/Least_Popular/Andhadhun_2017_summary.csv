@@ -1,0 +1,4 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,"A movie has a summary that provides details about its plot, characters, and other important information.",2822916ce43649158de6bd9a9161a9b0,4
+summary,details,"A summary contains detailed information about a particular topic or subject, such as the key events, characters, and themes of a movie.",2822916ce43649158de6bd9a9161a9b0,4
+message,displayed,"When a message is displayed, it may be due to various reasons, such as an error, a warning, or a confirmation prompt.",2822916ce43649158de6bd9a9161a9b0,4

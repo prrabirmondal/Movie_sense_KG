@@ -1,0 +1,19 @@
+node_1,node_2,edge,chunk_id,count
+shrek,lord farquaad,"Farquaad exiles fairy-tale creatures to Shrek's swamp, causing an intrusion that angers Shrek. Farquaad later organizes a tournament in which the winner will rescue Princess Fiona for him.",05b3075193e54a46b680496d81075dbc,4
+shrek,princess fiona,Shrek is tasked with rescuing Princess Fiona by Lord Farquaad in order to relocate the fairy-tale creatures that invaded Shrek's swamp.,05b3075193e54a46b680496d81075dbc,4
+donkey,shrek,Donkey tags along with Shrek and helps guide him to Lord Farquaad's castle in order to complete his task.,05b3075193e54a46b680496d81075dbc,4
+fiona,dragon,"Princess Fiona is imprisoned in a castle guarded by a Dragon, which Shrek and Donkey must defeat in order to rescue her.",05b3075193e54a46b680496d81075dbc,4
+donkey,female dragon,Donkey falls in love with the female Dragon that guards Princess Fiona's castle.,05b3075193e54a46b680496d81075dbc,4
+lord farquaad,magic mirror,"Lord Farquaad consults with the Magic Mirror, who informs him that he must marry a princess in order to become king.",05b3075193e54a46b680496d81075dbc,4
+fiona,shrek,"Initially, Fiona is appalled by Shrek's lack of romanticism due to his appearance as an ogre. However, after learning about Shrek's frustration with being judged for his appearance and carrying Fiona against her will, Fiona becomes more kind towards him. As they continue their journey together, Fiona and Shrek begin to fall in love.",b31b231bc9e34f11bff791bcfca99135,4
+fiona,donkey,"When Donkey discovers that Fiona has transformed into an ogre at night but retains her human form during the day, he is surprised but helps keep her secret from Shrek. Fiona also reveals to Donkey that she needs 'true love's kiss' to break the spell and return to her true form.",b31b231bc9e34f11bff791bcfca99135,4
+fiona,robin hood,"During their journey, Fiona easily defeats Robin Hood and his band of Merry Men in physical combat, impressing Shrek.",b31b231bc9e34f11bff791bcfca99135,4
+shrek,fiona,"After learning that Fiona is cursed to transform into an ogre at night but retain her human form during the day, Shrek becomes confused and leaves due to her referring to herself as an 'ugly beast'. However, after returning with Farquaad, Shrek realizes that he has fallen in love with Fiona.",b31b231bc9e34f11bff791bcfca99135,4
+farquaad,shrek,"Shrek is initially hostile towards Farquaad due to his previous encounters with him, but after carrying Fiona against her will and realizing that she has transformed into an ogre at night, Shrek returns with Farquaad to help save her.",b31b231bc9e34f11bff791bcfca99135,4
+shrek,fiona,"initially had a relationship, but it became strained when Shrek abruptly left and returned with Farquaad. Later reconciled and professed their love for each other.",ed7747e81e2d4eb7a6ea7f87aa78955e,4
+shrek,farquaad,"Shrek angrily left after Farquaad's marriage proposal to Fiona confused and hurt her. Shrek realized his mistake and reunited with Fiona, interrupting the wedding and exposing Farquaad's true intentions.",ed7747e81e2d4eb7a6ea7f87aa78955e,4
+farquaad,fiona,"Married Fiona to become king, but she was not referring to Shrek as an 'ugly beast.'",ed7747e81e2d4eb7a6ea7f87aa78955e,4
+fiona,ogre curse,"After accepting Farquaad's marriage proposal, Fiona transformed into an ogre at nightfall. The sun set as she understood the meaning behind her previous remarks.",ed7747e81e2d4eb7a6ea7f87aa78955e,4
+farquaad,ogre curse,Intended to remain king by technicality even after Fiona's transformation into an ogre.,ed7747e81e2d4eb7a6ea7f87aa78955e,4
+dragon,farquaad,Devoured Farquaad when he ordered Shrek's execution and imprisoned Fiona to remain king by technicality.,ed7747e81e2d4eb7a6ea7f87aa78955e,4
+donkey,shrek,"Scolded Shrek for his bad behavior and encouraged him to express his love for Fiona, leading to their reconciliation.",ed7747e81e2d4eb7a6ea7f87aa78955e,4

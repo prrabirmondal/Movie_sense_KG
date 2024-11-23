@@ -1,0 +1,3 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,"A movie has a summary that provides details about its plot, characters, and other important aspects.",eeca5b6c08614d03960fb1964abb5d0c,4
+details,summary,"Details refer to specific pieces of information that are included in a summary, such as the main events, themes, or messages conveyed by the movie.",eeca5b6c08614d03960fb1964abb5d0c,4

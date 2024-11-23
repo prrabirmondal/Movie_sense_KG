@@ -1,0 +1,17 @@
+node_1,node_2,edge,chunk_id,count
+movie's plot,details,Description of the context,6224c0dbefac437d8361f8c66d031f49,4
+vicky,sakshi,Relationship between two con artists and car thieves who accidentally kill someone's brother,6224c0dbefac437d8361f8c66d031f49,4
+bhanwarlal,brother of the person accidentally killed by vicky and sakshi,Relation between the brothers involved in avenging their sibling's death,6224c0dbefac437d8361f8c66d031f49,4
+rohit verma,ajay devgn (lookalike of vicky),Mistaken identity caused by the similarity between two individuals,6224c0dbefac437d8361f8c66d031f49,4
+pratap verma,rohit's father,Relationship between a son and his father,6224c0dbefac437d8361f8c66d031f49,4
+neha,rohit's wife,Marital relationship,6224c0dbefac437d8361f8c66d031f49,4
+vicky,sakshi,The main characters decide to leave their previous life and start a new one together,6224c0dbefac437d8361f8c66d031f49,4
+sakshi,vicky,Relationship between the two con artists and car thieves after they separate for a while,6224c0dbefac437d8361f8c66d031f49,4
+rohit,vicky,Mistaken identity leads to Vicky being mistaken for Rohit in Manali,6224c0dbefac437d8361f8c66d031f49,4
+neha,rohit,Marital relationship between Neha and Rohit,6224c0dbefac437d8361f8c66d031f49,4
+vicky,sakshi,Decision to leave their old life and start a new one gets postponed due to certain circumstances,6224c0dbefac437d8361f8c66d031f49,4
+rohit,vicky,Realization by Vicky that he is responsible for Rohit's death,6224c0dbefac437d8361f8c66d031f49,4
+vicky,sakshi,"Vicky falls in love with Sakshi and decides to leave Neha. However, due to circumstances, Vicky leaves Sakshi too. Later, when the truth is revealed, Vicky and Sakshi reunite.",91ed7cf374534766a9c2665bfb0dc4c1,4
+neha,vicky,Neha marries Vicky but later realizes that he is dead. She accepts this reality.,91ed7cf374534766a9c2665bfb0dc4c1,4
+sagar,neha,Sagar has loved Neha since childhood and it is implied that they may start a new life together.,91ed7cf374534766a9c2665bfb0dc4c1,4
+bhanwarlal,sakshi,Bhanwarlal's family tries to get Sakshi married to his youngest brother.,91ed7cf374534766a9c2665bfb0dc4c1,4

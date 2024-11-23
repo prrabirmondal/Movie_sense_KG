@@ -1,0 +1,32 @@
+node_1,node_2,edge,chunk_id,count
+king,true happiness,sets out on a journey to discover true happiness,dcfff3636ce94e96b95d33e48a64ffbf,4
+king,holy stone,discovers true happiness and comes upon a holy stone in a forest occupied by Panjurli Daiva,dcfff3636ce94e96b95d33e48a64ffbf,4
+panjurli daiva,king,"warns the king that his family and successors should keep their word and not reclaim the land, which will incur the wrath of Panjurli's companion, the ferocious demigod named Guliga Daiva",dcfff3636ce94e96b95d33e48a64ffbf,4
+descendant,bhoota kola performer,"asks a Bhoota Kola performer, who is possessed by Panjurli to make the locals hand over the land to him",dcfff3636ce94e96b95d33e48a64ffbf,4
+bhoota kola performer,panjurli,is possessed by Panjurli,dcfff3636ce94e96b95d33e48a64ffbf,4
+bhoota kola performer,descendant,"refuses and states that if the former goes to court for the decision of the land, then the Daiva will give his decision on the stairs of the court only",dcfff3636ce94e96b95d33e48a64ffbf,4
+court steps,king's successor,"dies mysteriously of heart attack, where he was going to argue the land case",dcfff3636ce94e96b95d33e48a64ffbf,4
+murali,villagers' land,is tasked with converting the villagers' land into a forest reserve,dcfff3636ce94e96b95d33e48a64ffbf,4
+murali,shiva,disagreement over converting the villagers' land into a forest reserve,2c35778f95c849b0986b4b6d23304468,4
+shiva,devendra suttooru,backed by his patron and the village's landlord,2c35778f95c849b0986b4b6d23304468,4
+leela,shiva,friend,2c35778f95c849b0986b4b6d23304468,4
+leela,devendra suttooru,appointed as a forest guard by his connections,2c35778f95c849b0986b4b6d23304468,4
+murali,shiva's friends and companions,arrest,2c35778f95c849b0986b4b6d23304468,4
+sudhakara,devendra suttooru,henchman,2c35778f95c849b0986b4b6d23304468,4
+murali,shiva's hideout,heads to with Devendra's henchman Sudhakara,2c35778f95c849b0986b4b6d23304468,4
+shiva,leela,rift due to Shiva's involvement in the feud between Murali and himself and Leela following orders,2c35778f95c849b0986b4b6d23304468,4
+murali,shiva's friends and companions,accidentally gets crushed by the trunk of a tree during search for Shiva and his friends and companions due to miscalculation,2c35778f95c849b0986b4b6d23304468,4
+leela,shiva,reunites after the feud between Murali and himself and Leela following orders,2c35778f95c849b0986b4b6d23304468,4
+shiva,leela,"friendship, reconciliation",0808a42f0e3d4c878f789a2e29a2dbd6,4
+shiva,police,"arrest avoidance, caught by police and forest guards",0808a42f0e3d4c878f789a2e29a2dbd6,4
+shiva,devendra,"ulterior motive, bribery attempt, enmity",0808a42f0e3d4c878f789a2e29a2dbd6,4
+guruva,devendra,"impersonation request refusal, murder",0808a42f0e3d4c878f789a2e29a2dbd6,4
+murali,shiva,"enmity, reconciliation",0808a42f0e3d4c878f789a2e29a2dbd6,4
+mahadeva,shiva,information sharing,0808a42f0e3d4c878f789a2e29a2dbd6,4
+panjurli,devendra,land seizure,0808a42f0e3d4c878f789a2e29a2dbd6,4
+murali,villagers,information sharing,0808a42f0e3d4c878f789a2e29a2dbd6,4
+shiva,panjurli's stone,"near-death experience, possession by spirit",0808a42f0e3d4c878f789a2e29a2dbd6,4
+shiva,guliga daiva,"Shiva possesses the power of Guliga Daiva, which allows him to brutally kill Devendra and his henchmen.",214e2604f29d4065b646e936b1569916,4
+shiva,panjurli,"During the Bhoota Kola, Shiva is possessed by Panjurli.",214e2604f29d4065b646e936b1569916,4
+shiva,murali,"In the symbolic gesture, Shiva and Murali join hands.",214e2604f29d4065b646e936b1569916,4
+shiva,spirit of his father,"Before disappearing into the forest, Shiva meets what seems to be the spirit of his father.",214e2604f29d4065b646e936b1569916,4

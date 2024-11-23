@@ -1,0 +1,40 @@
+node_1,node_2,edge,chunk_id,count
+shamsher singh,rana singha,"Shamsher's business rival, who creates problems for Shamsher's family and his business",2927a57ce74a43edbb3a3e02064cad13,4
+shamsher singh,sikander singh,"Stepson of Shamsher Singh, preferred over the twins by Shamsher",2927a57ce74a43edbb3a3e02064cad13,4
+ranchor singh,sikander singh,"Father of Sikander Singh, CEO of Al-Shifa",2927a57ce74a43edbb3a3e02064cad13,4
+shamsher singh,yash,Close associate at Shamsher's empire,2927a57ce74a43edbb3a3e02064cad13,4
+shamsher singh,raghuvendra 'raghu' singh,Personal assistant and close confidante to Shamsher,2927a57ce74a43edbb3a3e02064cad13,4
+sanjana and sooraj,shamsher singh,"Children of Shamsher Singh, entitled to 50% of the property and shares as joint partners (25% each)",2927a57ce74a43edbb3a3e02064cad13,4
+handia village,singh brothers,Used to supply weapons to Indian army,2927a57ce74a43edbb3a3e02064cad13,4
+singh family,indian army,The Singh brothers supplied weapons to the Indian army.,2c35d296b2b74ca19e9f8781e413f32e,4
+singh family,local politicians of handia,"The Singh brothers were asked by local politicians for illegal weapons, but they refused.",2c35d296b2b74ca19e9f8781e413f32e,4
+ranchor,local politicians of handia,His refusal caused a rivalry with a local politician named Gajendra Pathak.,2c35d296b2b74ca19e9f8781e413f32e,4
+gajendra pathak,narendra,"During an ambush on an arms truck owned by Ranchor's company, Gajendra Pathak's son Narendra was killed by Ranchor.",2c35d296b2b74ca19e9f8781e413f32e,4
+ranchor,car,"His car was blown-up by a bomb, causing his death.",2c35d296b2b74ca19e9f8781e413f32e,4
+singh family,anti-state organization,The arms company owned by the Singh family was declared to be an anti-state organization and accused of supplying weapons to terrorists.,2c35d296b2b74ca19e9f8781e413f32e,4
+shamsher,sikander,"After a year, Shamsher sent Sikander to Beijing for studies.",2c35d296b2b74ca19e9f8781e413f32e,4
+sumitra,al-shifa,And took Sikander's widowed mother Sumitra to Al-Shifa.,2c35d296b2b74ca19e9f8781e413f32e,4
+brijmohan,shamsher's friend's hotel,Brijmohan tells Shamsher that his friend's hotel was used by politicians for their lascivious motives.,2c35d296b2b74ca19e9f8781e413f32e,4
+politicians,lascivious motives,Where all the activity was captured on a spy video camera and stored on a hard disk.,2c35d296b2b74ca19e9f8781e413f32e,4
+hard disk,bank locker in cambodia,The hard disk was kept in a bank locker in Cambodia.,2c35d296b2b74ca19e9f8781e413f32e,4
+sikander,hard disk,"Shamsher appoints Sikander to recover the hard disk, and he promises to get the disk.",2c35d296b2b74ca19e9f8781e413f32e,4
+jessica,sikander,"In Beijing, Sikander fell in love with a girl named Jessica who severed ties with him.",2c35d296b2b74ca19e9f8781e413f32e,4
+yash,jessica,It is revealed that Jessica is actually Yash's girlfriend.,2c35d296b2b74ca19e9f8781e413f32e,4
+sikander-jessica meet,sooraj and sanjana,"Who recorded the Sikander-Jessica meet, screen the video to Yash.",2c35d296b2b74ca19e9f8781e413f32e,4
+shamsher,ranchor,father-son relationship,d7809321c2314ab9b161c9b760bf5ef5,4
+sikander,shamsher,"['loyalty', ""discovery of truth about Ranchor's death (10 years)"", 'confrontation in the desert']",d7809321c2314ab9b161c9b760bf5ef5,4
+yash,shamsher,father-son relationship,d7809321c2314ab9b161c9b760bf5ef5,4
+sooraj,sanjana,twins,d7809321c2314ab9b161c9b760bf5ef5,4
+jessica,sikander,"[""planned interaction (2 times) by Sooraj and Sanjana's plan to destroy Sikander"", ""presence at Jessica's apartment""]",d7809321c2314ab9b161c9b760bf5ef5,4
+yash,jessica,"['interaction as part of the mission to recover the hard disk', 'deception towards the twins (pretending to be with them)']",d7809321c2314ab9b161c9b760bf5ef5,4
+sikander,shamsher's army,demolition,d7809321c2314ab9b161c9b760bf5ef5,4
+yash,sikander,"['confrontation in the desert', 'team-up against the twins and Jessica after deception towards them']",d7809321c2314ab9b161c9b760bf5ef5,4
+sumitra,hard disk,"['video of self-filming before death', ""reveal of truth about Ranchor's death and Ranchor's kids""]",d7809321c2314ab9b161c9b760bf5ef5,4
+shamsher,politicians,"['objectionable videos stored on the disk', ""revelation of Sikander's death""]",d7809321c2314ab9b161c9b760bf5ef5,4
+twins,shamsher,"[""loyalty until revelation of truth about Ranchor's death and Ranchor's kids""]",d7809321c2314ab9b161c9b760bf5ef5,4
+sikander,jessica,reveals all the plans and secrets to,cf108e30bab5436cbe6587193fd6b531,4
+sikander,interpol officer,arrested father-son duo are flown to their native village Handia and reveals that he had been planning events all along in the climax,cf108e30bab5436cbe6587193fd6b531,4
+shamsher,interpol officer,arrested father-son duo are flown to their native village Handia,cf108e30bab5436cbe6587193fd6b531,4
+sikander,yash,demolishes Shamsher's entire army and makes both Yash and Shamsher surrender to Jessica who happens to be an Interpol officer in a fight in the desert between Sikander and Yash,cf108e30bab5436cbe6587193fd6b531,4
+yash,interpol officer,arrested father-son duo are flown to their native village Handia,cf108e30bab5436cbe6587193fd6b531,4
+shamsher,police officer,bribes a police officer,cf108e30bab5436cbe6587193fd6b531,4

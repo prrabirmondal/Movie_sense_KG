@@ -1,0 +1,3 @@
+node_1,node_2,edge,chunk_id,count
+house,full,"In the context, 'Here is the details of movie's summary:' followed by 'House Full or Houseful may refer to:' suggests that 'House' and 'Full' are related as both might be referring to a full house in a movie theater. The exact relationship between these terms can be found by further analysis of the given context.",6af0779917ca45079aed5ebf2cdc80b0,4
+house,houseful,"As 'House' and 'Full' are related, we can infer that 'Houseful' might also be referring to a house in context. In this case, 'Houseful' could mean that the house depicted in the movie is full of people or objects.",6af0779917ca45079aed5ebf2cdc80b0,4

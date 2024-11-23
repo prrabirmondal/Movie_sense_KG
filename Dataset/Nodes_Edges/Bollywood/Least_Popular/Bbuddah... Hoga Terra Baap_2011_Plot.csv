@@ -1,0 +1,20 @@
+node_1,node_2,edge,chunk_id,count
+acp karan,kaban bhai,Kaban Bhai decides to eliminate ACP Karan instead.,fa3f072fe6d947f4bfdc6f04e0934239,4
+vijju,acp karan,"Vijju tries to protect his son, ACP Karan from being eliminated by gangsters.",fa3f072fe6d947f4bfdc6f04e0934239,4
+tanya,acp karan,ACP Karan is trying to woo Tanya.,fa3f072fe6d947f4bfdc6f04e0934239,4
+amrita,vijju,"Amrita presumes that Vijju and her mother must've had an affair many years ago, due to her mother's overly friendly nature to Vijju.",fa3f072fe6d947f4bfdc6f04e0934239,4
+acp karan,tanya's conservative father,ACP Karan finally succeeds in winning over Tanya and her conservative father.,fa3f072fe6d947f4bfdc6f04e0934239,4
+sita,vijju,"Vijju meets his estranged wife, Sita, but fails to patch up the relationship.",fa3f072fe6d947f4bfdc6f04e0934239,4
+tedha,acp karan,"Tedha attempts once again and is successful in pumping some bullets into ACP Karan, failing Vijju's attempts to stop him from going to the place of the shootout.",fa3f072fe6d947f4bfdc6f04e0934239,4
+karan,hospital,Admitted by Vijju due to injury during shootout,b34ac45ff95249eca4a0e47506af7592,4
+vijju,kaban,Visits Kabir's den after admitting Karan to hospital,b34ac45ff95249eca4a0e47506af7592,4
+karan,undercover officer,Accused by Vijju of being an undercover officer during shootout at den,b34ac45ff95249eca4a0e47506af7592,4
+tedha,karan,Mentioned as alive by Vijju after shootout at den,b34ac45ff95249eca4a0e47506af7592,4
+vijju,paris,"Decides to go back to Paris, telling his wife Sita to bring Karan along when she is ready to do so",b34ac45ff95249eca4a0e47506af7592,4
+karan,vijju,"Son of Vijju, failed Vijju's attempts to stop him from going to the place of shootout",b34ac45ff95249eca4a0e47506af7592,4
+vijju,wife,Finally reconciles with his wife during hospital scene,b34ac45ff95249eca4a0e47506af7592,4
+sita,karan,"Bring Karan along when she is ready to do so, according to Vijju's decision in the hospital scene",b34ac45ff95249eca4a0e47506af7592,4
+vijju,aging,Finally acknowledges that he is ageing during hospital scene,b34ac45ff95249eca4a0e47506af7592,4
+kabir,mac,"Both roped in by Vijju to the underworld don, but only Mac was spared by Vijju during shootout at den",b34ac45ff95249eca4a0e47506af7592,4
+kaban,shootout,Place of the shootout where Karan was present and Vijju attempted to stop him from going,b34ac45ff95249eca4a0e47506af7592,4
+tedha,killed by kabir,"Thought to be an undercover officer by Kabir, but actually wasn't during shootout at den",b34ac45ff95249eca4a0e47506af7592,4

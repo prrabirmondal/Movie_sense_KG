@@ -1,0 +1,35 @@
+node_1,node_2,edge,chunk_id,count
+bane,league of shadows,Bane was formerly a member of the League of Shadows.,c3b037bff7314c9098da147655c8d65a,4
+dr. leonid pavel,bane,Bane abducts Dr. Leonid Pavel from a CIA plane.,c3b037bff7314c9098da147655c8d65a,4
+dr. leonid pavel,nuclear physicist,Dr. Leonid Pavel is a nuclear physicist who was abducted by Bane from a CIA plane.,c3b037bff7314c9098da147655c8d65a,4
+harvey dent,organized crime,The death of Harvey Dent led to the eradication of organized crime in Gotham City through the Dent Act.,c3b037bff7314c9098da147655c8d65a,4
+james gordon,harvey dent,James Gordon kept Harvey Dent's killing spree a secret and allowed the blame for his crimes to fall on Batman.,c3b037bff7314c9098da147655c8d65a,4
+bruce wayne,rachel dawes,Bruce Wayne is still mourning the death of Rachel Dawes.,c3b037bff7314c9098da147655c8d65a,4
+wayne enterprises,bruce wayne,"Bruce Wayne is a reclusive owner of Wayne Enterprises, which has stagnated since Rachel Dawes' death.",c3b037bff7314c9098da147655c8d65a,4
+john daggett,wayne enterprises board member,"Bane conspires to help John Daggett, a Wayne Enterprises board member, take over the company.",c3b037bff7314c9098da147655c8d65a,4
+selina kyle,wayne manor,"Selina Kyle steals Bruce's prints from Wayne Manor for John Daggett, a Wayne Enterprises board member.",c3b037bff7314c9098da147655c8d65a,4
+bruce wayne,fingerprints,"Burglar Selina Kyle steals Bruce's fingerprints from Wayne Manor, which are later used by John Daggett and Bane.",c3b037bff7314c9098da147655c8d65a,4
+john blake,orphan,Officer John Blake is an orphan who has deduced Bruce Wayne's secret identity.,c3b037bff7314c9098da147655c8d65a,4
+fingerprints,fraudulent transactions,"used by Batman to verify a series of suspicious financial activities, revealing their false nature and leading to the exposure of the perpetrators",dc8cfa087a114dc1b46a3f3e4c862d88,4
+bruce,company,"is the owner and CEO of Wayne Enterprises, which becomes compromised due to Bane's influence and Bane's eventual takeover",dc8cfa087a114dc1b46a3f3e4c862d88,4
+bruce,bankruptcy,"resulted from Bane's manipulations, leaving Bruce in a financially vulnerable position",dc8cfa087a114dc1b46a3f3e4c862d88,4
+bruce,alfred pennyworth,"is employed as his loyal butler, who initially believes that Bruce's obsession with Batman's mission is putting his life at risk and resigns to save him",dc8cfa087a114dc1b46a3f3e4c862d88,4
+rachel,marriage proposal,"made to Dent, but the letter was destroyed by Alfred out of misguided loyalty",dc8cfa087a114dc1b46a3f3e4c862d88,4
+bane's henchmen,batman,are pursued by Batman in retaliation for their role in the fraudulent transactions,dc8cfa087a114dc1b46a3f3e4c862d88,4
+miranda tate,wayne enterprises' new ceo,initially becomes romantically involved with Bruce but ultimately meets a tragic end at Bane's hands,dc8cfa087a114dc1b46a3f3e4c862d88,4
+bane,bruce,"holds Batman captive and forcibly transports him to an ancient prison in the Middle East, with the intention of making him suffer as his predecessor did",dc8cfa087a114dc1b46a3f3e4c862d88,4
+ra's al ghul's child,protector,"escaped from the ancient prison and is believed to be impossible, according to Bane's claims",dc8cfa087a114dc1b46a3f3e4c862d88,4
+pavel,decaying neutron bomb,is forced by Bane to convert the fusion reactor core into a deadly weapon and is later killed,dc8cfa087a114dc1b46a3f3e4c862d88,4
+bane,mayor anthony garcia,murders to assert his authority over Gotham City,dc8cfa087a114dc1b46a3f3e4c862d88,4
+jonathan crane,proletarian kangaroo courts,"presides over in Bane's new regime, resulting in the mass exile and execution of Gotham's elite",dc8cfa087a114dc1b46a3f3e4c862d88,4
+bruce,escaped captivity,manages to break free from his prison cell in the Middle East and returns to Gotham City to stop Bane's nefarious plans,dc8cfa087a114dc1b46a3f3e4c862d88,4
+bruce,batman,Bruce escapes captivity and returns to Gotham as Batman.,5b1b98025fec4262bc0ff7b5f52ab79e,4
+bane,bruce,Bane's army clashes with Batman in the streets after Bruce escapes captivity.,5b1b98025fec4262bc0ff7b5f52ab79e,4
+talia al ghul,bruce,"Talia reveals herself as Ra's al Ghul's daughter and stabs Bruce, revealing his identity to Gordon.",5b1b98025fec4262bc0ff7b5f52ab79e,4
+catwoman,bane,Catwoman kills Bane during the battle with Batman's army.,5b1b98025fec4262bc0ff7b5f52ab79e,4
+talia al ghul,bomb,Talia entrusts Bane to finish off Batman and reveals that she is Ra's al Ghul's daughter while activating the bomb's detonator.,5b1b98025fec4262bc0ff7b5f52ab79e,4
+gordon,bomb,"Gordon blocks the signal, preventing the bomb from exploding.",5b1b98025fec4262bc0ff7b5f52ab79e,4
+alfred,bruce,Alfred discovers that Bruce is alive and in a relationship with Selina.,5b1b98025fec4262bc0ff7b5f52ab79e,4
+robin,bruce,"Blake resigns, revealing his legal first name as Robin.",5b1b98025fec4262bc0ff7b5f52ab79e,4
+blake,robin,"Blake, whose legal first name is revealed as Robin, resigns from the GCPD and receives a package leading him to the Batcave.",737f1276f32e45eca8c942c12b40b4cd,4
+blake,selina,"a relationship with Selina, and they silently acknowledge each other before parting ways.",737f1276f32e45eca8c942c12b40b4cd,4

@@ -1,0 +1,37 @@
+node_1,node_2,edge,chunk_id,count
+international rescue (ir),jeff tracy,Jeff Tracy is the founder and leader of International Rescue.,9bae6f0c8d02448b9d6dfc82ead521e8,4
+tracy family,jeff tracy,Jeff Tracy is a member of the Tracy family.,9bae6f0c8d02448b9d6dfc82ead521e8,4
+thunderbirds,international rescue (ir),The Thunderbirds are technologically advanced machines operated by International Rescue.,9bae6f0c8d02448b9d6dfc82ead521e8,4
+tracy island,international rescue (ir),International Rescue operates out of Tracy Island in the South Pacific.,9bae6f0c8d02448b9d6dfc82ead521e8,4
+alan tracy,jeff tracy,Alan Tracy is Jeff Tracy's son.,9bae6f0c8d02448b9d6dfc82ead521e8,4
+wharton academy,alan tracy,Alan Tracy attends Wharton Academy.,9bae6f0c8d02448b9d6dfc82ead521e8,4
+fermat hackenbacker,alan tracy,"Alan Tracy's best friend is Fermat Hackenbacker, the son of International Rescue engineer Brains.",9bae6f0c8d02448b9d6dfc82ead521e8,4
+brains,fermat hackenbacker,Brains is the resident engineer of International Rescue and the father of Fermat Hackenbacker.,9bae6f0c8d02448b9d6dfc82ead521e8,4
+tin-tin,tracy family,Tin-Tin is the daughter of International Rescue butler Kyrano and a member of the Tracy family.,9bae6f0c8d02448b9d6dfc82ead521e8,4
+lady penelope creighton-ward,international rescue (ir),Lady Penelope Creighton-Ward is an IR agent.,9bae6f0c8d02448b9d6dfc82ead521e8,4
+aloysius parker,lady penelope creighton-ward,Aloysius Parker is Lady Penelope Creighton-Ward's valet.,9bae6f0c8d02448b9d6dfc82ead521e8,4
+thunderbird 1,alan tracy,"Alan Tracy attempts to fly Thunderbird 1, but is grounded as a result.",9bae6f0c8d02448b9d6dfc82ead521e8,4
+tracking beacon,thunderbird 1,A tracking beacon was planted on the hull of Thunderbird 1 by The Hood's accomplice during a recent rescue on an oil rig.,9bae6f0c8d02448b9d6dfc82ead521e8,4
+the hood,psychic criminal mastermind,The Hood is a psychic criminal mastermind.,9bae6f0c8d02448b9d6dfc82ead521e8,4
+thunderbird 3,jeff tracy,"Jeff Tracy, Scott Tracy, Virgil Tracy, and Gordon Tracy go to rescue John Tracy in Thunderbird 3.",9bae6f0c8d02448b9d6dfc82ead521e8,4
+thunderbird 5,international rescue (ir),"The Hood fires a missile into space at the orbiting Thunderbird 5, cutting off all of IR's communications and leaving John in peril.",9bae6f0c8d02448b9d6dfc82ead521e8,4
+space monitor,john tracy,John Tracy is being monitored in space by Space Monitor.,9bae6f0c8d02448b9d6dfc82ead521e8,4
+thunderbird 2,the hood,"During one of International Rescue's first operations, Jeff abandoned The Hood in a collapsing illegal diamond mine, but rescued his half-brother, Kyrano. As revenge, The Hood plans to use Thunderbird 2 to rob ten of the world's major banks, thus plunging the international monetary system into chaos.",dba54104a36d4a03a1e12a0f6323ff10,4
+international rescue,disgrace,"The Hood reveals that during one of International Rescue's first operations, Jeff abandoned him in a collapsing illegal diamond mine, but rescued his half-brother, Kyrano. As revenge, he plans to use Thunderbird 2 to rob ten of the world's major banks, thus plunging the international monetary system into chaos, with International Rescue held responsible and disgraced.",dba54104a36d4a03a1e12a0f6323ff10,4
+thunderbird 3,john,"Jeff, Scott, Virgil, and Gordon go to rescue John in Thunderbird 3, but The Hood and his team take over the island's command center and shut off power to Thunderbird 5, trapping them all inside.",dba54104a36d4a03a1e12a0f6323ff10,4
+island's command center,power,"The Hood and his team take over the island's command center and shut off power to Thunderbird 5, trapping Jeff, Scott, Virgil, and Gordon inside.",dba54104a36d4a03a1e12a0f6323ff10,4
+thunderbird 2,banks,"The Hood plans to use Thunderbird 2 to rob ten of the world's major banks, thus plunging the international monetary system into chaos.",dba54104a36d4a03a1e12a0f6323ff10,4
+bank of england’s vaults,london,The Hood and his minions pilot the now-repaired Thunderbird 2 to London and use the Mole to sink a monorail line into the Thames and drill into the Bank of England’s vaults.,dba54104a36d4a03a1e12a0f6323ff10,4
+thunderbird 5,power,"Fermat removes Thunderbird 5's guidance chip, delaying The Hood's plan.",dba54104a36d4a03a1e12a0f6323ff10,4
+alan,guidance chip,The Hood threatens to hurt his captured friends unless Alan gives him the guidance chip. Alan complies and they are all locked in the compound's walk-in freezer.,dba54104a36d4a03a1e12a0f6323ff10,4
+fab 1,distress signal,Lady Penelope and Parker receive a distress signal from Tracy Island and fly there in FAB 1.,dba54104a36d4a03a1e12a0f6323ff10,4
+tracy island,compound's walk-in freezer,Alan and company escape and restore power to Thunderbird 5 before setting off in pursuit of The Hood in Thunderbird 1.,dba54104a36d4a03a1e12a0f6323ff10,4
+thunderbird 1,london,"Arriving in London, Alan and Tin-Tin rescue the submerged monorail car using Thunderbird 1.",dba54104a36d4a03a1e12a0f6323ff10,4
+alan,the hood,"Antagonist relationship established during the final showdown between Alan and The Hood in London. The Hood challenges Alan to defeat him, captures Jeff and Lady Penelope, and taunts Alan to let him die as his father did. However, Alan rescues The Hood after he is defeated by Tin-Tin.",09912f439f754db9b7cada0dce31377f,4
+alan,international rescue,"Member relationship established when Alan, Fermat, and Tin-Tin are inducted as official members of the team on their return to the island.",09912f439f754db9b7cada0dce31377f,4
+the hood,international rescue,"Enemy relationship between The Hood and International Rescue, established as The Hood and his team are arrested after being defeated by Tin-Tin.",09912f439f754db9b7cada0dce31377f,4
+alan,thunderbird 1,"Vehicle relationship between Alan and Thunderbird 1, as he sets off in pursuit of The Hood in this vehicle.",09912f439f754db9b7cada0dce31377f,4
+alan,london,Location relationship established as Alan and Tin-Tin rescue the submerged monorail car using Thunderbird 4 before pursuing The Hood in London.,09912f439f754db9b7cada0dce31377f,4
+alan,thunderbird 3,Vehicle relationship established as the rest of the Tracy family return from space in this vehicle.,09912f439f754db9b7cada0dce31377f,4
+tin-tin,the hood,"Antagonist relationship between Tin-Tin and The Hood during their fight on the catwalk over the moving drill of The Mole, after which Tin-Tin is able to use his powers to defeat The Hood.",09912f439f754db9b7cada0dce31377f,4
+the hood,jeff and lady penelope,Captivity relationship established as The Hood captures Jeff and Lady Penelope during the final showdown in London.,09912f439f754db9b7cada0dce31377f,4

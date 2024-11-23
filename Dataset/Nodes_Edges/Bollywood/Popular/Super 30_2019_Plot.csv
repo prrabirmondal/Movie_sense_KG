@@ -1,0 +1,22 @@
+node_1,node_2,edge,chunk_id,count
+anand kumar,fugga,"Fugga gives a talk in London, and Anand is mentioned as his teacher who learned from him. This establishes a relationship of 'teacher-student' between Anand and Fugga.",e9054e5196fa432b8d9bf2f461318258,4
+anand kumar,local minister shriram singh,"Shriram Singh promises to help Anand whenever needed during his talk in London, but later denies this promise. This indicates a 'promise-denial' relationship between Anand and Shriram Singh.",e9054e5196fa432b8d9bf2f461318258,4
+anand kumar,banaras hindu university library supervisor,"The library supervisor catches Anand repeatedly visiting the library, and there is a 'repeated violation' relationship between Anand and the library supervisor.",e9054e5196fa432b8d9bf2f461318258,4
+anand kumar,professor richard of the university of cambridge,Professor Richard invites Anand to join a program at the University of Cambridge after being impressed by his solution to a difficult math problem. This establishes a 'selection' relationship between Anand and Professor Richard.,e9054e5196fa432b8d9bf2f461318258,4
+anand kumar,rajendra,"Anand's family supports him completely, but Rajendra, as the head of the post office, does not have enough money to help Anand travel to England. This indicates a 'support-lack' relationship between Anand and Rajendra.",e9054e5196fa432b8d9bf2f461318258,4
+anand,rajendra,"father of Anand, passes away due to heart attack",2f092faf60ed4814a424489fa02cc28e,4
+anand,shriram singh,promises money but denies it later,2f092faf60ed4814a424489fa02cc28e,4
+anand,excellence coaching centre,"works as a teacher under Lallan Singh, runs this coaching center",2f092faf60ed4814a424489fa02cc28e,4
+anand,supriya,love interest who supports him until he leaves Excellence Coaching Centre,2f092faf60ed4814a424489fa02cc28e,4
+anand,poor kids,"starts separate tuition for them, faces financial crisis and loses Supriya's support",2f092faf60ed4814a424489fa02cc28e,4
+lallan singh,anand,recruits Anand to work as a teacher in his coaching center,2f092faf60ed4814a424489fa02cc28e,4
+lallan singh,excellence coaching centre,runs this coaching center,2f092faf60ed4814a424489fa02cc28e,4
+lallan singh,anand's separate tuition for poor kids,"criticizes it, challenges Anand to a duel",2f092faf60ed4814a424489fa02cc28e,4
+lallan singh,geometry boxes,gives free geometry boxes to Anand's center as a means to bring him back,2f092faf60ed4814a424489fa02cc28e,4
+anand,lallan,competes with each other in a duel involving their students' exam scores,de7d44d571164c55907eeced73eac760,4
+anand,supriya,"signs papers before the competition, which are later hidden by Supriya to understand Anand's decision to tutor poor kids",de7d44d571164c55907eeced73eac760,4
+anand,students,tutors and prepares for the IIT exam (IIT-JEE),de7d44d571164c55907eeced73eac760,4
+lallan,anand's students,participate in the same exam with Anand's students,de7d44d571164c55907eeced73eac760,4
+shriram,anand and his students,plots to have them killed so that his kids won't take the IIT exam (IIT-JEE),de7d44d571164c55907eeced73eac760,4
+anand,pranav,gets immense help from his brother during the course of tuition,de7d44d571164c55907eeced73eac760,4
+anand,jayanti,gets immense help from his mother during the course of tuition,de7d44d571164c55907eeced73eac760,4

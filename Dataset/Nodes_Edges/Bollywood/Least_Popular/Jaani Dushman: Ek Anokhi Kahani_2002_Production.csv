@@ -1,0 +1,28 @@
+node_1,node_2,edge,chunk_id,count
+nagin (1976),koi... mil gaya,"Both movies have a similar theme, where Nagin (1976) features Raj Babbar playing the role of a police officer and Koi... Mil Gaya features Suniel Shetty playing a role with a similar character arc.",fed7b73c080e41439993d5e15f885dc1,4
+suniel shetty,nagin (1976),"In Nagin (1976), Raj Babbar plays the role of a police officer, and in Koi... Mil Gaya, Suniel Shetty also plays a role with similar character traits as the police officer in Nagin (1976).",fed7b73c080e41439993d5e15f885dc1,4
+suniel shetty,koi... mil gaya,"Suniel Shetty stars in both Nagin (1976) and Koi... Mil Gaya, but his roles are different in each movie.",fed7b73c080e41439993d5e15f885dc1,4
+ajay devgn,koi... mil gaya,"Initially, Ajay Devgn was supposed to play Suniel Shetty's role in Koi... Mil Gaya, but the cast subsequently changed.",fed7b73c080e41439993d5e15f885dc1,4
+sunny deol,koi... mil gaya,"Both movies feature Sunny Deol as a lead actor, but his roles are different in each movie.",fed7b73c080e41439993d5e15f885dc1,4
+akshay kumar,koi... mil gaya,"In Koi... Mil Gaya, Akshay Kumar plays a lead role, whereas he was initially considered to play Salman Khan's role in the movie.",fed7b73c080e41439993d5e15f885dc1,4
+salman khan,koi... mil gaya,"Initially, Salman Khan was the original choice for Sonu Nigam's role in Koi... Mil Gaya, but he declined due to date issues.",fed7b73c080e41439993d5e15f885dc1,4
+sonu nigam,koi... mil gaya,"In Koi... Mil Gaya, Sonu Nigam plays a lead role, and initially Salman Khan was considered for this role as well.",fed7b73c080e41439993d5e15f885dc1,4
+shah rukh khan,koi... mil gaya,"Initially, Shah Rukh Khan was originally chosen to play Akshay Kumar's role in Koi... Mil Gaya, but he declined due to prior commitments.",fed7b73c080e41439993d5e15f885dc1,4
+chandrachur singh,koi... mil gaya,"Initially, Chandrachur Singh was signed to play Aditya Pancholi's role in Koi... Mil Gaya, but later opted out.",fed7b73c080e41439993d5e15f885dc1,4
+aditya pancholi,koi... mil gaya,"In Koi... Mil Gaya, Aditya Pancholi plays a lead role, and initially Chandrachur Singh was considered for this role as well.",fed7b73c080e41439993d5e15f885dc1,4
+manisha koirala,koi... mil gaya,"In Koi... Mil Gaya, Manisha Koirala plays a lead role, and initially Shilpa Shetty was considered for this role as well.",fed7b73c080e41439993d5e15f885dc1,4
+shilpa shetty,koi... mil gaya,"Initially, Shilpa Shetty was considered to play Manisha Koirala's role in Koi... Mil Gaya, but she declined the offer.",fed7b73c080e41439993d5e15f885dc1,4
+atul agnihotri,koi... mil gaya,"Initially, Atul Agnihotri was signed to play Sharad Kapoor's role in Koi... Mil Gaya, but later opted for a guest appearance.",fed7b73c080e41439993d5e15f885dc1,4
+sharad kapoor,koi... mil gaya,"In Koi... Mil Gaya, Sharad Kapoor plays a lead role, and initially Atul Agnihotri was considered for this role as well.",fed7b73c080e41439993d5e15f885dc1,4
+atul agnihotri,film's theme,"Initially similar to Nagin (1976),",97b7b5d9cd834f228698c164901f3633,4
+shilpa shetty,atul agnihotri,"Co-starred in the film,",97b7b5d9cd834f228698c164901f3633,4
+armaan kohli,film's theme,"Initially similar to Nagin (1976),",97b7b5d9cd834f228698c164901f3633,4
+sunny deol,heroes,"Replaced Armaan Kohli as hero in the film,",97b7b5d9cd834f228698c164901f3633,4
+akshay kumar,heroes,"Replaced Armaan Kohli and Sunny Deol as hero in the film,",97b7b5d9cd834f228698c164901f3633,4
+sonu nigam,heroes,"Played lead role in the film,",97b7b5d9cd834f228698c164901f3633,4
+suniel shetty,heroes,"Played lead role in the film,",97b7b5d9cd834f228698c164901f3633,4
+aftab shivdasani,heroes,"Played lead role in the film,",97b7b5d9cd834f228698c164901f3633,4
+aditya pancholi,heroes,"Played lead role in the film,",97b7b5d9cd834f228698c164901f3633,4
+arshad warsi,heroes,"Played lead role in the film,",97b7b5d9cd834f228698c164901f3633,4
+sharad kapoor,heroes,"Played lead role in the film,",97b7b5d9cd834f228698c164901f3633,4
+manisha koirala,lead role,"Starred opposite the heroes in the film,",97b7b5d9cd834f228698c164901f3633,4

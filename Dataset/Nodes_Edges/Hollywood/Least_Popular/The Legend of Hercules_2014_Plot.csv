@@ -1,0 +1,36 @@
+node_1,node_2,edge,chunk_id,count
+hercules,nemean lion,"Hercules strangles the Nemean lion to death, which is a significant event in the plot.",6ea5e4c7e7044cceb4e588fcb09ac29d,4
+prince alcides (hercules),princess hebe of crete,"Hercules is the lover of Princess Hebe of Crete, which is revealed later in the plot.",6ea5e4c7e7044cceb4e588fcb09ac29d,4
+alcmene,hera,"Queen Alcmene prays to Hera for guidance and as a result, Zeus impregnates her with Hercules, the savior of her people.",6ea5e4c7e7044cceb4e588fcb09ac29d,4
+king amphitryon,queen alcmene,"Amphitryon is disgusted by his wife's prayer to Hera and impregnates her with a son, whom he names Alcides.",6ea5e4c7e7044cceb4e588fcb09ac29d,4
+prince alcides (hercules),alcides,"Amphitryon announces the engagement of Hebe and Iphicles, while Hercules is sent away to a military campaign in Egypt. Hercules discovers his true name as Hercules, not Alcides.",6ea5e4c7e7044cceb4e588fcb09ac29d,4
+prince iphicles,hercules,"At the banquet, Prince Iphicles takes credit for killing the Nemean lion, which Hebe sees through.",6ea5e4c7e7044cceb4e588fcb09ac29d,4
+lucius,alcides (hercules),"Hercules and Sotiris are sold off as slaves to Lucius, where they excel in gladiator fights.",6ea5e4c7e7044cceb4e588fcb09ac29d,4
+amphitryon,hercules,"Amphitryon attempts to eliminate Hercules by sending him on a military campaign in Egypt, but he survives and uses his gods-given name to conceal his identity as the prince.",6ea5e4c7e7044cceb4e588fcb09ac29d,4
+sotiris,alcides (hercules),Sotiris fights alongside Hercules in Egypt and both of them survive an ambush meant to eliminate Hercules.,6ea5e4c7e7044cceb4e588fcb09ac29d,4
+hercules,six previously-undefeated gladiators,Defeats in an arena battle in Greece,adb82e04b9a944a8bfd18c63b3f9d8c9,4
+hercules,amphitryon's army,Motivates members to desert it and join Hercules and Sotiris,adb82e04b9a944a8bfd18c63b3f9d8c9,4
+amphitryon's campaign of tyranny,hercules and sotiris,Fight against,adb82e04b9a944a8bfd18c63b3f9d8c9,4
+amphitryon,foreign mercenaries,Hires as a result of members deserting his army and joining Hercules and Sotiris,adb82e04b9a944a8bfd18c63b3f9d8c9,4
+alcmene,hercules,Fatherhood,adb82e04b9a944a8bfd18c63b3f9d8c9,4
+amphitryon,alcmene,Infidelity,adb82e04b9a944a8bfd18c63b3f9d8c9,4
+alcmene,hercules,Assumed dead by,adb82e04b9a944a8bfd18c63b3f9d8c9,4
+alcmene,hera,Seeks guidance from,adb82e04b9a944a8bfd18c63b3f9d8c9,4
+amphitryon,truth of hercules' parentage,Learns,adb82e04b9a944a8bfd18c63b3f9d8c9,4
+alcmene,heracles,Son,adb82e04b9a944a8bfd18c63b3f9d8c9,4
+iphicles,sotiris' son,Forces to lead him to Hercules,adb82e04b9a944a8bfd18c63b3f9d8c9,4
+hercules,chains,Chained and publicly flogged,adb82e04b9a944a8bfd18c63b3f9d8c9,4
+iphicles,sotiris,Threatens the son of,adb82e04b9a944a8bfd18c63b3f9d8c9,4
+chiron,alcmene's loyal adviser,Loyalty to,adb82e04b9a944a8bfd18c63b3f9d8c9,4
+amphitryon,chiron,Orders the murder of under Iphicles' threat,adb82e04b9a944a8bfd18c63b3f9d8c9,4
+hercules,chains,Breaks free from,adb82e04b9a944a8bfd18c63b3f9d8c9,4
+amphitryon,guard,Defeats with his guard joining Hercules' army,adb82e04b9a944a8bfd18c63b3f9d8c9,4
+hercules,amphitryon,Personal combat,adb82e04b9a944a8bfd18c63b3f9d8c9,4
+iphicles,hebe,Holds hostage during the battle between Hercules' army and Amphitryon's mercenaries,adb82e04b9a944a8bfd18c63b3f9d8c9,4
+hercules,mercenaries,Hercules fights with mercenaries using his lightning sword in the context provided.,a696cf66546042779adbfeeb8c689959,4
+hercules,amphitryon,Hercules nearly defeats Amphitryon but meets him in personal combat in the given context.,a696cf66546042779adbfeeb8c689959,4
+iphicles,hebe,Iphicles holds Hebe hostage and threatens to kill her in the provided context.,a696cf66546042779adbfeeb8c689959,4
+hebe,hercules,"Hercules hesitates, but Hebe thrusts the dagger through her shoulder, killing Iphicles in the given context.",a696cf66546042779adbfeeb8c689959,4
+hercules,amphitryon,Hercules finally avenges Alcmene's death and kills Amphitryon with the same blade that killed his mother in the context provided.,a696cf66546042779adbfeeb8c689959,4
+hebe,hercules,Hercules watches over Hebe as she slowly drifts into unconsciousness in the given context.,a696cf66546042779adbfeeb8c689959,4
+hebe,baby,"The cries of a baby are heard, and it is revealed that Hercules' and Hebe's son in the provided context.",a696cf66546042779adbfeeb8c689959,4

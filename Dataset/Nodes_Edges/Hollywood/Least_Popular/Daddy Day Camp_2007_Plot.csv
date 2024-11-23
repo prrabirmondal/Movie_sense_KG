@@ -1,0 +1,31 @@
+node_1,node_2,edge,chunk_id,count
+camp driftwood,driftwood (now falling to ruins),"Driftwood, a camp where Charlie and Phil attended as kids in 1977, is now falling to ruins.",644ac1a96fe142b1b957accee7359253,4
+charlie,phil,"Charlie and Phil take their kids, Max and Ben, to Camp Driftwood for the summer.",644ac1a96fe142b1b957accee7359253,4
+max,ben,"Charlie and Phil take their kids, Max and Ben, to Camp Driftwood for the summer.",644ac1a96fe142b1b957accee7359253,4
+camp olympiad,lance warner,"Lance Warner, Charlie's childhood rival, challenges Driftwood to the upcoming Camp Olympiad.",644ac1a96fe142b1b957accee7359253,4
+bobby j,lance warner,Bobby J is Lance Warner's son that he denies.,644ac1a96fe142b1b957accee7359253,4
+camp driftwood,lance warner (now runs the luxurious rival camp canola),"Charlie's childhood rival, now runs the luxurious rival camp Canola, and is eager to buy Driftwood and tear it down.",644ac1a96fe142b1b957accee7359253,4
+driftwood,original counselor,"The older partner and the original counselor run off on vacation, save for bus driver Dale, after spending thirty years running the camp without a vacation.",644ac1a96fe142b1b957accee7359253,4
+charlie,phil,"After discovering that Driftwood is now falling to ruins and also no longer a kindhearted campsite, Charlie and Phil buy a partnership from the younger man who ran it when they were children.",644ac1a96fe142b1b957accee7359253,4
+colonel buck hinton,charlie,"Charlie reluctantly calls his military father, Colonel Buck Hinton, for help to whip the kids into shape since they have problems following orders.",644ac1a96fe142b1b957accee7359253,4
+skunk,max,"Max causes a skunk at Driftwood's first day of camp, leading to most parents pulling their kids from the camp and requesting refunds.",644ac1a96fe142b1b957accee7359253,4
+explosion,phil,"Phil drops a match in the bathroom when the light there went out, causing an explosion at Driftwood's first day of camp.",644ac1a96fe142b1b957accee7359253,4
+driftwood flag,canola,Steals Driftwood flag during raid on camp,dd7d02e250924087be94bedfa53d3417,4
+buck hinton,campers at driftwood,Starts training campers easily after they have problems following orders,dd7d02e250924087be94bedfa53d3417,4
+canola,buck hinton,Raids Buck's newly trained campers and teases him,dd7d02e250924087be94bedfa53d3417,4
+lance,charlie,Teases Charlie about his teaching style during raid on Driftwood and memories from Olympiad they competed in as kids,dd7d02e250924087be94bedfa53d3417,4
+buck hinton,max,"Tells Max that he became 'tough' when he ran off to the woods, causing Max to flee into the woods after being teased by Lance and other campers about his father's over-protectiveness",dd7d02e250924087be94bedfa53d3417,4
+charlie,buck hinton,Regrets calling Buck when Max flees to the woods due to Buck's toughness and disapproves of campers becoming like him,dd7d02e250924087be94bedfa53d3417,4
+charlie,buck hinton,"Resolves problems with Buck during Olympiad, realizing that Buck only cares about toughness and that Charlie was a disappointment to him",dd7d02e250924087be94bedfa53d3417,4
+phil,charlie,"Complains about Buck's over-protectiveness of campers to Charlie, which is overheard by Buck and causes him to leave camp",dd7d02e250924087be94bedfa53d3417,4
+buck hinton,campers at driftwood,"Returns to camp after being brought back by Charlie during Olympiad, resolving their discouragement",dd7d02e250924087be94bedfa53d3417,4
+driftwood,canola,"Driftwood outsmarted Canola in the baton relay, resulting in Driftwood's victory.",16bc19b25a20418da5effd60c7a99f37,4
+lance,canola,"Canola won multiple Olympiads, including the 1977 one that Lance also won. The allegations of Canola's cheating were first revealed during the 1977 Olympiad.",16bc19b25a20418da5effd60c7a99f37,4
+ben,driftwood,Ben represented Driftwood in the baton relay after Mullet Head got injured. Ben's instinct helped him climb the wall and win the competition for Driftwood.,16bc19b25a20418da5effd60c7a99f37,4
+mullet head,driftwood,"Mullet Head represented Driftwood in the climbing course. However, he got injured during the three-legged race and had to be replaced by Ben.",16bc19b25a20418da5effd60c7a99f37,4
+charlie,buck,"After Buck left, Charlie looked for him to resolve their problems. By bringing Buck back, Charlie resolved their issues.",16bc19b25a20418da5effd60c7a99f37,4
+kids,canola,The kids reported that they found out Canola cheated in the Olympiad.,16bc19b25a20418da5effd60c7a99f37,4
+driftwood,canola,"Driftwood defeated Canola in a game, resulting in the former having a victory over the latter. This victory led to parents who originally enrolled their children at Canola wanting to send them to Driftwood instead, as they believed it could set a positive example for their kids. As a result, this decision helped prevent foreclosure for Driftwood.",c08ba401cab3454c86a456e9041e89c7,4
+driftwood trophies,canola trophies,"At the beginning of the context, someone smashed all the trophies that Canola ever won, while there is no direct mention of Driftwood's trophies being affected. This suggests that these two sets of trophies were kept separately.",c08ba401cab3454c86a456e9041e89c7,4
+driftwood,driftwood campers,The text mentions that the current Driftwood campers left to retrieve their trophy. This implies that these campers were associated with Driftwood and had won trophies.,c08ba401cab3454c86a456e9041e89c7,4
+lance,crying,"The text mentions Lance breaking down and crying after smashing the Canola trophies. However, it does not provide any further context about why he was crying.",c08ba401cab3454c86a456e9041e89c7,4

@@ -1,0 +1,26 @@
+node_1,node_2,edge,chunk_id,count
+tony stark,stark industries,"owned by Tony Stark, inherited from his late father Howard Stark",85bf5dcbff244dc79fa9a8a8c74d0dd2,4
+jericho missile,tony stark,demonstrated by Tony Stark in war-torn Afghanistan,85bf5dcbff244dc79fa9a8a8c74d0dd2,4
+ten rings terrorist group,tony stark,captured and imprisoned by the Ten Rings terrorist group,85bf5dcbff244dc79fa9a8a8c74d0dd2,4
+electromagnet,tony stark,"implanted into Tony Stark's chest to keep shrapnel shards from reaching his heart and killing him, due to injury sustained while demonstrating the Jericho missile",85bf5dcbff244dc79fa9a8a8c74d0dd2,4
+yinsen,tony stark,"fellow captive and doctor who implants an electromagnet into Tony Stark's chest to keep shrapnel shards from reaching his heart and killing him, due to injury sustained while demonstrating the Jericho missile",85bf5dcbff244dc79fa9a8a8c74d0dd2,4
+ten rings leader raza,tony stark,"offered freedom in exchange for building a Jericho missile for the Ten Rings terrorist group, which Tony Stark believed would not keep his word",85bf5dcbff244dc79fa9a8a8c74d0dd2,4
+electric generator called an arc reactor,tony stark and yinsen,"built by Tony Stark and Yinsen in their captivity to power the electromagnet keeping shrapnel shards from reaching Tony Stark's heart and killing him, due to injury sustained while demonstrating the Jericho missile",85bf5dcbff244dc79fa9a8a8c74d0dd2,4
+armored suit,tony stark and yinsen,"constructed by Tony Stark and Yinsen in their captivity to aid in their escape, although they kept it hidden",85bf5dcbff244dc79fa9a8a8c74d0dd2,4
+ten rings' weapons,tony stark's armored suit,destroyed by the armored Stark while escaping from the Ten Rings terrorist group's attack on their workshop,85bf5dcbff244dc79fa9a8a8c74d0dd2,4
+rescue,tony stark,given to Tony Stark after he crashed in the desert and destroyed his armored suit,85bf5dcbff244dc79fa9a8a8c74d0dd2,4
+suits,destroying,"After being rescued by Rhodes, Stark returns home and announces that his company will cease manufacturing weapons. The suits are mentioned in the same sentence as 'destroying' indicating a potential negative relation between them.",f45789c239f24455bce961c2d2646159,4
+stark industries,bankrupting,"Obadiah Stane, his father's old partner and the company's manager, advises Stark that this will bankrupt Stark Industies and ruin his father's legacy. The relation between 'Stark Industries' and 'bankrupting' is derived from the context.",f45789c239f24455bce961c2d2646159,4
+reactor,original,"Though Stane requests details, a suspicious Stark decides to keep his work to himself. The relation between 'reactor' and 'original' is derived from the context.",f45789c239f24455bce961c2d2646159,4
+stark industries,trafficking arms,"Obadiah Stane, who has been trafficking arms to the Ten Rings and has staged a coup to replace Stark as Stark Industries' CEO by hiring the Ten Rings to kill him.",f45789c239f24455bce961c2d2646159,4
+stark,intercepted,Stark is intercepted by the Air Force.,f45789c239f24455bce961c2d2646159,4
+stark,reveals secret identity,Stark reveals his secret identity to Rhodes over the phone in an attempt to end the attack.,f45789c239f24455bce961c2d2646159,4
+iron man,stane,"Stane hires the Ten Rings to kill Iron Man, but they renege and Stane steals Iron Man's arc reactor. Iron Man replaces his original reactor and defeats Stane in a fight, causing him to fall into a large arc reactor and be killed.",755c7b471c454dea9b2c102490ed4da6,4
+potts,stark,"Stark sends Potts to hack into the database of his company to track its illegal shipments, and she discovers that Stane hired the Ten Rings to kill Stark.",755c7b471c454dea9b2c102490ed4da6,4
+coulson,potts,Potts meets with Coulson of S.H.I.E.L.D. To inform him of Stane's activities.,755c7b471c454dea9b2c102490ed4da6,4
+ten rings,stark,"The Ten Rings are hired by Stane to kill Iron Man, but they renege when they realize they have a direct route to Iron Man's weapons.",755c7b471c454dea9b2c102490ed4da6,4
+stark industries building,stark,"Stark instructs Potts to overload the large arc reactor powering the Stark Industries building, causing a massive electrical surge that kills Stane.",755c7b471c454dea9b2c102490ed4da6,4
+s.h.i.e.l.d.,potts,"Several S.H.I.E.L.D. Agents attempt to arrest Stane, but he overpowers them while wearing his suit.",755c7b471c454dea9b2c102490ed4da6,4
+stark,s.h.i.e.l.d.,Potts meets with Coulson of S.H.I.E.L.D. To inform him of Stane's activities.,755c7b471c454dea9b2c102490ed4da6,4
+stark industries,stane,"Stane reverse-engineers a massive new armor suit from the wreckage of Stark's suit, but is unable to duplicate Stark's miniaturized arc reactor.",755c7b471c454dea9b2c102490ed4da6,4
+stark industries,stark,Potts discovers that Stane hired the Ten Rings to kill Stark while she is hacking into the database of Stark Industries.,755c7b471c454dea9b2c102490ed4da6,4

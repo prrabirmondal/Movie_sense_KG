@@ -1,0 +1,23 @@
+node_1,node_2,edge,chunk_id,count
+yogesh patel,bharat,"relation between grandson and grandfather, Yogesh Patel receives a card from his grandfather in the beginning of the context",38169a3e3d7843d49022ec90b72e20e5,4
+jitu patel,yogesh patel,"relationship between brother and younger brother, Jitu consults an astrologer to learn if he will go to jail while Yogesh receives a card from his grandfather",38169a3e3d7843d49022ec90b72e20e5,4
+family,jitu patel,"relationship between family and son, family consults an astrologer to learn if Jitu will go to jail",38169a3e3d7843d49022ec90b72e20e5,4
+astrologer,family,"relationship between family and astrologer, family consults an astrologer to learn if Jitu will go to jail",38169a3e3d7843d49022ec90b72e20e5,4
+yogesh patel,jitu patel,"relationship between grandson and brother, Yogesh gets a text message from Jitu that Bharat had a heart attack",38169a3e3d7843d49022ec90b72e20e5,4
+mob boss,jitu patel,"relationship between son and mob boss, Jitu owes a rich man 25 million rupees for gambling debts",38169a3e3d7843d49022ec90b72e20e5,4
+yogesh patel,mob boss,"relationship between grandson and mob boss, gangster threatens Yogesh and his family if he does not marry on the 20th of the month",38169a3e3d7843d49022ec90b72e20e5,4
+devu,yogesh patel,"relationship between uncle and nephew, Devu posts a matrimonial ad with Yogesh's photo after his uncle suggests it",38169a3e3d7843d49022ec90b72e20e5,4
+kanta,bharat,"relationship between wife and husband, Kanta asks Bharat to hire a detective",38169a3e3d7843d49022ec90b72e20e5,4
+devu,anila kamdar,Devu meets Anila Kamdar at a hotel and they have an affair.,e0216786b1744a0e92ed95a67f1349c8,4
+sanjana,devu,"Sanjana suspects Devu of cheating on his wife Kanta. Sanjana asks Yogesh for help and he agrees to give her time to decide about her boyfriend. Later, when Devu finds Sanjana at a hotel, she becomes angry and tries to leave.",e0216786b1744a0e92ed95a67f1349c8,4
+yogesh,sanjana,Yogesh meets most of the girls and Sanjana asks to talk to him privately. She tells him about her reluctance to marry her boyfriend and Yogesh agrees to help her despite his own problems.,e0216786b1744a0e92ed95a67f1349c8,4
+devu,kanta,"Kanta suspects Devu of cheating on her and asks Bharat to hire a detective. Later, when the detective sees Devu with Sanjana, he convinces Yogesh and his father that Devu is having an affair with Sanjana.",e0216786b1744a0e92ed95a67f1349c8,4
+yogesh,sanjana,Sanjana follows Yogesh to a hotel in Khandala where she confronts her boyfriend about cheating on her. Sanjana ultimately decides to marry Yogesh due to realizing her love for him.,45139bb68a0b4db08bb6bc645e441845,4
+devu,sanjana,"Devu sees Sanjana at a hotel with another man, which causes Devu to believe that Sanjana is having an affair. However, it is later revealed that the other man is actually Sanjana's boyfriend whom she confronted about cheating on her.",45139bb68a0b4db08bb6bc645e441845,4
+yogesh,vishakha,"Devu calls Vishakha and rejects her, claiming that he knows about Jitu's debt and believes there is no need for Yogesh to marry her.",45139bb68a0b4db08bb6bc645e441845,4
+jitu,debts,"Devu reveals that he knew about Jitu's debts, which could be a reason why Devu did not want Yogesh to marry Vishakha.",45139bb68a0b4db08bb6bc645e441845,4
+yogesh,sanjana's father,"At the end of the movie, Yogesh is stunned when Sanjana's father, the one who came to welcome her, turns out to be Devu's secret bride whom he chose himself.",45139bb68a0b4db08bb6bc645e441845,4
+yogesh,money,"At the end of the movie, Yogesh's grandfather brings the money needed to pay off Jitu's debts. The connection between this and Devu's ability to arrange the marriage is unclear.",45139bb68a0b4db08bb6bc645e441845,4
+sanjana,raashee,"Sanjana asks about her astrological sign during the marriage ceremony, indicating a relation between Sanjana and raashee.",29f07b453f63461a98cd3cac1ebc9dbf,4
+yogesh,raashee,"Yogesh does not know Sanjana's astrological sign, suggesting a relation between Yogesh and raashee.",29f07b453f63461a98cd3cac1ebc9dbf,4
+sanjana,marriage attendants,"Marriage attendants ask Sanjana's astrological sign, implying a connection between Sanjana and the marriage attendees.",29f07b453f63461a98cd3cac1ebc9dbf,4

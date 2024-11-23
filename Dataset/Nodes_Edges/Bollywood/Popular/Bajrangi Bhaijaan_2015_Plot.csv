@@ -1,0 +1,106 @@
+node_1,node_2,edge,chunk_id,count
+shahida,"sultanpur, azad kashmir","Lives in the picturesque hills of Sultanpur, Azad Kashmir",3bf1d6a6628b46da8846fef80f53b4a0,4
+shahida,hill,Accidentally falls off a hill and gets stuck for a day due to disability,3bf1d6a6628b46da8846fef80f53b4a0,4
+search party,shahida,Organised to search for Shahida when she didn't return home by the end of the day,3bf1d6a6628b46da8846fef80f53b4a0,4
+nizamuddin auliya shrine,shahida,"Visited to bring peace and happiness, restore speech",3bf1d6a6628b46da8846fef80f53b4a0,4
+razia,nizamuddin auliya shrine,Travels to visit the holy shrine with Shahida,3bf1d6a6628b46da8846fef80f53b4a0,4
+razia,ex-armyman father,Mother takes it upon herself to travel to India as father is unsure of getting a visa,3bf1d6a6628b46da8846fef80f53b4a0,4
+shahida,sheep,Shahida notices a sheep stuck in a pit right outside the train and goes outside to help it.,d884264b842845fca43acf8c3329c229,4
+train,shahida,Shahida is left behind on the return journey when the train restarts before she can return to her mother.,d884264b842845fca43acf8c3329c229,4
+razia,train,Razia's daughter boards a freight train after being left behind on the return journey.,d884264b842845fca43acf8c3329c229,4
+freight train,shahida,Shahida boards a freight train but is eventually left behind and goes in the reverse-path direction.,d884264b842845fca43acf8c3329c229,4
+kurukshetra,shahida,"The freight train stops in Kurukshetra, where Razia notices her daughter is missing and stops the train.",d884264b842845fca43acf8c3329c229,4
+policemen,shahida,Policemen are appointed to look for Shahida around the track where she was lost.,d884264b842845fca43acf8c3329c229,4
+parents,shahida,Razia and her husband pray that their daughter is safe since they cannot find her due to her being in a different place.,d884264b842845fca43acf8c3329c229,4
+munni,pawan kumar chaturvedi,"Munni, a mute stranger, was found by Pawan Kumar Chaturvedi at a religious celebration. He invited her to have a meal with him and called her Munni. When Munni finished the food and continued following him, Pawan believed that Lord Hanuman would take Munni home if she stayed in front of his temple. After Munni still didn't stop following him, Pawan brought her to the police station but since she couldn't tell them any details about her parents, they could only wait for someone to file a missing complaint. As Munni needed a place to stay until her parents were found, Pawan took her in and asked her to call him Mama if she ever talked in the future.",0215d33e21cb474c991320282bf2be84,4
+pawan kumar chaturvedi,munni,"After finding Munni at a religious celebration, Pawan Kumar Chaturvedi named her Munni and believed that Lord Hanuman would take her home if she stayed in front of his temple. As Munni continued following him, Pawan brought her to the police station but since she couldn't tell them any details about her parents, they could only wait for someone to file a missing complaint. As Munni needed a place to stay until her parents were found, Pawan took her in and asked her to call him Mama if she ever talked in the future.",0215d33e21cb474c991320282bf2be84,4
+munni,delhi,"As Pawan Kumar Chaturvedi was taking Munni, a mute stranger, to his home in Delhi, he asked her to nod if she knew what city her parents were in. All the passengers on the bus helped him but none of them named cities outside of India.",0215d33e21cb474c991320282bf2be84,4
+pawan kumar chaturvedi,munni,"As Pawan Kumar Chaturvedi was taking Munni, a mute stranger, to his home in Delhi, he named different Indian cities and asked her to nod if she knew what city her parents were in. All the passengers on the bus helped him but none of them named cities outside of India.",0215d33e21cb474c991320282bf2be84,4
+munni,hanuman,"When Pawan Kumar Chaturvedi found Munni, a mute stranger, at a religious celebration, he believed that Lord Hanuman would take Munni home if she stayed in front of his temple.",0215d33e21cb474c991320282bf2be84,4
+pawan kumar chaturvedi,munni,"When Pawan Kumar Chaturvedi found Munni, a mute stranger, at a religious celebration, he named her Munni and believed that Lord Hanuman would take Munni home if she stayed in front of his temple.",0215d33e21cb474c991320282bf2be84,4
+munni,police station,"When Munni still didn't stop following Pawan Kumar Chaturvedi, he brought her to the police station but since she couldn't tell them any details about her parents, they could only wait for someone to file a missing complaint.",0215d33e21cb474c991320282bf2be84,4
+pawan,lord hanuman,Pawan was a true devotee of Lord Hanuman and refused to cheat or lie during his final examination in high school.,faaaf9c8508d430eb2a448c79ac90057,4
+pawan,high school,Pawan attended high school and could not pass the final examination on his initial attempts.,faaaf9c8508d430eb2a448c79ac90057,4
+pawan,friends,Pawan's friends cheated during their final examinations in high school.,faaaf9c8508d430eb2a448c79ac90057,4
+rasika,pawan,Rasika offered Pawan a job at the school she taught and fell in love with his innocent persona.,faaaf9c8508d430eb2a448c79ac90057,4
+pandey,pawan,Pandey allowed Pawan to stay with him while he looked for work in Delhi.,faaaf9c8508d430eb2a448c79ac90057,4
+pandey,rasika,Pandey is Rasika's father.,faaaf9c8508d430eb2a448c79ac90057,4
+munni,fair skin color,Pawan rationalized that Munni belonged to the Hindu religion because of her fair skin color.,faaaf9c8508d430eb2a448c79ac90057,4
+munni,different religion,Pandey was worried about the possibility that Munni belonged to a different religion.,faaaf9c8508d430eb2a448c79ac90057,4
+munni,vegetarian,"Since the entire family is vegetarian, and Munni is accustomed to eating meat with every meal, she hardly ever finishes her food.",faaaf9c8508d430eb2a448c79ac90057,4
+munni,muslim neighbour's home,"found by Pawan and Rasika, devouring home-cooked chicken",46d029940ef446aa8c77c02fd8e92237,4
+munni,restaurant,let by Pawan to eat whatever she likes even though eating meat is against his religion,46d029940ef446aa8c77c02fd8e92237,4
+munni,glittery bangles,picked up innocently before being stopped by the vendor,46d029940ef446aa8c77c02fd8e92237,4
+temple,munni,to apologise to God for stealing,46d029940ef446aa8c77c02fd8e92237,4
+mosque,munni,sneaked into while Rasika makes Pawan realise that she is a human before being Muslim and hates that her father discriminates against people because of their religion,46d029940ef446aa8c77c02fd8e92237,4
+quran,munni,reading in front of a shrine at the Mosque,46d029940ef446aa8c77c02fd8e92237,4
+pawan,mosque,hesitant to follow Munni inside but he does it anyway,46d029940ef446aa8c77c02fd8e92237,4
+munni,muslim neighbour's home,"left before Pawan could catch her after she ran to him and hugged him tightly, accepting Munni entirely overcoming his irrational fear of going against his religion",46d029940ef446aa8c77c02fd8e92237,4
+cricket match,india,Against Pakistan,b714477bbf044bfabda97caa1e5d56cf,4
+india,pakistan,Competitors in cricket match,b714477bbf044bfabda97caa1e5d56cf,4
+family,tv,Watching cricket match on TV,b714477bbf044bfabda97caa1e5d56cf,4
+munni,india,Except for Munni,b714477bbf044bfabda97caa1e5d56cf,4
+pakistan,munni,Citizenship of Munni,b714477bbf044bfabda97caa1e5d56cf,4
+pandey,munni,Disapproval towards Munni's citizenship,b714477bbf044bfabda97caa1e5d56cf,4
+embassy,munni,Visa processing for Munni,b714477bbf044bfabda97caa1e5d56cf,4
+travel agent,munni,Transportation of Munni,b714477bbf044bfabda97caa1e5d56cf,4
+pawan,munni,Custody and transportation of Munni,b714477bbf044bfabda97caa1e5d56cf,4
+rasika,munni,Contribution towards Munni's transportation,b714477bbf044bfabda97caa1e5d56cf,4
+street vendor,munni,Selling bangles to Munni,b714477bbf044bfabda97caa1e5d56cf,4
+travel agent,brothel,Handover of Munni to brothel,b714477bbf044bfabda97caa1e5d56cf,4
+pawan,tv vendor,Buying bangles for Munni from TV vendor after being cheated by travel agent,b714477bbf044bfabda97caa1e5d56cf,4
+pawan,travel agent's office,located at,40b6c67a840143c4b9594a68ebd17323,4
+pawan,he finds out that he has been cheated,experiences,40b6c67a840143c4b9594a68ebd17323,4
+travel agent's office,he finds out that he has been cheated,location of event,40b6c67a840143c4b9594a68ebd17323,4
+travel agent's office,agent has taken the little girl to a brothel and is about to sell her into prostitution,involvement in,40b6c67a840143c4b9594a68ebd17323,4
+brothel,little girl,located at,40b6c67a840143c4b9594a68ebd17323,4
+brothel,prostitution,associated with,40b6c67a840143c4b9594a68ebd17323,4
+pawan,little girl,rescues,40b6c67a840143c4b9594a68ebd17323,4
+travel agent's office,pawan throws the man out of the window,involvement in,40b6c67a840143c4b9594a68ebd17323,4
+travel agent's office,munni,brings back,40b6c67a840143c4b9594a68ebd17323,4
+pawan,ali,Pawan meets a secret agent named Ali who agrees to transport them for free after listening to Munni's story.,c9e1045ae5fd4a9ab80c824b8be7bd1d,4
+munni,ali,They meet a secret agent named Ali who illegally transports people to the other side through a tunnel and agrees to take them for free after listening to Munni's story.,c9e1045ae5fd4a9ab80c824b8be7bd1d,4
+pawan,soldiers,The head soldier finds Pawan and asks him for the reason of his travel. The soldiers beat him up when they don't permit him to go.,c9e1045ae5fd4a9ab80c824b8be7bd1d,4
+munni,soldiers,The officers find Munni and watch as the soldiers beat up Pawan.,c9e1045ae5fd4a9ab80c824b8be7bd1d,4
+pawan,border,"Pawan has made the decision to bring Munni home himself, but he has no connections or ideas about Pakistani villages. He packs his bags and makes his way to the border.",c9e1045ae5fd4a9ab80c824b8be7bd1d,4
+ali,tunnel,Ali illegally transports people to the other side through a tunnel.,c9e1045ae5fd4a9ab80c824b8be7bd1d,4
+pawan,munni,"Both Pawan and Munni are present in the restaurant scene. Munni steals a cop's handcuffs, assuming it to be a bracelet. This action leads to Pawan being thrown into jail by the police as an Indian spy due to lack of a passport.",822af1fee77c4f6a84834160f791d020,4
+munni,picture on a table calendar,Munni recognizes the picture on the table calendar as her village while inside the police station. This realization brings joy to Pawan until the policeman forcefully makes Munni open her mouth.,822af1fee77c4f6a84834160f791d020,4
+pawan,cop,"The cop interrogates Pawan inside the police station, but refuses to believe anything he has to say. This refusal leads to Pawan losing his temper and attacking the man, inviting more trouble for himself.",822af1fee77c4f6a84834160f791d020,4
+chand nawab,pawan,"Chand Nawab finds out about the alleged spy Pawan and runs to the police station to interview him. However, he gets a few vague answers from Pawan, and the media company doesn't take him seriously.",822af1fee77c4f6a84834160f791d020,4
+cop,pawan,The cop labels Pawan as an Indian spy because of the lack of a passport when he finds out about Munni stealing his handcuffs. This labeling leads to Pawan being thrown into jail.,822af1fee77c4f6a84834160f791d020,4
+pawan,journalist chand nawab,Chand Nawab informs the media company that doesn't take him seriously when he interviews Pawan and gets a few vague answers from him.,822af1fee77c4f6a84834160f791d020,4
+cop,picture on a table calendar,"The cop forcefully makes Munni open her mouth inside the police station. This action leads to Pawan losing his temper and attacking the man, inviting more trouble for himself.",822af1fee77c4f6a84834160f791d020,4
+nawab,pawan,Nawab sees Pawan escaping from the police and follows him behind. This action shows Nawab's curiosity towards the alleged spy Pawan.,822af1fee77c4f6a84834160f791d020,4
+munni,pawan,"relationship between Munni and Pawan, both being key concepts in the given context. They are travelling together, Munni is being helped by Pawan, and they have a romantic relationship.",108a71c3242c4eceb14b9a74cd56c23a,4
+conductor,bus,relationship between Conductor and Bus. Conductor works in Bus to collect fares from passengers.,108a71c3242c4eceb14b9a74cd56c23a,4
+nawab,munni,"relationship between Nawab and Munni, Nawab helps Munni when police comes searching for her. He hides Munni and Pawan on the top of the bus.",108a71c3242c4eceb14b9a74cd56c23a,4
+police,munni,"relationship between Police and Munni, Police are searching for Munni as they suspect her to be a spy. Munni is being helped by various people to escape from police.",108a71c3242c4eceb14b9a74cd56c23a,4
+azad,munni,"relationship between Azad and Munni, Azad helps Munni and hides her along with Pawan. He dresses up Nawab and Pawan in burqa to send them outside the city.",108a71c3242c4eceb14b9a74cd56c23a,4
+burqa,"nawab, pawan","relationship between Burqa and Nawab, Pawan. Azad dresses up Nawab and Pawan in traditional clothing called burqa to send them outside the city.",108a71c3242c4eceb14b9a74cd56c23a,4
+camera,nawab,"relationship between Camera and Nawab, Nawab's cameraman friend is being used by the police to gather information about their whereabouts.",108a71c3242c4eceb14b9a74cd56c23a,4
+mosque,police,"relationship between Mosque and Police, Police come looking for Munni at a famous mosque.",108a71c3242c4eceb14b9a74cd56c23a,4
+nawab,trio,Nawab is a part of the trio.,0f3b98a34b974cee9d899920ce1d3615,4
+nawab,cameraman friend,Nawab has a cameraman friend.,0f3b98a34b974cee9d899920ce1d3615,4
+cameraman friend,police,Nawab realises that his cameraman friend is being used by the police to gather information about their whereabouts.,0f3b98a34b974cee9d899920ce1d3615,4
+trio,cameraman friend,"The trio and the cameraman friend are different groups, but in this context, the trio is trying to help their cameraman friend.",0f3b98a34b974cee9d899920ce1d3615,4
+trio,false information,The trio gives false information to distract the police and protect their cameraman friend from being caught by the police.,0f3b98a34b974cee9d899920ce1d3615,4
+munni,mother,"In one of the clips from their time at the mosque, Munni recognizes her mother and they are seen getting into a specific bus. This leads to them finding their destination through the bus driver's route information.",f3bacd85c0404aeeaf79c69246c7cd36,4
+pawan,police,"As Pawan tries to escape during a police check, he is caught and beaten up by the officers.",f3bacd85c0404aeeaf79c69246c7cd36,4
+nawab,munni,"With no way out during the police check, Nawab helps Munni escape and reunites her with her family.",f3bacd85c0404aeeaf79c69246c7cd36,4
+pawan,documentary,The documentary on YouTube goes viral,65b134dff0394691bcd464d6cb8339c6,4
+pawan,bigger news channels,start covering the story,65b134dff0394691bcd464d6cb8339c6,4
+pawan,spy,People find out that Pawan is not a spy,65b134dff0394691bcd464d6cb8339c6,4
+pawan,prison,Being held in prison,65b134dff0394691bcd464d6cb8339c6,4
+indian and pakistani people,support,Give him all their support,65b134dff0394691bcd464d6cb8339c6,4
+pawan,torture,Pakistani officials refuse to let him go and torture him in prison,65b134dff0394691bcd464d6cb8339c6,4
+pawan,beatings,Beating him up for hours,65b134dff0394691bcd464d6cb8339c6,4
+pawan,drowning,Drowning him until his last breath,65b134dff0394691bcd464d6cb8339c6,4
+pawan,starvation,Starving him,65b134dff0394691bcd464d6cb8339c6,4
+nawab,another video,Asks people to gather at the border and ensure that Pawan reaches home safely,65b134dff0394691bcd464d6cb8339c6,4
+indian and pakistani people,crowd,Come to the border in crowds,65b134dff0394691bcd464d6cb8339c6,4
+rasika and her family,crowd,Wait among the crowd for Pawan's return,65b134dff0394691bcd464d6cb8339c6,4
+pawan,crosses the border,"Eventually, he crosses the border",65b134dff0394691bcd464d6cb8339c6,4
+crowd,erupts chanting pawan's name,The crowd erupts chanting Pawan's name as he crosses the border,65b134dff0394691bcd464d6cb8339c6,4
+munni,pawan,Shouts 'Mama',65b134dff0394691bcd464d6cb8339c6,4
+crowd,silent,The crowd goes silent as she yells goodbye,65b134dff0394691bcd464d6cb8339c6,4

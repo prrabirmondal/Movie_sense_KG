@@ -1,0 +1,39 @@
+node_1,node_2,edge,chunk_id,count
+ganga jagjivandas kathiawadi,ramnik,"Ganga runs away with her older boyfriend Ramnik who promises her a film career under the tutelage of his aunt Sheela, but instead sells her to Sheela's brothel.",d55df407f73c4e5da0cee78d39d92e63,4
+sheela,ganga jagjivandas kathiawadi,"Sheela is the aunt of Ganga's boyfriend Ramnik, who runs a brothel and forces Ganga into prostitution.",d55df407f73c4e5da0cee78d39d92e63,4
+gangu,sheela,Sheela is the owner of the brothel where Gangu is forced into prostitution.,d55df407f73c4e5da0cee78d39d92e63,4
+rahim lala,gangu,"After being brutally beaten by Rahim when she reports Shaukat's assault, Gangu earns the adoration of other prostitutes in the brothel.",d55df407f73c4e5da0cee78d39d92e63,4
+shaukat,gangu,"Shaukat violently assaults Gangu, leaving her hospitalised.",d55df407f73c4e5da0cee78d39d92e63,4
+rahim lala,shaukat,"When Shaukat reappears at the brothel after being beaten by Rahim, Gangu earns the adoration of other prostitutes for inspiring Rahim to beat Shaukat again.",d55df407f73c4e5da0cee78d39d92e63,4
+gangubai,ganga jagjivandas kathiawadi,"After nine years, Gangu becomes the brothel's madame and is referred to as Gangubai.",d55df407f73c4e5da0cee78d39d92e63,4
+rashmibai,gangubai,"When Rashmibai requests Gangubai to persuade a new prostitute, Madhu, into becoming a sex worker, Gangubai shares her own story and eventually sends Madhu back.",d55df407f73c4e5da0cee78d39d92e63,4
+gangubai,rashmibai,requests,142093962fd8448d9e3d3757e687fa38,4
+gangubai,madhu,meets and shares story with,142093962fd8448d9e3d3757e687fa38,4
+raziabai,gangubai,incumbent and challenger in presidential elections of Kamathipura,142093962fd8448d9e3d3757e687fa38,4
+rahim,gangubai,arranges illegal alcohol sales with help from,142093962fd8448d9e3d3757e687fa38,4
+gangubai,kusum,arranges marriage between daughter and Muslim tailor for,142093962fd8448d9e3d3757e687fa38,4
+raziabai,gangubai,failed attempt at arresting,142093962fd8448d9e3d3757e687fa38,4
+raziabai,gangubai,broadcasts free movies in neighbourhood and attracts supporters,142093962fd8448d9e3d3757e687fa38,4
+gangubai,family,calls for the first time in twelve years after winning elections and finds out father has died,142093962fd8448d9e3d3757e687fa38,4
+catholic girls' school,prostitutes of kamathipur,starts campaign to evict over concerns of negative influences,142093962fd8448d9e3d3757e687fa38,4
+local builder,prostitutes of kamathipur,wants to demolish brothels to construct skyscrapers on their land and protests against it,142093962fd8448d9e3d3757e687fa38,4
+builder,skyscrapers,wants to demolish the brothels to construct skyscrapers on their land,f3c23e70a85b4bcd8e32af90ee3ff91f,4
+brothels,prostitutes,"Gangubai protests, stating the prostitutes of Kamathipura will be homeless if evicted",f3c23e70a85b4bcd8e32af90ee3ff91f,4
+prostitutes,homelessness,if evicted,f3c23e70a85b4bcd8e32af90ee3ff91f,4
+gangubai,principal,visits the school principal to get the children from her brothel admitted into the school,f3c23e70a85b4bcd8e32af90ee3ff91f,4
+children,school,Gangubai visits the school principal to get the children from her brothel admitted into the school,f3c23e70a85b4bcd8e32af90ee3ff91f,4
+gangubai,fees,pays their fees for five years,f3c23e70a85b4bcd8e32af90ee3ff91f,4
+fees,school,suggesting the implementation of their right to education as a better way to abolish sex trade than forceful eviction,f3c23e70a85b4bcd8e32af90ee3ff91f,4
+gangubai,sympathetic journalist,visits a sympathetic newspaper journalist Hamid to get support for her cause,f3c23e70a85b4bcd8e32af90ee3ff91f,4
+newspaper journalist,gangubai's interview,arranges for Gangubai to deliver a speech at a feminist meeting held at Azad Maidan,f3c23e70a85b4bcd8e32af90ee3ff91f,4
+gangubai,local politician,arranges a meeting with a local politician seeking her support in the upcoming elections,f3c23e70a85b4bcd8e32af90ee3ff91f,4
+supreme court,school,the school has filed a PIL with the Supreme Court,f3c23e70a85b4bcd8e32af90ee3ff91f,4
+gangubai,prime minister,"requests the legalization of prostitution in the country, claiming her neighbourhood is constantly discriminated against and is on the edge of homelessness",f3c23e70a85b4bcd8e32af90ee3ff91f,4
+misogynistic societal viewpoints,immoral,"Highlights misogynistic societal viewpoints against her community, which label prostitutes as immoral and deprive their children of basic human rights",f3c23e70a85b4bcd8e32af90ee3ff91f,4
+children,homelessness,thrown out on their first day,f3c23e70a85b4bcd8e32af90ee3ff91f,4
+country,homelessness,"The person in the context is claiming that her neighbourhood, which falls under the country's jurisdiction, is constantly discriminated against and is on the edge of homelessness.",33a11c51fddd4719b4836188c912d285,4
+prime minister,committee,The Prime Minister agrees to set up a committee to investigate the status of prostitution in the country.,33a11c51fddd4719b4836188c912d285,4
+country,prostitution,The context mentions that the Prime Minister agrees to set up a committee to investigate the status of prostitution in the country.,33a11c51fddd4719b4836188c912d285,4
+kamathipura,brothels,The order being granted prevents the brothels of Kamathipura from being evicted.,33a11c51fddd4719b4836188c912d285,4
+gangubai,influence,Gangubai is widely celebrated in her area for her influence.,33a11c51fddd4719b4836188c912d285,4
+gangubai,social activism,The context mentions that Gangubai is widely celebrated in her area for her influence and social activism.,33a11c51fddd4719b4836188c912d285,4

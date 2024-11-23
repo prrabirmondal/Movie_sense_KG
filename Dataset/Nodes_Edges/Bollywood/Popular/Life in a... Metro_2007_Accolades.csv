@@ -1,0 +1,46 @@
+node_1,node_2,edge,chunk_id,count
+filmfare awards,award[a],"The Filmfare Awards are a type of award, specifically the Filmfare Award, which is given out as part of the Filmfare Awards ceremony.",04f961b66f1a4c0685c5a88fa26e23c5,4
+filmfare awards,category,"The categories for awards at the Filmfare Awards include Best Director, Best Screenplay, and Best Supporting Actor and Actress.",04f961b66f1a4c0685c5a88fa26e23c5,4
+filmfare awards,recipient(s),"The recipients of awards at the Filmfare Awards include directors, screenwriters, actors, and actresses.",04f961b66f1a4c0685c5a88fa26e23c5,4
+filmfare awards,result,The results of awards at the Filmfare Awards can be either 'Nominated' or 'Won'.,04f961b66f1a4c0685c5a88fa26e23c5,4
+international indian film academy awards,best film,"The International Indian Film Academy Awards include a category for Best Film, which is awarded to the producer of the winning film.",04f961b66f1a4c0685c5a88fa26e23c5,4
+producers guild film awards,best film,"The Producers Guild Film Awards also include a category for Best Film, which is awarded to the producer of the winning film.",04f961b66f1a4c0685c5a88fa26e23c5,4
+filmfare awards,life in a... metro - utv motion pictures,"In this context, 'Life in a... Metro' is a movie, and 'UTV Motion Pictures' is the production company that produced it.",04f961b66f1a4c0685c5a88fa26e23c5,4
+filmfare awards,ronnie screwvala,"In this context, 'Ronnie Screwvala' is a producer, specifically the producer of 'Life in a... Metro' who was nominated for Best Film at the Filmfare Awards.",04f961b66f1a4c0685c5a88fa26e23c5,4
+award[a],date of ceremony,"The date of the ceremony where an award is given out, such as the Filmfare Awards, is known as the 'Date of ceremony'.",04f961b66f1a4c0685c5a88fa26e23c5,4
+filmfare awards,anurag basu,"In this context, 'Anurag Basu' is a director who was nominated for Best Director at the Filmfare Awards.",04f961b66f1a4c0685c5a88fa26e23c5,4
+filmfare awards,konkona sen sharma,"In this context, 'Konkona Sen Sharma' is an actress who won Best Supporting Actress at the Filmfare Awards.",04f961b66f1a4c0685c5a88fa26e23c5,4
+international indian film academy awards,life in a... metro - utv motion pictures,"The International Indian Film Academy Awards also included 'Life in a... Metro' in the category for Best Film, which it won.",04f961b66f1a4c0685c5a88fa26e23c5,4
+producers guild film awards,ronnie screwvala,"The Producers Guild Film Awards also nominated 'Ronnie Screwvala' for Best Film, which he did not win.",04f961b66f1a4c0685c5a88fa26e23c5,4
+award[a],ref.,"In this context, 'Ref.' stands for reference or source. It is often used to indicate where more information about an award can be found.",04f961b66f1a4c0685c5a88fa26e23c5,4
+producers guild film awards,ronnie screwvala,"In this context, 'Ronnie Screwvala' was nominated for Best Film at both the Filmfare Awards and the Producers Guild Film Awards.",04f961b66f1a4c0685c5a88fa26e23c5,4
+international indian film academy awards,utv motion pictures,"In this context, 'UTV Motion Pictures' was nominated for Best Film at both the International Indian Film Academy Awards and the Producers Guild Film Awards.",04f961b66f1a4c0685c5a88fa26e23c5,4
+producers guild film awards,life in a... metro - utv motion pictures,"In this context, 'Life in a... Metro' was nominated for Best Film at both the Producers Guild Film Awards and another award show.",04f961b66f1a4c0685c5a88fa26e23c5,4
+award[a],nominated,"The phrase 'Nominated' is used to describe a person or thing that has been chosen as a contender for an award, but has not yet won.",04f961b66f1a4c0685c5a88fa26e23c5,4
+award[a],won,"The phrase 'Won' is used to describe a person or thing that has been chosen as the best in a particular category, and has therefore been awarded an award.",04f961b66f1a4c0685c5a88fa26e23c5,4
+international indian film academy awards,life in a... metro - utv motion pictures,"In this context, 'Life in a... Metro' won Best Film at the International Indian Film Academy Awards.",04f961b66f1a4c0685c5a88fa26e23c5,4
+award[a],konkona sen sharma,"The actress 'Konkona Sen Sharma' was nominated for Best Supporting Actress at the Filmfare Awards, and won at both the Filmfare Awards and another award show.",04f961b66f1a4c0685c5a88fa26e23c5,4
+international indian film academy awards,life in a... metro - utv motion pictures,"In this context, 'Life in a... Metro' was not nominated for Best Film at the International Indian Film Academy Awards.",04f961b66f1a4c0685c5a88fa26e23c5,4
+producers guild film awards,anurag basu,"In this context, 'Anurag Basu' was not nominated for Best Director at the Producers Guild Film Awards.",04f961b66f1a4c0685c5a88fa26e23c5,4
+life in a... metro,best film,Nominated and Won at Screen Awards and Stardust Awards,ec1ab96fe12c41b8af236c716b779270,4
+anurag basu,dream director,Nominated at Stardust Awards,ec1ab96fe12c41b8af236c716b779270,4
+irrfan khan,best actor in a comic role,Won at Screen Awards,ec1ab96fe12c41b8af236c716b779270,4
+konkona sen sharma,best supporting actress,Nominated at Screen Awards and Stardust Awards,ec1ab96fe12c41b8af236c716b779270,4
+pritam,best music director,Nominated and Won at Screen Awards,ec1ab96fe12c41b8af236c716b779270,4
+soham chakrabarty,new musical sensation – male,Nominated at Stardust Awards,ec1ab96fe12c41b8af236c716b779270,4
+soham chakrabarty,best male playback singer,Nominated and Won at Screen Awards,ec1ab96fe12c41b8af236c716b779270,4
+sanjeev dutta,best dialogue,Nominated at Screen Awards,ec1ab96fe12c41b8af236c716b779270,4
+bobby singh,best cinematography,Nominated at Screen Awards,ec1ab96fe12c41b8af236c716b779270,4
+akiv ali,best editing,Nominated at Screen Awards,ec1ab96fe12c41b8af236c716b779270,4
+hitendra ghosh,best sound recording,Nominated at Screen Awards,ec1ab96fe12c41b8af236c716b779270,4
+raju singh,best background music,Nominated at Screen Awards,ec1ab96fe12c41b8af236c716b779270,4
+sandeep srivastava,standout performance by a lyricist,Nominated at Stardust Awards,ec1ab96fe12c41b8af236c716b779270,4
+life in a... metro,best film,"The movie 'Life in a... Metro' was nominated for the Best Film award at the Zee Cine Awards held on April 26, 2008.",450c06d128a0404f8becb8a76e043b59,4
+anurag basu,best director,"Director Anurag Basu was nominated for the Best Director award at the Zee Cine Awards held on April 26, 2008.",450c06d128a0404f8becb8a76e043b59,4
+irrfan khan,best actor in a supporting role - male,"Actor Irrfan Khan was nominated for the Best Actor in a Supporting Role - Male award at the Zee Cine Awards held on April 26, 2008.",450c06d128a0404f8becb8a76e043b59,4
+konkona sen sharma,best actor in a supporting role - female,"Actress Konkona Sen Sharma was nominated for the Best Actor in a Supporting Role - Female award at the Zee Cine Awards held on April 26, 2008.",450c06d128a0404f8becb8a76e043b59,4
+shilpa shetty,won,"Actress Shilpa Shetty won an award at the Zee Cine Awards held on April 26, 2008.",450c06d128a0404f8becb8a76e043b59,4
+pritam,best music director,"Composer Pritam was nominated for the Best Music Director award at the Zee Cine Awards held on April 26, 2008.",450c06d128a0404f8becb8a76e043b59,4
+sayeed quadri,best lyricist,"Lyricist Sayeed Quadri was nominated for the Best Lyricist award at the Zee Cine Awards held on April 26, 2008, for the song 'In Dino'.",450c06d128a0404f8becb8a76e043b59,4
+soham chakrabarty,best male playback singer,"Singer Soham Chakrabarty was nominated for the Best Male Playback Singer award at the Zee Cine Awards held on April 26, 2008, for the song 'In Dino'.",450c06d128a0404f8becb8a76e043b59,4
+'in dino',best track of the year,"The song 'In Dino' was nominated for the Best Track of the Year award at the Zee Cine Awards held on April 26, 2008.",450c06d128a0404f8becb8a76e043b59,4

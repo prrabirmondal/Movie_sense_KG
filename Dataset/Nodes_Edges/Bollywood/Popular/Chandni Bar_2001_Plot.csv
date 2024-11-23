@@ -1,0 +1,46 @@
+node_1,node_2,edge,chunk_id,node_3,count
+mumtaz,communal riots,Mumtaz's family is killed in communal riots.,87e96d4b17e246ba9ce85b6afc034932,,4
+mumbai,mumtaz,Mumtaz moves to Mumbai with her uncle after her village is burnt down in communal riots.,87e96d4b17e246ba9ce85b6afc034932,,4
+uncle,mumtaz,Mumtaz's uncle is the only family member she has left when her family is killed in communal riots.,87e96d4b17e246ba9ce85b6afc034932,,4
+bar girl (dancer),mumtaz,Her uncle persuades Mumtaz to become a bar girl (dancer) at Chandni Bar in Mumbai when they are desperately poor.,87e96d4b17e246ba9ce85b6afc034932,,4
+chandni bar,mumtaz,"Mumtaz becomes a bar girl (dancer) at Chandni Bar in Mumbai, which is emotionally blackmailed by her uncle.",87e96d4b17e246ba9ce85b6afc034932,,4
+shy,mumtaz,Mumtaz is shy and loathes the work of being a bar girl (dancer) at Chandni Bar in Mumbai.,87e96d4b17e246ba9ce85b6afc034932,,4
+uncle,shy,Her uncle emotionally blackmails Mumtaz when she refuses to become a bar girl (dancer) at Chandni Bar in Mumbai.,87e96d4b17e246ba9ce85b6afc034932,,4
+temporarily,uncle,"Her uncle promises her that becoming a bar girl (dancer) at Chandni Bar in Mumbai is merely temporary, until he gets a job.",87e96d4b17e246ba9ce85b6afc034932,,4
+emotionally confide,mumtaz,The other dancers console Mumtaz when she emotionally confides in them about being raped by her uncle.,87e96d4b17e246ba9ce85b6afc034932,,4
+reality check,mumtaz,Mumtaz receives a reality check when she realises that many other women at the bar have equally disturbing and painful stories.,87e96d4b17e246ba9ce85b6afc034932,,4
+pottya sawant,mumtaz,Gangster called Pottya Sawant attempts to seduce Mumtaz at the bar.,87e96d4b17e246ba9ce85b6afc034932,,4
+sex,pottya sawant,Pottya Sawant finally resorts to paying Mumtaz for sex.,87e96d4b17e246ba9ce85b6afc034932,Mumtaz,4
+cannot go through with deed,mumtaz,Mumtaz cannot go through with the deed and tells Pottya about her rape.,87e96d4b17e246ba9ce85b6afc034932,,4
+enraged,pottya sawant,"Enraged, Pottya kills Mumtaz's uncle after she tells him about being raped by her uncle.",87e96d4b17e246ba9ce85b6afc034932,,4
+marries,pottya sawant,Mumtaz leaves the bar and Pottya marries her.,87e96d4b17e246ba9ce85b6afc034932,,4
+rises up the criminal ranks quickly,pottya sawant,"Pottya rises up the criminal ranks quickly, despite his volatile temper.",87e96d4b17e246ba9ce85b6afc034932,,4
+mumtaz,uncle,kills,bf40134a75844ae08601ba7ab5ca7397,,4
+mumtaz,mumtaz,marries,bf40134a75844ae08601ba7ab5ca7397,,4
+abhay,mumtaz,son of,bf40134a75844ae08601ba7ab5ca7397,,4
+payal,mumtaz,daughter of,bf40134a75844ae08601ba7ab5ca7397,,4
+pottya,mumtaz,husband of,bf40134a75844ae08601ba7ab5ca7397,,4
+bar,chandni bar,same location as,bf40134a75844ae08601ba7ab5ca7397,,4
+gangsters,pottya's world,part of,bf40134a75844ae08601ba7ab5ca7397,,4
+friends,pottya,has,bf40134a75844ae08601ba7ab5ca7397,,4
+informant,police,related to,bf40134a75844ae08601ba7ab5ca7397,,4
+criminal world,pottya's world,part of,bf40134a75844ae08601ba7ab5ca7397,,4
+dancing girls,mumtaz's world,part of,bf40134a75844ae08601ba7ab5ca7397,,4
+education,mumtaz's wish,related to,bf40134a75844ae08601ba7ab5ca7397,,4
+gangs,criminal world,part of,bf40134a75844ae08601ba7ab5ca7397,,4
+debt,pottya,leaves behind a large amount of,bf40134a75844ae08601ba7ab5ca7397,,4
+stable environment,mumtaz,provides,bf40134a75844ae08601ba7ab5ca7397,,4
+troublemakers,abhay's friends,related to,bf40134a75844ae08601ba7ab5ca7397,,4
+juvenile prison,abhay,held in,bf40134a75844ae08601ba7ab5ca7397,,4
+reputation,pottya's son,causes the police to ignore his pleas of innocence,bf40134a75844ae08601ba7ab5ca7397,,4
+abhay,pottya's son,relation between Abhay and Pottya's son is that of being the same person,d58db3a20f8d4d6a8854692ac0dacd48,,4
+police,abhay,police ignore Abhay's pleas of innocence due to his reputation as Pottya's son,d58db3a20f8d4d6a8854692ac0dacd48,,4
+abhay,rape,Abhay is raped by a pair of older inmates at the prison,d58db3a20f8d4d6a8854692ac0dacd48,,4
+mumtaz,police,"Mumtaz attempts to talk to the police, but they ignore her due to their connection with influential people",d58db3a20f8d4d6a8854692ac0dacd48,,4
+influential people,mumtaz,"Mumtaz meets with some influential people who have police connections and can get Abhay released, but demand a high price in return",d58db3a20f8d4d6a8854692ac0dacd48,,4
+money,mumtaz,Mumtaz sells her body to obtain the money demanded by influential people,d58db3a20f8d4d6a8854692ac0dacd48,,4
+money,payal,"Payal brings the money demanded by influential people to her troubled mother, Mumtaz",d58db3a20f8d4d6a8854692ac0dacd48,,4
+abhay,revenge,"After being released from prison, Abhay is cold, ruthless, and looks for revenge against the boys who raped him",d58db3a20f8d4d6a8854692ac0dacd48,,4
+mumtaz,disappointment,Mumtaz is devastated to find that her son has become a killer after getting released from prison,d58db3a20f8d4d6a8854692ac0dacd48,,4
+payal,following in footsteps,It is implied that Payal is following in her mother's footsteps,d58db3a20f8d4d6a8854692ac0dacd48,,4
+abhay,becoming another pottya,"After becoming a killer, Abhay is set to be another Pottya",d58db3a20f8d4d6a8854692ac0dacd48,,4

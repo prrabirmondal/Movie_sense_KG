@@ -1,0 +1,29 @@
+node_1,node_2,edge,chunk_id,count
+mark zuckerberg,erica albright,"Mark Zuckerberg's ex-girlfriend Erica Albright is mentioned in the context. No explicit relationship between them is stated, but it can be inferred that they had a romantic relationship.",16e3780bc27e430baf5f656695d0063a,4
+facemash,harvard university,Facemash was created by hacking and downloading photos from house face books at Harvard University. This indicates that Facemash is related to Harvard University.,16e3780bc27e430baf5f656695d0063a,4
+mark zuckerberg,livejournal blog,"Mark Zuckerberg wrote an insulting post about his ex-girlfriend Erica Albright on his LiveJournal blog, which is mentioned in the context.",16e3780bc27e430baf5f656695d0063a,4
+harvard connection,cameron and tyler winklevoss,"The trio of Cameron and Tyler Winklevoss and Divya Narendra invited Mark Zuckerberg to work on Harvard Connection, indicating a relationship between them and Harvard Connection.",16e3780bc27e430baf5f656695d0063a,4
+harvard connection,divya narendra,"The trio of Cameron and Tyler Winklevoss and Divya Narendra invited Mark Zuckerberg to work on Harvard Connection, indicating a relationship between them and Harvard Connection.",16e3780bc27e430baf5f656695d0063a,4
+mark zuckerberg,eduardo saverin,"Mark Zuckerberg approached his friend Eduardo Saverin with an idea for Thefacebook, indicating a relationship between them and Thefacebook.",16e3780bc27e430baf5f656695d0063a,4
+harvard connection,theft,"When the Winklevoss twins and Narendra learned of Thefacebook, they believed that Mark Zuckerberg stole their idea while misleading them by stalling development on the Harvard Connection website.",16e3780bc27e430baf5f656695d0063a,4
+harvard connection,stalling,"When the Winklevoss twins and Narendra learned of Thefacebook, they believed that Mark Zuckerberg misled them by stalling development on the Harvard Connection website.",16e3780bc27e430baf5f656695d0063a,4
+thefacebook,harvard university,"When the Winklevoss twins and Narendra learned of Thefacebook, they believed that it was exclusive to Ivy League students, indicating a relationship between Thefacebook and Harvard University.",16e3780bc27e430baf5f656695d0063a,4
+thefacebook,ivy league students,"When the Winklevoss twins and Narendra learned of Thefacebook, they believed that it was exclusive to Ivy League students, indicating a relationship between Thefacebook and Ivy League students.",16e3780bc27e430baf5f656695d0063a,4
+harvard connection,larry summers,"When the Winklevoss twins and Narendra raised their complaint with Harvard President Larry Summers, indicating a relationship between Harvard Connection and Larry Summers.",16e3780bc27e430baf5f656695d0063a,4
+thefacebook,harvard university,"When the Winklevoss twins and Narendra learned of Thefacebook, they believed that it was created by Mark Zuckerberg while he was still a student at Harvard University, indicating a relationship between Thefacebook and Harvard University.",16e3780bc27e430baf5f656695d0063a,4
+facebook,thefacebook,"Facebook is the expanded and renamed version of Thefacebook, which was initially limited to Harvard students.",2c1cdb47f5f8468fab7ead69a7a9790a,4
+christy lee,facebook,"Lee asked Saverin and Zuckerberg to 'Facebook me', which impressed them and led to the growth of Thefacebook.",2c1cdb47f5f8468fab7ead69a7a9790a,4
+yale,facebook,Zuckerberg expanded Facebook to include Yale students.,2c1cdb47f5f8468fab7ead69a7a9790a,4
+columbia,facebook,Zuckerberg expanded Facebook to include Columbia students.,2c1cdb47f5f8468fab7ead69a7a9790a,4
+stanford,facebook,Zuckerberg expanded Facebook to include Stanford students.,2c1cdb47f5f8468fab7ead69a7a9790a,4
+palo alto,facebook,"Parker advised Zuckerberg to relocate Facebook to Palo Alto, which he did.",2c1cdb47f5f8468fab7ead69a7a9790a,4
+napster co-founder sean parker,zuckerberg,Parker presented a 'billion-dollar' vision for Facebook to Zuckerberg.,2c1cdb47f5f8468fab7ead69a7a9790a,4
+sean parker,thefacebook,Parker suggested dropping 'the' from Thefacebook and simply renaming the site to Facebook.,2c1cdb47f5f8468fab7ead69a7a9790a,4
+henley royal regatta,winklevoss twins,The Winklevoss twins competed in the Henley Royal Regatta for Harvard and discovered that Facebook had expanded to Europe.,2c1cdb47f5f8468fab7ead69a7a9790a,4
+intellectual property theft,facebook,The Winklevoss twins accused Facebook of intellectual property theft related to its expansion to Europe.,2c1cdb47f5f8468fab7ead69a7a9790a,4
+peter thiel,facebook,"Thiel invested $500,000 in Facebook and helped resolve a dispute between Zuckerberg and Saverin.",2c1cdb47f5f8468fab7ead69a7a9790a,4
+saverin,zuckerberg,"Saverin becomes enraged when he discovers that the new investment deal allows his share of Facebook to be diluted from 34% to 0.03%, without diluting the ownership percentage of any other owner. He confronts Zuckerberg and Parker, and Saverin vows to sue Zuckerberg. Later, in separate depositions, Saverin claims his shares of Facebook were unfairly diluted when the company was incorporated.",2406f5b6cbd54869b233fa6c81487b7c,4
+parker,saverin,"Parker tells him that he is no longer a part of Facebook and has security eject him from the building after Saverin's name had already been removed from the masthead as co-founder and CFO, and Saverin vows to sue Zuckerberg.",2406f5b6cbd54869b233fa6c81487b7c,4
+winklevoss twins,zuckerberg,The Winklevoss twins claim that Zuckerberg stole their idea,2406f5b6cbd54869b233fa6c81487b7c,4
+delpy,zuckerberg,Marylin Delpy informs Zuckerberg that they will settle with Saverin since the sordid details of Facebook's founding and Zuckerberg's callous attitude will make him unsympathetic to a jury,2406f5b6cbd54869b233fa6c81487b7c,4
+zuckerberg,albright,"Alone, Zuckerberg sends a Facebook friend request to Albright and repeatedly refreshes the page.",2406f5b6cbd54869b233fa6c81487b7c,4

@@ -1,0 +1,20 @@
+node_1,node_2,edge,chunk_id,count
+lady in blue,aarav's fishing company (blue fisheries),"The famous ship Lady in Blue sunk in a storm, and Aarav runs a successful fishing company called Blue Fisheries in the Bahamas.",8d47e3d3067247198a421aff1d34575f,4
+lady in blue,captain of lady in blue,The opening sequence shows the captain emerging alone on the seashore after Lady in Blue sank in a storm.,8d47e3d3067247198a421aff1d34575f,4
+aarav's fishing company (blue fisheries),sagar,Sagar works as a diver for Aarav's fishing company called Blue Fisheries in the Bahamas.,8d47e3d3067247198a421aff1d34575f,4
+sagar,mona,Sagar plans to marry his girlfriend Mona.,8d47e3d3067247198a421aff1d34575f,4
+sam,nikki,"Sam meets Nikki, a female biker who actually works for the underworld gangster Gulshan in Bangkok.",8d47e3d3067247198a421aff1d34575f,4
+gulshan,nikki,Nikki works for the underworld gangster Gulshan in Bangkok.,8d47e3d3067247198a421aff1d34575f,4
+sam,gulshan,"Sam is hired by Gulshan, but is actually set up by Gulshan and ends up costing Gulshan $50 million.",8d47e3d3067247198a421aff1d34575f,4
+aarav's fishing company (blue fisheries),gulshan,Sam is confronted by Gulshan and chased by his crew in the Bahamas.,8d47e3d3067247198a421aff1d34575f,4
+aarav,sam,Aarav saves Sam's life.,8d47e3d3067247198a421aff1d34575f,4
+sagar,sam,Sam decides to convince Sagar to retrieve the treasure from Lady in Blue.,8d47e3d3067247198a421aff1d34575f,4
+gulshan,mona,Gulshan kidnaps Mona with a ransom of $50 million or Sam for her return.,8d47e3d3067247198a421aff1d34575f,4
+lady in blue,aadesh singh,"Sagar had to abandon his archaeologist father, Aadesh Singh, on the ship (Lady in Blue) to save his own life.",eb5d49bf6f1d4d99b8f40363d0210f1c,4
+sagar,gulshan,"Sagar and Gulshan have a history where Gulshan was hired by Aarav to force Sam to flee Bangkok, kidnap Mona, and force Sagar to agree to go to the Lady in Blue.",eb5d49bf6f1d4d99b8f40363d0210f1c,4
+aarav,lady in blue,"Aarav's motive to find the treasure was to bring honor back to his family name, as his grandfather was Captain Jagat Malhotra, the traitorous captain of the ship, Lady in Blue.",eb5d49bf6f1d4d99b8f40363d0210f1c,4
+nikki,nikita malhotra,"Nikki's real name is Nikita Malhotra, and she is revealed to be alive. She apologizes to Sam for the misunderstanding caused by her disguise.",eb5d49bf6f1d4d99b8f40363d0210f1c,4
+aarav,honor,Aarav is trying to bring honor back to his family name.,17cc2e13274047948d3481ae383332ac,4
+nikki,honor,"By revealing herself as Nikita Malhotra, Aarav's wife, Nikki is helping to bring honor back to her husband's family name.",17cc2e13274047948d3481ae383332ac,4
+nikki,real name,Nikki's real name is Nikita Malhotra.,17cc2e13274047948d3481ae383332ac,4
+sam,apology accepted,The film doesn't reveal if Sam accepted Nikki's apology or not.,17cc2e13274047948d3481ae383332ac,4

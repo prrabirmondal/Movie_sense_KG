@@ -1,0 +1,30 @@
+node_1,node_2,edge,chunk_id,count
+movie,plot,"MOVIE's PLOT is a sequence of events, situations or circumstances that form the storyline of a MOVIE",0ae900e839904e549451baf12de76fa3,4
+jill sadelstein,jack,Sibling relationship. Jill consistently attempts to harm or repel others from Jack while growing up in the Bronx.,fc55926d84bb4cd195fa4dc80eb76c60,4
+jack,erin,Spousal relationship. Jack is married to Erin.,fc55926d84bb4cd195fa4dc80eb76c60,4
+erin,sofia,Parent-child relationship. Sofia is the biological daughter of Jack and Erin.,fc55926d84bb4cd195fa4dc80eb76c60,4
+erin,gary,Adoptive parent-child relationship. Gary is an adoptive Hindu son of Jack and Erin.,fc55926d84bb4cd195fa4dc80eb76c60,4
+jill sadelstein,los angeles,"Location relationship. Jill visits Jack, who resides in Los Angeles with his family.",fc55926d84bb4cd195fa4dc80eb76c60,4
+jill sadelstein,new york city,Location relationship. Jill inherits her childhood home in New York City following her mother's death.,fc55926d84bb4cd195fa4dc80eb76c60,4
+erin,carter and bitsy simmons,"In-law relationship. Erin's parents, Carter and Bitsy Simmons, visit during Thanksgiving dinner.",fc55926d84bb4cd195fa4dc80eb76c60,4
+jill sadelstein,poopsie,Pet relationship. Jill takes her pet cockatoo Poopsie with her when she visits Jack.,fc55926d84bb4cd195fa4dc80eb76c60,4
+otto,jill sadelstein,"Embarrassment relationship. Jill's behavior embarrasses a homeless guest, Otto, at Thanksgiving dinner.",fc55926d84bb4cd195fa4dc80eb76c60,4
+erin,apology,Demand relationship. Erin demands that Jack apologize to her.,fc55926d84bb4cd195fa4dc80eb76c60,4
+movie,jill,Jack reprimands her and she exits in tears while watching a movie,203ca8fd56b84b88983d33ef6fb0b7c5,4
+jill,online dating,"Deciding that Jill needs a romantic partner, Jack encourages her to try online dating",203ca8fd56b84b88983d33ef6fb0b7c5,4
+jill's profile,over 100 responses,"Jack alters her profile and posts it on Craigslist, garnering over 100 responses",203ca8fd56b84b88983d33ef6fb0b7c5,4
+funbucket,jill,"A person nicknamed 'Funbucket' meets her at a high-end restaurant, but only a few minutes into their evening, retreats into the men's restroom and hides there until she leaves",203ca8fd56b84b88983d33ef6fb0b7c5,4
+jill,disgrace,"Jill disgraces herself along with Jack and his colleagues, resulting in her ejection",203ca8fd56b84b88983d33ef6fb0b7c5,4
+al pacino,jill,Pacino ignores Jack but finds himself infatuated with Jill at a Lakers game,203ca8fd56b84b88983d33ef6fb0b7c5,4
+jill,oscar statuette,She accidentally destroys his Oscar statuette,203ca8fd56b84b88983d33ef6fb0b7c5,4
+felipe,jill,"Felipe's family at their annual fiesta, she immediately connects with everyone",203ca8fd56b84b88983d33ef6fb0b7c5,4
+mexican food,severe case of diarrhea,She suffers a severe case of diarrhea after trying Mexican food for the first time at Felipe's family fiesta,203ca8fd56b84b88983d33ef6fb0b7c5,4
+pacino,dunkaccino advertisement,Pacino agrees to work on the Dunkaccino advertisement on the condition that he has another date with Jill,203ca8fd56b84b88983d33ef6fb0b7c5,4
+cruise,jill and poopsie,"Jack invites her to accompany him and his family on a cruise, she insists on bringing Poopsie despite the strict policy against pets",203ca8fd56b84b88983d33ef6fb0b7c5,4
+jill,poopsie,"Despite the cruise line's strict policy against pets, Jill insists on bringing Poopsie along, irritating everyone onboard.",ab594b6e0e2e4d67997ada6a125fbe82,4
+jill,pacino,"Jill repeatedly rebuffs Pacino, causing suspicion that her invitation was just to convince him to do the advertisement.",ab594b6e0e2e4d67997ada6a125fbe82,4
+jill,jack,"Jill phones Jack and hears Pacino in the background, dejected she returns home.",ab594b6e0e2e4d67997ada6a125fbe82,4
+jill,monica,"Jill encounters her former schoolmate Monica, who attacks Erin but Jill defends her.",ab594b6e0e2e4d67997ada6a125fbe82,4
+felipe,jill,"After discarding numerous bills that she mistook for junk mail, Jill discovers that the bank has foreclosed on her home, leaving her homeless.",ab594b6e0e2e4d67997ada6a125fbe82,4
+pacino,jill,"At a restaurant in the Bronx on New Year's Eve, Pacino arrives dressed as Don Quixote and reminds Jill that he cares about her but other men deserve her more than he does.",ab594b6e0e2e4d67997ada6a125fbe82,4
+jill,erin,"Monica attacks Erin, but Jill defends her.",ab594b6e0e2e4d67997ada6a125fbe82,4

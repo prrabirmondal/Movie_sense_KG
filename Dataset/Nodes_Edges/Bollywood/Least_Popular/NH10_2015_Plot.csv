@@ -1,0 +1,26 @@
+node_1,node_2,edge,chunk_id,count
+meera,arjun,"Married couple, both working in corporate business in Gurugram",49376011813c4fed8fbb066513e06978,4
+meera,office,Received a telephone call from while enjoying a party,49376011813c4fed8fbb066513e06978,4
+meera,thugs,Attacked by thugs who smashed her car's window while leaving for office after receiving a telephone call,49376011813c4fed8fbb066513e06978,4
+arjun,meera,Bought Meera a gun when she was shaken by the incident of being attacked by thugs while leaving for office after receiving a telephone call,49376011813c4fed8fbb066513e06978,4
+arjun,road trip,Suggested a road trip for Meera's upcoming birthday after she left for office following the attack by thugs and receiving a telephone call,49376011813c4fed8fbb066513e06978,4
+meera,pinky,Encountered Pinky at a roadside dhaba during their road trip,49376011813c4fed8fbb066513e06978,4
+pinky,gang of men,Rounded up by the gang of men whom Pinky and a young man were about to be murdered,49376011813c4fed8fbb066513e06978,4
+arjun,satbir,"Intervened in the incident when Satbir, the gang leader, slapped him and claimed Pinky as his own sister during their road trip",49376011813c4fed8fbb066513e06978,4
+meera,gang of men,Witnessed ongoing honor killing: Pinky and the young man were beaten and Pinky was poisoned by Satbir during their road trip,49376011813c4fed8fbb066513e06978,4
+arjun,gang of men,Chased the gang when they ran away after attacking Pinky and the young man during their road trip,49376011813c4fed8fbb066513e06978,4
+meera,police station,Asked for help at a police station while running away from the gang during their road trip,49376011813c4fed8fbb066513e06978,4
+meera,arjun,"Meera shoots the gangster dead, at a railway bridge, Meera leaves Arjun to get help.",31d399e388374abc9fccc7cb3c9ccb3e,4
+meera,police station,She finds a police station and asks the officer to help but he rejects her when she says she has witnessed an honour killing.,31d399e388374abc9fccc7cb3c9ccb3e,4
+inspector,meera,They drive back to find Arjun.,31d399e388374abc9fccc7cb3c9ccb3e,4
+meera,honour killing,"She realizes the Inspector is connected with the attackers; she kills the inspector and drives off in his car, chased by the gang.",31d399e388374abc9fccc7cb3c9ccb3e,4
+meera,village's chief ammaji,"She tells the village's chief Ammaji her story; after telling her of the honour killing, Meera sees a pillow cover with the word Pinky stitched on it on Ammaji's lap and a pic of Pinky in the room.",31d399e388374abc9fccc7cb3c9ccb3e,4
+ammaji,meera,"Ammaji locks Meera in the room, calls the gang and hands Meera over to them.",31d399e388374abc9fccc7cb3c9ccb3e,4
+satbir,meera,Satbir drags her out in front of Ammaji and beat her ruthlessly by slapping her repeatedly and also punches her hard in the stomach.,31d399e388374abc9fccc7cb3c9ccb3e,4
+arjun,meera,"Grief-stricken, Meera returns to the village to avenge Arjun's death;",31d399e388374abc9fccc7cb3c9ccb3e,4
+meera,suv,She drives the SUV at the gang members and kills them.,31d399e388374abc9fccc7cb3c9ccb3e,4
+pinky,ammaji,"Ammaji tells Meera that Pinky was her daughter who broke rules and needed to be punished,",31d399e388374abc9fccc7cb3c9ccb3e,4
+meera,pinky,Meera told Men that Pinky was her daughter who broke rules and needed to be punished,8847960dc75f48ab811e48f1d1233b5f,4
+men,meera,"In the context, Men is a listener when Meera reveals that her daughter Pinky broke rules and needed to be punished.",8847960dc75f48ab811e48f1d1233b5f,4
+ammaji,arjun,Ammaji told Men that Arjun was her husband and they killed him and needed to be punished,8847960dc75f48ab811e48f1d1233b5f,4
+men,ammaji,"In the context, Men is a listener when Ammaji reveals that her husband Arjun was killed.",8847960dc75f48ab811e48f1d1233b5f,4

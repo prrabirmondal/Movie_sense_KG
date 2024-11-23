@@ -1,0 +1,50 @@
+Question,Answer
+"""In the 2014 movie 'Interstellar', was Cooper a former test pilot for an organization other than NASA?""",no
+"""In the 2014 movie 'Interstellar', did NASA employ Cooper as a former test pilot?""",yes
+"""Did the global blight in the 2014 movie 'Interstellar' result in prosperity for humanity?""",no
+"""In the 2014 movie 'Interstellar', does a global blight cause extinction for humanity?""",yes
+"""Did Cooper refuse to join the Endurance team in the 2014 movie, Interstellar?""",no
+"""In the 2014 movie, Interstellar, does Cooper join the Endurance team to search for habitable planets?""",yes
+"[""Did the endurance team in the 2014 movie 'Interstellar' consist of characters other than scientists Romilly, Doyle, Amelia Brand, and robots TARS and CASE?""]",no
+"[""In the 2014 movie 'Interstellar', did the endurance team consist of scientists Romilly, Doyle, Amelia Brand, and robots TARS and CASE?""]",yes
+"""Did the endurance team fail to reach the planetary system in the 2014 movie 'Interstellar'?""",no
+"""In the 2014 movie 'Interstellar', does the endurance team arrive at a planetary system?""",yes
+"[""Does the planetary system in the 2014 movie 'Interstellar' consist of a supermassive black hole named Gargantua?""]",yes
+"[""In the 2014 movie 'Interstellar', does the planetary system consist of a supermassive black hole named Nebula?""]",no
+"""Did the endurance team in the 2014 movie 'Interstellar' ascend into the gravity well to survey a hospitable ocean world?""",no
+"""In the 2014 movie 'Interstellar', does the endurance team descend into the gravity well to survey an inhospitable ocean world?""",yes
+"[""Did Doyle survive the colossal wave in the 2014 movie 'Interstellar'?""]",no
+"[""Was Doyle swept away by a colossal wave during the Endurance team's survey of the first candidate planet in the 2014 movie 'Interstellar'?""]",yes
+"Question 1: [""Did the endurance team in the movie 'Interstellar' released in 2014 not experience any time dilation?""]","[no]
+
+question 2: [""in the 2014 movie 'interstellar', did the endurance team lose 23 earth-years due to severe time dilation caused by escaping the gravity well?""]"
+"[""In the 2014 movie 'Interstellar', did Romilly leave the Endurance to survey the first candidate planet in the black hole's gravity well?""]",no
+"[""In 'Interstellar' released in 2014, did Romilly remain aboard the Endurance while others descended into the black hole's gravity well to survey the first candidate planet?""]",yes
+"[""Is Amelia Brand's father not Professor Brand in the 2014 movie Interstellar?""]",no
+"[""Is Professor Brand the father of Amelia Brand in the 2014 movie Interstellar?""]",yes
+"[""In the 2014 movie 'Interstellar', did Brand's father fail to assist with the gravity equation?""]",no
+"[""In 'Interstellar', released in 2014, did Brand's father contribute to a gravity equation?""]",yes
+"""In the 2014 movie 'Interstellar', is Brand's father an enemy of Murph?""",no
+"""In the 2014 movie 'Interstellar', does Brand's father work with Murph?""",yes
+"[""Did Murph never visit her childhood home in the 2014 movie 'Interstellar'?""]",no
+"[""In the 2014 movie 'Interstellar', does Murph visit her childhood home?""]",yes
+"[""In the 2014 movie 'Interstellar', was Cooper not the commander of the Endurance spaceship?""]",no
+"[""In the 2014 movie 'Interstellar', did Cooper lead the mission to search for a new home for humanity as the commander of the Endurance spaceship?""]",yes
+"[""In the 2014 movie 'Interstellar', did Mann, the NASA explorer, die immediately after landing on the first candidate planet decades ago?""]",no
+"[""In 'Interstellar' released in 2014, was Mann revived by the Endurance crew after falling into a coma on the first candidate planet?""]",yes
+"[""Did Murph, in the 2014 movie 'Interstellar', accuse Cooper of unknowingly abandoning her?""]",no
+"[""In the 2014 movie 'Interstellar', did Murph, Cooper's daughter, help complete Brand's equation?""]",yes
+"[""In the 2014 movie 'Interstellar', is Brand a musician who works on a song to entertain humanity?""]",no
+"[""In 'Interstellar', released in 2014, does Brand work as a scientist on an equation to find a new home for humanity?""]",yes
+"""In the 2014 movie 'Interstellar', was TARS rescued by an O'Neill cylinder colony in the year 1956?""",no
+"""In the 2014 movie 'Interstellar', does TARS get rescued by an O'Neill cylinder colony in the year 2156?""",yes
+"[""In the 2014 movie 'Interstellar', does Cooper fail to reunite with Murph on her deathbed?""]",no
+"[""In 'Interstellar', released in 2014, does Cooper reunite with Murph on her deathbed?""]",yes
+"[""In the 2014 movie 'Interstellar', did Amelia fail to remove her helmet on the final candidate planet?""]",no
+"[""In the 2014 movie 'Interstellar', does Amelia remove her helmet and breathe in the air of the new habitable world on the final candidate planet?""]",yes
+"[""In the 2014 movie 'Interstellar', did Cooper never reunite with Murph?""]",no
+"[""In the 2014 movie 'Interstellar', does Cooper reunite with Murph?""]",yes
+"[""In the 2014 movie 'Interstellar', was TARS rescued by an O'Neill cylinder colony in the year 2156?""]",yes
+"[""In the 2014 movie 'Interstellar', did TARS rescue an O'Neill cylinder colony in the year 2156?""]",no
+"[""In the 2014 movie 'Interstellar', does Amelia fail to find a new habitable world on the final candidate planet?""]",no
+"[""In the 2014 film 'Interstellar', does Amelia discover a new habitable world on the final candidate planet?""]",yes

@@ -1,0 +1,63 @@
+Question,Answer
+"[""Is the movie 'The Pianist' from 2002 not represented by its summary?""]",no
+"[""Does the summary represent the movie 'The Pianist' that was released in 2002?""]",yes
+"""Is the movie 'The Pianist' from 2002 about a French pianist named Władysław Szpilman?""",no
+"""Does the 2002 movie 'The Pianist' tell the story of Władysław Szpilman, a Polish-Jewish pianist and Holocaust survivor who played live on the radio during Nazi Germany's invasion of Poland?""",yes
+"[""Did the movie 'The Pianist' released in 2002 depict events unrelated to Nazi Germany's invasion of Poland?""]",no
+"[""In the 2002 movie 'The Pianist', was Władysław Szpilman portrayed playing live on the radio in Warsaw during Nazi Germany's invasion of Poland?""]",yes
+"[""Did Britain and France fail to provide the promised aid to Władysław Szpilman's family after declaring war on Germany in the 2002 movie 'The Pianist'?""]",yes
+"[""In the movie 'The Pianist' released in 2002, did Britain and France provide the promised aid to Władysław Szpilman's family after declaring war on Germany?""]",no
+"""In the 2002 movie 'The Pianist', did the character 'ss' save a family from being killed in an apartment across the street during a round-up?""",no
+"""In the 2002 movie 'The Pianist', is the character 'ss' involved in killing another family in an apartment across the street during a round-up?""",yes
+"""Did Szpilman not possess a German work certificate in the 2002 movie 'The Pianist'?""",no
+"""Does Szpilman possess a German work certificate in the 2002 movie 'The Pianist'?""",yes
+"[""Did Szpilman board the train at the Umschlagplatz in the 2002 movie 'The Pianist'?""]",no
+"[""In the 2002 movie 'The Pianist', was Szpilman led away from his family by a friend from the Jewish Ghetto Police at the Umschlagplatz?""]",yes
+"[""Did Szpilman, in the 2002 movie 'The Pianist', remain oblivious to the upcoming Jewish revolt?""]",no
+"[""In the 2002 movie 'The Pianist', did Szpilman assist the resistance by smuggling weapons into the ghetto hidden inside bags of food?""]",yes
+"[""Did Szpilman's friend from the Jewish Ghetto Police lead him away from his family at the Umschlagplatz in the 2002 movie 'The Pianist'?""]",yes
+"[""In the 2002 movie 'The Pianist', was Szpilman abandoned by his friend from the Jewish Ghetto Police at the Umschlagplatz?""]",no
+"[""Did Szpilman, in the 2002 movie 'The Pianist', aid the resistance by smuggling food into the ghetto hidden inside bags of weapons?""]",no
+"[""In the 2002 movie 'The Pianist', did Szpilman aid the resistance by smuggling weapons into the ghetto hidden inside bags of food?""]",yes
+"[""Did Szpilman refuse medical help from Dorota and her husband in the 2002 movie 'The Pianist'?""]",no
+"[""In the movie 'The Pianist' released in 2002, did Dorota and her husband provide Szpilman a doctor to treat his illness?""]",yes
+"[""Did Szpilman's old friend Dorota provide him with a hiding place in the 2002 movie 'The Pianist'?""]",yes
+"[""In the 2002 film 'The Pianist', did Szpilman find his own hiding place without any help from his friend Dorota?""]",no
+"[""Did Szpilman remain in his hideout throughout the entire 2002 movie, 'The Pianist'?""]",no
+"[""In the 2002 movie 'The Pianist', was Szpilman forced to hide in an abandoned hospital after his hideout was destroyed by a German tank shell?""]",yes
+"[""Is the movie 'The Pianist' from 2002 about the Home Army attacking a Schutzpolizei building across the street from Szpilman's hideout during the Warsaw Uprising?""]",yes
+"[""In the 2002 movie 'The Pianist', does the Home Army attack a building unrelated to Szpilman's hideout during the Warsaw Uprising?""]",no
+"[""Is it true that in the 2002 movie 'The Pianist', Szpilman never sought refuge in a hospital after his hideout was destroyed by a German tank shell?""]",no
+"[""In the 2002 movie 'The Pianist', did Szpilman hide in an abandoned hospital after his hideout was destroyed by a German tank shell?""]",yes
+"[""Did the movie 'The Pianist' released in 2002 depict a scene where German troops spared the hospital?""]",no
+"[""In the 2002 movie 'The Pianist', did Szpilman escape upon noticing German troops burning the hospital with flamethrowers?""]",yes
+"[""Is the movie 'The Pianist' from 2002 about Szpilman finding a safe haven in Warsaw that remains untouched throughout the war?""]",no
+"[""In the 2002 movie 'The Pianist', does Szpilman's hideout get destroyed, forcing him to take refuge in an abandoned hospital?""]",yes
+"[""Is it true that in the 2002 movie 'The Pianist', Hosenfeld learns that Szpilman is a pianist and asks him to play 'Moonlight Sonata' on a grand piano?""]",no
+"[""In the movie 'The Pianist' released in 2002, does Szpilman play Chopin's 'Ballade No. 1 in G minor' when Hosenfeld asks him to play on a grand piano?""]",yes
+"[""Did Hosenfeld refuse to let Szpilman hide in the attic in the 2002 movie 'The Pianist'?""]",no
+"[""In the 2002 film 'The Pianist', did Hosenfeld provide food for Szpilman while he was hiding in the attic?""]",yes
+"[""Did Hosenfeld meet Szpilman for the first time in January 1945 in the movie 'The Pianist' released in 2002?""]",no
+"[""In the 2002 movie 'The Pianist', did Hosenfeld promise Szpilman that he will listen to him on Polish Radio after the war during their last meeting in January 1945?""]",yes
+"[""Did Szpilman, in the 2002 movie 'The Pianist', get killed in an ambush by several People's Army troops who mistook him for a German?""]",no
+"[""In the 2002 movie 'The Pianist', did Szpilman narrowly survive an ambush by several People's Army troops who mistook him for a German?""]",yes
+"[""In the 2002 movie 'The Pianist', does Hosenfeld encounter a pianist instead of a violinist among the captives?""]",no
+"[""In the 2002 film 'The Pianist', does the violinist request Szpilman to rescue Hosenfeld?""]",yes
+"[""Is the movie 'The Pianist' from 2002 set in a city that was not recreated on the backlot of Babelsberg Studio to resemble its appearance during the war?""]",no
+"[""In the 2002 film 'The Pianist', was the surrounding city during the war recreated on the backlot of Babelsberg Studio?""]",yes
+"""In the 2002 film 'The Pianist', were the old Soviet Army barracks used to create a tropical paradise instead of a ruined city?""",no
+"""In the 2002 movie 'The Pianist', were the old Soviet Army barracks used to depict the ruined city?""",yes
+"[""Did 'The Pianist', released in 2002, not contribute to Polanski's artistic redemption?""]",no
+"[""Is Polanski's artistic redemption related to his work on 'The Pianist', released in 2002?""]",yes
+"""In the 2002 movie 'The Pianist', does Mick LaSalle's statement suggest that Warsaw is portrayed as a world of color bombed into black-and-white devastation?""",yes
+"""Does the 2002 film 'The Pianist' depict Warsaw as a city full of vibrant colors and untouched by devastation?""",no
+"""In the 2002 film 'The Pianist', does the character Szpilman transform into a literal gaunt existential clown as per A.O. Scott's review?""",no
+"""According to A.O. Scott, does Szpilman's character in the 2002 movie 'The Pianist' come to resemble one of Samuel Beckett's gaunt existential clowns?""",yes
+"[""Did the movie 'The Pianist' released in 2002 have any involvement from DI Factory or Studiocanal's cinematographer Paweł Edelman?""]",yes
+"[""Was the movie 'The Pianist' released in 2002 produced solely by DI Factory without any assistance from Studiocanal's cinematographer Paweł Edelman?""]",no
+"""Did StudioCanal release the film 'The Pianist' on 4K UHD in Germany in the year 2002?""",no
+"""Did StudioCanal release the film 'The Pianist' on 4K UHD in Germany after its initial release in 2002?""",yes
+"""Was 'The Pianist' released by StudioCanal on 4K UHD in France in the year of its release, 2002?""",no
+"""Did StudioCanal release 'The Pianist' on 4K UHD in France after its initial release in 2002?""",yes
+"[""Was 'The Pianist' released by StudioCanal on 4K UHD in the UK in the year 2002?""]",no
+"[""Did StudioCanal release 'The Pianist' on 4K UHD in the UK after its initial release in 2002?""]",yes

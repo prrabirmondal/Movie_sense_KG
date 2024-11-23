@@ -1,0 +1,28 @@
+node_1,node_2,edge,chunk_id,count
+ssp vikram,ssp abbas,"both are SSPs in the police department, but have different approaches towards combating crime",09c7b0b9d4e346a1afb59d4861dae25b,4
+vedha betal,ssp vikram,antagonistic relationship between a dreaded gangster and an honest police officer,09c7b0b9d4e346a1afb59d4861dae25b,4
+abbas's encounter unit,vedha betal,the police squad tries to eliminate Vedha while he voluntarily surrenders,09c7b0b9d4e346a1afb59d4861dae25b,4
+parshuram pandey,vedha betal,dreaded criminal kingpin and his henchman have a boss-subordinate relationship,09c7b0b9d4e346a1afb59d4861dae25b,4
+shatak,parshuram pandey,"younger brother of Vedha, a mathematical genius who is forced by a rival gangster to carry drugs",09c7b0b9d4e346a1afb59d4861dae25b,4
+chanda,shatak,friend of Shatak who gets caught along with him while carrying drugs,09c7b0b9d4e346a1afb59d4861dae25b,4
+babloo,shatak,rival gangster who forces Shatak to carry drugs and assaults him later on,09c7b0b9d4e346a1afb59d4861dae25b,4
+vedha,babloo/shiv prasad,"Asks Vikram if he should kill Babloo or Shiv Prasad, implying that he killed Shiv Prasad",b0248dda37a14fa8a44501f12ae53c23,4
+vikram,shiv prasad,Reveals that Shiv Prasad was the real culprit,b0248dda37a14fa8a44501f12ae53c23,4
+shatak,vedha/priya/ig,"[{'source': 'Shatak', 'target': 'Vedha', 'relationship': 'Was framed by Vedha for avoiding inquiry'}, {'source': 'Shatak', 'target': 'Priya', 'relationship': 'Wife of Vikram'}, {'source': 'Shatak', 'target': 'IG', 'relationship': 'Dismissed it as a botched encounter'}]",b0248dda37a14fa8a44501f12ae53c23,4
+vikram,abbas/chanda,"[{'source': 'Vikram', 'target': 'Abbas', 'relationship': 'Rushes to save Abbas, but finds him and Chanda shot dead'}, {'source': 'Vikram', 'target': 'Chanda', 'relationship': 'Orders to kill due to revenge'}]",b0248dda37a14fa8a44501f12ae53c23,4
+shatak,pandey/money,"[{'source': 'Shatak', 'target': 'Pandey', 'relationship': 'Offers to launder income by investing it in shares'}, {'source': 'Pandey', 'target': 'Money', 'relationship': 'Invested ₹1 crore (US$120,000)'}, {'source': 'Chanda', 'target': 'Money', 'relationship': 'Stole to start a new life'}]",b0248dda37a14fa8a44501f12ae53c23,4
+priya,vedha,Refuses to divulge Vedha's whereabouts to Vikram,b0248dda37a14fa8a44501f12ae53c23,4
+chanda,shatak/money,"[{'source': 'Chanda', 'target': 'Shatak', 'relationship': 'Steals money to start a new life'}, {'source': 'Chanda', 'target': 'Money', 'relationship': 'Returns the money due to love for Shatak'}]",b0248dda37a14fa8a44501f12ae53c23,4
+vikram,pandey,authority figure relationship between police officer Vikram and corrupt politician Pandey,7c970e0561fc4565bdd224835b69393a,4
+shatak,vikram,"conflict between criminal Shatak and police officer Vikram, later turning into support by Vikram for Shatak's innocence",7c970e0561fc4565bdd224835b69393a,4
+chanda,shatak,association between Chanda and criminal Shatak,7c970e0561fc4565bdd224835b69393a,4
+abbas' informant,vikram,informational relationship between Abbas' informant and police officer Vikram,7c970e0561fc4565bdd224835b69393a,4
+babloo,abbas' killer,unknown relationship between Babloo and Abbas' unknown murderer,7c970e0561fc4565bdd224835b69393a,4
+mumbai gang leader,vikram,confrontation between police officer Vikram and Mumbai Gang Leader in response to Vedha's story,7c970e0561fc4565bdd224835b69393a,4
+deepak,mumbai gang leader,"collaborative relationship between Deepak and Mumbai Gang Leader, resulting in the gang leader's death",7c970e0561fc4565bdd224835b69393a,4
+vedha,abbas,"Abbas saves Chanda, but the unit kills both of them at Babloo's behest. Vedha realizes that the entire unit has been bribed by Babloo.",204177ab4da04780bd8ffc5d7c36917e,4
+vikram,vedha,"Vikram and Vedha are both police officers, but Vedha becomes a fugitive after a feud with Pandey. Vikram shoots bullets in frustration as Vedha escapes again due to corruption within the unit.",204177ab4da04780bd8ffc5d7c36917e,4
+babloo,abbas,"Babloo bribes Abbas to kill Chanda, but Abbas realizes the error of his ways and tries to save her instead. This leads to their deaths at the hands of Babloo's other associates.",204177ab4da04780bd8ffc5d7c36917e,4
+babloo,the unit,"Babloo bribes the entire police unit to kill Vedha and Chanda. The Unit carries out Babloo's orders, but Abbas's attempt to save Chanda leads to their deaths.",204177ab4da04780bd8ffc5d7c36917e,4
+vedha,the unit,"Vedha's men are being targeted and eliminated by The Unit. During one such chase, Sanki pushes Vedha out of their vehicle, only to be intercepted by Abbas, who turns out to be on Babloo's payroll.",204177ab4da04780bd8ffc5d7c36917e,4
+vikram,the unit,"Vikram realizes that The Unit has also been bribed by Babloo. The IG reveals that Babloo paid them to kill Vedha and Chanda's abduction was intended to lure Shatak out of Mumbai, which would lure Vedha out of hiding.",204177ab4da04780bd8ffc5d7c36917e,4

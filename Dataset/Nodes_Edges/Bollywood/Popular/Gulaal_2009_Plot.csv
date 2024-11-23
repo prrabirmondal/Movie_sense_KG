@@ -1,0 +1,26 @@
+node_1,node_2,edge,chunk_id,count
+dilip,ransa,"Are acquaintances who meet in an old, run-down British-era pub. Dilip is a mild-mannered law student from Bikaner, and Ransa is a prince who despises the ideologies of his father and the aristocracy.",b8bb344ff2734889878dc87ad6dbbb3a,4
+dilip,anuja,Are both naked and imprisoned in a university hostel room after being ragged by Jadwal's gang.,b8bb344ff2734889878dc87ad6dbbb3a,4
+ransa,dukey banna,"Ransa meets Dukey Banna, a local leader gathering support for the Rajputana separatist movement, who promises protection from Jadwal's gang.",b8bb344ff2734889878dc87ad6dbbb3a,4
+karan,ransa,"Karan kidnaps Ransa and asks him to withdraw from the General Secretary elections at the university, where his opponent is Kiran, Ransa's half-sister.",b8bb344ff2734889878dc87ad6dbbb3a,4
+jadwal,dilip,Jadwal and his gang strip and lock Dilip in a room with Anuja as part of ragging him at the university hostel.,b8bb344ff2734889878dc87ad6dbbb3a,4
+kiran,ransa,"Kiran is Ransa's half-sister, and he is running against her in the General Secretary elections at the university.",b8bb344ff2734889878dc87ad6dbbb3a,4
+dilip,kiran,"romantic relationship, Kiran seduces Dilip and convinces him to allow her to become the cultural secretary",2d554990bc7146c8b379646886dc3ab1,4
+karan,opponent (kiran's half-brother),"relationship between Kiran's brother and his opponent, Karan kidnaps Ransa and asks him to withdraw from the elections",2d554990bc7146c8b379646886dc3ab1,4
+ransa,opponent (karan's victim),"relationship between Kiran's brother's victim and his opponent, Ransa refuses to withdraw from the elections and gets killed by Karan",2d554990bc7146c8b379646886dc3ab1,4
+dukey,opponent (dilip),"power struggle between Dukey and Dilip, Dukey starts using university funds for the Rajputana movement and bribes the electoral panel to rig the count in Dilip's favour",2d554990bc7146c8b379646886dc3ab1,4
+anuja,supporter (dilip),"relationship between Dilip's girlfriend and his supporter, Anuja moves in with Dilip when Jadwal throws her out of the hostel",2d554990bc7146c8b379646886dc3ab1,4
+jadwal,antagonist (anuja),"antagonistic relationship between Anuja and her opponent, Jadwal throws Anuja out of the hostel",2d554990bc7146c8b379646886dc3ab1,4
+kiran,dukey,"relationship between Kiran and Dukey, Dukey threatens Karan and Kiran by telling them that the only reason they're alive is because they are the king's offspring",2d554990bc7146c8b379646886dc3ab1,4
+dukey,opponent (karan and kiran),"relationship between Dukey and his opponents, Dukey tells Karan and Kiran that the only reason they're alive is because they are the king's offspring",2d554990bc7146c8b379646886dc3ab1,4
+anuja,dilip,"relationship between Anuja and Dilip, Anuja tries to explain to Dilip that Kiran has no interest in him or in traditional married life",2d554990bc7146c8b379646886dc3ab1,4
+kiran,dilip,"relationship between Kiran and Dilip, Kiran gets pregnant accidentally and ends her relationship with Dilip",2d554990bc7146c8b379646886dc3ab1,4
+anuja,kiran,"relationship between Anuja and Kiran, Anuja tries to reason with Kiran but realizes that she holds no leverage in the situation",2d554990bc7146c8b379646886dc3ab1,4
+dukey,separatist movement,"relationship between Dukey and the separatist movement, Dukey tells Dilip about the separatist movement",2d554990bc7146c8b379646886dc3ab1,4
+kiran,dukey,"Kiran tries to seduce Dukey, but they are interrupted by Dukey's second-in-command, Bhati. Kiran used Dilip to get to Dukey.",f81336a5a81848e38ca4b1302cbdbd0d,4
+dilip,dukey,The only reason they're alive is because they are the king's offspring. Dilip finds out about Kiran and Dukey's relationship from Dukey's mistress Madhuri.,f81336a5a81848e38ca4b1302cbdbd0d,4
+bhati,dukey,"Dukey's second-in-command, Bhati.",f81336a5a81848e38ca4b1302cbdbd0d,4
+karan,dukey,"Once Dukey Banna is eliminated, the Rajputana movement will choose him as their leader and legitimize him.",f81336a5a81848e38ca4b1302cbdbd0d,4
+madhuri,dilip,Dilip finds out about Kiran and Dukey's relationship from Dukey's mistress Madhuri.,f81336a5a81848e38ca4b1302cbdbd0d,4
+karan's gang,dukey's defenses,Karan's gang decide to eliminate Bhati so that Dukey's defenses will be weakened.,f81336a5a81848e38ca4b1302cbdbd0d,4
+bhati,kiran,"When Bhati goes off to find her, he is killed by Karan's gang.",f81336a5a81848e38ca4b1302cbdbd0d,4

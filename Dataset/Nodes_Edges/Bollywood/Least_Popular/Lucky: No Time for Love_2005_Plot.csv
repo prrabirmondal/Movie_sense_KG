@@ -1,0 +1,18 @@
+node_1,node_2,edge,chunk_id,count
+lucky negi,mr. sekhri,"Lucky Negi is the daughter of Mr. Sekhri, the Indian Ambassador to Russia",e49d9f4d409449e1931fd8f15b6df119,4
+mr. sekhri,aditya,"Aditya is the son of Mr. Sekhri, the Indian Ambassador to Russia",e49d9f4d409449e1931fd8f15b6df119,4
+lucky negi,mr. negi,Lucky Negi's father is Mr. Negi,e49d9f4d409449e1931fd8f15b6df119,4
+aditya,lucky negi,Lucky Negi and Aditya were victims of an attempted rape by a young Russian,e49d9f4d409449e1931fd8f15b6df119,4
+lucky negi,young russian,Lucky Negi was the victim of an attempted rape by a young Russian,e49d9f4d409449e1931fd8f15b6df119,4
+aditya,car owner,Aditya rescued Lucky Negi from the young Russian and drove her car to meet his father until he was stopped at a check-post,e49d9f4d409449e1931fd8f15b6df119,4
+car owner,lucky negi,The Car Owner found Lucky Negi hiding in the parked car while driving his car to meet Aditya's father,e49d9f4d409449e1931fd8f15b6df119,4
+aditya,terrorists,"The terrorists poisoned the water which Lucky Negi accidentally drank, forcing Aditya to leave with her from the doctor's clinic",e49d9f4d409449e1931fd8f15b6df119,4
+local doctor,aditya,Aditya and Lucky Negi took refuge in a local doctor's clinic after leaving the car due to pressing circumstances,e49d9f4d409449e1931fd8f15b6df119,4
+retired colonel pindi das kapoor,mr. sekhri,"Mr. Sekhri recruited a private investigator, retired Colonel Pindi Das Kapoor, to locate their children",e49d9f4d409449e1931fd8f15b6df119,4
+retired colonel pindi das kapoor,graveyard,Colonel Pindi Das Kapoor found Aditya and Lucky Negi hiding in an isolated graveyard during his search for them,e49d9f4d409449e1931fd8f15b6df119,4
+aditya,lucky negi,Aditya and Lucky Negi fell in love while struggling to return to their families,e49d9f4d409449e1931fd8f15b6df119,4
+aditya,russia,"Aditya spent some time in Russia before falling in love with Lucky. Therefore, 'Aditya' and 'Russia' are related as 'place' and 'person' respectively.",b5033a0a226d4e73a432daa97a2ab08b,4
+lucky,russia,Lucky is also associated with Russia as she fell in love with Aditya while staying in Russia.,b5033a0a226d4e73a432daa97a2ab08b,4
+aditya,lucky,"Aditya and Lucky fell in love while they were both in Russia. Hence, 'Aditya' and 'Lucky' are related as 'person' and 'person' respectively.",b5033a0a226d4e73a432daa97a2ab08b,4
+colonel,aditya,"The Colonel found Aditya and Lucky in Russia and helped them reunite with their families. Thus, 'Colonel' and 'Aditya' are related as 'person' and 'person' respectively.",b5033a0a226d4e73a432daa97a2ab08b,4
+colonel,india,"The Colonel is originally from India. Hence, 'Colonel' and 'India' are related as 'person' and 'country' respectively.",b5033a0a226d4e73a432daa97a2ab08b,4

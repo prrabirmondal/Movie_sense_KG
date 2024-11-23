@@ -1,0 +1,34 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,"A movie has a summary that provides details about its plot, characters, and other important information.",4f027151524246c4b9146a4659d2c3ec,4
+raj singh puri,lalit malhotra,Best friend relationship between Raj and Lalit.,5c888626524e4eb5bf5e184b515a23a6,4
+j.k. malhotra,lalit malhotra,Brother-nephew relationship between J.K. And Lalit.,5c888626524e4eb5bf5e184b515a23a6,4
+ronit,lalit malhotra,Son-father relationship between Ronit and Lalit.,5c888626524e4eb5bf5e184b515a23a6,4
+nalini,lalit malhotra,Spouse relationship between Nalini and Lalit.,5c888626524e4eb5bf5e184b515a23a6,4
+malhotras,raj singh puri,"Friendship with the wealthy business family, Malhotras.",5c888626524e4eb5bf5e184b515a23a6,4
+ronit,raj,"close friendships with Raj and his daughters, having grown up with them",33d7f85688624b43ac7df1310711d977,4
+avantika,pankaj,"happy in her arranged marriage to Ronit's college friend, Pankaj",33d7f85688624b43ac7df1310711d977,4
+saania,ronit's parents,trying to arrange for him to marry Monishka Rai against Saania's wishes,33d7f85688624b43ac7df1310711d977,4
+isha,ronit,unexpectedly blossoms into love in Malaysia,33d7f85688624b43ac7df1310711d977,4
+shalini,raj's wife,died in an accident some years prior,33d7f85688624b43ac7df1310711d977,4
+monishka rai,malhotras,spoiled daughter of another business tycoon,33d7f85688624b43ac7df1310711d977,4
+raj,rai family,longtime friend of the Rai family,33d7f85688624b43ac7df1310711d977,4
+isha,ronit,"initially in a romantic relationship, Isha ends it due to societal pressure from the Malhotra family.",6d24bd8def4f421b9a99a29509e381a9,4
+raj,isha,"facilitates the marriage proposal for the Malhotras, but feels guilty when Isha asks for his blessing due to her relationship with Ronit.",6d24bd8def4f421b9a99a29509e381a9,4
+raj,malhotra family,his loyalties to both families make him feel guilty about the situation.,6d24bd8def4f421b9a99a29509e381a9,4
+ronit,malhotra family,the Malhotras' obsession with money makes it difficult for Isha to find acceptance as a daughter-in-law.,6d24bd8def4f421b9a99a29509e381a9,4
+raj,malhotra family,"publicly insults Raj and accuses him of using Isha to worm his way into their wealthy family, shattering their relationship.",6d24bd8def4f421b9a99a29509e381a9,4
+ronit,monishka,"pressured by both Raj and his parents, Ronit agrees to marry Monishka despite her lifestyles being opposite to the Malhotras' own traditional Indian values.",6d24bd8def4f421b9a99a29509e381a9,4
+ronit,malhotra family,accused by Ronit of neglecting his feelings for their lifelong neglect.,6d24bd8def4f421b9a99a29509e381a9,4
+business merger,ronit,causal relationship between Ronit's emotions and the business merger,95e3270c2078424d9bcea09cbac56192,4
+ronit,isha,relationship between Ronit and Isha in the context of eloping,95e3270c2078424d9bcea09cbac56192,4
+malhotras,panic,causal relationship between the Malhotras' reaction to Ronit and Isha's apparent elopement,95e3270c2078424d9bcea09cbac56192,4
+nalini,ronit's plight,understanding of Ronit's situation,95e3270c2078424d9bcea09cbac56192,4
+nalini,malhotras' selfishness,realization of the Malhotras' prioritizing of money over their children's happiness,95e3270c2078424d9bcea09cbac56192,4
+raj,isha and ronit,"supportive relationship between Raj, Isha, and Ronit during the events in question",95e3270c2078424d9bcea09cbac56192,4
+j.k.,apology to raj and isha,act of J.K. seeking forgiveness from Raj and Isha,95e3270c2078424d9bcea09cbac56192,4
+malhotras,blessing for ronit and isha,approval of the Malhotras regarding Ronit and Isha's relationship,95e3270c2078424d9bcea09cbac56192,4
+raj,daughters,relationship between Raj and his three daughters,95e3270c2078424d9bcea09cbac56192,4
+avantika's daughter,aged raj,relation between Avantika's daughter and an aged Raj in a flashforward scene,95e3270c2078424d9bcea09cbac56192,4
+bombay dreams,music album,"In this context, the term 'work of Bombay Dreams' refers to a Bollywood musical film directed by Kabir Khan. The statement 'With 2.2 million units sold, the film's soundtrack album was the year's seventh highest-selling Bollywood music album' indicates that the music album is a significant part of this work. Therefore, the relationship between 'Bombay Dreams' and 'music album' is that the former is a specific instance or manifestation of the latter in this context.",dec7cb5d73d448b29fa82b81623fa062,4
+2.2 million units sold,highest-selling bollywood music album,"The statement 'With 2.2 million units sold, the film's soundtrack album was the year's seventh highest-selling Bollywood music album' suggests that this particular number of sales is a crucial measure of popularity or success for music albums in the Indian market. The term 'highest-selling Bollywood music album', therefore, represents a significant benchmark within the broader concept of 'Bollywood music albums'. In this context, it relates to the specific instance represented by '2.2 million units sold'.",dec7cb5d73d448b29fa82b81623fa062,4
+tips,₹6.5 crore,"The statement 'Tips, that distributed the album in the market, collected more than ₹6.5 crore from the sales' implies that Tips is a distribution company involved in selling or marketing music albums, and this specific instance of their work earned them a substantial amount of money. The numerical value of '₹6.5 crore' represents a significant financial outcome associated with the sale of the album.",dec7cb5d73d448b29fa82b81623fa062,4

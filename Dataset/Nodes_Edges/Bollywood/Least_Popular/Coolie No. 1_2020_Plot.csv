@@ -1,0 +1,22 @@
+node_1,node_2,edge,chunk_id,count
+pandit jai kishen,jeffrey,arrogance and pride,e4c7c145cc9144eea61b919b4f2e8542,4
+sarah rozario,raju coolie,"[{'sentence': 'Jai Kishen hatches a plan to get the poor porter married to Sarah and exact his revenge.'}, {'sentence': 'Raju is known among his fellow porters for being heroic, recently having gotten a drug dealer Mahesh arrested.'}]",e4c7c145cc9144eea61b919b4f2e8542,4
+sarah rozario,jeffrey,"[{'sentence': ""But when her father Jeffrey learns that the family isn't filthy rich, he insults Jai Kishen.""}, {'sentence': ""When Raju is smitten by Sarah's photo, Jai Kishen hatches a plan to get the poor porter married to Sarah and exact his revenge.""}]",e4c7c145cc9144eea61b919b4f2e8542,4
+deepak mechanic,anju,"[{'sentence': ""Sarah's sister Anju falls for Deepak.""}]",e4c7c145cc9144eea61b919b4f2e8542,4
+raju coolie,kunwar raj pratap singh,posing as the prince of Singapore,e4c7c145cc9144eea61b919b4f2e8542,4
+jeffrey,raju,"Raju is mistaken for Jeffrey's son-in-law, but denies knowing him.",08c8d856d90c413b9ce5aae2e50fc8c0,4
+anju,jeffrey,Jeffrey is Anju's father.,08c8d856d90c413b9ce5aae2e50fc8c0,4
+raju,kunwar raj pratap singh,Raju and Kunwar Raj Pratap Singh are mistaken for the same person.,08c8d856d90c413b9ce5aae2e50fc8c0,4
+inspector jagjit godbole,raju,Inspector Godbole suspects that Raju and his twin brother Raj are the same person.,08c8d856d90c413b9ce5aae2e50fc8c0,4
+raju,coolie no. 1,Raju is associated with Coolie No. 1.,08c8d856d90c413b9ce5aae2e50fc8c0,4
+car,raju,Raju's 'Coolie No. 1' badge is tossed into a car and pushed down a cliff by Raju and Deepak.,08c8d856d90c413b9ce5aae2e50fc8c0,4
+inspector jagjit godbole,car,"The car containing Raju's 'Coolie No. 1' badge is recovered, but no body is found.",08c8d856d90c413b9ce5aae2e50fc8c0,4
+raju,deepak,Deepak suggests killing Raju to prevent further problems.,08c8d856d90c413b9ce5aae2e50fc8c0,4
+mahesh anand,mahendra,"disowned by due to criminal activities, stabs for revenge, frames for same crime",0f91a34ec0e14107bec06d744eaa9c15,4
+raju,mahesh anand,"criminal activities, informs police about Mahendra's alive state",0f91a34ec0e14107bec06d744eaa9c15,4
+inspector godbole,raju,"arrives to arrest, suspects falsely due to Mahesh's framing",0f91a34ec0e14107bec06d744eaa9c15,4
+deepak,raju,planning with Raju to save Mahendra's life,0f91a34ec0e14107bec06d744eaa9c15,4
+sarah,raju,"confrontation leading to confession of fraud, forgiveness",0f91a34ec0e14107bec06d744eaa9c15,4
+jeffrey,"raju, deepak","arrogant and proud of wealth, sons-in-law are a porter and a mechanic",0f91a34ec0e14107bec06d744eaa9c15,4
+anju,deepak,announces love,0f91a34ec0e14107bec06d744eaa9c15,4
+jai kishen,jeffrey,"arrival, explains for a happy marriage - wealth isn't needed - love is",0f91a34ec0e14107bec06d744eaa9c15,4

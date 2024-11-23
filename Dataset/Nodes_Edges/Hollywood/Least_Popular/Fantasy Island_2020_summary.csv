@@ -1,0 +1,71 @@
+node_1,node_2,edge,chunk_id,count
+movies,summary,"movies have a summary that provides details about the movie's plot, characters, and other important information.",5d49cd0c44c2448f9ed570aab7451c4a,4
+fantasy island,blumhouse's fantasy island,synonym relationship between the two names of the movie,18ffe158d4cc484d83a585d360d9fd0e,4
+michael peña,gwen olsen,both actors appear in the film alongside each other,18ffe158d4cc484d83a585d360d9fd0e,4
+maggie q,patrick sullivan,both actors appear in the film alongside each other and share a relation as an ex-cop and her client,18ffe158d4cc484d83a585d360d9fd0e,4
+lucy hale,melanie cole,both actresses appear in the film alongside each other,18ffe158d4cc484d83a585d360d9fd0e,4
+austin stowell,j. d. weaver,both actors appear in the film alongside each other and share a relation as step-brothers,18ffe158d4cc484d83a585d360d9fd0e,4
+ryan hansen,brax weaver,both actors appear in the film alongside each other and share a relation as step-brothers,18ffe158d4cc484d83a585d360d9fd0e,4
+portia doubleday,sloane maddison,both actresses appear in the film alongside each other and share a relation of childhood bully and victim,18ffe158d4cc484d83a585d360d9fd0e,4
+michael rooker,mr. roarke,both actors appear in the film and Mr. Roarke is the proprietor of Fantasy Island,18ffe158d4cc484d83a585d360d9fd0e,4
+abc's 1977 television series,fantasy island,synonym relationship between the two names of the original TV show,18ffe158d4cc484d83a585d360d9fd0e,4
+fantasy island,weavers,"Fantasy Island offers fantasies to its guests, including the Weavers. However, when a drug cartel takes the Weavers hostage, Fantasy Island becomes a living nightmare for them.",bce2848f4ccb4903b26df7c2cda556a4,4
+gwen,nick taylor,"In Gwen's fantasy, she tries to save Nick from a fire that ultimately leads to his death. Later, when she is forced to relive this nightmare, she attempts to rescue him again but fails and is saved by Roarke.",bce2848f4ccb4903b26df7c2cda556a4,4
+patrick,lieutenant sullivan,Patrick recognizes Lieutenant Sullivan as his father in the military platoon that captures him. This reveals a previously unknown relationship between the two.,bce2848f4ccb4903b26df7c2cda556a4,4
+melanie,sloane,Melanie and Sloane are both kidnapped and brought to Fantasy Island against their wills. They form a relationship as they try to escape together.,bce2848f4ccb4903b26df7c2cda556a4,4
+damon,deceased daughter,"Damon is hired by Roarke to see his deceased daughter again, but the fantasy becomes a nightmare that traps him on the island. This highlights the potential consequences of fulfilling fantasies.",bce2848f4ccb4903b26df7c2cda556a4,4
+roarke,deceased wife,"Roarke's own fantasy is to be with his deceased wife, and he insists that the guests' fantasies be fulfilled to continue this one. This reveals a significant aspect of his character.",bce2848f4ccb4903b26df7c2cda556a4,4
+gwen,allen,"Gwen wakes up to find she has a daughter with Allen, which dissatisfies her as she realizes that it wasn't the fantasy she wanted.",bce2848f4ccb4903b26df7c2cda556a4,4
+spring water,fantasies,"The fantasies are created by spring water under a glowing rock in a cave, as revealed by Damon.",bce2848f4ccb4903b26df7c2cda556a4,4
+melanie,nick taylor,"Melanie finds out that the other guests, except Melanie, are also there and attempts to save Nick, but fails and is rescued by Roarke's assistant, Julia. Nick asks Melanie out that night and she turns him down, which is the reason he was in the apartment.",1a5cb4b0ec2e4d43ae62cebae4ef05fc,4
+melanie,sloane,Melanie takes Sloane hostage as her revenge for Nick's death and reveals that it is her true fantasy.,1a5cb4b0ec2e4d43ae62cebae4ef05fc,4
+julia,roarke's wife,"Julia is revealed to be Roarke's wife, brought back by the power of the island dying of a terminal illness.",1a5cb4b0ec2e4d43ae62cebae4ef05fc,4
+sullivan's soldiers,the weavers,"Sullivan's soldiers are summoned to rescue The Weavers, but they get attacked by the zombified cartel.",1a5cb4b0ec2e4d43ae62cebae4ef05fc,4
+j. d.,sullivan's soldiers,J. D. Is a part of Sullivan's soldiers and gets fatally shot in the ensuing gunfight.,1a5cb4b0ec2e4d43ae62cebae4ef05fc,4
+sullivan,patrick,Sullivan sacrifices himself so Patrick and Brax can escape during the gunfight.,1a5cb4b0ec2e4d43ae62cebae4ef05fc,4
+the remaining guests,roarke,"The remaining guests regroup at the resort but are cornered by Roarke, who reveals that they are in a fantasy in which they are all killed.",1a5cb4b0ec2e4d43ae62cebae4ef05fc,4
+damon's associates,the guests,"Damon's associates send a plane to rescue the guests, but it is shot down.",1a5cb4b0ec2e4d43ae62cebae4ef05fc,4
+the guests,the glowing rock,The guests run to the cave to destroy the glowing rock with a grenade Patrick is carrying.,1a5cb4b0ec2e4d43ae62cebae4ef05fc,4
+julia,roarke,"Julia is revealed to be Roarke's wife, brought back by the power of the island dying of a terminal disease she was suffering from when she met Roarke.",63e3172f1f7a4490986de6b1e5066940,4
+melanie,nick,"Sloane remembers the spring water she collected before and wishes Melanie 'to be' forever with Nick. As a result, a zombified Nick attacks Melanie and drags her into the water.",63e3172f1f7a4490986de6b1e5066940,4
+melanie,island,"The guests on Fantasy Island were convinced that Melanie's soulmate, who she had a date with, was her 'soulmate'. However, as the fantasy concludes, Julia is revealed to be Roarke's wife, brought back by the power of the island dying of a terminal disease she was suffering from when she met Roarke.",63e3172f1f7a4490986de6b1e5066940,4
+island,purification,"As the fantasy concludes, Gwen, Sloane, and Brax wake up at the resort, where Roarke agrees to let them go. While the guests board a plane to leave the now-purified Fantasy Island.",63e3172f1f7a4490986de6b1e5066940,4
+brax,tattoo,"After Gwen, Sloane, and a resurrected J. D. depart, Roarke asks Brax to become his new assistant. Remembering a nickname J. D. gave him, Brax chooses to rename himself 'Tattoo', initiating the events of the 1977 television series.",63e3172f1f7a4490986de6b1e5066940,4
+patrick,sacrifice,"Patrick sacrifices himself and falls on it to protect the others, paying homage to how his father died years ago: protecting his troop in Venezuela by falling onto a grenade.",63e3172f1f7a4490986de6b1e5066940,4
+fantasy island,horror film adaptation,"In July 2018, it was announced that a horror film adaptation of the Fantasy Island television series was being developed at Blumhouse Productions and Sony Pictures. It was described as 'a mix of Westworld and The Cabin in the Woods'.",63e3172f1f7a4490986de6b1e5066940,4
+fantasy island,westworld,It was described as 'a mix of Westworld and The Cabin in the Woods'.,960bd3cc63f04572ad4fed8087f31eea,4
+jeff wadlow,director,Wadlow was set to direct [Fantasy Island] as well as co-write the screenplay.,960bd3cc63f04572ad4fed8087f31eea,4
+michael peña,actor,Peña joined the cast of [Fantasy Island].,960bd3cc63f04572ad4fed8087f31eea,4
+jimmy o. yang,actor,Yang joined the cast of [Fantasy Island].,960bd3cc63f04572ad4fed8087f31eea,4
+dave bautista,actor,"Bautista was set to appear in [Fantasy Island], but later withdrew from the project.",960bd3cc63f04572ad4fed8087f31eea,4
+lucy hale,actor,Hale joined the cast of [Fantasy Island].,960bd3cc63f04572ad4fed8087f31eea,4
+maggie q,actor,Wadlow disclosed that Maggie Q was added to the cast of [Fantasy Island].,960bd3cc63f04572ad4fed8087f31eea,4
+portia doubleday,actor,Wadlow disclosed that Portia Doubleday was added to the cast of [Fantasy Island].,960bd3cc63f04572ad4fed8087f31eea,4
+ryan hansen,actor,Wadlow disclosed that Ryan Hansen was added to the cast of [Fantasy Island].,960bd3cc63f04572ad4fed8087f31eea,4
+michael rooker,actor,Rooker appeared in [Fantasy Island].,960bd3cc63f04572ad4fed8087f31eea,4
+charlotte mckinney,actor,McKinney appeared in [Fantasy Island].,960bd3cc63f04572ad4fed8087f31eea,4
+parisa fitz-henley,actor,Fitz-Henley appeared in [Fantasy Island].,960bd3cc63f04572ad4fed8087f31eea,4
+austin stowell,actor,Stowell appeared in [Fantasy Island].,960bd3cc63f04572ad4fed8087f31eea,4
+mike vogel,actor,Vogel appeared in [Fantasy Island].,960bd3cc63f04572ad4fed8087f31eea,4
+sony pictures,production company,[Fantasy Island] was produced by Sony Pictures.,960bd3cc63f04572ad4fed8087f31eea,4
+blumhouse productions,production company,"Another Blumhouse production, [The Invisible Man], was set for the original date of [Fantasy Island]'s release.",960bd3cc63f04572ad4fed8087f31eea,4
+madison gate records,music label,"Jared Lee's 'Don’t Wish Your Life Away', which appeared in the end credits of [Fantasy Island], was released by Madison Gate Records.",960bd3cc63f04572ad4fed8087f31eea,4
+bear mccreary,composer,"McCreary composed the score for [Fantasy Island] and released it on February 14, 2020.",960bd3cc63f04572ad4fed8087f31eea,4
+digital release,release medium,"Fantasy Island was released digitally on April 14, 2020.",960bd3cc63f04572ad4fed8087f31eea,4
+blu-ray and dvd release,release medium,"Fantasy Island was released on Blu-ray and DVD on May 12, 2020.",960bd3cc63f04572ad4fed8087f31eea,4
+"february 14, 2020",release date,"Fantasy Island was originally scheduled to be released on February 28, 2020, before being moved up.",960bd3cc63f04572ad4fed8087f31eea,4
+"april 14, 2020",digital release date,"Fantasy Island was digitally released on April 14, 2020.",960bd3cc63f04572ad4fed8087f31eea,4
+"may 12, 2020",blu-ray and dvd release date,"Fantasy Island was released on Blu-ray and DVD on May 12, 2020.",960bd3cc63f04572ad4fed8087f31eea,4
+sony pictures entertainment,parent company,"Sony Pictures is the parent company of Sony Pictures, which produced [Fantasy Island].",960bd3cc63f04572ad4fed8087f31eea,4
+fantasy island,$49 million,Fantasy Island earned $49 million worldwide in its box office run against a production budget of $7 million.,72b8ea7d4dac4b6c9b51dd2f26d59866,4
+united states and canada,$21.6 million,"In the United States and Canada, Fantasy Island grossed $21.6 million in its opening weekend alongside other releases.",72b8ea7d4dac4b6c9b51dd2f26d59866,4
+rotten tomatoes,8%,Fantasy Island received an approval rating of 8% on Rotten Tomatoes based on 113 critics' reviews.,72b8ea7d4dac4b6c9b51dd2f26d59866,4
+critics consensus,"fantasy island tries to show audiences the dark side of wish fulfillment, but mainly serves as a cautionary tale about the dangers of exhuming long-dead franchises.",This is the statement that summarizes the critics' consensus on Fantasy Island as reviewed by Rotten Tomatoes.,72b8ea7d4dac4b6c9b51dd2f26d59866,4
+metacritic,22,Fantasy Island received a score of 22 out of 100 on Metacritic based on 29 critics' reviews.,72b8ea7d4dac4b6c9b51dd2f26d59866,4
+audience polled by cinemascore,c-,Fantasy Island received an average grade of 'C-' from audiences polled by CinemaScore on an A+ to F scale.,72b8ea7d4dac4b6c9b51dd2f26d59866,4
+richard roeper,chicago sun-times,Fantasy Island is described as 'inane' and 'contrived' by Richard Roeper of the Chicago Sun-Times.,72b8ea7d4dac4b6c9b51dd2f26d59866,4
+peter travers,rolling stone,Fantasy Island receives a rating of zero out of five stars from Peter Travers of Rolling Stone.,72b8ea7d4dac4b6c9b51dd2f26d59866,4
+fantasy island,death row,"If crimes against cinema merated prosecution, Blumhouse's Fantasy Island would go directly to death row.",ecd1b212ec5a455f80234b4313068f91,4
+sequels,fantasy island,"Stop it now, before it kills again.",ecd1b212ec5a455f80234b4313068f91,4
+sonic the hedgehog,less raw terror,"This stupefyingly dull time- and money-waster contains less raw terror in its entirety than Sonic the Hedgehog during any five minutes of its running time,",ecd1b212ec5a455f80234b4313068f91,4
+genre-surfing,odd attempt at genre-surfing,"Benjamin Lee of The Guardian gave the film 2/5 stars, describing it as 'an odd attempt at genre-surfing that ends up well out of its depth'.",ecd1b212ec5a455f80234b4313068f91,4

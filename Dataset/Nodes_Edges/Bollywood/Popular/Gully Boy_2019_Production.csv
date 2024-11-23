@@ -1,0 +1,8 @@
+node_1,node_2,edge,chunk_id,count
+akhtar,nas,American rapper Nas was an executive producer for the film.,dfef5277ae2341d6a1f9f859b29e640b,4
+akhtar,akhtar,"Akhtar co-opted the story of two Mumbai based MCs, Naezy and DIVINE,",dfef5277ae2341d6a1f9f859b29e640b,4
+naezy,divine,"Naezy and DIVINE were two Mumbai based MCs,",dfef5277ae2341d6a1f9f859b29e640b,4
+divine,mcs,DIVINE was one of the two Mumbai based MCs mentioned in the context.,dfef5277ae2341d6a1f9f859b29e640b,4
+mcs,hip-hop culture,MCs are a part of the hip-hop culture.,dfef5277ae2341d6a1f9f859b29e640b,4
+production,akhtar,The details of the production were provided for this film directed by Akhtar.,dfef5277ae2341d6a1f9f859b29e640b,4
+mumbai,two mcs,The two Mumbai based MCs mentioned in the context were from Mumbai.,dfef5277ae2341d6a1f9f859b29e640b,4

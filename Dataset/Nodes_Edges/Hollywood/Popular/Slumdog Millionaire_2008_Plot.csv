@@ -1,0 +1,29 @@
+node_1,node_2,edge,chunk_id,count
+jamal malik,amitabh bachchan,"In 1992, five-year-old Jamal obtained the autograph of Bollywood star Amitabh Bachchan after jumping into a cesspit.",4acc6acce7c54280b19dbc40e001d142,4
+jamal malik,salim,Jamal's elder brother Salim later sells the autograph obtained by Jamal in 1992.,4acc6acce7c54280b19dbc40e001d142,4
+jamal malik,maman,"The brothers and Latika are found by Maman, a gangster who trains street children to become beggars.",4acc6acce7c54280b19dbc40e001d142,4
+salim,jamal malik,"In the flashbacks, we see that Salim is Jamal's elder brother.",4acc6acce7c54280b19dbc40e001d142,4
+latika,salim,The brothers refer to themselves as Athos and Porthos but do not know the third musketeer's name. Latika is their 'third musketeer'.,4acc6acce7c54280b19dbc40e001d142,4
+maman,blinding children,"In the flashbacks, we learn that Maman blinded street children to make them more effective beggars.",4acc6acce7c54280b19dbc40e001d142,4
+salim,maman,Salim and Jamal escape from Maman's gang with Latika's help.,4acc6acce7c54280b19dbc40e001d142,4
+latika,jamal malik,"In the flashbacks, we see that Latika met Jamal and his brother Salim in their slum.",4acc6acce7c54280b19dbc40e001d142,4
+rama,jamal malik,"During the Bombay riots, while fleeing the riots, the brothers briefly encounter a child dressed up as Rama, with a bow and arrow in their right hand.",4acc6acce7c54280b19dbc40e001d142,4
+rama,jamal malik,The memory of this encounter helps Jamal answer one of the questions on Kaun Banega Crorepati.,4acc6acce7c54280b19dbc40e001d142,4
+salim,latika,"close sibling relationship, Salim and Latika grow up together in poverty, escape from Maman's capture but Salim leaves Latika behind out of revenge, reunite briefly but Salim becomes a high-ranking lieutenant in Javed's crime organisation",a8a497b4eb8f4649a36fe77878718d4c,4
+salim,jamal,"close sibling relationship, escape from Maman's capture together, travel on top of trains and work together to make a living, Salim orders Jamal to leave him alone with Latika but Jamal refuses",a8a497b4eb8f4649a36fe77878718d4c,4
+jamal,latika,"close childhood friends, reunite briefly but Salim scars Latika's face while driving away, Jamal becomes a contestant on Kaun Banega Crorepati to find Latika",a8a497b4eb8f4649a36fe77878718d4c,4
+salim,javed,works for Javed's crime organisation as a high-ranking lieutenant,a8a497b4eb8f4649a36fe77878718d4c,4
+maman,latika,raises Latika to be a prostitute after she is recaptured,a8a497b4eb8f4649a36fe77878718d4c,4
+jamal,latika,"Initially, Jamal scars Latika's face while driving away. Later, Jamal becomes a contestant on Kaun Banega Crorepati in a final attempt to reach her.",cd9ffcddd29f4ce0a49392bdd67a3e9b,4
+jamal,kaun banega crorepati,"As a contestant on the show, Jamal becomes popular across India.",cd9ffcddd29f4ce0a49392bdd67a3e9b,4
+jamal,prem kumar,"During the final episode, Kumar attempts to trick Jamal by feeding him the wrong answer to the penultimate question.",cd9ffcddd29f4ce0a49392bdd67a3e9b,4
+latika,jamal's phone and car keys,"Salim gives Latika his phone and car keys, asking her to forgive him.",cd9ffcddd29f4ce0a49392bdd67a3e9b,4
+salim,money,"After Latika leaves, Salim fills a bathtub with money and sits in it.",cd9ffcddd29f4ce0a49392bdd67a3e9b,4
+latika,salim's betrayal,"Feeling guilty about his past behavior, Salim gives Latika his phone and car keys, asking her to forgive him. Later, she realizes that Salim betrayed Javed.",cd9ffcddd29f4ce0a49392bdd67a3e9b,4
+salim,jamal,"In the final episode, Jamal calls Salim because it is the only phone number he knows. Relieved about Latika, Jamal picks the first answer and guesses correctly.",cd9ffcddd29f4ce0a49392bdd67a3e9b,4
+latika,jamal's safety,"After hearing Latika on the show, Javed realizes that Salim betrayed him. He and his men break down the bathroom door.",cd9ffcddd29f4ce0a49392bdd67a3e9b,4
+salim,javed,"In the final episode, Salim kills Javed before getting shot and killed by the gang.",cd9ffcddd29f4ce0a49392bdd67a3e9b,4
+jamal,latika,"Jamal and Latika meet on the platform at the train station, kiss, and dance to the song ""Jai Ho"" along with all the other characters.",7c25679b55aa49ea8b622b2c9a1051a0,4
+jamal,aramis,"Jamal guesses and picks the first answer, Aramis, to win the grand prize.",7c25679b55aa49ea8b622b2c9a1051a0,4
+latika,javed,Kills Javed before getting shot and killed by the gang.,7c25679b55aa49ea8b622b2c9a1051a0,4
+gang,latika,"Shot and killed Latika's brother, Javed.",7c25679b55aa49ea8b622b2c9a1051a0,4

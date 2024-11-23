@@ -1,0 +1,51 @@
+node_1,node_2,edge,chunk_id,count
+paramedic,young girl,rescues from burning hospital,18a82f81fe3b484bac049997eddc28ed,4
+saint luke's hospital,mother,inquiring about location of,18a82f81fe3b484bac049997eddc28ed,4
+shelley baum,cat,hears meowing near koi pond and investigates,18a82f81fe3b484bac049997eddc28ed,4
+shelley baum,hand,drowns Shelley Baum and her cat,18a82f81fe3b484bac049997eddc28ed,4
+beth raymond,shelley baum,attends funeral of,18a82f81fe3b484bac049997eddc28ed,4
+leann cole,beth raymond,discusses Shelley Baum's funeral with,18a82f81fe3b484bac049997eddc28ed,4
+leann cole,cellphone,answers call from Shelley Baum on lullaby ringtone,18a82f81fe3b484bac049997eddc28ed,4
+leann cole,shelley baum,dies after falling off overpass and being struck by train,18a82f81fe3b484bac049997eddc28ed,4
+leann cole,red candy,pops out of her mouth as she dies,18a82f81fe3b484bac049997eddc28ed,4
+leann cole,severed hand,dials number on phone after she dies,18a82f81fe3b484bac049997eddc28ed,4
+brian sousa,leann cole,ex-boyfriend of Leann Cole,18a82f81fe3b484bac049997eddc28ed,4
+brian sousa,coffee shop,leaves coffee shop after experiencing hallucinations,18a82f81fe3b484bac049997eddc28ed,4
+brian sousa,red candy,ejected from his mouth as he collapses,18a82f81fe3b484bac049997eddc28ed,4
+brian sousa,torso,impaled by rebar during construction site explosion,18a82f81fe3b484bac049997eddc28ed,4
+beth raymond,police detective jack andrews,meets at funeral,18a82f81fe3b484bac049997eddc28ed,4
+jack andrews,shelley baum,intern at Saint Luke's hospital where his sister died,18a82f81fe3b484bac049997eddc28ed,4
+marie layton,saint luke's,"Marie Layton, a geriatric nurse, worked at Saint Luke's where her eldest daughter Ellie had nine admissions between April and May for various causes.",24442280d4dd4226a4bef9a8cdd3e6aa,4
+ellie,marie layton,Marie Layton's eldest daughter Ellie had nine admissions between April and May at Saint Luke's due to various causes.,24442280d4dd4226a4bef9a8cdd3e6aa,4
+laurel,marie layton,Marie Layton's daughter Laurel was also admitted to Saint Luke's for various reasons during the same period as her sister Ellie.,24442280d4dd4226a4bef9a8cdd3e6aa,4
+jean,saint luke's,"Jean, a psychiatric nurse, questioned Marie Layton at Saint Luke's.",24442280d4dd4226a4bef9a8cdd3e6aa,4
+beth,taylor anthony,Beth consoles her friend Taylor Anthony who is distraught by a premonitory feeling of being the next victim. Beth removes the batteries from their cellphones to disable them.,24442280d4dd4226a4bef9a8cdd3e6aa,4
+taylor anthony,jack,Taylor Anthony and Jack are involved in the events that are interrelated.,24442280d4dd4226a4bef9a8cdd3e6aa,4
+cps,marie layton,"The CPS file for further consultation attached to Ellie's autopsy report indicates that Jean, a psychiatric nurse, questioned Marie at Saint Luke's.",24442280d4dd4226a4bef9a8cdd3e6aa,4
+ted summers,taylor anthony,TV producer Ted Summers approaches Taylor earlier to record her exorcism.,24442280d4dd4226a4bef9a8cdd3e6aa,4
+taylor,unseen force,fatally choking Taylor,6c87192008eb45bba9aac763c2f4f485,4
+taylor's phone,voicemail,dated for tomorrow,6c87192008eb45bba9aac763c2f4f485,4
+beth,marie,ventures to Saint Luke's and encounters Jack,6c87192008eb45bba9aac763c2f4f485,4
+jack,marie,enters an operating room,6c87192008eb45bba9aac763c2f4f485,4
+marie,spirit,ejects and incapacitates Jack,6c87192008eb45bba9aac763c2f4f485,4
+beth,crawlspace,discovers Marie's charred corpse clutching a cellphone,6c87192008eb45bba9aac763c2f4f485,4
+marie,cellphone,awakens,6c87192008eb45bba9aac763c2f4f485,4
+beth,jack,tells Jack that Marie might have brought her there to protect her,6c87192008eb45bba9aac763c2f4f485,4
+laurel,ellie,incises Laurel with a knife in their bedroom,6c87192008eb45bba9aac763c2f4f485,4
+marie,ellie's abusiveness,discovered,6c87192008eb45bba9aac763c2f4f485,4
+laurel,hospital,rushed to the hospital,6c87192008eb45bba9aac763c2f4f485,4
+ellie,candies,always provided candies,6c87192008eb45bba9aac763c2f4f485,4
+ellie,constituents,faced the future curse's constituents,6c87192008eb45bba9aac763c2f4f485,4
+ellie,millipedes,constituents,6c87192008eb45bba9aac763c2f4f485,4
+ellie,uncanny doll of a mother with baby in a perambulator (hallucinations),constituents,6c87192008eb45bba9aac763c2f4f485,4
+ellie,lullaby-esque music emanating from the teddy,audible during every victim's call,6c87192008eb45bba9aac763c2f4f485,4
+ellie,inhaler,pressing wheezingly on,6c87192008eb45bba9aac763c2f4f485,4
+ellie,asphyxia,died from,6c87192008eb45bba9aac763c2f4f485,4
+ellie,mother's phone number,dialing,6c87192008eb45bba9aac763c2f4f485,4
+ellie,candies,"Ellie injured Beth, but she still provided candies.",9b6fd7bde11e4b5a8d473c3d06333f6a,4
+ellie,beth,"Realizing Ellie caused the curse, Jack drives to Beth's house.",9b6fd7bde11e4b5a8d473c3d06333f6a,4
+jack,beth's house,"After he enters, somebody knocks on the door.",9b6fd7bde11e4b5a8d473c3d06333f6a,4
+marie,ellie,"As he peers through the peephole, a knife stabs through it, killing him. Ellie appears and attacks Beth, but Marie's spirit intervenes.",9b6fd7bde11e4b5a8d473c3d06333f6a,4
+marie,beth,"and binds Ellie in Jack's phone,",9b6fd7bde11e4b5a8d473c3d06333f6a,4
+marie,reconciliation,"Marie's spirit intervenes, reconciles with Beth before evanescing.",9b6fd7bde11e4b5a8d473c3d06333f6a,4
+jack,red candy,Jack's mouth spills a red candy and his cellphone auto-dials.,9b6fd7bde11e4b5a8d473c3d06333f6a,4

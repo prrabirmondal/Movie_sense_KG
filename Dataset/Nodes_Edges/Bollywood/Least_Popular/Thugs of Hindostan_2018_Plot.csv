@@ -1,0 +1,20 @@
+node_1,node_2,edge,chunk_id,count
+azaad,east india company,"historical conflict between Indian bandits led by Azaad and expanding East India Company, which resulted in the annexation of King Mirza Sikander Baig's kingdom",71d5444c8d6545d0b6e637f4374c867b,4
+king mirza sikander baig,east india company,"historical conflict between King Mirza Sikander Baig and East India Company, which resulted in the annexation of his kingdom",71d5444c8d6545d0b6e637f4374c867b,4
+firangi mallah,east india company,informant for the company who aims to be a European himself,71d5444c8d6545d0b6e637f4374c867b,4
+suraiyya,firangi mallah,flirtatious relationship between Firangi and Suraiyya challenged by Suraiyya during her performance in front of British officers,71d5444c8d6545d0b6e637f4374c867b,4
+thugs,east india company,"historical conflict between Indian bandits led by Azaad, known as Thugs, and expanding East India Company, which resulted in the annexation of King Mirza Sikander Baig's kingdom",71d5444c8d6545d0b6e637f4374c867b,4
+azaad,thugs,Azaad leads Indian bandits known as Thugs who specialise in sea-based warfare and expose a serious challenge to Lord Clive and the expanding East India Company,71d5444c8d6545d0b6e637f4374c867b,4
+azaad,firangi,"started as enemies, Firangi betrays Azaad's cause but saves his life and Azaad still believes in him, Firangi helps with Azaad's mission after betraying him",b36898e3d33744cabb1b2e5055b09913,4
+zafira,firangi,Azaad asks Firangi to protect Zafira,b36898e3d33744cabb1b2e5055b09913,4
+zafira,clive,"Clive asks Zafira to protect herself and then sacrifices himself by confronting the East India Company forces alone so that Zafira can escape. However, this is a trap as Firangi and Zafira attack the incoming ships with Clive's help.",eab87ca399b147b8b41e9882b84cb7a8,4
+zafira,firangi,Zafira asks Firangi to protect her and then sacrifices herself by confronting the East India Company forces alone so that Firangi can escape.,eab87ca399b147b8b41e9882b84cb7a8,4
+firangi,clive,"Firangi betrays Zafira and the remaining thugs to Clive for claiming a reward and also trades the location of Azaad's remaining thugs, which is a trap as Zafira and Firangi attack the incoming ships.",eab87ca399b147b8b41e9882b84cb7a8,4
+suraiyya,zafira,"Zafira asks Suraiyya for her help to kill Clive during a function, and initially hesitant to help them, Suraiyya is convinced upon Zafira's request, revealing that there is a revolution in her too.",eab87ca399b147b8b41e9882b84cb7a8,4
+clive,azaad,Clive reveals that Azaad is alive and has to be executed.,eab87ca399b147b8b41e9882b84cb7a8,4
+firangi,all the prisoner thugs including azaad,This is a plan to release all the prisoner thugs including Azaad who survived but was captured by East India Company soldiers.,eab87ca399b147b8b41e9882b84cb7a8,4
+zafira,east india company soldiers,Zafira fights the EIC soldiers while Firangi stops Clive from boarding his ship.,eab87ca399b147b8b41e9882b84cb7a8,4
+firangi,clive,Firangi stops Clive from boarding his ship at the final encounter with the East India Company at an abandoned fort.,eab87ca399b147b8b41e9882b84cb7a8,4
+zafira,people,Zafira declares her kingdom free of EIC rule the next day.,eab87ca399b147b8b41e9882b84cb7a8,4
+queen,independent kingdom,declares her kingdom free of EIC rule,a4619cb671d34b0e8a490265a8ca3ab1,4
+firangi,england,shown to have run away with a ship stolen from Zafira to England,a4619cb671d34b0e8a490265a8ca3ab1,4

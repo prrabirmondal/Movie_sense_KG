@@ -1,0 +1,70 @@
+node_1,node_2,edge,chunk_id,node_3,type,count
+the last days of american crime,action,"The Last Days of American Crime is a 2020 American action thriller film directed by Olivier Megaton from a screenplay written by Karl Gajdusek, based on Rick Remender and Greg Tocchini's 2009 comic of the same name.",45eaa0cd5472440fbf1cd18392ca39bc,,,4
+the last days of american crime,thriller film,"The Last Days of American Crime is a 2020 American action thriller film directed by Olivier Megaton from a screenplay written by Karl Gajdusek, based on Rick Remender and Greg Tocchini's 2009 comic of the same name.",45eaa0cd5472440fbf1cd18392ca39bc,,,4
+the last days of american crime,comic,"The Last Days of American Crime is a 2020 American action thriller film directed by Olivier Megaton from a screenplay written by Karl Gajdusek, based on Rick Remender and Greg Tocchini's 2009 comic of the same name.",45eaa0cd5472440fbf1cd18392ca39bc,,,4
+édgar ramírez,star,"Édgar Ramírez stars in The Last Days of American Crime, a 2020 American action thriller film directed by Olivier Megaton from a screenplay written by Karl Gajdusek, based on Rick Remender and Greg Tocchini's 2009 comic of the same name.",45eaa0cd5472440fbf1cd18392ca39bc,,,4
+anna brewster,star,"Anna Brewster stars in The Last Days of American Crime, a 2020 American action thriller film directed by Olivier Megaton from a screenplay written by Karl Gajdusek, based on Rick Remender and Greg Tocchini's 2009 comic of the same name.",45eaa0cd5472440fbf1cd18392ca39bc,,,4
+michael pitt,star,"Michael Pitt stars in The Last Days of American Crime, a 2020 American action thriller film directed by Olivier Megaton from a screenplay written by Karl Gajdusek, based on Rick Remender and Greg Tocchini's 2009 comic of the same name.",45eaa0cd5472440fbf1cd18392ca39bc,,,4
+patrick bergin,star,"Patrick Bergin stars in The Last Days of American Crime, a 2020 American action thriller film directed by Olivier Megaton from a screenplay written by Karl Gajdusek, based on Rick Remender and Greg Tocchini's 2009 comic of the same name.",45eaa0cd5472440fbf1cd18392ca39bc,,,4
+sharlto copley,star,"Sharlto Copley stars in The Last Days of American Crime, a 2020 American action thriller film directed by Olivier Megaton from a screenplay written by Karl Gajdusek, based on Rick Remender and Greg Tocchini's 2009 comic of the same name.",45eaa0cd5472440fbf1cd18392ca39bc,,,4
+olivier megaton,director,"Olivier Megaton directs The Last Days of American Crime, a 2020 American action thriller film from a screenplay written by Karl Gajdusek, based on Rick Remender and Greg Tocchini's 2009 comic.",45eaa0cd5472440fbf1cd18392ca39bc,,,4
+karl gajdusek,screenplay writer,"Karl Gajdusek writes the screenplay for The Last Days of American Crime, a 2020 American action thriller film directed by Olivier Megaton, based on Rick Remender and Greg Tocchini's 2009 comic.",45eaa0cd5472440fbf1cd18392ca39bc,,,4
+rick remender,comic creator,"Rick Remender creates the comic The Last Days of American Crime, which is adapted into a film directed by Olivier Megaton in 2020.",45eaa0cd5472440fbf1cd18392ca39bc,,,4
+greg tocchini,comic creator,"Greg Tocchini creates the comic The Last Days of American Crime, which is adapted into a film directed by Olivier Megaton in 2020.",45eaa0cd5472440fbf1cd18392ca39bc,,,4
+api signal,u.s. government,"The U.S. government prepares to activate the American Peace Initiative (API) signal, a ‘synaptic blocker’ that will prevent the population from breaking the law.",fd8dd00cd2bc4b02833378ab17e13202,,,4
+bricke's crew,bank robbers,"Graham Bricke leads a crew of bank robbers including his brother Rory,",fd8dd00cd2bc4b02833378ab17e13202,,,4
+rory,bricke's crew,"Bricke's crew includes his brother Rory,",fd8dd00cd2bc4b02833378ab17e13202,,,4
+dumois crime family,graham bricke,"Bricke lies to the Dumois crime family that he lost the stolen money,",fd8dd00cd2bc4b02833378ab17e13202,,,4
+money,stolen money,"Bricke saves the stolen money to escape to Canada,",fd8dd00cd2bc4b02833378ab17e13202,,,4
+death,rory,"Rory is killed while Bricke’s crew robs a bank,",fd8dd00cd2bc4b02833378ab17e13202,,,4
+sidell,graham bricke,"Bricke tortures a man named Sidell into confessing that Johnny Dee betrayed him to the Dumois syndicate,",fd8dd00cd2bc4b02833378ab17e13202,,,4
+johnny dee,bricke's crew,"Deceased member of Bricke’s crew, Johnny Dee was betrayed by another member to the Dumois syndicate,",fd8dd00cd2bc4b02833378ab17e13202,,,4
+dumois syndicate,johnny dee,"The Dumois syndicate used Graham Bricke’s crew, including Johnny Dee and Rory, to test the API signal in prison,",fd8dd00cd2bc4b02833378ab17e13202,,,4
+shelby dupree,graham bricke,"Bricke is seduced by Shelby Dupree,",fd8dd00cd2bc4b02833378ab17e13202,,,4
+kevin cash,shelby dupree,"Kevin Cash is Shelby Dupree's fiancé,",fd8dd00cd2bc4b02833378ab17e13202,,,4
+robbery,city’s money factory,"Shelby and Kevin reveal their plan to rob the city’s ‘money factory’ by disrupting an API signal tower and fleeing across the river to Canada,",fd8dd00cd2bc4b02833378ab17e13202,,,4
+api signal,disrupting an api signal tower,causal relationship between disrupting the API signal and the signal itself,6a2802ccd11f4f22a47f6f88cf0c6026,,,4
+billion dollars,stored in facility,location-based relationship between the facility and the stored bills,6a2802ccd11f4f22a47f6f88cf0c6026,,,4
+kevin,heir to dumois family,inheritance-based relationship between Kevin and the Dumois family,6a2802ccd11f4f22a47f6f88cf0c6026,,,4
+shelby,fbi informant,organizational relationship between Shelby and the FBI,6a2802ccd11f4f22a47f6f88cf0c6026,,,4
+api signal,immune to api signal,effect-based relationship between the immune response and the API signal,6a2802ccd11f4f22a47f6f88cf0c6026,,,4
+william sawyer,joins new law enforcement division,employment-based relationship between Sawyer and the new division,6a2802ccd11f4f22a47f6f88cf0c6026,,,4
+rossi dumois,father of kevin,family-based relationship between Rossi and Kevin,6a2802ccd11f4f22a47f6f88cf0c6026,,,4
+lonnie,lieutenant of rossi,hierarchical relationship between Lonnie and Rossi,6a2802ccd11f4f22a47f6f88cf0c6026,,,4
+shelby,taken hostage by lonnie,capture-based relationship between Shelby and Lonnie,6a2802ccd11f4f22a47f6f88cf0c6026,,,4
+ross,infiltrates facility,entry-based relationship between Ross and the facility,6a2802ccd11f4f22a47f6f88cf0c6026,,,4
+shelby,lonnie,pursues and prepares to rape,0ba43a11899845c9ba75788b6abdc322,,,4
+bricke,lonnie,kills,0ba43a11899845c9ba75788b6abdc322,,,4
+shelby,ross,subdues,0ba43a11899845c9ba75788b6abdc322,,,4
+bricke,kevin,delivers counterfeit money with warheads,0ba43a11899845c9ba75788b6abdc322,,,4
+shelby,api system,hacks and disrupts signal,0ba43a11899845c9ba75788b6abdc322,,,4
+kevin,rory,"fights in prison forced by guards with API signal, learns to overcome signal and kills Rory",0ba43a11899845c9ba75788b6abdc322,,,4
+shelby,fbi handlers,struggles against the signal's effect and fights off,0ba43a11899845c9ba75788b6abdc322,,,4
+bricke,fbi agents preparing to shoot,"consumes neurotoxin instead of killing him, kills FBI agents and escapes with money",0ba43a11899845c9ba75788b6abdc322,,,4
+sawyer,shelby,strangles but is impaled on a glass shard and dies,0ba43a11899845c9ba75788b6abdc322,,,4
+the last days of american crime,rick remender (comic book),is based on the comic book by Rick Remender,57b00e95c8a147a7ba1ce2b11db2c06d,,,4
+édgar ramírez,graham bricke,Édgar Ramírez stars as Graham Bricke in the film adaptation,57b00e95c8a147a7ba1ce2b11db2c06d,,,4
+olivier megaton,the last days of american crime (film),is directed by Olivier Megaton,57b00e95c8a147a7ba1ce2b11db2c06d,,,4
+karl gajdusek,the last days of american crime (film),has a screenplay written by Karl Gajdusek,57b00e95c8a147a7ba1ce2b11db2c06d,,,4
+jesse berger,radical studios,produces The Last Days of American Crime through Radical Studios,57b00e95c8a147a7ba1ce2b11db2c06d,,,4
+jason michael berman,mandalay pictures,produces The Last Days of American Crime through Mandalay Pictures,57b00e95c8a147a7ba1ce2b11db2c06d,,,4
+barry levine,kevin turen,"[{'source': 'Barry Levine', 'target': 'The Last Days of American Crime (film)'}, {'source': 'Kevin Turen', 'target': 'The Last Days of American Crime (film)'}]",57b00e95c8a147a7ba1ce2b11db2c06d,The Last Days of American Crime (film),both produce,4
+anna brewster,the last days of american crime (film),joins the cast of The Last Days of American Crime,57b00e95c8a147a7ba1ce2b11db2c06d,,,4
+michael pitt,the last days of american crime (film),joins the cast of The Last Days of American Crime,57b00e95c8a147a7ba1ce2b11db2c06d,,,4
+sharlto copley,the last days of american crime (film),joins the cast of The Last Days of American Crime,57b00e95c8a147a7ba1ce2b11db2c06d,,,4
+netflix,the last days of american crime,releases The Last Days of American Crime digitally on its platform,57b00e95c8a147a7ba1ce2b11db2c06d,,,4
+rotten tomatoes,the last days of american crime (film),has an approval rating of 0% based on critic reviews,57b00e95c8a147a7ba1ce2b11db2c06d,,,4
+metacritic,the last days of american crime (film),"assigns the film a weighted average score of 15 out of 100, based on critic reviews",57b00e95c8a147a7ba1ce2b11db2c06d,,,4
+the last days of american crime,derivative work with nothing to say,critics panned the film as,82735522abff4264bc8017020ebd9c16,,,4
+the last days of american crime,a disaster,the timing of its release with the murder of George Floyd and the related protests was,82735522abff4264bc8017020ebd9c16,,,4
+david ehrlich,the last days of american crime,gave the film a 'D−',82735522abff4264bc8017020ebd9c16,,,4
+olivier megaton's,the last days of american crime,Netflix feature is 149 minutes long,82735522abff4264bc8017020ebd9c16,,,4
+peter debruge,the last days of american crime,seems woefully out of touch,82735522abff4264bc8017020ebd9c16,,,4
+copley's,the last days of american crime,a brutal fight scene in which Copley chokes Shelby seems oblivious to the legacy of real-world police brutality,82735522abff4264bc8017020ebd9c16,,,4
+bilge ebiri,the last days of american crime,demonstrates how rote such ghastly fare has become in our culture,82735522abff4264bc8017020ebd9c16,,,4
+jesse hassenger,the last days of american crime,finally gets down to the,82735522abff4264bc8017020ebd9c16,,,4
+the last days of american crime,propulsive entertainment value,"Jesse Hassenger's review of the film highlights that although the final hour reveals this entertaining aspect, the entire movie is thin in nature.",856062df4d5c497189046c728a937026,,,4
+the last days of american crime,thinness of the whole enterprise,"Jesse Hassenger's review of the film points out that despite revealing an entertaining aspect towards the end, the entire movie is thin in nature.",856062df4d5c497189046c728a937026,,,4
+c-,the last days of american crime,"Jesse Hassenger of The A.V. Club gave this grade to the film, indicating its mediocre quality.",856062df4d5c497189046c728a937026,,,4
+jesse hassenger,the last days of american crime,He wrote a review for The A.V. Club regarding this film.,856062df4d5c497189046c728a937026,,,4
+c-,jesse hassenger,This was the grade given by Jesse Hassenger to something else (not necessarily the same thing as The Last Days Of American Crime).,856062df4d5c497189046c728a937026,,,4

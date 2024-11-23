@@ -1,0 +1,28 @@
+node_1,node_2,edge,chunk_id,count
+tanhaji,kaloji malusare,"Father-son relationship, Kaloji Malusare trained Tanhaji in sword-fighting.",42624e6e289b46a6839971f92395dc5e,4
+tanhaji,suryaji,"Brother-brother relationship, commanded Shivaji's Maratha army alongside Tanhaji in 1664.",42624e6e289b46a6839971f92395dc5e,4
+shivaji,tanhaji,"Commander-subordinate relationship, commanded by Shivaji in Maratha army's attack against Mughal cavalry in 1664.",42624e6e289b46a6839971f92395dc5e,4
+aurangzeb,jai singh,"Employer-employee relationship, Jai Singh was Aurangzeb's trusted general dispatched to capture Shivaji.",42624e6e289b46a6839971f92395dc5e,4
+beshak khan,jijabai,"Inciter-reactor relationship, insulted Jijabai and provoked her to swear barefoot until Marathas recapture Kondhana.",42624e6e289b46a6839971f92395dc5e,4
+shivaji,beshak khan,"Target-attacker relationship, Beshak Khan ordered the seize of Shivaji's strategic fortress Kondhana.",42624e6e289b46a6839971f92395dc5e,4
+udaybhan rathod,kondhana,"Assigner-assigned relationship, assigned Kondhana to Udaybhan Rathod by Aurangzeb.",42624e6e289b46a6839971f92395dc5e,4
+shivaji,udaybhan rathod,"Target-attacker relationship, planned to recapture Kondhana from Udaybhan Rathod.",42624e6e289b46a6839971f92395dc5e,4
+tanhaji,chandraji pisal,"Chandraji Pisal discloses the Maratha's secret plan to Tanhaji, who then convinces Shivaji and Jijabai to permit him to lead the campaign.",ec199a8df5c940a48dabfcd1ec1447a0,4
+tanhaji,chultya,"Chandraji Pisal sends Chultya to warn Udaybhan about Tanhaji's attack plan, who successfully tricks Tanhaji into attacking Maratha soldiers disguised in Mughal attire.",ec199a8df5c940a48dabfcd1ec1447a0,4
+tanhaji,kamla devi,"Udaybhan is also bringing the imprisoned Kamla Devi, en route, the sister of his Rajput general, Jagat Singh.",ec199a8df5c940a48dabfcd1ec1447a0,4
+tanhaji,maratha soldiers disguised in mughal attire,Chultya tricks Tanhaji into attacking Maratha soldiers disguised as Mughals.,ec199a8df5c940a48dabfcd1ec1447a0,4
+udaybhan,kondhana,"Udaybhan reaches Kondhana and aims a huge cannon, named Naagin, at Rajgad, threatening Shivaji's safety.",ec199a8df5c940a48dabfcd1ec1447a0,4
+tanhaji,kondhana,"Dejected, Tanhaji reaches Kondhana alone to learn about a secret thief-entrance inside.",ec199a8df5c940a48dabfcd1ec1447a0,4
+udaybhan,guard,Udaybhan kills a guard for disobeying the security protocol.,ec199a8df5c940a48dabfcd1ec1447a0,4
+tanhaji,villagers,Tanhaji motivates the villagers to protect their fortress against Udaybhan's invasion.,ec199a8df5c940a48dabfcd1ec1447a0,4
+tanhaji,udaybhan,"enemy relationship, where Tanhaji kills Udaybhan's guard and Udaybhan tortures Tanhaji in retaliation",c7925cae44a44a3cbf7f388d764a4f70,4
+tanhaji,jagat singh,"confidential relationship, where Jagat Singh secretly releases Tanhaji from imprisonment",c7925cae44a44a3cbf7f388d764a4f70,4
+tanhaji,kamla devi,"enemy relationship, where Udaybhan marries Kamla Devi and Tanhaji promises to release her from his clutches",c7925cae44a44a3cbf7f388d764a4f70,4
+tanhaji,savitri bai,"spouse relationship, where Savitri Bai worries about Tanhaji's life and their son's wedding",c7925cae44a44a3cbf7f388d764a4f70,4
+udaybhan,kamla devi,"marriage relationship, where Udaybhan marries Kamla Devi to gain an advantage over the Marathas",c7925cae44a44a3cbf7f388d764a4f70,4
+savitri bai,tanhaji,"spouse relationship, where Tanhaji promises Savitri Bai that he will return from the campaign successfully",c7925cae44a44a3cbf7f388d764a4f70,4
+tanhaji,kondhana,"Tanhaji successfully captures Kondhana, but dies from injuries sustained during the battle.",2b29d8bcd2c54799ba27ad17b0130699,4
+udaybhan,naagin,"Udaybhan prepares to fire Naagin directly at Rajgad, but Tanhaji arrives to stop it.",2b29d8bcd2c54799ba27ad17b0130699,4
+jagat,kamla devi,Ensuing confusion allows Jagat and Kamla Devi to escape.,2b29d8bcd2c54799ba27ad17b0130699,4
+shivaji,rayba's marriage,Shivaji personally oversees Rayba's marriage.,2b29d8bcd2c54799ba27ad17b0130699,4
+savitri bai,tanhaji,"Savitri Bai awaits Tanhaji's return, adorning herself as a bride behind closed doors.",2b29d8bcd2c54799ba27ad17b0130699,4

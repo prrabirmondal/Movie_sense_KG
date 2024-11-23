@@ -1,0 +1,16 @@
+node_1,node_2,edge,chunk_id,count
+lucky,jani (lucky's father),disturbed family due to Jani's remarriage,d6ce68515e1845a497aba86208f74e0a,4
+lucky,bengali (lucky's friend),collaborates with lucky in stealing activities,d6ce68515e1845a497aba86208f74e0a,4
+lucky,sonal (girl lucky falls in love with),love interest,d6ce68515e1845a497aba86208f74e0a,4
+gogi (marriage contractor),lucky,employer-employee relationship,d6ce68515e1845a497aba86208f74e0a,4
+dolly (dancer),sonal (sister of dolly),sister relation,d6ce68515e1845a497aba86208f74e0a,4
+handa (doctor),lucky (as sunny arora),fake identity used by lucky,d6ce68515e1845a497aba86208f74e0a,4
+devander singh (officer from crime branch),gogi,requests information about lucky from Gogi,d6ce68515e1845a497aba86208f74e0a,4
+babul awasthi (news reporter),lucky,target of lucky's theft attempt in Mumbai,d6ce68515e1845a497aba86208f74e0a,4
+lucky,babul awasthi,"Lucky tries to steal at the house of news reporter Babul Awasthi, but fails. Later, in anger, Babul kills his dog due to Lucky's theft.",3dfa5eed35f64c09876bc8e77014af23,4
+lucky,dr handa,Lucky seeks advice from Dr Handa on how to enter a house with a guard dog.,3dfa5eed35f64c09876bc8e77014af23,4
+lucky,sonal,Lucky goes out of town with his lover Sonal to avoid police after successfully stealing from Babul Awasthi's house.,3dfa5eed35f64c09876bc8e77014af23,4
+bengali,lucky,Bengali is ready to serve Lucky and later meets him again.,3dfa5eed35f64c09876bc8e77014af23,4
+news reporter,lucky,Lucky is labeled as a normal thief by news reporter Babul Awasthi.,3dfa5eed35f64c09876bc8e77014af23,4
+house,babul awasthi's house,"Lucky tries to steal from Babul Awasthi's house but fails initially, and later successfully steals.",3dfa5eed35f64c09876bc8e77014af23,4
+dog,babul awasthi's dog,Lucky's theft causes Babul to kill his own dog out of anger.,3dfa5eed35f64c09876bc8e77014af23,4

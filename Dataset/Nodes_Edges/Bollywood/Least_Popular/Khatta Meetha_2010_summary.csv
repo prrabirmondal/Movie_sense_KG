@@ -1,0 +1,48 @@
+node_1,node_2,edge,chunk_id,node_3,count
+movie,summary,MOVIE's essential content or statement of facts in a nutshell is called SUMMARY,0a57538e75f1474f84093bf56faeb3f7,,4
+sachin tichkule,struggling maharashtrian contractor in satara,identity relationship,6c6848cc0e804047af5270e756fd5a9a,,4
+maharashtrian contractor,contractor,subclass relationship,6c6848cc0e804047af5270e756fd5a9a,,4
+satara,location,located in relationship,6c6848cc0e804047af5270e756fd5a9a,,4
+dreams,ambition,synonym relationship,6c6848cc0e804047af5270e756fd5a9a,,4
+ex-girlfriend,former romantic partner,equivalent term relationship,6c6848cc0e804047af5270e756fd5a9a,,4
+failures,unsuccessful attempts,synonym relationship,6c6848cc0e804047af5270e756fd5a9a,,4
+corrupt bureaucracy,governing authority with unlawful practices,equivalent term relationship,6c6848cc0e804047af5270e756fd5a9a,,4
+strained relations,tense or difficult relationships,synonym relationship,6c6848cc0e804047af5270e756fd5a9a,,4
+sachin tichkule,municipal commissioner gehna ganpule,used to have romantic relationship but now she hates him due to his dishonest ways,6268e0c991c24d9fbbdd890717a0aeaa,,4
+sachin tichkule,gandhism principles,ardent follower in past,6268e0c991c24d9fbbdd890717a0aeaa,,4
+harish tichkule,trigun fatak,responsible for bridge collapse with politician Sanjay Rana's help,6268e0c991c24d9fbbdd890717a0aeaa,Suhas Vichare,4
+sanjay rana,vishwas rao,"helped brothers-in-law in bridge collapse, later killed to avoid revelation of truth",6268e0c991c24d9fbbdd890717a0aeaa,,4
+anjali tichkule,sanjay rana,betrothed unbeknownst to Sachin,6268e0c991c24d9fbbdd890717a0aeaa,,4
+ramakant tichkule,sachin tichkule,reprimanded Sachin for having no right to say anything as he has no money to marry his sister off,6268e0c991c24d9fbbdd890717a0aeaa,,4
+azad bhagat,bridge collapse,wants justice for family's death in the accident,6268e0c991c24d9fbbdd890717a0aeaa,fatalities,4
+sachin,anjali,"Relationship between siblings, where Sachin loses touch with Anjali and later learns of her attempts to contact him. When he visits their house, he is informed that they have gone out, and he sees Azad sneaking out but remains suspicious.",17ea00821cdc4a60a827c0e4f018c644,,4
+sachin,gehna,"Initially strained relationship due to Sachin's fraudulent set-up, which leads to Gehna's suicide attempt. After Sachin reveals his disillusionment with past principles, they reconcile.",17ea00821cdc4a60a827c0e4f018c644,,4
+anjali,ramakant,"Relationship between a daughter and her father, as Ramakant is devastated after learning of Anjali's death.",17ea00821cdc4a60a827c0e4f018c644,,4
+sachin,azad,"Initially mistaken for a thief, Sachin learns from Gehna about Azad's intentions to expose the people involved in the bridge collapse. They both agree to help each other.",17ea00821cdc4a60a827c0e4f018c644,,4
+sanjay,gehna,"Employer-employee relationship, as Sanjay transfers Gehna to another city after learning of their case against the fraudsters.",17ea00821cdc4a60a827c0e4f018c644,,4
+masked robbers,azad,"Criminal activity, as masked robbers kill Azad on his way to court after being hired by Sanjay.",17ea00821cdc4a60a827c0e4f018c644,,4
+sanjay,gehna,Sanjay learns of this and gets Gehna transferred to another city,9c8dd56fe1f64c94b6cd1effb8480592,,4
+azad,court,Azad is on his way to court when he is killed by masked robbers hired by Sanjay,9c8dd56fe1f64c94b6cd1effb8480592,,4
+anjali,sanjay's friends,"While stealing the evidence, Anjali sees Sanjay's friends raping her and it's not clear whether she was murdered by them while she escaped or she committed suicide",9c8dd56fe1f64c94b6cd1effb8480592,,4
+azad,anjali,"While being taken to the hospital for treatment, Azad reveals that he saw Anjali being raped by Sanjay's friends",9c8dd56fe1f64c94b6cd1effb8480592,,4
+sachin,azad,Sachin takes the fatally injured Azad to the hospital for treatment and later decides to search for the documents at Azad's house,9c8dd56fe1f64c94b6cd1effb8480592,,4
+sanjay,evidence,Sanjay decides to hide the evidence elsewhere when he learns that Sachin is searching for it,9c8dd56fe1f64c94b6cd1effb8480592,,4
+sachin,sanjay,"Sachin follows Sanjay and spots him fleeing with the bag full of evidence, which leads to a fight between the two",9c8dd56fe1f64c94b6cd1effb8480592,,4
+truck,sanjay,Sanjay is killed after being run over by a truck,9c8dd56fe1f64c94b6cd1effb8480592,,4
+trigun,arrest,"Trigun, Harish, and Suhas are arrested",9c8dd56fe1f64c94b6cd1effb8480592,,4
+sachin,ramakant,"Ramakant stops Sachin from leaving and rekindles their relationship, saying that he is proud of him.",887ad5a8b2d64f6482f2b04cc1df2bd1,,4
+gehna,sachin,Gehna confesses her love for Sachin and they decide to marry.,887ad5a8b2d64f6482f2b04cc1df2bd1,,4
+anjali,brothers-in-law,His brothers-in-law had a hand in her death and were not reprimanded.,887ad5a8b2d64f6482f2b04cc1df2bd1,,4
+people who died in the bridge collapse incident,gone forever,"The people who died in the bridge collapse incident are gone forever, and nothing can be done to bring them back",887ad5a8b2d64f6482f2b04cc1df2bd1,,4
+khatta meetha,complete family film,"Rajeev Masand rated the film 3 out of 5 saying, 'Khatta Meetha' is a complete family film.",90985b1c2f9547718aa70af5ba034620,,4
+3,out of 5,"Rajeev Masand rated the film 3 out of 5 saying, 'Khatta Meetha' is a complete family film.",90985b1c2f9547718aa70af5ba034620,,4
+generic turns and contrived twists,story,"Sukanya Verma gave it 2/5 saying, 'The story with its baggage of generic turns and contrived twists manages to laugh the audience at many points but all seems too familiar in making its even-now significant point.'",90985b1c2f9547718aa70af5ba034620,,4
+even-now significant point,story,"Sukanya Verma gave it 2/5 saying, 'The story with its baggage of generic turns and contrived twists manages to laugh the audience at many points but all seems too familiar in making its even-now significant point.'",90985b1c2f9547718aa70af5ba034620,,4
+amateur product,film made by a director who has made 80 films till date,"Noyon Jyoti Parasara of AOL rated the film 1.5/5 and stated, 'In no way does 'Khatta Meetha' look like a film made by a director who has made 80 films till date. Certainly not from a director who got a National Award barely a year back for 'Kanchivaram'.",90985b1c2f9547718aa70af5ba034620,,4
+hotchpotch,film,"Blessy Chettiar of DNA gave it a rating of 2/5 and said, 'Khatta Meetha is a hotchpotch of too much drama and very little comedy'.",90985b1c2f9547718aa70af5ba034620,,4
+fun and frolic,film,"Nikhat Kazmi of the Times of India gave it the highest rating of 3.5/5 saying, 'Tune off a bit for the tedious middle and you could be in for some fun and frolic in Khatta Meetha'.",90985b1c2f9547718aa70af5ba034620,,4
+pritam,soundtrack composed by,"The film's soundtrack is composed by Pritam with lyrics penned by Irshad Kamil and Nitin Raikwar, with rapper U.R.L. performing the Marathi rap on 'Nana Chi Taang'.",90985b1c2f9547718aa70af5ba034620,,4
+irshad kaml,lyrics penned by,"The film's soundtrack is composed by Pritam with lyrics penned by Irshad Kamil and Nitin Raikwar, with rapper U.R.L. performing the Marathi rap on 'Nana Chi Taang'.",90985b1c2f9547718aa70af5ba034620,,4
+nitin raikwar,lyrics penned by,"The film's soundtrack is composed by Pritam with lyrics penned by Irshad Kamil and Nitin Raikwar, with rapper U.R.L. performing the Marathi rap on 'Nana Chi Taang'.",90985b1c2f9547718aa70af5ba034620,,4
+roop kumar rathod,sung by,The song 'Sajde Kiye' is sung by Roop Kumar Rathod and Harshdeep Kaur in the film version.,90985b1c2f9547718aa70af5ba034620,,4
+harshdeep kaur,sung by,The song 'Sajde Kiye' is sung by Roop Kumar Rathod and Harshdeep Kaur in the film version.,90985b1c2f9547718aa70af5ba034620,,4

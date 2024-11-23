@@ -1,0 +1,30 @@
+node_1,node_2,edge,chunk_id,count
+gehna,vani,"Gehna is claimed by Vani to be the child of Akash, but Akash denies this claim. Later in the story, it is revealed that Gehna and Vani have a close relationship, and Vani even becomes the nanny for Akash's grandchildren due to one of their pranks injuring Gehna.",18f64c0352024aa8bfddf49bf6d1d0ab,4
+akash,vani,"Akash and Vani had a romantic relationship in the past, but Vani left suddenly without notice. Later in the story, it is revealed that Gehna is actually their child.",18f64c0352024aa8bfddf49bf6d1d0ab,4
+anjali tiwari,akash,"Anjali helps Akash hide the truth about Vani and Gehna to not let anyone know about it. This is due to Anjali's husband, Radhe Shyam Tiwari, suspecting that his wife is having an affair with Akash.",18f64c0352024aa8bfddf49bf6d1d0ab,4
+radhe shyam tiwari,anjali tiwari,"Radhe Shyam Tiwari suspects that his wife, Anjali, is having an affair with Akash due to finding clues leading to Akash. This suspicion leads him to wrongly assume that Akash is the father of Gehna.",18f64c0352024aa8bfddf49bf6d1d0ab,4
+bajaj's daughter,akash,"Akash is betrothed to Bajaj's daughter, who is a friend of Jailor Govind.",18f64c0352024aa8bfddf49bf6d1d0ab,4
+vani,children,blame > save > children > friend,eaa028e49b574808b39070f05044b780,4
+akash,bajaj's daughter,engagement ceremony,eaa028e49b574808b39070f05044b780,4
+vani,tiwari,nanny and friend > assumed as new teacher by Bajaj,eaa028e49b574808b39070f05044b780,4
+akash,bajaj's daughter,engagement ceremony > tries to get Vani away,eaa028e49b574808b39070f05044b780,4
+akash,bridal clothing,decides to change mid-way,eaa028e49b574808b39070f05044b780,4
+anjali,bridal dress,meets Akash mid-way with his bridal dress and changes in her car,eaa028e49b574808b39070f05044b780,4
+tiwari,anjali,confronts without stating he knows about their 'affair',eaa028e49b574808b39070f05044b780,4
+vani,kapoor family,taken back home by a Kapoor brother on a fabricated account that Gehna was injured,eaa028e49b574808b39070f05044b780,4
+akash,engagement ceremony,comes to the engagement ceremony but Anjali spots Vani,eaa028e49b574808b39070f05044b780,4
+anjali,vani,spots Vani at Akash's wedding reception,eaa028e49b574808b39070f05044b780,4
+stranger,vani,meets secretly and tells to be present on the day of their own 'wedding',eaa028e49b574808b39070f05044b780,4
+documents,vani,Vani meets a stranger secretly to discuss about an unknown matter related to documents.,4a66ad92143e45a1b4250feddd537389,4
+stranger,vani,The stranger instructs Vani to be present on the day of their own 'wedding'.,4a66ad92143e45a1b4250feddd537389,4
+akash's wedding reception,tiwari,"At Akash's wedding reception, Tiwari gets drunk and reveals about his wife's affair with Akash.",4a66ad92143e45a1b4250feddd537389,4
+confusion,vani and gehna,The confusion of the wedding leads to the revelation of Vani and Gehna's presence.,4a66ad92143e45a1b4250feddd537389,4
+truth,vani,"To prevent Akash from forcing himself on Vani, she reveals the truth about Gehna and herself.",4a66ad92143e45a1b4250feddd537389,4
+gehna,vani,Vani clarifies that Gehna is neither her's nor Akash's but is her deceased sister and Akash's elder brother Aman's child.,4a66ad92143e45a1b4250feddd537389,4
+aman,gehna,Vani hands over Gehna to Aman.,4a66ad92143e45a1b4250feddd537389,4
+producer,the stranger,The stranger is introduced as a multi-talented producer.,4a66ad92143e45a1b4250feddd537389,4
+director,the stranger,The stranger also reveals himself to be the director of a TV series.,4a66ad92143e45a1b4250feddd537389,4
+vani,the kapoor family,Vani leaves the house with Gehna.,4a66ad92143e45a1b4250feddd537389,4
+akash and his family,vani,"Later, Akash and his family decide to get Vani married.",4a66ad92143e45a1b4250feddd537389,4
+tv series,marriage ceremony,The marriage ceremony is revealed to be part of a TV series.,4a66ad92143e45a1b4250feddd537389,4
+vani,akash,"At the end, Akash and Vani get married.",4a66ad92143e45a1b4250feddd537389,4

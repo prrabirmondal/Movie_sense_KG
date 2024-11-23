@@ -1,0 +1,215 @@
+Question,Answer
+"""Is it true that in the 2005 movie, 'Batman Begins', the character Batman was portrayed by an actor other than Christian Bale?""",no
+"""In the movie 'Batman Begins' released in 2005, was the character Batman played by Christian Bale?""",yes
+"[""In the 2005 movie Batman Begins, does Christian Bale play the role of Joker?""]",no
+"[""Did Christian Bale play the role of Bruce Wayne in the 2005 movie Batman Begins?""]",yes
+"[""Is it true that Sir Christopher Nolan did not direct the film 'Batman Begins' released in 2005?""]",no
+"[""Was 'Batman Begins' released in 2005 directed by Sir Christopher Nolan?""]",yes
+"[""Did Christopher Nolan solely write the screenplay for 'Batman Begins' released in 2005?""]",no
+"[""Was David S. Goyer a co-writer for the screenplay of 'Batman Begins' released in 2005?""]",yes
+"[""Was the film 'Batman Begins' released in 2005 produced and distributed by a company other than Warner Bros. Pictures?""]",no
+"[""Was the film 'Batman Begins' released in 2005 produced and distributed by Warner Bros. Pictures?""]",yes
+"[""Was 'The Dark Knight' released before 'Batman Begins' in 2005?""]",no
+"[""Is 'The Dark Knight' the sequel to 'Batman Begins' which was released in 2005?""]",yes
+"[""Was the expectation for the movie 'Batman Begins' released in 2005 high due to the success of the previous Batman film series?""]",no
+"[""Did the movie 'Batman Begins', released in 2005, have moderate to low expectations due to the poor reception of the previous Batman film, 'Batman & Robin'?""]",yes
+"[""In the 2005 movie 'Batman Begins', does Batman decide that killing is unnecessary due to the failures of the authorities and the corruption rampant in Gotham?""]",no
+"[""In 'Batman Begins' released in 2005, does Batman believe that taking justice into his own hands through killing is necessary due to the failures of the authorities?""]",yes
+"[""Did Bruce show no interest in his family's company, Wayne Enterprises, in the 2005 movie 'Batman Begins'?""]",no
+"[""In the movie 'Batman Begins', released in 2005, did Bruce inherit and take an interest in his family's company, Wayne Enterprises?""]",yes
+"[""In the 2005 movie 'Batman Begins', does Batman decide to adopt a vigilante identity due to his love for animals?""]",no
+"[""In 'Batman Begins' released in 2005, does Batman adopt a vigilante identity inspired by his childhood fear to fight crime and bring justice?""]",yes
+"[""In the 2005 film 'Batman Begins', did Batman fail to provide Rachel with evidence against Falcone leading to his arrest?""]",no
+"[""In 'Batman Begins' released in 2005, while investigating a drug shipment, did Batman provide Rachel with evidence against Falcone that leads to his arrest?""]",yes
+"[""In the 2005 film 'Batman Begins', does the character Falcone refuse to engage in crime and corruption in Gotham?""]",no
+"[""Is Falcone portrayed as a criminal mastermind who engages in crime and corruption in Gotham in the 2005 movie 'Batman Begins'?""]",yes
+"[""In the 2005 movie 'Batman Begins', is Dr. Jonathan Crane portrayed as an honest psychologist?""]",no
+"[""In 'Batman Begins' released in 2005, does Dr. Jonathan Crane, a corrupt psychologist, smuggle drugs into Gotham with Falcone's help?""]",yes
+"[""In the 2005 movie 'Batman Begins', does Crane use a fear-inducing hallucinogen without donning a scarecrow mask?""]",no
+"[""In 'Batman Begins' released in 2005, does Crane, donning a scarecrow mask, spray Falcone with a fear-inducing hallucinogen and transfer him to Arkham Asylum?""]",yes
+"[""Did Crane introduce drugs into Gotham's water supply and drug its citizens in the 2005 movie 'Batman Begins'?""]",yes
+"[""In the 2005 movie 'Batman Begins', did Crane help Batman to fight against corruption?""]",no
+"[""Is Sergeant James Gordon portrayed as a corrupt police officer in the 2005 movie 'Batman Begins'?""]",no
+"[""Is Sergeant James Gordon depicted as an ally to Batman in the 2005 movie 'Batman Begins'?""]",yes
+"[""In the 2005 movie 'Batman Begins', did Lucius Fox refuse to help Bruce by denying him access to prototype defense technologies?""]",no
+"[""In 'Batman Begins' released in 2005, is Lucius Fox a friend of Bruce's father who allows him access to prototype defense technologies to fight crime?""]",yes
+"[""Did Crane, in the 2005 movie 'Batman Begins', deny Rachel's accusations of corruption and instead reveal his plan to introduce a hallucinogen into Gotham's water supply?""]",no
+"[""In 'Batman Begins' released in 2005, did Crane drug Rachel with a hallucinogen after revealing his plan of introducing his drug into Gotham's water supply?""]",yes
+"[""In the 2005 film 'Batman Begins', does Batman get subdued and sprayed with his own chemical by Crane?""]",no
+"[""In 'Batman Begins' released in 2005, does Batman later subdue Crane and spray him with his own chemical?""]",yes
+"[""In the 2005 movie 'Batman Begins', did Batman give Rachel two vials, one for someone other than Gordon?""]",no
+"[""In 'Batman Begins' released in 2005, does Batman give Rachel two vials, one of which is intended for Gordon?""]",yes
+"[""In the 2005 movie 'Batman Begins', is Ducard revealed to be a different character from Ra's al Ghul?""]",no
+"[""Does Ducard reveal himself to be the true Ra's al Ghul in the 2005 movie 'Batman Begins'?""]",yes
+"[""In the 2005 movie 'Batman Begins', did Alfred abandon Bruce when Ducard sets Wayne Manor aflame?""]",no
+"[""In 'Batman Begins' released in 2005, does Alfred rescue Bruce when Ducard sets Wayne Manor aflame and leaves Bruce to die?""]",yes
+"[""In the 2005 movie 'Batman Begins', does Batman reveal his identity to Rachel after rescuing her from a drugged mob?""]",yes
+"[""In 'Batman Begins' released in 2005, does Rachel rescue Batman from a drugged mob?""]",no
+"[""In the 2005 movie 'Batman Begins', does Sergeant Gordon get demoted instead of being promoted to Lieutenant?""]",no
+"[""In 'Batman Begins', released in 2005, does Sergeant Gordon show Batman something after his promotion to Lieutenant?""]",yes
+"[""In the 2005 movie 'Batman Begins', does Rachel refuse to be with Bruce despite his gained respect?""]",yes
+"[""In the 2005 movie 'Batman Begins', does Rachel promise to be with Bruce when Gotham no longer needs Batman?""]",no
+"[""In the 2005 movie 'Batman Begins', does Earle fire Bruce and replace him with Fox?""]",no
+"[""In 'Batman Begins' released in 2005, does Bruce fire Earle and replace him with Fox?""]",yes
+"""In the 2005 movie 'Batman Begins', was the character Gordon demoted to Sergeant from Lieutenant?""",no
+"""In 'Batman Begins' released in 2005, was Sergeant Gordon promoted to Lieutenant?""",yes
+"[""Was Arnold Flass played by an actor other than Mark Boone Junior in the 2005 film 'Batman Begins'?""]",no
+"[""In the 2005 movie 'Batman Begins', does Mark Boone Junior play the role of Arnold Flass, who is Gordon's corrupt partner?""]",yes
+"[""Is the character of Thomas Wayne, Bruce's late father, in the 2005 movie 'Batman Begins' portrayed by an actor other than Linus Roache?""]",no
+"[""Is Thomas Wayne, Bruce's late father, portrayed by Linus Roache in the 2005 movie 'Batman Begins'?""]",yes
+"[""In the 2005 movie 'Batman Begins', was Carl Finch portrayed by an actor other than Larry Holden?""]",no
+"[""In 'Batman Begins' released in 2005, did Larry Holden portray the character of district attorney Carl Finch?""]",yes
+"[""In the 2005 movie 'Batman Begins', was Gillian B. Loeb played by an actor other than Colin McFarlane?""]",no
+"[""Is the character Gillian B. Loeb portrayed as the police commissioner in the 2005 movie 'Batman Begins'?""]",yes
+"[""Is it true that in the 2005 movie 'Batman Begins', Jessica is not portrayed by Christine Adams and is not William Earle's secretary?""]",no
+"[""In the 2005 film 'Batman Begins', does Christine Adams portray the character Jessica, who is William Earle's secretary?""]",yes
+"[""Did Vincent Wong play a young Asian prisoner in the 2005 movie, Batman Begins?""]",no
+"[""In the 2005 movie Batman Begins, did Vincent Wong play the role of an old Asian prisoner?""]",yes
+"[""Is Martha Wayne, portrayed by Sara Stewart, not a character in the 2005 movie 'Batman Begins'?""]",no
+"[""Does Sara Stewart portray the character of Martha Wayne, Bruce's late mother, in the 2005 movie 'Batman Begins'?""]",yes
+"[""Is Joe Chill, played by Richard Brake in the 2005 movie Batman Begins, not the killer of the Waynes?""]",no
+"[""Does Richard Brake portray the character of Joe Chill, the Waynes' killer, in the 2005 movie Batman Begins?""]",yes
+"[""In the 2005 movie 'Batman Begins', was the character of the high court judge Faden portrayed as an honest individual?""]",no
+"[""Is it accurate to say that Gerard Murphy portrays a corrupt High Court Judge Faden in the 2005 movie 'Batman Begins'?""]",yes
+"[""In the 2005 movie 'Batman Begins', does Batman meet Bruce last when he leaves Gotham City?""]",yes
+"[""In 'Batman Begins' released in 2005, is Bruce the first person Batman meets when he leaves Gotham City?""]",no
+"""In the 2005 movie 'Batman Begins', was the character Joffrey Baratheon portrayed by Jack Gleeson?""",no
+"""In the 2005 movie 'Batman Begins', did Jack Gleeson, who is known for his role as Joffrey Baratheon in Game of Thrones, appear as a young admirer of Batman who is later saved by him from Ra's al Ghul's men?""",yes
+"[""In the 2005 film 'Batman Begins', did Gleeson appear as a young admirer of Batman who was later saved by him from Ra’s al Ghul’s men, based on Bale's recommendation?""]",yes
+"[""Did Gleeson play the character of Batman in the 2005 movie 'Batman Begins'?""]",no
+"[""Did Nolan not want an all-star supporting cast for 'Batman Begins' in 2005 to lend a more epic feel and credibility to the story?""]",no
+"[""Did Nolan want an all-star supporting cast for 'Batman Begins' in 2005 to lend a more epic feel and credibility to the story?""]",yes
+"[""Did the scene in 'Batman Begins' (2005) where young Bruce Wayne falls into a well originate from a short story called 'The Man Who Falls' by Denny O'Neil and Dick Giordano?""]",yes
+"[""Is the scene where young Bruce Wayne falls into a well in 'Batman Begins' (2005) inspired by a novel written by J.K. Rowling?""]",no
+"""In the 2005 movie 'Batman Begins', does the film ignore the idea from the comics that Bruce saw a Zorro film with his parents before they were murdered, emphasizing the importance of bats to Bruce and suggesting that becoming a superhero is a wholly original idea on his part?""",yes
+"""In the 2005 movie 'Batman Begins', is the concept of Bruce becoming a superhero derived from him watching a Zorro film with his parents before they were murdered?""",no
+"[""Was the filming of Batman Begins, released in 2005, started in Bhutan?""]",no
+"[""Was the Vatnajökull glacier in Iceland used as a filming location for Bhutan in the 2005 movie, Batman Begins?""]",yes
+"""Did the director of 'Batman Begins' (2005) shoot exteriors in Paris to represent Gotham City?""",no
+"""In the 2005 film 'Batman Begins', did Nolan shoot exteriors in London to make the city seem recognizable as Gotham City?""",yes
+"[""Was the Batcave set for the 2005 movie 'Batman Begins' built in a location other than Shepperton Studios?""]",no
+"[""Was the Batcave set for the movie 'Batman Begins' released in 2005 built at Shepperton Studios?""]",yes
+"""Was the movie 'Batman Begins' released in 2005 filmed in an airship hangar at Cardington for the scenes of 'the Narrows' and the feet of the monorails?""",yes
+"""Did Warner Bros. purchase an airship hangar at Cardington for the filming of 'Batman Begins' in 2005?""",no
+"""In the 2005 movie 'Batman Begins', was Mentmore Towers chosen as the location for Wayne Manor because it had a memorial to Wayne's parents?""",yes
+"""Was the Wayne Manor in the 2005 film 'Batman Begins' filmed at a different location other than Mentmore Towers?""",no
+"[""Did Crowley dislike the white floors of the manor in the 2005 film 'Batman Begins' because they reminded him of Wayne's parents' memorial?""]",no
+"[""In the 2005 movie 'Batman Begins', did Crowley appreciate the white floors of the manor because they gave the impression of a memorial to Wayne's parents?""]",yes
+"[""In the 2005 movie 'Batman Begins', is the manor depicted as a memorial to Wayne's parents?""]",yes
+"[""In 'Batman Begins' released in 2005, does the manor disrespect the memory of Wayne's parents?""]",no
+"""In the 2005 film 'Batman Begins', was the National Institute for Medical Research building used to represent a hospital rather than Arkham Asylum?""",no
+"""In 'Batman Begins' released in 2005, was the building chosen to represent Arkham Asylum the National Institute for Medical Research building in Mill Hill, northwest London, England?""",yes
+"[""Was the St Pancras railway station used for Arkham's interiors in the 2005 movie 'Batman Begins'?""]",yes
+"[""In the 2005 movie 'Batman Begins', were Arkham's interiors filmed at the Empire State Building?""]",no
+"[""Was the Senate House of University College London used as a hospital in the 2005 movie 'Batman Begins'?""]",no
+"[""In the 2005 film 'Batman Begins', was the Senate House of University College London used for courtrooms?""]",yes
+"[""Was the Tumbler pursuit scene in the 2005 movie 'Batman Begins' filmed in New York rather than Lower Wacker Drive in Chicago?""]",no
+"[""Were some scenes of 'Batman Begins', released in 2005, including the Tumbler pursuit, filmed at Lower Wacker Drive in Chicago?""]",yes
+"[""Did the movie 'Batman Begins', released in 2005, feature only one model of the 'tumbler'?""]",no
+"[""In the movie 'Batman Begins' from 2005, were six models of the 'tumbler' built to 1:12 scale in the course of four months?""]",yes
+"[""Is it true that in the making of the 2005 movie 'Batman Begins', a crew of over 30 people carved a full-size replica of the Tumbler out of a large block of wood?""]",no
+"[""Did the crew of the 2005 film 'Batman Begins' create a steel 'test frame' using a full-size styrofoam model of the Tumbler?""]",yes
+"Did the steel 'test frame' in the 2005 movie ""Batman Begins"" fail to reach a speed of over 100 miles per hour?",no
+"In the 2005 movie ""Batman Begins"", was the steel 'test frame' required to have a speed of over 100 miles per hour?",yes
+"[""Did the professional drivers for the Tumblers in 'Batman Begins' (2005) practice driving the vehicles in the streets of Chicago for a year before filming the scenes?""]",no
+"[""Did the professional drivers for the Tumblers in 'Batman Begins' (2005) practice driving the vehicles for six months before they drove on the streets of Chicago for the film's scenes?""]",yes
+"[""Is the Batsuit in the 2005 movie 'Batman Begins' made without a neoprene undersuit?""]",no
+"[""Was the basic design of the Batsuit in 'Batman Begins' released in 2005, a neoprene undersuit shaped by attaching molded cream latex sections?""]",yes
+"[""Did Christian Bale design the Batsuit himself for the 2005 movie Batman Begins?""]",no
+"[""Was the Batsuit in the 2005 movie Batman Begins designed based on the mold and sculpture of Christian Bale?""]",yes
+"""In the 2005 movie 'Batman Begins', was the team unable to work on a full body cast due to imperfections caused by sculpting with clay?""",no
+"""Did the team in 'Batman Begins' released in 2005 use a full body cast to avoid imperfections that could be picked up by sculpting with clay?""",yes
+"""Was plastiline used to roughen the surface of the full body cast in the 2005 movie, Batman Begins?""",no
+"""In the 2005 film, Batman Begins, was plastiline used to smooth the surface of the full body cast?""",yes
+"""Did the team in Batman Begins, released in 2005, use foam for purposes other than creating a flexible, light, durable, and black mixture?""",no
+"""In the 2005 movie Batman Begins, did the team experiment with different mixtures of foam to find the most flexible, light, durable, and black one?""",yes
+"[""In the 2005 film Batman Begins, did the process to make the foam black enhance the foam's durability?""]",no
+"[""In Batman Begins, released in 2005, was there a compromise on the foam's durability to make it black?""]",yes
+"[""In the 2005 movie 'Batman Begins', was the cowl created so thick that it caused wrinkling when Bale turned his head in the batsuit?""]",no
+"[""In 'Batman Begins' released in 2005, was the cowl designed to be thin enough to allow motion but thick enough to avoid wrinkling when Bale turned his head in the batsuit?""]",yes
+"[""Is the cowl in the 2005 movie 'Batman Begins' designed to not depict a man who has angst?""]",no
+"[""In the 2005 movie 'Batman Begins', is the cowl designed to show 'a man who has angst'?""]",yes
+"[""Did the fight choreographers for 'Batman Begins' (2005), Justo Dieguez and Andy Norman, train actors and stunt performers using the Brazilian Jiu-Jitsu method?""]",no
+"[""Did the fight choreographers for 'Batman Begins' (2005), Justo Dieguez and Andy Norman, train actors and stunt performers using the Spanish Keysi fighting method?""]",yes
+"[""Did the director of 'Batman Begins' (2005) rely heavily on computer-generated imagery instead of traditional stuntwork?""]",no
+"[""In the 2005 movie 'Batman Begins', did director Nolan prefer traditional stuntwork over computer-generated imagery?""]",yes
+"[""Is the movie 'Batman Begins' released in 2005 the film in which Batman's method was modified due to his age and physical condition?""]",no
+"[""Is 'Batman Begins' from 2005 a movie that predates the modifications to Batman's methods due to his age and physical condition seen in 'The Dark Knight Rises'?""]",yes
+"[""Is the self-defense system used in Batman Begins, released in 2005, not based on the study and cultivation of natural instincts?""]",no
+"[""In the 2005 movie Batman Begins, is the self-defense system used based on the study and cultivation of natural instincts?""]",yes
+"[""Was the 2005 movie 'Batman Begins' devoid of any CG composite images in its establishing shots?""]",no
+"[""In the 2005 movie 'Batman Begins', were there several establishing shots that were CG composite images?""]",yes
+"""In the 2005 movie 'Batman Begins', were real bats used extensively in the film?""",no
+"""In 'Batman Begins' released in 2005, were the bats depicted in the film mostly digital?""",yes
+"[""Did industry experts attribute the rise in film industry performance to Batman Begins in 2005?""]",no
+"[""Was the slump in 2005 in the film industry attributed to the expectations of industry experts?""]",yes
+"[""Was CGI exclusively used to represent the Narrows in the 2005 movie Batman Begins?""]",no
+"[""Were scale models used to represent the Narrows in the 2005 movie Batman Begins?""]",yes
+"[""Did the movie 'Batman Begins' released in 2005 not use CG composite images for establishing shots such as Gotham's skyline?""]",no
+"[""In the 2005 movie 'Batman Begins', were there several establishing shots that were CG composite images, such as Gotham's skyline?""]",yes
+"""In the 2005 movie 'Batman Begins', were the exterior shots of Wayne Tower not created using CG composite images?""",no
+"""In 'Batman Begins' released in 2005, were several establishing shots, including the exterior shots of Wayne Tower, made using CG composite images?""",yes
+"[""Did the 2005 film 'Batman Begins' use real exterior monorail shots instead of CG composite images?""]",no
+"[""Were some of the exterior monorail shots in 'Batman Begins' (2005) created using CG composite images?""]",yes
+"""Did the movie 'Batman Begins' from 2005 contribute to a decline in theater attendance because it was delivered directly via the internet?""",no
+"""Is the concept of movies being delivered directly via the internet, as seen in the 2005 era of 'Batman Begins', associated with a decline in theater attendance due to the convenience of watching movies at home?""",yes
+"[""Was 'Batman Begins' released in 2005 expected to be the top-grossing film of the summer, surpassing 'Star Wars: Episode III – Revenge of the Sith'?""]",no
+"[""Was 'Star Wars: Episode III – Revenge of the Sith' expected to be the top-grossing film of the summer in the year 'Batman Begins' was released, which is 2005?""]",yes
+"Did industry experts express no concerns over a possible soft opening for ""Batman Begins"" in 2005?",no
+"Did industry experts express concerns over a possible soft opening for ""Batman Begins"" in 2005?",yes
+"[""Did the movie 'Batman Begins' released in 2005 suffer from a detachment from audiences due to Bale's lack of star power at the time?""]",no
+"[""In the 2005 movie 'Batman Begins', was Bale's lack of star power at the time seen as a possible detachment from audiences?""]",yes
+"[""Did the 2005 movie 'Batman Begins' feature iconic villains such as the Joker and Penguin, portrayed by A-list celebrities?""]",no
+"[""In the 2005 movie 'Batman Begins', is the absence of iconic villains like the Joker and Penguin seen as possible detachments from audiences?""]",yes
+"[""Was the movie 'Batman Begins' released in 2005 widely panned by critics like its predecessor 'Batman & Robin' in 1997?""]",no
+"[""Did the movie 'Batman Begins' released in 2005 follow after the film 'Batman & Robin' which was widely panned by critics in 1997?""]",yes
+"[""Was the world premiere for 'Batman Begins' held in London, England in 2005?""]",no
+"[""Did Warner Bros. hold the world premiere for 'Batman Begins' in Tokyo, Japan in 2005?""]",yes
+"[""Was the DVD of 'Batman Begins' released in 2004?""]",no
+"[""Was the DVD of 'Batman Begins' released on October 18, 2005?""]",yes
+"[""Did the movie 'Batman Begins' released in 2005 fail to gain popularity on video rental charts like 'Bewitched'?""]",no
+"[""Did the movie 'Batman Begins' from 2005, similar to 'Bewitched', gain popularity as indicated by its ranking on video rental charts?""]",yes
+"[""Did the movie 'Batman Begins' from 2005 fail to sell any DVDs by August 2006?""]",no
+"[""Did 'Batman Begins', released in 2005, sell $167 million worth of DVDs by August 2006?""]",yes
+"[""Did the film 'Batman Begins' released in 2005 fail to earn $72.9 million in its first five days of release?""]",no
+"[""Did 'Batman Begins' earn $72.9 million in its first five days after its release in 2005?""]",yes
+"[""Did the movie 'Batman Begins' fail to gross $28 million in its second weekend after its release in 2005?""]",no
+"[""Did 'Batman Begins', released in 2005, gross $28 million in its second weekend?""]",yes
+"[""Did the movie 'Batman Begins' gross less than $205 million in North America in 2005?""]",no
+"[""Did the movie 'Batman Begins', released in 2005, gross $205 million in North America?""]",yes
+"[""Did the romantic subplot between Christian Bale and Katie Holmes in 'Batman Begins' (2005) receive negative reviews for being too similar to the Peter Parker/Mary Jane dynamic in Spider-Man?""]",no
+"[""Was the romantic subplot between Christian Bale and Katie Holmes in 'Batman Begins' (2005) described as 'refreshingly free of Peter Parker/Mary Jane-style whining' by Total Film?""]",yes
+"""In the 2005 movie 'Batman Begins', did Katie Holmes and Liam Neeson fail to fit their characters according to Kenneth Turan from Los Angeles Times?""",yes
+"""In the 2005 movie 'Batman Begins', did Kenneth Turan from Los Angeles Times praise Katie Holmes and Liam Neeson for perfectly fitting their characters?""",no
+"""Did Christian Bale fail to bring more understanding into 'who [Batman] is and what motivates him' in the 2005 movie 'Batman Begins' according to James Berardinelli?""",no
+"""According to James Berardinelli, did Christian Bale's performance as Hollywood's latest Batman help create more understanding into 'who [Batman] is and what motivates him' in the 2005 movie 'Batman Begins'?""",yes
+"[""Is the Batsuit not worn by Batman in the 2005 movie 'Batman Begins'?""]",no
+"[""Is the Batsuit the iconic suit worn by Batman, portrayed by Christian Bale in the 2005 film 'Batman Begins'?""]",yes
+"[""Is the Batcave depicted as a public location in the 2005 movie Batman Begins?""]",no
+"[""Does the Batcave belong to Batman in the 2005 movie Batman Begins?""]",yes
+"[""Is the Tumbler not used by Batman for transportation and combat purposes in the 2005 movie 'Batman Begins'?""]",no
+"[""Is the Tumbler a high-tech vehicle used by Batman in the 2005 film 'Batman Begins'?""]",yes
+"[""In the 2005 movie 'Batman Begins', was the Batsignal not used by Batman to signal his presence or request assistance?""]",no
+"[""In 'Batman Begins' released in 2005, is the Batsignal a symbol used by Batman to signal his presence or request assistance?""]",yes
+"[""In the 2005 film 'Batman Begins', is Rachel Dawes a character who has no relationship with Bruce Wayne?""]",no
+"[""In 'Batman Begins' released in 2005, is Rachel Dawes, portrayed by Maggie Gyllenhaal, a character who has a relationship with both Bruce Wayne and Batman?""]",yes
+"""In the 2005 movie 'Batman Begins', was Serpico New York compared to Metropolis instead of Gotham City in the review by Kyle Smith?""",no
+"""In the context of Kyle Smith's review, is Serpico New York compared to Gotham City in the film 'Batman Begins' released in 2005, as representations of corrupt cities from different time periods?""",yes
+"[""Did Michael Keaton play the role of Batman in the 2005 movie 'Batman Begins' instead of Christian Bale?""]",no
+"[""In the 2005 movie 'Batman Begins', was Christian Bale's portrayal of Batman compared to Michael Keaton's performance in earlier Batman movies by Stephanie Zacharek?""]",yes
+"""Did Tim Burton, the director of previous Batman films, acknowledge Christopher Nolan for capturing the true spirit of superhero movies in 'Batman Begins' released in 2005?""",yes
+"""Was Tim Burton the director of 'Batman Begins' released in 2005?""",no
+"[""Is the movie 'Batman Begins' from 2005 not directed by Christopher Nolan?""]",no
+"[""Did the 2005 movie 'Batman Begins' have a significant influence on the superhero film genre, leading to a trend of darker genre films that retold back-stories or rebooted them altogether?""]",yes
+"[""Did the 2005 movie 'Batman Begins' avoid exploring the dark side of comic book lore?""]",no
+"[""Has the exploration of the dark side of comic book lore, as seen in 'Batman Begins' released in 2005, become increasingly acceptable in superhero films?""]",yes
+"[""In the 2005 movie 'Batman Begins', is fear personified by a character other than the Scarecrow?""]",no
+"[""In 'Batman Begins' released in 2005, does the character Scarecrow personify fear?""]",yes
+"[""Did the theme of fear not affect Bruce Wayne in the 2005 movie, Batman Begins?""]",no
+"[""In the 2005 movie, Batman Begins, does the theme of fear affect Bruce Wayne as he rises above it to become Batman?""]",yes
+"[""Is the Scarecrow in the 2005 movie 'Batman Begins' associated with happiness rather than fear?""]",no
+"[""Does the Scarecrow in the 2005 movie 'Batman Begins' personify the theme of fear with his deadly fear toxin?""]",yes
+"[""Does the movie 'Batman Begins' released in 2005 not touch upon the psychological investigation of Bruce Wayne's split personality in the bat suit?""]",no
+"[""In the 2005 movie 'Batman Begins', is the psychological investigation of Bruce Wayne's split personality in the bat suit lightly touched upon?""]",yes
+"[""In the 2005 movie 'Batman Begins', is Bruce Wayne portrayed as a character who doesn't care about doing the right thing?""]",no
+"[""Does the character Bruce Wayne strive to do the right thing in the movie 'Batman Begins' released in 2005?""]",yes

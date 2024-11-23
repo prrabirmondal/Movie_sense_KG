@@ -1,0 +1,25 @@
+node_1,node_2,edge,chunk_id,count
+ravi,himmatwala (courageous man),Ravi is known as Himmatwala (courageous man),de3c417d62684556bfbe75d20b244907,4
+ravi,savitri,Ravi meets his mother Savitri in Ramnagar village,de3c417d62684556bfbe75d20b244907,4
+savitri,dharamurthy,Savitri tells Ravi that her husband Dharamurthy was an honest and respected man and the priest of the temple,de3c417d62684556bfbe75d20b244907,4
+dharamurthy,sher singh,Dharamurthy was framed by Sher Singh for robbing the temple since Sher Singh saw him commit a murder,de3c417d62684556bfbe75d20b244907,4
+dharamurthy,suicide,"Disgusted, Dharamurthy committed suicide",de3c417d62684556bfbe75d20b244907,4
+ravi,narayan das,"Young Ravi tried to kill Narayan Das, Sher Singh's manager and brother-in-law, in revenge",de3c417d62684556bfbe75d20b244907,4
+sher singh,rekha,Sher Singh's daughter Rekha,de3c417d62684556bfbe75d20b244907,4
+rekha,ravi,Rekha falls in love with Ravi,de3c417d62684556bfbe75d20b244907,4
+sher singh,rekha,Sher Singh has a daughter named Rekha,de3c417d62684556bfbe75d20b244907,4
+padma,shakti,"Padma is in love with Shakti, Narayan Das's son",de3c417d62684556bfbe75d20b244907,4
+ravi,real ravi,Ravi reveals to Padma that he is not the real Ravi and that the real Ravi died in a road accident before dying himself.,a52c5b00cf33426585df9399ae51782f,4
+padma,ravi,Padma initially feels upset after learning that the person she has been living with is not the real Ravi but eventually reconciles with him after he saves her life.,a52c5b00cf33426585df9399ae51782f,4
+sher singh,narayan das,Sher Singh tells Narayan Das that marrying Shakti with Padma would give them an upper hand over Ravi as they can ill-treat Padma and keep Ravi in control.,a52c5b00cf33426585df9399ae51782f,4
+padma,shakti,Padma is initially mistreated by both her husband and father-in-law after getting married to Shakti.,a52c5b00cf33426585df9399ae51782f,4
+ravi,sher singh,"Sher Singh begs Ravi to marry Rekha after his daughter, Rekha, tells him that she is pregnant with Ravi's child.",a52c5b00cf33426585df9399ae51782f,4
+rekha,ravi,"Rekha advises Ravi to use her against her own father, just like she did earlier.",a52c5b00cf33426585df9399ae51782f,4
+sher singh,fighting force from the city,Sher Singh brings 20 fighters from the city to try and kill Ravi.,a52c5b00cf33426585df9399ae51782f,4
+ravi,shakti,"While they are beating Ravi, Shakti overhears Rekha and Ravi's conversation about the fake pregnancy and that he is not the real Ravi.",a52c5b00cf33426585df9399ae51782f,4
+sher singh,ravi,"Angered, Sher Singh tries to kill Ravi.",a52c5b00cf33426585df9399ae51782f,4
+tiger,ravi,"While they are beating Ravi, the tiger (which Ravi had fought with earlier) comes and saves his life.",a52c5b00cf33426585df9399ae51782f,4
+ravi,tiger,"Ravi had fought with Tiger, but in this context, Tiger comes and saves Ravi's life.",0fb614be0c0e4498945237463f068474,4
+ravi,shakti,Ravi brutally beats Shakti.,0fb614be0c0e4498945237463f068474,4
+ravi,sher singh,"When Ravi is about to kill Sher Singh, his mother stops him.",0fb614be0c0e4498945237463f068474,4
+sher singh,narayan das,"In the end, Sher Singh, Narayan Das, and Shakti ask for forgiveness from Ravi, Savitri, Padma, and the rest of the villagers.",0fb614be0c0e4498945237463f068474,4

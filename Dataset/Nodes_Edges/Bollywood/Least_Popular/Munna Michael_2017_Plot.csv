@@ -1,0 +1,27 @@
+node_1,node_2,edge,chunk_id,count
+michael jackson,manasva roy (michael),Michael Jackson inspired Manasva Roy (Michael) to become a dancer.,adef62a035dc4f25903643808d8d4f9e,4
+manav roy (munna),manasva roy (michael),Manav Roy (Munna) is the adopted son of Manasva Roy (Michael).,adef62a035dc4f25903643808d8d4f9e,4
+manav roy (munna),dance clubs,Manav Roy (Munna) secretly visits dance clubs with his friends.,adef62a035dc4f25903643808d8d4f9e,4
+michael jackson,manav roy (munna),Michael Jackson asks Manav Roy (Munna) to give up dancing.,adef62a035dc4f25903643808d8d4f9e,4
+balli,manav roy (munna),Balli clashes with Manav Roy (Munna).,adef62a035dc4f25903643808d8d4f9e,4
+mahender fauji,manav roy (munna),Mahender Fauji asks Munna to teach him how to dance.,adef62a035dc4f25903643808d8d4f9e,4
+mahender fauji,balli,Mahender Fauji's brother Balli.,adef62a035dc4f25903643808d8d4f9e,4
+deepika 'dolly' sharma,manav roy (munna),Mahender Fauji wants Manav Roy (Munna) to become a good dancer to impress Deepika 'Dolly' Sharma.,adef62a035dc4f25903643808d8d4f9e,4
+deepak sharma,deepika 'dolly' sharma,Deepika 'Dolly' Sharma and deepak sharma are related terms.,adef62a035dc4f25903643808d8d4f9e,4
+mahender,deepika 'dolly' sharma,"Desire for relationship, Maheender wants to impress Dolly with his dance skills, Dolly is a dancer in a club",3b85bcc0de654e55acb475d725165b50,4
+munna,deepika 'dolly' sharma,"Intermediary between Mahender and Dolly, Became friends after multiple meetings, Confided in about her dreams of becoming a renowned dancer",3b85bcc0de654e55acb475d725165b50,4
+mahender,deepika 'dolly' sharma,"Generous gesture towards Dolly, Gifted her an appointment letter for the lead dancer role at Blue Star Hotel",3b85bcc0de654e55acb475d725165b50,4
+deepika 'dolly' sharma,blue star hotel,"Placed as a lead dancer, Gifted by Mahender",3b85bcc0de654e55acb475d725165b50,4
+mahender,deepika 'dolly' sharma,"Tense relationship after false accusations by Balli, Dolly flees",3b85bcc0de654e55acb475d725165b50,4
+balli,deepika 'dolly' sharma,"Malicious intent towards Dolly, Lied that Mahender would only keep her as a sex slave",3b85bcc0de654e55acb475d725165b50,4
+mahender,balli,Anger and attempt to kill after discovering Balli's false accusations towards Dolly,3b85bcc0de654e55acb475d725165b50,4
+deepika 'dolly' sharma,father,Wanting to win the Dancing Star contest to face her father after running away from home for dancing career,3b85bcc0de654e55acb475d725165b50,4
+munna,deepika 'dolly' sharma,"Promise to get her back after losing her, Coincidentally finding Dolly in Mumbai for participating in Dancing Star",3b85bcc0de654e55acb475d725165b50,4
+munna,deepika 'dolly' sharma,"Helping Dolly win the Dancing Star contest by getting his friends to help her dance group, Lie about not being able to dance until she finds him dancing and training",3b85bcc0de654e55acb475d725165b50,4
+dolly,munna,"friends; Munna lied to Dolly about dancing, but she found out and asked him to be her partner at the competition",b74466ea457642e59e50235d32ee81e5,4
+munna,dolly,love; Dolly told Mahender that she loves Munna in Delhi,b74466ea457642e59e50235d32ee81e5,4
+michael,munna,relationship with father; Michael's father kidnapped him and gave Munna 24 hours to bring Dolly or his father would be killed,b74466ea457642e59e50235d32ee81e5,4
+balli,munna,"enmity; Balli tried to beat them up, but Munna defeated him and his goons",b74466ea457642e59e50235d32ee81e5,4
+balli,dolly,"enmity; Balli tried to beat them up, but Munna defeated him and his goons",b74466ea457642e59e50235d32ee81e5,4
+mahender,munna,enmity; Mahender came to Mumbai in search of Dolly and kidnapped Michael because of Munna's betrayal,b74466ea457642e59e50235d32ee81e5,4
+maheender,munna,reconciliation; Mahender soon came to accept Munna and Dolly's love and made amends with Munna after Michael finally accepted his son's passion for dancing,b74466ea457642e59e50235d32ee81e5,4

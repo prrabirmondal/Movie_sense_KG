@@ -1,0 +1,27 @@
+node_1,node_2,edge,chunk_id,count
+jassi singh randhawa,sandhus and the randhawas rivalry,"The intense fight between the two families results in Jassi's father and Billu's uncle killing each other, leading to Jassi's vow to remain unmarried until he kills Randhawa's son.",358c4ff7d8d74bb0b775d2468cd0474c,4
+jassi singh randhawa,jassi's mother,"Flees the village with Jassi, later settling in London due to the rivalry between Sandhus and Randhawas.",358c4ff7d8d74bb0b775d2468cd0474c,4
+billu singh sandhu,randhawa's son,Billu ultimately vows to remain unmarried until he kills in light of his uncle's death during the intense fight between the two families.,358c4ff7d8d74bb0b775d2468cd0474c,4
+pammi kaur,billu singh sandhu,Yearns for marriage with Billu to be completed due to her uncle's death during the intense fight between the two families.,358c4ff7d8d74bb0b775d2468cd0474c,4
+pathan,jassi singh randhawa,"Best friends, Jassi decides to go to India despite being made aware of the rivalry by Pathan.",358c4ff7d8d74bb0b775d2468cd0474c,4
+tito and tony,billu singh sandhu,Help Billu search for Randhawa's son with the help of their younger brother.,358c4ff7d8d74bb0b775d2468cd0474c,4
+sukhmeet kaur sandhu,jassi singh randhawa,"Unknown to Jassi, who flirts with her, Sukh is Billu's younger sister returning to Phagwara after completing her studies in Delhi.",358c4ff7d8d74bb0b775d2468cd0474c,4
+tony,jassi singh randhawa,"Offers a ride to Jassi to the Gurudwara, as the land behind the Gurudwara is Jassi's.",358c4ff7d8d74bb0b775d2468cd0474c,4
+jassi,tony,Tony offers Jassi a ride to a Gurudwara and tries to kill him. Relation: antagonist-protagonist,0e222d54af714aa8913be398ae5e9c24,4
+jassi,billu,Jassi meets Billu at a temple and Billu invites Jassi to his house. Relation: acquaintance-host,0e222d54af714aa8913be398ae5e9c24,4
+sukh,jassi,Sukh recognizes Jassi and prompts Billu to invite him to his house. Relation: friend-invited guest,0e222d54af714aa8913be398ae5e9c24,4
+billu,tony,Billu reveals to Tony that Jassi is the person they were searching for these 25 years. Relation: accomplice-accomplice,0e222d54af714aa8913be398ae5e9c24,4
+jassi,sandhu household,Jassi finds out that he is in the Sandhu household and feigns injury to stay. Relation: guest-hostile environment,0e222d54af714aa8913be398ae5e9c24,4
+sandhu household,jassi,The Sandhu household treats guests as 'akin to God' and forbids any killings in the house during the period. Relation: hospitality-forbidden act,0e222d54af714aa8913be398ae5e9c24,4
+billu,sukh,"Sukh's friend Tej 'Bobby' Jaswal, a doctor, finds out that Jassi has been lying all along but confides this secretly to Sukh alone. Relation: ally-confidante",0e222d54af714aa8913be398ae5e9c24,4
+inspector,jassi,The inspector promises to escort Jassi out but instead leads him to a dilapidated mansion. Relation: guardian-betrayal,0e222d54af714aa8913be398ae5e9c24,4
+billu,jassi,"In an attempt to escape, Jassi eventually lands back into the confrontation with Billu and his men. Relation: victim-persecutor",0e222d54af714aa8913be398ae5e9c24,4
+jassi,billu,"enemy relationship, Jassi and Billu have a rivalry",683c55babe174193b67726d340b0341c,4
+bobby,sukh,"friendship relationship, Sukh and Bobby are friends",683c55babe174193b67726d340b0341c,4
+jassi,sukh,"unknown relationship, Jassi and Sukh have some connection",683c55babe174193b67726d340b0341c,4
+pammi,billu,"parent-child relationship, Pammi is Billu's mother",683c55babe174193b67726d340b0341c,4
+bobby,engagement ceremony,"participant relationship, Bobby participates in the engagement ceremony",683c55babe174193b67726d340b0341c,4
+sukh,engagement ceremony,"participant relationship, Sukh participates in the engagement ceremony",683c55babe174193b67726d340b0341c,4
+jassi,engagement ceremony,"escape relationship, Jassi tries to escape from the engagement ceremony",683c55babe174193b67726d340b0341c,4
+sandhu household,jassi,"location relationship, Jassi is located in the Sandhu household",683c55babe174193b67726d340b0341c,4
+land papers,jassi,"possession relationship, Jassi has land papers",683c55babe174193b67726d340b0341c,4

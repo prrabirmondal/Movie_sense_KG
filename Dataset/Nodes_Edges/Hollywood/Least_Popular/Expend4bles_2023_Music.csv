@@ -1,0 +1,6 @@
+node_1,node_2,edge,chunk_id,count
+guillaume roussel,movie's music,"Guillaume Roussel announced that he would be composing the film's score, replacing Brian Tyler from the previous three installments.",e653ae4e82da4ca0976ac8543f2efd50,4
+track listing,movie's music,Track listing for the movie's music has been released.,e653ae4e82da4ca0976ac8543f2efd50,4
+no.title,track listing,Each track in the movie's soundtrack is assigned a number and given a title.,e653ae4e82da4ca0976ac8543f2efd50,4
+title,no.title,Each song on the soundtrack has its own unique title.,e653ae4e82da4ca0976ac8543f2efd50,4
+length,no.title,The duration of each track is mentioned in minutes and seconds.,e653ae4e82da4ca0976ac8543f2efd50,4

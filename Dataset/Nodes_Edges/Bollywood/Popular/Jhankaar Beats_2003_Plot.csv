@@ -1,0 +1,23 @@
+node_1,node_2,edge,chunk_id,count
+neel,mr. kapoor,father-son relationship,33a0ce9d23284c00a51353ffcae891a9,4
+preeti,neel,attraction between two characters,33a0ce9d23284c00a51353ffcae891a9,4
+deep,shanti,husband-wife relationship,33a0ce9d23284c00a51353ffcae891a9,4
+muskaan,deep,parent-child relationship,33a0ce9d23284c00a51353ffcae891a9,4
+rishi,shanti,husband-wife relationship,33a0ce9d23284c00a51353ffcae891a9,4
+nicki,rishi,spouse's name,33a0ce9d23284c00a51353ffcae891a9,4
+deep,nicki,friend's wife's name,33a0ce9d23284c00a51353ffcae891a9,4
+rishi,nicki,friend's spouse's name,33a0ce9d23284c00a51353ffcae891a9,4
+mr. kapoor,neel,employer-employee relationship,33a0ce9d23284c00a51353ffcae891a9,4
+rishi,deep,best friend relationship,33a0ce9d23284c00a51353ffcae891a9,4
+shanti's mother-in-law,deep,visiting relative relationship,33a0ce9d23284c00a51353ffcae891a9,4
+neel,rishi,new colleague relationship,33a0ce9d23284c00a51353ffcae891a9,4
+deep's nagging mother-in-law,shanti,nagging relative relationship,33a0ce9d23284c00a51353ffcae891a9,4
+rishi,nicki,"Initially, Rishi and Nicki have a disagreement leading to their separation. Later, Rishi realizes that he wants to give another chance to them. However, after seeing Nicki being comforted by her lawyer, Rishi misunderstands and thinks that Nicki doesn't want him anymore. But in the end, Rishi apologizes to Nicki.",71b150a6c38f496baac7c0cd9d6a775f,4
+rishi,job offer abroad,"Rishi receives a good job offer outside the country, but he decides against it as he feels that he wants to give another chance to him and Nicki.",71b150a6c38f496baac7c0cd9d6a775f,4
+deep,rishi,"Deep considers Rishi a brother and is disappointed when Rishi leaves for a job abroad, but later Rishi surprises Deep by turning up on the day of the competition.",71b150a6c38f496baac7c0cd9d6a775f,4
+neel,shanti,Neel and Shanti become fond of each other in the context.,71b150a6c38f496baac7c0cd9d6a775f,4
+shanti,rishi,Shanti tries to make Rishi reconcile with Nicki.,71b150a6c38f496baac7c0cd9d6a775f,4
+deep,neel,"Amidst hilarious situations, Deep and Neel eventually help Neel talk to Preeti for the Jhankaar Beats competition.",71b150a6c38f496baac7c0cd9d6a775f,4
+rishi,deep,"The context shows Rishi and Deep as friends, and later they form a band after winning the competition.",71b150a6c38f496baac7c0cd9d6a775f,4
+preeti,neel,The context shows that Neel talks to Preeti with the help of Deep and Rishi for the Jhankaar Beats competition.,71b150a6c38f496baac7c0cd9d6a775f,4
+deep,neel,Deep and Neel have a brother-like relationship in the context.,71b150a6c38f496baac7c0cd9d6a775f,4

@@ -1,0 +1,28 @@
+node_1,node_2,edge,chunk_id,count
+bruce wayne,fear of bats,"At a young age, Bruce Wayne developed a fear of bats after falling down a well and being swarmed by them. This fear is later triggered at the opera when performers dressed as bats disturb him.",16c33fccd9f8417eb471bc5a6b46bd62,4
+bruce wayne,parents,Bruce Wayne's parents are murdered by mugger Joe Chill in front of him while they were out at the opera.,16c33fccd9f8417eb471bc5a6b46bd62,4
+alfred pennyworth,bruce wayne,"After the murder of Bruce Wayne's parents, Alfred Pennyworth becomes his devoted butler and raises him as a surrogate son.",16c33fccd9f8417eb471bc5a6b46bd62,4
+joe chill,carmine falcone,"After testifying against Carmine Falcone in court, Joe Chill is released on parole. However, he later becomes a victim of Falcone's hitmen.",16c33fccd9f8417eb471bc5a6b46bd62,4
+bruce wayne,joe chill,"After witnessing the murder of his parents as a child, Bruce Wayne vows to avenge their deaths by taking the life of Joe Chill.",16c33fccd9f8417eb471bc5a6b46bd62,4
+rachel dawes,bruce wayne,"As childhood friends, Rachel Dawes and Bruce Wayne have a close relationship. However, she becomes critical of his methods when he takes the law into his own hands.",16c33fccd9f8417eb471bc5a6b46bd62,4
+henri ducard,bruce wayne,"While in prison, Henri Ducard approaches Bruce Wayne and recruits him to join the League of Shadows, a group dedicated to destroying corrupt cities like Gotham.",16c33fccd9f8417eb471bc5a6b46bd62,4
+league of shadows,ra's al ghul,"The leader of the League of Shadows is Ra's al Ghul, who believes that Gotham City is beyond saving and must be destroyed.",16c33fccd9f8417eb471bc5a6b46bd62,4
+bruce wayne,league of shadows,"After completing his training with the League of Shadows, Bruce Wayne rejects their methods and escapes from their temple, causing it to collapse and killing Ra's al Ghul in the process.",16c33fccd9f8417eb471bc5a6b46bd62,4
+bruce,wayne enterprises,"Bruce returns to Gotham and takes an interest in his family's company, Wayne Enterprises, which is being taken public by businessman William Earle. Company archivist Lucius Fox allows him access to prototype defense technologies.",1fb2878794cb44038d4b427c6446ccb3,4
+bruce,protective bodysuit,"Lucius Fox, a friend of Bruce's father, allows him access to prototype defense technologies, including a protective bodysuit.",1fb2878794cb44038d4b427c6446ccb3,4
+bruce,tumbler,"Lucius Fox, a friend of Bruce's father, allows him access to prototype defense technologies, including the Tumbler, an armored vehicle.",1fb2878794cb44038d4b427c6446ccb3,4
+bruce,rachel,"Intercepting a drug shipment, Batman provides Rachel, now a Gotham Assistant District Attorney, with evidence against Falcone.",1fb2878794cb44038d4b427c6446ccb3,4
+falcone,dr. jonathan crane,"In prison, Falcone meets Dr. Jonathan Crane, a corrupt psychologist who smuggled drugs into Gotham with his help.",1fb2878794cb44038d4b427c6446ccb3,4
+dr. jonathan crane,scarecrow mask,"Donning a scarecrow mask, Crane sprays Falcone with a fear-inducing hallucinogen, driving him insane and transferring him to Arkham Asylum.",1fb2878794cb44038d4b427c6446ccb3,4
+bruce,alfred,"When Batman is ambushed by Crane and sprayed with the hallucinogen, Alfred saves him.",1fb2878794cb44038d4b427c6446ccb3,4
+fox,antidote,Fox develops an antidote for the hallucinogen after Batman is ambushed by Crane and sprayed with the hallucinogen.,1fb2878794cb44038d4b427c6446ccb3,4
+rachel,drugs,"When Rachel accuses Crane of corruption, he reveals he has introduced his drug into Gotham's water supply.",1fb2878794cb44038d4b427c6446ccb3,4
+crane,ra's al ghul,"While being interrogated, Crane claims to work for Ra's al Ghul.",1fb2878794cb44038d4b427c6446ccb3,4
+ra's al ghul,ducard,"reveals himself to be the true Ra's al Ghul after stealing a powerful microwave emitter from Wayne Enterprises and planning to vaporize Gotham's water supply, rendering Crane's drug airborne and causing mass hysteria that will destroy the city. Sets Wayne Manor aflame and leaves Bruce to die, but Alfred rescues him.",636fe3be9d2943c7a710db69bee2a03f,4
+ra's al ghul,crane,claims to work for Ra's al Ghul while being interrogated,636fe3be9d2943c7a710db69bee2a03f,4
+batman,ra's al ghul,confronts Ra's on the train as Gordon uses the Tumbler's cannons to destroy a section of the track. Leaves Ra's to die as it crashes.,636fe3be9d2943c7a710db69bee2a03f,4
+batman,crane,subdues Crane and sprays him with his own chemical,636fe3be9d2943c7a710db69bee2a03f,4
+crane,batman,mentioned in the same sentence as Batman subdues him and sprays him with his own chemical,636fe3be9d2943c7a710db69bee2a03f,4
+rachel,bruce,"gives her two vials: one for Gordon and the other for mass production at Bruce's birthday party. Batman reveals his identity to her as she refuses to be with him, promising they can be together when Gotham no longer needs Batman.",636fe3be9d2943c7a710db69bee2a03f,4
+gordon,batman,Batman gives Rachel two vials: one for Gordon and the other for mass production,636fe3be9d2943c7a710db69bee2a03f,4
+rachel,crane,mentioned in the same context as Crane's drug is given to Rachel at Bruce's birthday party,636fe3be9d2943c7a710db69bee2a03f,4

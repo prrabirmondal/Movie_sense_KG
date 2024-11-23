@@ -1,0 +1,22 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,A MOVIE is represented by its SUMMARY.,7cd46b5d08834c5e890496c25ee6a8de,4
+iqbal,indian national cricket team,Iqbal aims to fulfill his dream of playing for the Indian national cricket team.,3e5cfee8fbff48b18f39d8249ad6bd3d,4
+iqbal,cricket-obsessed,Iqbal is a cricket-obsessed deaf and mute boy.,3e5cfee8fbff48b18f39d8249ad6bd3d,4
+guruji,former india captain,"Guruji, an influential former India captain, accepts Iqbal for his talent.",3e5cfee8fbff48b18f39d8249ad6bd3d,4
+kamal,star of the academy,Kamal is also the star of the academy.,3e5cfee8fbff48b18f39d8249ad6bd3d,4
+guruji,fear of kamal's father,"Guruji throws out Iqbal out of fear of Kamal's father, who bankrolls the academy.",3e5cfee8fbff48b18f39d8249ad6bd3d,4
+mohit,local drunkard,"Iqbal seeks help from the local drunkard, Mohit.",3e5cfee8fbff48b18f39d8249ad6bd3d,4
+mohit,former great cricketer,Mohit was once a great cricketer.,3e5cfee8fbff48b18f39d8249ad6bd3d,4
+iqbal,andhra pradesh ranji trophy team,gets a place on the Andhra Pradesh Ranji Trophy team despite having no previous cricketing experience,99cb3f4f3ef74076b80181c9f30eb7cc,4
+iqbal,weak team before he joined,plays marvelously for the weak team before he joined,99cb3f4f3ef74076b80181c9f30eb7cc,4
+kamal,rival,pitted against Iqbal in the final match of the season,99cb3f4f3ef74076b80181c9f30eb7cc,4
+guruji,mohit's brother,persuades Mohit to be his coach,99cb3f4f3ef74076b80181c9f30eb7cc,4
+mohit,local drunkard,who was once a great cricketer,99cb3f4f3ef74076b80181c9f30eb7cc,4
+buffaloes,iqbal's fielders,used in nearby field for training,99cb3f4f3ef74076b80181c9f30eb7cc,4
+kapil dev,special guest role,impresses onlooking national team selector,99cb3f4f3ef74076b80181c9f30eb7cc,4
+vinayak chakraborty,hindustan times critic,finds the movie to be Kukunoor's best work,99cb3f4f3ef74076b80181c9f30eb7cc,4
+talpade,actor,achieves what many seasoned actors often fail to do - ,99cb3f4f3ef74076b80181c9f30eb7cc,4
+talpade,seasoned actors,"According to an article by Chakraborty, Talpade achieves what many seasoned actors often fail to do - he makes you forget it’s actually an act.",51de6ebc76b043efb786c1a7b2eee388,4
+talpade,favorable,The article by Chakraborty also states that the critic had a favorable opinion of Talpade's performance.,51de6ebc76b043efb786c1a7b2eee388,4
+talpade,performance,Chakraborty further notes that Talpade's performance in the film was exceptional.,51de6ebc76b043efb786c1a7b2eee388,4
+kukunoor,commercial recognition,"The success of the film ensured director Nagesh Kukunoor commercial recognition, as mentioned in the text.",51de6ebc76b043efb786c1a7b2eee388,4

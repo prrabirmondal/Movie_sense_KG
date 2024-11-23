@@ -1,0 +1,36 @@
+node_1,node_2,edge,chunk_id,type,count
+poison-gas attack,kolkata metro rail compartment,causal relationship as the poison gas attack occurred in a Kolkata Metro Rail compartment,fdf6bc5dde724438afcb37529f7c10b7,,4
+vidya bagchi,kolkata,locational relationship as Vidya Bagchi arrived in Kolkata during Durga Puja festivities.,fdf6bc5dde724438afcb37529f7c10b7,,4
+arnab bagchi,national data center (ndc),workplace relationship as Arnab Bagchi was reportedly employed by the NDC according to initial investigations,fdf6bc5dde724438afcb37529f7c10b7,,4
+milan damji,old ndc office,"locational relationship as Agnes D'Mello suggested that Milan Damji, a former employee of the NDC, might have kept his file in the old NDC office",fdf6bc5dde724438afcb37529f7c10b7,,4
+bob biswas,assistant working undercover as a life insurance agent,professional relationship as Bob Biswas works as an assassin undercover as a life insurance agent,fdf6bc5dde724438afcb37529f7c10b7,,4
+agnes d'mello,national data center (ndc),employment relationship as Agnes D'Mello was the head of human resources at the NDC,fdf6bc5dde724438afcb37529f7c10b7,,4
+damji's file,old ndc office,locational relationship as Vidya and Rana found Damji's file in the old NDC office,fdf6bc5dde724438afcb37529f7c10b7,,4
+bhaskaran k.,intelligence bureau officials in delhi,employment relationship as Bhaskaran K. Is one of the two Intelligence Bureau officials in Delhi,fdf6bc5dde724438afcb37529f7c10b7,,4
+khan,intelligence bureau officials in delhi,employment relationship as Khan is the deputy of the other Intelligence Bureau official in Delhi,fdf6bc5dde724438afcb37529f7c10b7,,4
+damji,ib agent,Damji was a rogue IB agent responsible for the poison gas attack.,85fbd3d5c7a44e41a9b056695563ce46,,4
+vidya,damji,"Vidya continues her search, fearing that Arnab's resemblance to Damji may have led him into trouble.",85fbd3d5c7a44e41a9b056695563ce46,implies,4
+khan,damji,Khan's warnings,85fbd3d5c7a44e41a9b056695563ce46,,4
+rana,damji,The address on Damji's record leads Vidya and Rana to a dilapidated flat.,85fbd3d5c7a44e41a9b056695563ce46,,4
+errand boy,damji,"An errand boy from the neighbourhood tea stall identifies R. Sridhar, an NDC officer, as a frequent visitor to Damji's flat.",85fbd3d5c7a44e41a9b056695563ce46,,4
+bob,damji,Tries but fails to kill Vidya,85fbd3d5c7a44e41a9b056695563ce46,,4
+truck,bob,Is run over by a truck during a chase.,85fbd3d5c7a44e41a9b056695563ce46,,4
+vidya's mobile phone,damji,"Examination of Bob's mobile phone leads Vidya and Rana to an IP address, sending instructions to kill her.",85fbd3d5c7a44e41a9b056695563ce46,,4
+sridhar,damji,"Breaks into Sridhar's office to verify his IP address, but he is alerted electronically and returns to his office.",85fbd3d5c7a44e41a9b056695563ce46,,4
+vidya,sridhar,Accidentally kills Sridhar during a scuffle,85fbd3d5c7a44e41a9b056695563ce46,,4
+khan,sridhar,"Upsets Khan, who had wanted him alive.",85fbd3d5c7a44e41a9b056695563ce46,,4
+sridhar's computer data,damji,Reveals a code,85fbd3d5c7a44e41a9b056695563ce46,,4
+bhaskaran,damji,Vidya calls Bhaskaran to tell him that she has retrieved sensitive documents from Sridhar's office.,85fbd3d5c7a44e41a9b056695563ce46,,4
+bhaskaran,vidya,Tells her to contact the local police,85fbd3d5c7a44e41a9b056695563ce46,,4
+unknown number,vidya,Warns her that she should hand over the documents if she wishes to see her husband alive.,85fbd3d5c7a44e41a9b056695563ce46,,4
+damji,unknown number,Thinks the caller is Damji,85fbd3d5c7a44e41a9b056695563ce46,,4
+vidya,rana,followed by Rana and Khan.,e7c96504d67349d5aaa43df13f7b2e31,,4
+vidya,damji,Damji cuts the meeting short when Vidya expresses her doubt that he will be able to return her husband in exchange for the sensitive file.,e7c96504d67349d5aaa43df13f7b2e31,,4
+vidya,police,Flees into the crowd before the police arrive.,e7c96504d67349d5aaa43df13f7b2e31,,4
+vidya,ib,Neither Vidya nor Arnab Bagchi ever existed and that Vidya had been using the police and the IB to achieve her own ends.,e7c96504d67349d5aaa43df13f7b2e31,,4
+vidya,arup basu,"Widow of Major Arup Basu, an IB and Army officer",e7c96504d67349d5aaa43df13f7b2e31,,4
+damji,vidya,"In the ensuing struggle, Damji draws a gun on her.",e7c96504d67349d5aaa43df13f7b2e31,,4
+vidya,hairstick,Disarms him using the prosthetic belly she has been using to fake her pregnancy and promptly stabbing him in the neck with her hairstick,e7c96504d67349d5aaa43df13f7b2e31,,4
+damji,vidya,Finally killing him with his own gun.,e7c96504d67349d5aaa43df13f7b2e31,,4
+sridhar's computer,pen drive,Contains data from Sridhar's computer,e7c96504d67349d5aaa43df13f7b2e31,,4
+pratap bajpayee,ib officer,Retired IB officer who suspected the involvement of a top IB official.,e7c96504d67349d5aaa43df13f7b2e31,,4

@@ -1,0 +1,30 @@
+node_1,node_2,edge,chunk_id,count
+margaret 'maggie' fitzgerald,hit pit,"Entering the Hit Pit, a rundown boxing gym in Los Angeles.",289edf30564c4c9ea34944c55eeb2416,4
+margaret 'maggie' fitzgerald,frankie dunn,"Maggie asks Frankie to train her, but he refuses because he does not want to train women and believes Maggie is too old.",289edf30564c4c9ea34944c55eeb2416,4
+eddie 'scrap-iron' dupris,frankie dunn,Friend and employee of Frankie Dunn,289edf30564c4c9ea34944c55eeb2416,4
+margaret 'maggie' fitzgerald,eddie 'scrap-iron' dupris,"Scrap, concerned when Frankie rejects several offers for big fights, arranges a meeting for Maggie with Mickey Mack.",289edf30564c4c9ea34944c55eeb2416,4
+margaret 'maggie' fitzgerald,frankie dunn,"Frankie bestows Maggie a Gaelic nickname, embroidered on her boxing robe, Mo Chuisle, but does not tell her its meaning.",289edf30564c4c9ea34944c55eeb2416,4
+margaret 'maggie' fitzgerald,europe,Two travel to Europe as she continues to win.,289edf30564c4c9ea34944c55eeb2416,4
+margaret 'maggie' fitzgerald,her mother,"Saves enough of her winnings to buy her mother a house, but her mother berates Maggie for endangering her government aid, claiming that everyone back home is laughing at her.",289edf30564c4c9ea34944c55eeb2416,4
+frankie dunn's prize prospect,big willie little,Signs with the successful manager Mickey Mack after becoming impatient with Frankie rejecting offers for a championship bout.,289edf30564c4c9ea34944c55eeb2416,4
+maggie,government aid,"relation: receives, dependency: extractive",8cb6bb8abb1648a5ad5c2e3b5cf2a226,4
+maggie,title fight,"relation: participates in, role: active",8cb6bb8abb1648a5ad5c2e3b5cf2a226,4
+maggie,ventilator-dependent quadriplegic,"relation: becomes, consequence: passive",8cb6bb8abb1648a5ad5c2e3b5cf2a226,4
+frankie,maggie's assets,"relation: manages, role: agent",8cb6bb8abb1648a5ad5c2e3b5cf2a226,4
+frankie,doctors' opinions,"relation: seeks, role: active",8cb6bb8abb1648a5ad5c2e3b5cf2a226,4
+scrap,maggie's debt to him,"relation: repays, consequence: passive",8cb6bb8abb1648a5ad5c2e3b5cf2a226,4
+family,maggie's assets,"relation: claims, role: agent",8cb6bb8abb1648a5ad5c2e3b5cf2a226,4
+family,disneyland and universal studios hollywood,"relation: tours, role: active",8cb6bb8abb1648a5ad5c2e3b5cf2a226,4
+maggie,bedsores,"relation: develops, consequence: passive",8cb6bb8abb1648a5ad5c2e3b5cf2a226,4
+maggie,infected leg,"relation: undergoes amputation for, consequence: active",8cb6bb8abb1648a5ad5c2e3b5cf2a226,4
+frankie,maggie's wish to die,"relation: assists with, role: agent",8cb6bb8abb1648a5ad5c2e3b5cf2a226,4
+maggie,amputation,Undergoes an amputation for an infected leg.,82416dc756294479af1444511b967364,4
+maggie,frankie,"Asks Frankie to help her die, declaring that she had everything she wanted out of life.",82416dc756294479af1444511b967364,4
+maggie,scrap,Watching from the shadows as Frankie sneaks into the hospital to administer a fatal injection of adrenaline.,82416dc756294479af1444511b967364,4
+frankie,maggie's request,"Feels horrified at Maggie's request and refuses, but later feels guilty for leaving her to die.",82416dc756294479af1444511b967364,4
+maggie,biting own tongue,Makes an attempt to bleed to death by biting her own tongue.,82416dc756294479af1444511b967364,4
+frankie,maggie's affection,"Develops a fatherly affection for Maggie, which makes him hesitate to carry out her request.",82416dc756294479af1444511b967364,4
+priest,frankie,Warns Frankie that he would never find himself again if he were to go through with Maggie's request.,82416dc756294479af1444511b967364,4
+adrenaline,maggie,Administering a fatal injection of adrenaline to Maggie just before she takes her final breath.,82416dc756294479af1444511b967364,4
+mo chuisle,frankie,"Tells Maggie the meaning of 'mo chuisle': 'my darling, and my blood', before giving her a final goodbye kiss.",82416dc756294479af1444511b967364,4
+scrap,frankie's daughter,Informs Frankie's daughter of his true character after Maggie's death.,82416dc756294479af1444511b967364,4

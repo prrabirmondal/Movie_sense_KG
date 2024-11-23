@@ -1,0 +1,43 @@
+node_1,node_2,edge,chunk_id,node_3,count
+first order,new republic,The First Order has risen from the fallen Galactic Empire and seeks to end the New Republic.,8541e8e431e542b0afa4c46a1101baa9,,4
+general leia organa,luke skywalker,"Leia searches for her twin brother, Luke Skywalker,",8541e8e431e542b0afa4c46a1101baa9,,4
+poe dameron,bb-8,Poe receives a map to Luke's location from BB-8.,8541e8e431e542b0afa4c46a1101baa9,,4
+kylo ren,poe dameron,First Order stormtroopers commanded by Kylo Ren arrive and capture Poe.,8541e8e431e542b0afa4c46a1101baa9,,4
+fn-2187,poe dameron,"Stormtrooper FN-2187, disillusioned with the First Order, saves Poe.",8541e8e431e542b0afa4c46a1101baa9,,4
+fn-2187,kylo ren,"Kylo tortures Poe using the Force and learns of BB-8. Stormtrooper FN-2187, disillusioned with the First Order, saves Poe.",8541e8e431e542b0afa4c46a1101baa9,,4
+poe dameron,millennium falcon,"Reys, Finn, and BB-8 steal the Millennium Falcon and escape Jakku.",8541e8e431e542b0afa4c46a1101baa9,,4
+stormtrooper fn-2187,poe dameron,FN-2187 assumes Poe was killed after finding his jacket in the wreck.,8541e8e431e542b0afa4c46a1101baa9,,4
+rey,bb-8,"Rey, Finn, and BB-8 steal the Millennium Falcon and escape Jakku. Rey, Finn, and BB-8 encounter each other.",8541e8e431e542b0afa4c46a1101baa9,,4
+first order star destroyer,millennium falcon,"A First Order Star Destroyer shoots them, and they crash-land.",8541e8e431e542b0afa4c46a1101baa9,,4
+han solo,falcon,Han Solo discovered and boarded the Falcon.,bc9419c52441431c9349c55da17ea53b,,4
+falcon,gangs seeking to settle debts with han,Gangs seeking to settle debts with Han attacked the Falcon but the group escaped in it.,bc9419c52441431c9349c55da17ea53b,,4
+luke,jedi order,Luke attempted to rebuild the Jedi Order.,bc9419c52441431c9349c55da17ea53b,,4
+luke,apprentice,"An apprentice turned to the dark side, destroyed Luke's temple, and slaughtered the other apprentices.",bc9419c52441431c9349c55da17ea53b,,4
+rey,childhood memory,Rey experiences a childhood memory of a ship leaving her on Jakku.,bc9419c52441431c9349c55da17ea53b,,4
+maz kanata,bb-8,Maz offers help getting BB-8 to the Resistance.,bc9419c52441431c9349c55da17ea53b,,4
+rey,secluded vault,The Force draws Rey to a secluded vault.,bc9419c52441431c9349c55da17ea53b,,4
+maz kanata,lightsaber,Maz gives Finn the lightsaber for safekeeping.,bc9419c52441431c9349c55da17ea53b,,4
+rey,anakin skywalker's lightsaber,Rey finds Anakin Skywalker's lightsaber in a secluded vault.,bc9419c52441431c9349c55da17ea53b,,4
+maz kanata,cantina,Maz Kanata owns a cantina.,bc9419c52441431c9349c55da17ea53b,,4
+supreme leader snoke,general hux,General Hux requests to use the weapon for the first time on the New Republic and Supreme Leader Snoke approves it.,bc9419c52441431c9349c55da17ea53b,,4
+kylo,emotions,"Snoke questions Kylo's ability to deal with emotions surrounding his father, Han Solo.",bc9419c52441431c9349c55da17ea53b,,4
+starkiller base,new republic capital,"destroys the New Republic capital and its four neighboring planets, leaving the Resistance on their own.",b198185035bf4a82aebeba03e63fbcea,,4
+starkiller base,takodana,The First Order attacks Takodana in search of BB-8.,b198185035bf4a82aebeba03e63fbcea,,4
+bb-8,resistance x-wing fighters,"Rescued by Resistance X-wing fighters led by Poe, who survived the crash.",b198185035bf4a82aebeba03e63fbcea,,4
+leia,c-3po,Arrives at Takodana with C-3PO and reunites with Han.,b198185035bf4a82aebeba03e63fbcea,,4
+kylo,rey,"Captures Rey, having realized that she had seen the map,",b198185035bf4a82aebeba03e63fbcea,,4
+snoke,kylo,Orders Kylo to bring Rey to him.,b198185035bf4a82aebeba03e63fbcea,,4
+rey,stormtrooper guard,Escapes using a Jedi mind trick on a stormtrooper guard.,b198185035bf4a82aebeba03e63fbcea,,4
+han,chewbacca,"Using the Falcon, Han, Chewbacca, and Finn infiltrate the facility,",b198185035bf4a82aebeba03e63fbcea,Finn,4
+rey,han,"Finds Rey, who had been seen by Han.",b198185035bf4a82aebeba03e63fbcea,,4
+han,kylo,"Confronts Kylo, calling him by his birth-name Ben,",b198185035bf4a82aebeba03e63fbcea,,4
+kylo,ben,Snoke seems to consider this but ultimately kills Han.,b198185035bf4a82aebeba03e63fbcea,,4
+chewbacca,kylo,"Shoots Kylo, injuring him,",b198185035bf4a82aebeba03e63fbcea,,4
+poe,resistance x-wing fighters,Attack and destroy the base's thermal oscillator.,b198185035bf4a82aebeba03e63fbcea,,4
+rey,kylo,Kylo pursues Rey and Finn into the woods and incapacitates Rey.,18989e2deb52439c83e86bd68dfac5fc,,4
+finn,kylo,"While trying to escape with Rey, Finn gets defeated by Kylo.",18989e2deb52439c83e86bd68dfac5fc,,4
+rey,kylo,Rey awakens and takes the lightsaber from Kylo after defeating him in a duel.,18989e2deb52439c83e86bd68dfac5fc,,4
+hux,snoke,Snoke orders Hux to evacuate and bring Kylo to him to complete his training.,18989e2deb52439c83e86bd68dfac5fc,,4
+chewbacca,rey,Chewbacca saves Rey and the injured Finn from Kylo's clutches.,18989e2deb52439c83e86bd68dfac5fc,,4
+finn,rey,"While trying to escape with Rey, Finn gets defeated by Kylo.",18989e2deb52439c83e86bd68dfac5fc,,4
+luke,rey,Rey finds Luke atop a cliff on a remote island and presents him with his lightsaber.,18989e2deb52439c83e86bd68dfac5fc,,4

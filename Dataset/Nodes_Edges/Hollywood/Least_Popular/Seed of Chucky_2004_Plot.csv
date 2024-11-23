@@ -1,0 +1,42 @@
+node_1,node_2,edge,chunk_id,count
+chucky,glen/glenda,"Child of Chucky and Tiffany, being held captive by 'Psychs' until he escapes and resurrects the Chucky and Tiffany dolls with a voodoo amulet",cd7d0094dee3408b899625eabbb9c7af,4
+glen/glenda,chucky,"Parent-child relationship between Glen/Glenda, who is gender-confused, and Chucky",cd7d0094dee3408b899625eabbb9c7af,4
+tiffany,glen/glenda,"Parent-child relationship between Tiffany and Glen/Glenda, whom she calls 'Glenda'",cd7d0094dee3408b899625eabbb9c7af,4
+psychs,glen/glenda,Abuser who holds Glen/Glenda captive and mistreats him by mockingly calling him 'Shitface',cd7d0094dee3408b899625eabbb9c7af,4
+jennifer tilly,"chucky, tiffany, glen/glenda",Character in a film that features the resurrected Chucky and Tiffany dolls,cd7d0094dee3408b899625eabbb9c7af,4
+limousine,"chucky, tiffany, glen/glenda","Mode of transportation used by Chucky, Tiffany, and Glen/Glenda to reach Jennifer's home",cd7d0094dee3408b899625eabbb9c7af,4
+special effects technician,"chucky, tiffany, glen/glenda","Victim beheaded by Chucky, Tiffany, and Glen/Glenda in Jennifer's home",cd7d0094dee3408b899625eabbb9c7af,4
+heart of damballa,glen/glenda,Voodoo amulet used by Glen/Glenda to resurrect the Chucky and Tiffany dolls,cd7d0094dee3408b899625eabbb9c7af,4
+glen/glenda,parents,witnessed their parents murder the technician,b4ab23528e9f4835a01c042b657a6dd0,4
+chucky,tiffany,are taken aback by the question from Glen/Glenda regarding why they kill,b4ab23528e9f4835a01c042b657a6dd0,4
+tiffany,chucky,feels parental responsibility for Chucky and tries to force him to stop killing for the sake of their child,b4ab23528e9f4835a01c042b657a6dd0,4
+chucky,tiffany,falsely promises Tiffany that he will stop killing,b4ab23528e9f4835a01c042b657a6dd0,4
+jennifer,redman,invites Redman to her home for a role as the Virgin Mary in his feature-film directorial debut,b4ab23528e9f4835a01c042b657a6dd0,4
+chucky,tiffany,"knocks Jennifer and Joan out and uses a turkey baster to inseminate Jennifer with Chucky's semen, intending to use her baby as a host for Glen/Glenda's soul",b4ab23528e9f4835a01c042b657a6dd0,4
+pete peters,glen/glenda,"Chucky takes Glen/Glenda on a secret joyride to kill Pete Peters, a paparazzo who had been following Jennifer around",b4ab23528e9f4835a01c042b657a6dd0,4
+pete peters,sulfuric acid,"accidentally causes Peters to fall and be soaked in sulfuric acid, killing him",b4ab23528e9f4835a01c042b657a6dd0,4
+glen/glenda,chucky,Glen/Glenda is horrified while Chucky is delighted by the accidental killing of Peters,b4ab23528e9f4835a01c042b657a6dd0,4
+jennifer,redman,"Jennifer believes Redman is responsible for her pregnancy, but Redman explains he had a vasectomy. Redman fires Jennifer from his film due to her pregnancy, as he thinks pregnant women are not attractive enough for his vision.",9f22169340774c18b7c83f7aceb43ce7,4
+jennifer,tiffany,"Jennifer wakes up believing she is pregnant, but Tiffany guts Redman in anger over his misogyny, which Jennifer witnesses.",9f22169340774c18b7c83f7aceb43ce7,4
+redman,misogyny,Redman's dismissal of pregnant women as not attractive enough for his vision is a consequence of his misogynistic beliefs.,9f22169340774c18b7c83f7aceb43ce7,4
+glen/glenda,pacifism,"Glen, one soul in the body of Glen/Glenda, is a pacifist.",9f22169340774c18b7c83f7aceb43ce7,4
+glen/glenda,psychopathy,"The other soul in the body of Glen/Glenda, Glenda, is a psychopath.",9f22169340774c18b7c83f7aceb43ce7,4
+jennifer,voodoo magic,Jennifer's full pregnant belly is a consequence of the voodoo magic she experiences.,9f22169340774c18b7c83f7aceb43ce7,4
+chucky,living doll,"Chucky accepts his life as a living doll and no longer wishes to become human, disgusted by this realization.",9f22169340774c18b7c83f7aceb43ce7,4
+tiffany,leaving chucky,Tiffany decides to leave Chucky due to his violent behavior.,9f22169340774c18b7c83f7aceb43ce7,4
+stan,sacrifice,Stan sacrifices himself to save Jennifer from harm.,9f22169340774c18b7c83f7aceb43ce7,4
+jennifer,hospital,Jennifer is rushed to the hospital.,f94a934c4a4e48b0bd1c1ab0e2c90307,4
+jennifer,tiffany,"Tiffany drugs Jennifer and begins to possess her,",f94a934c4a4e48b0bd1c1ab0e2c90307,4
+chucky,tiffany,but Chucky breaks in and kills Tiffany with an axe.,f94a934c4a4e48b0bd1c1ab0e2c90307,4
+glen,chucky,"Devastated, Glen snaps and attacks Chucky,",f94a934c4a4e48b0bd1c1ab0e2c90307,4
+glen,axe,striking him with the axe.,f94a934c4a4e48b0bd1c1ab0e2c90307,4
+chucky,glen,"Chucky assumes it's Glenda,",f94a934c4a4e48b0bd1c1ab0e2c90307,4
+glen,chucky,but Glen reveals it is actually him and not his murderous twin.,f94a934c4a4e48b0bd1c1ab0e2c90307,4
+chucky,glen,"Glen dismembers Chucky,",f94a934c4a4e48b0bd1c1ab0e2c90307,4
+chucky,praise,who praises Glen for his actions before being decapitated.,f94a934c4a4e48b0bd1c1ab0e2c90307,4
+glen,chucky,"Realizing what he has done, Glen breaks down in tears as Jennifer comforts him.",f94a934c4a4e48b0bd1c1ab0e2c90307,4
+jennifer,five years later,"Five years later,",f94a934c4a4e48b0bd1c1ab0e2c90307,4
+jennifer,children,"Jennifer is raising Glen and Glenda,",f94a934c4a4e48b0bd1c1ab0e2c90307,4
+glenda,nanny,"during a birthday party for the twins, a nanny quits because Glenda scares her.",f94a934c4a4e48b0bd1c1ab0e2c90307,4
+jennifer,tiffany,Tiffany had successfully transferred her soul into Jennifer's body.,f94a934c4a4e48b0bd1c1ab0e2c90307,4
+glen,chucky,"Meanwhile, Glen opens a birthday present to find Chucky's severed arm,",f94a934c4a4e48b0bd1c1ab0e2c90307,4

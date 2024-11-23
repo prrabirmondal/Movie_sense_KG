@@ -1,0 +1,6 @@
+node_1,node_2,edge,chunk_id,count
+movie,summary,"Movie's Summary refers to the brief description or preview of a movie that provides an overview of its plot, characters, and genre.",f323c192767e4f7997a6e6ff4938f1a2,4
+details,movie,"Details refer to specific information about a movie, such as its cast, crew, production house, release date, etc.",f323c192767e4f7997a6e6ff4938f1a2,4
+here,details,Here refers to the current location or position where the Details of the Movie are being provided or displayed.,f323c192767e4f7997a6e6ff4938f1a2,4
+displayed,message,"Message is any form of communication, such as text, audio, video, etc., that can be displayed on a device's screen. The Message may contain information about the reasons why it is being displayed.",f323c192767e4f7997a6e6ff4938f1a2,4
+other,reasons,There may be other reasons besides those already mentioned that can cause this message to be displayed.,f323c192767e4f7997a6e6ff4938f1a2,4

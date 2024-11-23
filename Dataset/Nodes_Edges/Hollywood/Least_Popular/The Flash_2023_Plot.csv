@@ -1,0 +1,37 @@
+node_1,node_2,edge,chunk_id,count
+movie's plot,here is the details of movie's plot:,Is a description of the plot of a movie,29ab425ad57d4909a9a642e050c13f73,4
+barry allen,a concept from extracted ontology,Helps Batman and Wonder Woman stop a robbery in Gotham City,29ab425ad57d4909a9a642e050c13f73,4
+bruce wayne,a related concept from extracted ontology,Barry Allen helps Bruce Wayne / Batman stop a robbery in Gotham City,29ab425ad57d4909a9a642e050c13f73,4
+diana prince,a related concept from extracted ontology,Barry Allen helps Diana Prince / Wonder Woman stop a robbery in Gotham City,29ab425ad57d4909a9a642e050c13f73,4
+nora,a concept from extracted ontology,Nora is Barry Allen's mother who is wrongfully imprisoned for Nora's murder.,29ab425ad57d4909a9a642e050c13f73,4
+henry,a related concept from extracted ontology,Is Barry Allen's father who is wrongfully imprisoned for Nora's murder because of his wife's murder.,29ab425ad57d4909a9a642e050c13f73,4
+grocery store,a concept from extracted ontology,Is the place where Henry goes to buy a can of food that Nora forgot to buy before her murder.,29ab425ad57d4909a9a642e050c13f73,4
+assailant,a related concept from extracted ontology,Is an unidentified person who kills Nora in Barry Allen's childhood home.,29ab425ad57d4909a9a642e050c13f73,4
+alternative 2013,a concept from extracted ontology,Is the time and place where Barry Allen encounters his parents and his past self in an alternative universe where Nora is alive.,29ab425ad57d4909a9a642e050c13f73,4
+chronobowl,a concept from extracted ontology,Is a tool created by Barry Allen using the Speed Force to travel back in time.,29ab425ad57d4909a9a642e050c13f73,4
+central city police department,a concept from extracted ontology,Is the place where Barry Allen and his past self go to properly use their powers.,29ab425ad57d4909a9a642e050c13f73,4
+general zod,a related concept from extracted ontology,Is preparing to invade in this context.,29ab425ad57d4909a9a642e050c13f73,4
+barry,2013-barry,"Barry is struggling to train his future self, 2013-Barry.",0a741e1b1aa842029a63d30d951d3832,4
+barry,general zod,Barry is trying to fight against General Zod's invasion of Earth.,0a741e1b1aa842029a63d30d951d3832,4
+barry,justice league,"Barry, along with his future self, tries to assemble the Justice League but fails due to the unavailability of certain members.",0a741e1b1aa842029a63d30d951d3832,4
+barry,diana,Barry and his future self are unable to locate Diana while trying to assemble the Justice League.,0a741e1b1aa842029a63d30d951d3832,4
+barry,victor stone,"In this timeline, Victor Stone has not gained his abilities yet, making it difficult for Barry and his future self to assemble the Justice League.",0a741e1b1aa842029a63d30d951d3832,4
+barry,arthur curry,"In this timeline, Arthur Curry never existed, which presents a challenge for Barry and his future self when trying to assemble the Justice League.",0a741e1b1aa842029a63d30d951d3832,4
+barry,bruce wayne (retired),"When searching for Bruce Wayne at Wayne Manor, Barry and his future self instead find an alternate version who has long retired.",0a741e1b1aa842029a63d30d951d3832,4
+barry,kara zor-el,"When trying to locate Kal-El, Barry, Kara, and Batman discover her imprisoned in a facility instead. They rescue her.",0a741e1b1aa842029a63d30d951d3832,4
+barry,bruce wayne (batman),"Barry enlists the help of Bruce Wayne, now Batman, to regain his powers after two failed attempts.",0a741e1b1aa842029a63d30d951d3832,4
+barry,elder 2013-barry,"is angry with younger self for revealing his intention to reverse the changes he made to the timeline by letting Nora die. The elder 2013-Barry attempts to kill Barry, but instead impales young 2013-Barry, who sacrifices himself to save Barry and wipe his future self from the timeline.",fb493013d1c7436c988624e68ef0b12d,4
+barry,future version of 2013-barry,"initially knocked Barry out of the Speed Force and is revealed to be an older, future version of 2013-Barry who still believes he can defeat Zod and save his Earth.",fb493013d1c7436c988624e68ef0b12d,4
+barry,a concept from extracted ontology,"realizes that this sequence of events cannot be changed, but 2013-Barry keeps trying.",fb493013d1c7436c988624e68ef0b12d,4
+barry,batman,sacrifices himself in an unsuccessful attempt to destroy Zod's ship.,fb493013d1c7436c988624e68ef0b12d,4
+barry,codex,"kills her, then extracts the Codex from her blood.",fb493013d1c7436c988624e68ef0b12d,4
+barry,kara,The Barrys repeatedly time travel to save Batman and Kara but keep failing.,fb493013d1c7436c988624e68ef0b12d,4
+barry,multiverse,"As 2013-Barry travels, the multiverse starts to implode.",fb493013d1c7436c988624e68ef0b12d,4
+barry,nora,Letting Nora die.,fb493013d1c7436c988624e68ef0b12d,4
+barry,present day,Returns to the present day.,fb493013d1c7436c988624e68ef0b12d,4
+barry,subtly alters the past,Moves the tomato cans to a higher shelf.,fb493013d1c7436c988624e68ef0b12d,4
+barry,tomato can,Allows for his exoneration.,fb493013d1c7436c988624e68ef0b12d,4
+batman,barry,Sacrifices himself in an unsuccessful attempt to destroy Zod's ship.,fb493013d1c7436c988624e68ef0b12d,4
+kara,barry,The Barrys repeatedly time travel to save Batman and Kara but keep failing.,fb493013d1c7436c988624e68ef0b12d,4
+nora,barry,Letting Nora die.,fb493013d1c7436c988624e68ef0b12d,4
+zod's ship,batman,Unsuccessful attempt to destroy Zod's ship.,fb493013d1c7436c988624e68ef0b12d,4

@@ -1,0 +1,28 @@
+node_1,node_2,edge,chunk_id,node_3,count
+adam sandler,kevin james,Brenner and Cooper are childhood friends and members of the Arcaders,b773856292064a8f900fca7cc9400969,,4
+adam sandler (sam brenner),peter dinklage (eddie 'the fireblaster' plant),Brenner and Eddie were former arcade video game champions and rivals,b773856292064a8f900fca7cc9400969,,4
+kevin james (will 'chewie' cooper),michelle monaghan (lieutenant colonel violet van patten),Cooper and Violet are members of the Arcaders,b773856292064a8f900fca7cc9400969,,4
+peter dinklage (eddie 'the fireblaster' plant),jane krakowski (jane cooper),Eddie and Jane are married to Cooper,b773856292064a8f900fca7cc9400969,,4
+adam sandler (sam brenner),brian cox (admiral james porter),Brenner reports to Admiral Porter in the military,b773856292064a8f900fca7cc9400969,,4
+sean bean (corporal hill),affion crockett (sergeant dylan cohan),Hill and Cohan are soldiers present during the Guam attack,b773856292064a8f900fca7cc9400969,,4
+adam sandler (sam brenner),jared riley (young brenner),Brenner was a childhood arcade champion and the character is portrayed by Jared Riley in the movie,b773856292064a8f900fca7cc9400969,,4
+kevin james (will 'chewie' cooper),jared riley (young cooper),Cooper was a childhood arcade champion and the character is portrayed by Jared Riley in the movie,b773856292064a8f900fca7cc9400969,,4
+peter dinklage (eddie 'the fireblaster' plant),andrew bambridge (young eddie),Eddie was a childhood arcade champion and the character is portrayed by Andrew Bambridge in the movie,b773856292064a8f900fca7cc9400969,,4
+josh gad (ludlow 'the wonder kid' lamonsoff),affion crockett (sergeant dylan cohan),Ludlow and Cohan both served in the military,b773856292064a8f900fca7cc9400969,,4
+josh gad (ludlow 'the wonder kid' lamonsoff),michelle monaghan (lieutenant colonel violet van patten),Violet and Ludlow are both members of the Arcaders,b773856292064a8f900fca7cc9400969,,4
+jane krakowski (jane cooper),michelle monaghan (lieutenant colonel violet van patten),Cooper's wife and Violet are both members of the military,b773856292064a8f900fca7cc9400969,,4
+affion crockett (sergeant dylan cohan),brian cox (admiral james porter),Cohan reports to Admiral Porter in the military,b773856292064a8f900fca7cc9400969,,4
+ashley benson,lady lisa,"Ashley Benson portrays Lady Lisa, the glamorous protagonist of the fictional arcade game Dojo Quest.",5c8ca393d3ed418ba50e21e534f01cef,,4
+dojo quest,fictional arcade game,Dojo Quest is a fictional arcade game.,5c8ca393d3ed418ba50e21e534f01cef,,4
+matt lintz,matty van patten,"Matt Lintz portrays Matty van Patten, Violet's son.",5c8ca393d3ed418ba50e21e534f01cef,,4
+violet,person,"There is a relation between Violet and a person named Matty van Patten, portrayed by Matt Lintz in the context.",5c8ca393d3ed418ba50e21e534f01cef,,4
+lainie kazan,mickey lamonsoff,"Lainie Kazan portrays Mickey Lamonsoff, Ludlow's grandmother.",5c8ca393d3ed418ba50e21e534f01cef,,4
+dan aykroyd,master of ceremonies,Dan Aykroyd plays the master of ceremonies of the video game championship in the prologue.,5c8ca393d3ed418ba50e21e534f01cef,,4
+nick swardson,bystander seen during the pac-man attack,Nick Swardson plays a bystander seen during the Pac-Man attack.,5c8ca393d3ed418ba50e21e534f01cef,,4
+dan patrick,reporter at the white house,"Dan Patrick, Robert Smigel and Steve Koren play reporters at the White House.",5c8ca393d3ed418ba50e21e534f01cef,,4
+serena williams,herself,Serena Williams has a cameo role as herself.,5c8ca393d3ed418ba50e21e534f01cef,,4
+martha stewart,herself,Martha Stewart has a cameo role as herself.,5c8ca393d3ed418ba50e21e534f01cef,,4
+matt frewer,voice of max headroom,"Matt Frewer reprises his role as the voice of Max Headroom, a role he made famous during the 1980s.",5c8ca393d3ed418ba50e21e534f01cef,,4
+donkey kong,donkey kong jr.,"[{'from': 'Steve Wiebe', 'to': 'Donkey Kong'}, {'from': 'Steve Wiebe', 'to': 'Donkey Kong Jr.'}]",5c8ca393d3ed418ba50e21e534f01cef,world record holder,4
+tōru iwatani,creator of the pac-man franchise,"[{'from': 'Denis Akiyama', 'to': 'Tōru Iwatani'}, {'from': 'Tōru Iwatani', 'to': 'Pac-Man'}]",5c8ca393d3ed418ba50e21e534f01cef,,4
+daryl hall,john oates,"Daryl Hall and John Oates, of the musical duo Hall & Oates, have a cameo during a broadcast interruption.",5c8ca393d3ed418ba50e21e534f01cef,,4

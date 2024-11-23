@@ -1,0 +1,31 @@
+node_1,node_2,edge,chunk_id,count
+theo faron,government minister,Relationship between Theo Faron and his cousin who is a government minister.,b7e3b950863c4d2a8ba43cc4a3e2c477,4
+theo faron,kee,Theo agrees to escort Kee in exchange for a larger sum of money.,b7e3b950863c4d2a8ba43cc4a3e2c477,4
+theo faron,former activist,Relates to Theo's past as an activist before becoming a cynical bureaucrat.,b7e3b950863c4d2a8ba43cc4a3e2c477,4
+julian taylor,theo faron,Ex-spouse of Theo Faron.,b7e3b950863c4d2a8ba43cc4a3e2c477,4
+kee,safe house,Kee and the group hide Julian's body in a safe house.,b7e3b950863c4d2a8ba43cc4a3e2c477,4
+kee,pregnant woman,"Kee is revealed to be pregnant, making her the only known pregnant woman in the world.",b7e3b950863c4d2a8ba43cc4a3e2c477,4
+luke,police officers,Two police officers are killed by Luke and his group.,b7e3b950863c4d2a8ba43cc4a3e2c477,4
+human project,kee,"Julian intended to take Kee to the Human Project, a scientific research group dedicated to curing humanity's infertility.",b7e3b950863c4d2a8ba43cc4a3e2c477,4
+united kingdom,totalitarian police state,"The United Kingdom is one of the few remaining nations with a functioning government and has become a totalitarian police state in which immigrants are arrested, imprisoned, deported, or executed.",b7e3b950863c4d2a8ba43cc4a3e2c477,4
+immigrants,concentration camps,"In the context, immigrants are either imprisoned, deported, or executed in concentration camps.",b7e3b950863c4d2a8ba43cc4a3e2c477,4
+human project,infertility,"Theo believes that the Human Project is dedicated to curing humanity's infertility, implying that infertility is a condition related to the Human Project.",2fdff03c57c2433aa74981d25de5a54d,4
+julian,death,Theo learns from eavesdropping that the Fishes orchestrated Julian's death.,2fdff03c57c2433aa74981d25de5a54d,4
+luke,leader,Luke becomes the new leader of the Fishes after orchestrating Julian's death.,2fdff03c57c2433aa74981d25de5a54d,4
+jasper palmer,reclusive,"Theo's reclusive, aging hippie friend Jasper Palmer is introduced in the context.",2fdff03c57c2433aa74981d25de5a54d,4
+janice,journalism,Jasper's wife Janice was tortured into catatonia by the British government for her journalism.,2fdff03c57c2433aa74981d25de5a54d,4
+tomorrow,ship,"The group plans to reach the Human Project ship, the Tomorrow, scheduled to arrive offshore at Bexhill.",2fdff03c57c2433aa74981d25de5a54d,4
+bexhill,immigrant detention centre,"The group plans to reach the Tomorrow at Bexhill, which is a notorious immigrant detention centre.",2fdff03c57c2433aa74981d25de5a54d,4
+syd,immigration officer,"Jasper plans to use Syd, an immigration officer to whom Jasper sells cannabis, to smuggle them into Bexhill as refugees.",2fdff03c57c2433aa74981d25de5a54d,4
+kee,water breaks,"When Kee's water breaks, the group meets with Syd to board a bus to the camp.",2fdff03c57c2433aa74981d25de5a54d,4
+miriam,obstruct,"When a guards enters the bus to select people for execution, Miriam obstructs him and is taken away.",2fdff03c57c2433aa74981d25de5a54d,4
+guard,execution,A guards enters the bus to select people for execution after Kee's water breaks.,2fdff03c57c2433aa74981d25de5a54d,4
+theo,points,"When the guard also wants to take Kee away, Theo points him to the water on the floor, fooling him into thinking she soiled herself.",2fdff03c57c2433aa74981d25de5a54d,4
+kee,water on the floor,"When the guard also wants to take Kee away, Theo points him to the water on the floor, fooling him into thinking she soiled herself",f5cbbbdfa6a0498ab77a258efe2cc84b,4
+kee,romani woman marichka,"Inside the camp, Theo and Kee meet a Romani woman, Marichka, who provides a room where Kee gives birth to a baby girl.",f5cbbbdfa6a0498ab77a258efe2cc84b,4
+kee,refugees,"The next day, Syd tells Theo and Kee that war has broken out between the British military and the refugees",f5cbbbdfa6a0498ab77a258efe2cc84b,4
+kee,fishes,Syd then reveals that Theo and Kee have a bounty on their heads and attempts to capture them. The Fishes capture Kee and the baby.,f5cbbbdfa6a0498ab77a258efe2cc84b,4
+kee,apartment building,Theo tracks them to an apartment building that is under heavy fire.,f5cbbbdfa6a0498ab77a258efe2cc84b,4
+kee,british soldiers and fishes,"As British fighter jets conduct airstrikes on Bexhill, Theo and Kee row to the rendezvous point in heavy fog. The British soldiers and Fishes temporarily stop fighting and allow the trio to leave.",f5cbbbdfa6a0498ab77a258efe2cc84b,4
+kee,baby girl dylan,"Theo reveals that he was shot and wounded by Luke earlier; he teaches Kee how to burp her baby, and she tells him she will name the baby girl Dylan, after Theo's and Julian's lost son.",f5cbbbdfa6a0498ab77a258efe2cc84b,4
+kee,heavy fog,Theo and Kee row to the rendezvous point in heavy fog.,f5cbbbdfa6a0498ab77a258efe2cc84b,4

@@ -1,0 +1,20 @@
+node_1,node_2,edge,chunk_id,count
+puro,ramchand,engaged to,4d81fb2cac6d4dd3af612e4eaa15ea78,4
+puro,rashid,kidnapped by,4d81fb2cac6d4dd3af612e4eaa15ea78,4
+rashid's family,puro's family,ancestral dispute with,4d81fb2cac6d4dd3af612e4eaa15ea78,4
+rashid's aunt,puro's uncle,kidnapped and then released after raping,4d81fb2cac6d4dd3af612e4eaa15ea78,4
+puro,rashid,drawn to,4d81fb2cac6d4dd3af612e4eaa15ea78,4
+puro's parents,puro,turn away,4d81fb2cac6d4dd3af612e4eaa15ea78,4
+trilok,ramchand's younger sister,married to,4d81fb2cac6d4dd3af612e4eaa15ea78,4
+rajjo,ramchand's cousin,married to,4d81fb2cac6d4dd3af612e4eaa15ea78,4
+lajjo,ramchand,married to Ramchand's cousin,beb019c633b54622a3413112afc0b9ed,4
+puro,rashid,"marries Puro, settles into an uneasy routine of husband and wife",beb019c633b54622a3413112afc0b9ed,4
+puro,lajjo,helps Lajjo escape with Rashid's assistance after being kidnapped by rioters,beb019c633b54622a3413112afc0b9ed,4
+trilok,puro,"explains to her that if she so chooses, she can start a new life as Ramchand is ready to accept her even now",beb019c633b54622a3413112afc0b9ed,4
+rashid,puro,deeply in love with her but wants her to be happy,beb019c633b54622a3413112afc0b9ed,4
+puro,ramchand,sees Ramchand's empathy towards her after accepting Rashid,beb019c633b54622a3413112afc0b9ed,4
+ramchand,lajjo,hurriedly leaves for India with his younger sister and mother; his father is already missing during the riots,beb019c633b54622a3413112afc0b9ed,4
+ramchand,puro,"was deeply in love with her, but wants her to be happy. However, Puro seeks him out and the two tearfully bid farewell forever.",e8a22a8be39d4098b5cccdb2dc2c345a,4
+rashid,puro,"is deeply in love with her, but wants her to be happy. However, Puro seeks him out and the two tearfully bid each other farewell forever.",e8a22a8be39d4098b5cccdb2dc2c345a,4
+rashid,lajjo,"was deeply in love with her, but wants her to be happy. However, Puro seeks him out and Lajjo tearfully bid farewell forever.",e8a22a8be39d4098b5cccdb2dc2c345a,4
+trilok,rashid,"was deeply in love with her, but wants her to be happy. However, Puro seeks him out and Rashid tearfully bid farewell forever.",e8a22a8be39d4098b5cccdb2dc2c345a,4

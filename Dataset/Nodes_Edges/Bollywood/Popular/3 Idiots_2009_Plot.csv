@@ -1,0 +1,26 @@
+node_1,node_2,edge,chunk_id,reverse_edge,reverse_edge_2,count
+chatur ramalingam,farhan qureshi,classroom rivals in college,9744f3d846c949189292f4ee47071b31,,,4
+chatur ramalingam,raju rastogi,classroom rivals in college,9744f3d846c949189292f4ee47071b31,,,4
+rancho,dr. viru sahastrabuddhe (virus),clashed with college president due to intense pressure on students,9744f3d846c949189292f4ee47071b31,,,4
+rancho,joy lobo,tried to help finish his project before his suicide,9744f3d846c949189292f4ee47071b31,,,4
+rancho,farhan qureshi,crashed a wedding party with Mona's sister Pia,9744f3d846c949189292f4ee47071b31,,,4
+rancho,pia,"exposed her materialistic fiancé Suhas, which led to their breakup",9744f3d846c949189292f4ee47071b31,,,4
+chatur ramalingam,phunsukh wangdu,business deal in Shimla,9744f3d846c949189292f4ee47071b31,,,4
+raju,father,"Before their final exams, Raju’s father has a heart attack.",8eb3e4d4b25a4bf985f070d907d8f7bf,,,4
+raju,final exams,"Before their final exams, Raju’s father has a heart attack.",8eb3e4d4b25a4bf985f070d907d8f7bf,,,4
+raju,paralyzed,"Raju attempts suicide but survives and is paralyzed and near catatonic for months,",8eb3e4d4b25a4bf985f070d907d8f7bf,,,4
+virus,expulsion,Virus revokes the expulsion.,8eb3e4d4b25a4bf985f070d907d8f7bf,"Raju attempts suicide but survives and is paralyzed and near catatonic for months, leading Virus to revoke the expulsion.",,4
+raju,job,"Raju succeeds in the interview and gets a job,",8eb3e4d4b25a4bf985f070d907d8f7bf,,,4
+virus,expulsion,"Not wanting to disappoint his family or to betray Rancho, Raju attempts suicide but survives and is paralyzed and near catatonic for months, leading Virus to revoke the expulsion.",8eb3e4d4b25a4bf985f070d907d8f7bf,Virus notices Raju at his doorstep and threatens to expel him unless he betrays Rancho.,,4
+raju,paralyzed,"With Pia’s help, Rancho and Farhan steal the exam paper, but Raju refuses to cheat and throws it away.",8eb3e4d4b25a4bf985f070d907d8f7bf,"After Raju recovers, he succeeds in the interview and gets a job.",,4
+virus,failure,"Humiliated at Raju's success, Virus sets a difficult exam to fail Raju so he cannot claim the job.",8eb3e4d4b25a4bf985f070d907d8f7bf,Raju succeeds in the interview and gets a job.,,4
+virus,expulsion,"Not wanting to disappoint his family or to betray Rancho, Raju attempts suicide but survives and is paralyzed and near catatonic for months, leading Virus to revoke the expulsion.",8eb3e4d4b25a4bf985f070d907d8f7bf,Virus notices Raju at his doorstep and threatens to expel him unless he betrays Rancho.,,4
+raju,paralyzed,"Raju attempts suicide but survives and is paralyzed and near catatonic for months, leading Virus to revoke the expulsion.",8eb3e4d4b25a4bf985f070d907d8f7bf,"With Pia’s help, Rancho and Farhan steal the exam paper, but Raju refuses to cheat and throws it away.","After Raju recovers, he succeeds in the interview and gets a job.",4
+virus,expulsion,"With Pia’s help, Rancho and Farhan steal the exam paper, but Raju refuses to cheat and throws it away.",8eb3e4d4b25a4bf985f070d907d8f7bf,Virus notices Raju at his doorstep and threatens to expel him unless he betrays Rancho.,,4
+farhan,father,Farhan's father lets him become a photographer.,8eb3e4d4b25a4bf985f070d907d8f7bf,,,4
+rancho,phunsukh wangdu,Rancho and Phunsukh Wangdu are the same person.,a694ec6053ea49cdad649d80698ec58a,,,4
+chhote,rancho,Chhote took Rancho's place to get an education and earn a degree for him.,a694ec6053ea49cdad649d80698ec58a,,,4
+pia,mona,"Pia confronts her older sister, Mona, about their brother's suicide.",a694ec6053ea49cdad649d80698ec58a,,,4
+mona,virus,Mona forgives Virus for expelling the trio and revealing her brother's suicide note.,a694ec6053ea49cdad649d80698ec58a,,,4
+rancho,farhan,The friends search for Rancho in Ladakh with Farhan's help.,a694ec6053ea49cdad649d80698ec58a,,,4
+chatur,rancho,"Chatur mocks Rancho, thinking he is merely a teacher, but learns the truth.",a694ec6053ea49cdad649d80698ec58a,,,4

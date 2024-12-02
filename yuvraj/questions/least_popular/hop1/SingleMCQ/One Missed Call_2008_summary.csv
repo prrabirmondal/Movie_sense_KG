@@ -4,148 +4,148 @@ Options:
 A. [""The list of actors and actresses in the movie""]
 B. [""The brief description of the plot, theme or storyline of the movie""]
 C. [""The total box office collection of the movie""]
-D. [""The reviews and ratings of the movie""]","[""The brief description of the plot, theme or storyline of the movie""]"
-"[""In the 2008 movie 'One Missed Call', what happens to Leann after she starts suffering from disturbing hallucinations and calls Beth?""]
+D. [""The reviews and ratings of the movie","The brief description of the plot, theme or storyline of the movie"
+"In the 2008 movie 'One Missed Call', what happens to Leann after she starts suffering from disturbing hallucinations and calls Beth?""]
 Options:
 A. [""She is struck by a car.""]
 B. [""She falls off an overpass and is struck by a train.""]
 C. [""She is attacked by a mysterious figure.""]
-D. [""She disappears without a trace.""]","[""She falls off an overpass and is struck by a train.""]"
-"[""In the 2008 movie 'One Missed Call', who departs from Leann's funeral after experiencing hallucinations?""]
+D. [""She disappears without a trace.",She falls off an overpass and is struck by a train.
+"In the 2008 movie 'One Missed Call', who departs from Leann's funeral after experiencing hallucinations?""]
 Options:
 A. [""John Smith""]
 B. [""Brian Sousa""]
 C. [""Michael Brown""]
-D. [""David Johnson""]","[""Brian Sousa""]"
-"[""In the 2008 movie 'One Missed Call', who did Beth and Jack research as the originator of the calls?""]
+D. [""David Johnson",Brian Sousa
+"In the 2008 movie 'One Missed Call', who did Beth and Jack research as the originator of the calls?""]
 Options:
 A. [""Marie Layton""]
 B. [""Beth""]
 C. [""Jack""]
-D. [""None of the above""]","[""Marie Layton""]"
-"""In the 2008 movie 'One Missed Call', what was the cause of death of the character Ellie according to the autopsy report?""
+D. [""None of the above",Marie Layton
+"In the 2008 movie 'One Missed Call', what was the cause of death of the character Ellie according to the autopsy report?""
 Options:
 A. [""Heart attack""]
 B. [""Car accident""]
 C. [""Acute asthmatic episode""]
-D. [""Poisoning""]","[""Acute asthmatic episode""]"
+D. [""Poisoning",Acute asthmatic episode
 "In the 2008 movie ""One Missed Call"", what does Beth discover after Marie's spirit incapacitates Jack?
 Options:
 A. [""Marie's spirit clutching a cellphone""]
 B. [""Marie's charred corpse clutching a cellphone""]
 C. [""Marie weeping and murmuring""]
-D. [""Jack's spirit clutching a cellphone""]","[""Marie's charred corpse clutching a cellphone""]"
-"[""In the 2008 movie 'One Missed Call', what reason does Beth give Jack for why Marie might have brought her there?""]
+D. [""Jack's spirit clutching a cellphone",Marie's charred corpse clutching a cellphone
+"In the 2008 movie 'One Missed Call', what reason does Beth give Jack for why Marie might have brought her there?""]
 Options:
 A. [""To protect her""]
 B. [""To harm her""]
 C. [""To betray her""]
-D. [""To abandon her""]","[""To protect her""]"
-"""In the 2008 movie 'One Missed Call', what does Jack discover at Laurel's foster home?""
+D. [""To abandon her",To protect her
+"In the 2008 movie 'One Missed Call', what does Jack discover at Laurel's foster home?""
 Options:
 A. [""A compact disc from a nanny cam embedded in a teddy bear.""]
 B. [""A secret diary of Laurel.""]
 C. [""A mysterious phone.""]
-D. [""A hidden treasure map.""]","[""A compact disc from a nanny cam embedded in a teddy bear.""]"
-"""In the 2008 movie 'One Missed Call', what happens to Taylor before Beth arrives at the site?""
+D. [""A hidden treasure map.",A compact disc from a nanny cam embedded in a teddy bear.
+"In the 2008 movie 'One Missed Call', what happens to Taylor before Beth arrives at the site?""
 Options:
 A. [""Taylor is rescued by an unseen force""]
 B. [""Taylor fatally chokes an unseen force""]
 C. [""Taylor is fatally choked by an unseen force""]
-D. [""Taylor and the unseen force become friends""]","[""Taylor is fatally choked by an unseen force""]"
-"[""In the 2008 movie 'One Missed Call', what prompts Beth to race to a particular site?""]
+D. [""Taylor and the unseen force become friends",Taylor is fatally choked by an unseen force
+"In the 2008 movie 'One Missed Call', what prompts Beth to race to a particular site?""]
 Options:
 A. [""She receives a phone call.""]
 B. [""She sees an advertisement on TV.""]
 C. [""She gets a text message.""]
-D. [""She hears a radio announcement.""]","[""She sees an advertisement on TV.""]"
-"[""In the 2008 movie 'One Missed Call', what does the character Ted Summers, a TV producer, believe about spiritual energy?""]
+D. [""She hears a radio announcement.",She sees an advertisement on TV.
+"In the 2008 movie 'One Missed Call', what does the character Ted Summers, a TV producer, believe about spiritual energy?""]
 Options:
 A. [""It can be transmitted via cellular phones and manifest as hallucinations.""]
 B. [""It can be seen with the naked eye.""]
 C. [""It can only be felt, not seen or transmitted.""]
-D. [""It is a myth and does not exist.""]","[""It can be transmitted via cellular phones and manifest as hallucinations.""]"
-"[""In the 2008 movie 'One Missed Call', what object did Ellie use to injure Laurel?""]
+D. [""It is a myth and does not exist.",It can be transmitted via cellular phones and manifest as hallucinations.
+"In the 2008 movie 'One Missed Call', what object did Ellie use to injure Laurel?""]
 Options:
 A. [""A gun""]
 B. [""A knife""]
 C. [""A baseball bat""]
-D. [""Her bare hands""]","[""A knife""]"
-"[""In the 2008 movie 'One Missed Call', who did Marie discover was abusive?""]
+D. [""Her bare hands",A knife
+"In the 2008 movie 'One Missed Call', who did Marie discover was abusive?""]
 Options:
 A. [""Laurel""]
 B. [""Marie""]
 C. [""Ellie""]
-D. [""The hospital""]","[""Ellie""]"
-"""In the 2008 movie 'One Missed Call', what does Ellie do to Beth?""
+D. [""The hospital",Ellie
+"In the 2008 movie 'One Missed Call', what does Ellie do to Beth?""
 Options:
 A. [""Ellie helps Beth""]
 B. [""Ellie ignores Beth""]
 C. [""Ellie attacks Beth""]
-D. [""Ellie saves Beth""]","[""Ellie attacks Beth""]"
+D. [""Ellie saves Beth",Ellie attacks Beth
 "In the 2008 movie ""One Missed Call"", what happens between the characters Marie and Beth?
 Options:
 A. [""Marie and Beth have a fight""]
 B. [""Marie and Beth become best friends""]
 C. [""Marie's spirit reconciles with Beth before evanescing""]
-D. [""Marie betrays Beth""]","[""Marie's spirit reconciles with Beth before evanescing""]"
-"""In the 2008 movie 'One Missed Call', what object is Ellie bound in?""
+D. [""Marie betrays Beth",Marie's spirit reconciles with Beth before evanescing
+"In the 2008 movie 'One Missed Call', what object is Ellie bound in?""
 Options:
 A. [""Jack's car""]
 B. [""Jack's house""]
 C. [""Jack's phone""]
-D. [""Jack's computer""]","[""Jack's phone""]"
-"[""In the 2008 movie 'One Missed Call', what is the relationship between the characters Laurel and Ellie?""]
+D. [""Jack's computer",Jack's phone
+"In the 2008 movie 'One Missed Call', what is the relationship between the characters Laurel and Ellie?""]
 Options:
 A. [""Ellie is Laurel's mother.""]
 B. [""Ellie is Laurel's enemy who poisoned her with candies.""]
 C. [""Despite Ellie injuring her, Laurel reveals that Ellie always provided her candies.""]
-D. [""Laurel and Ellie are unrelated characters in the movie.""]","[""Despite Ellie injuring her, Laurel reveals that Ellie always provided her candies.""]"
-"[""In the 2008 movie 'One Missed Call', what action did the character Ellie take with an inhaler before collapsing?""]
+D. [""Laurel and Ellie are unrelated characters in the movie.","Despite Ellie injuring her, Laurel reveals that Ellie always provided her candies."
+"In the 2008 movie 'One Missed Call', what action did the character Ellie take with an inhaler before collapsing?""]
 Options:
 A. [""She threw it away""]
 B. [""She began pressing on it wheezingly""]
 C. [""She gave it to someone else""]
-D. [""She ignored it""]","[""She began pressing on it wheezingly""]"
-"""In the context of the 2008 movie 'One Missed Call', how is it categorized in the J-horror remake sweepstakes?""
+D. [""She ignored it",She began pressing on it wheezingly
+"In the context of the 2008 movie 'One Missed Call', how is it categorized in the J-horror remake sweepstakes?""
 Options:
 A. [""It is considered a strong entry""]
 B. [""It is considered a weak entry""]
 C. [""It is not considered an entry""]
-D. [""It is considered an average entry""]","[""It is considered a weak entry""]"
-"""What was the dubious distinction earned by the movie 'One Missed Call' in 2008?""
+D. [""It is considered an average entry",It is considered a weak entry
+"What was the dubious distinction earned by the movie 'One Missed Call' in 2008?""
 Options:
 A. [""It was the highest grossing film of the year.""]
 B. [""It was awarded the Oscar for Best Picture.""]
 C. [""It was awarded the Moldy Tomato Award for being the worst-reviewed film of the year.""]
-D. [""It won the Golden Globe for Best Drama.""]",It was awarded the Moldy Tomato Award for being the worst-reviewed film of the year.
-"""What is a significant criticism of the 2008 movie 'One Missed Call'?""
+D. [""It won the Golden Globe for Best Drama.",It was awarded the Moldy Tomato Award for being the worst-reviewed film of the year.
+"What is a significant criticism of the 2008 movie 'One Missed Call'?""
 Options:
 A. [""Innovative plot""]
 B. [""Bland performances""]
 C. [""Excellent cinematography""]
-D. [""Outstanding sound design""]","[""Bland performances""]"
-"""What is the 2008 movie 'One Missed Call' criticized for?""
+D. [""Outstanding sound design",Bland performances
+"What is the 2008 movie 'One Missed Call' criticized for?""
 Options:
 A. [""Its complex storyline""]
 B. [""Its excellent cinematography""]
 C. [""Its shopworn shocks""]
-D. [""Its outstanding performances""]","[""Its shopworn shocks""]"
-"""What genre does the 2008 movie 'One Missed Call' belong to?""
+D. [""Its outstanding performances",Its shopworn shocks
+"What genre does the 2008 movie 'One Missed Call' belong to?""
 Options:
 A. [""Romantic comedy""]
 B. [""Sci-fi""]
 C. [""J-horror""]
-D. [""Action thriller""]","[""J-horror""]"
-"""What is 'One Missed Call' from the year 2008?""
+D. [""Action thriller",J-horror
+"What is 'One Missed Call' from the year 2008?""
 Options:
 A. [""A novel""]
 B. [""A film""]
 C. [""A song""]
-D. [""A television series""]","[""A film""]"
-"[""Which song was used in television advertisements for the 2008 film 'One Missed Call'?""]
+D. [""A television series",A film
+"Which song was used in television advertisements for the 2008 film 'One Missed Call'?""]
 Options:
 A. [""I Don't Care by Fall Out Boy""]
 B. [""Life is Beautiful by Sixx:A.M.""]
 C. [""Bleeding Love by Leona Lewis""]
-D. [""Viva la Vida by Coldplay""]","[""Life is Beautiful by Sixx:A.M.""]"
+D. [""Viva la Vida by Coldplay",Life is Beautiful by Sixx:A.M.

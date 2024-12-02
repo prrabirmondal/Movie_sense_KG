@@ -1,4 +1,0 @@
-Summary Accuracy: 0.50
-Production Accuracy: 0.50
-Plot Accuracy: 0.00
-Overall Accuracy: 0.33

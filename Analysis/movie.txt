@@ -1,26 +1,26 @@
-Movie_name = A Haunted House 2, Year or release = 2014.
+Movie_name = Gangs of New York, Year or release = 2002.
  HERE IS THE DETAILS OF MOVIE'S CAST: 
 -----------------------------------------------------
  
-Marlon Wayans as Malcolm Johnson[4]
-Jaime Pressly as Megan[4]
-Essence Atkins as Kisha Davis[4]
-Dave Sheridan as Aghoul[4]
-Affion Crockett as Ray-Ray, Malcolm's gangster cousin[4]
-Cedric the Entertainer as Father Doug Williams[4]
-Gabriel Iglesias as Miguel José Jesús González Smith [4]
-Ashley Rickards as Becky[4]
-Missi Pyle as Noreen
-Hayes MacArthur as Ned
-Rick Overton as Professor Wilde
-Steele Stebbins as Wyatt
-Kurt Carley as Dr. Rousch
-Tom Virtue as Father Callahan
-Kym Whitley as Church Lady
-Gregg Wayans as Officer Jackson
-Mikal Kartvedt as Police Officer
-Mark Henry as Tough Voice Guy
-Iva La'Shawn as 1st Grade Teacher
-Taylor John Smith as Joey
-Kirsty Hill as Hot Coed
-Mari Possa as Hot Coed
+Leonardo DiCaprio as "Amsterdam" Vallon
+Daniel Day-Lewis as William "Bill the Butcher" Cutting
+Cameron Diaz as Jenny Everdeane
+Jim Broadbent as William "Boss" Tweed
+John C. Reilly as Happy Jack Mulraney
+Henry Thomas as Johnny Sirocco
+Liam Neeson as "Priest" Vallon
+Brendan Gleeson as Walter "Monk" McGinn
+Gary Lewis as McGloin
+Stephen Graham as Shang
+Eddie Marsan as Killoran
+Alec McCowen as Reverend Raleigh
+David Hemmings as John F. Schermerhorn
+Lawrence Gilliard Jr. as Jimmy Spoils
+Cara Seymour as Hell-Cat Maggie
+Roger Ashton-Griffiths as P. T. Barnum
+Barbara Bouchet as Mrs. Schermerhorn
+Michael Byrne as Horace Greeley
+John Sessions as Harry Watkins
+Richard Graham as Harvey Card Player
+Giovanni Lombardo Radice as Mr. Legree
+Tim Pigott-Smith as Calvinist Minister

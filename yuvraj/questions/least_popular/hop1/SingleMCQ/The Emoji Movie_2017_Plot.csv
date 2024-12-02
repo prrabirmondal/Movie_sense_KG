@@ -1,85 +1,85 @@
 Question & Options,Correct Answer
-"""In the 2017 movie 'The Emoji Movie', who are the parents of the character Gene?""
+"In the 2017 movie 'The Emoji Movie', who are the parents of the character Gene?""
 Options:
 A. [""Mel and Mary""]
 B. [""Mel and Gene""]
 C. [""Mary and Gene""]
-D. [""Mel and Mel""]","[""Mel and Mary""]"
-"""In the 2017 movie 'The Emoji Movie', who are the parents of the character Gene?""
+D. [""Mel and Mel",Mel and Mary
+"In the 2017 movie 'The Emoji Movie', who are the parents of the character Gene?""
 Options:
 A. [""Mel and Mary""]
 B. [""Mel and Jane""]
 C. [""John and Mary""]
-D. [""Mike and Mary""]","[""Mel and Mary""]"
-"""In the 2017 film 'The Emoji Movie', which emoji does Alex select to send as a text message?""
+D. [""Mike and Mary",Mel and Mary
+"In the 2017 film 'The Emoji Movie', which emoji does Alex select to send as a text message?""
 Options:
 A. [""Smiley""]
 B. [""Gene""]
 C. [""Heart""]
-D. [""Thumbs up""]","[""Gene""]"
-"""In the 2017 film 'The Emoji Movie', what does the character Smiler conclude about Gene?""
+D. [""Thumbs up",Gene
+"In the 2017 film 'The Emoji Movie', what does the character Smiler conclude about Gene?""
 Options:
 A. [""Gene is a hero.""]
 B. [""Gene is a 'malfunction' and therefore must be deleted.""]
 C. [""Gene is a villain.""]
-D. [""Gene is Smiler's best friend.""]","[""Gene is a 'malfunction' and therefore must be deleted.""]"
-"""In the 2017 movie 'The Emoji Movie', who rescues Gene from the bots sent by Smiler?""
+D. [""Gene is Smiler's best friend.",Gene is a 'malfunction' and therefore must be deleted.
+"In the 2017 movie 'The Emoji Movie', who rescues Gene from the bots sent by Smiler?""
 Options:
 A. [""Smiler""]
 B. [""Jailbreak""]
 C. [""Poop""]
-D. [""Hi-5""]","[""Hi-5""]"
-"[""In the 2017 movie 'The Emoji Movie', what does the character Smiler do when she finds out that Gene has left Textopolis?""]
+D. [""Hi-5",Hi-5
+"In the 2017 movie 'The Emoji Movie', what does the character Smiler do when she finds out that Gene has left Textopolis?""]
 Options:
 A. [""She sends more bots to look for Gene""]
 B. [""She ignores the situation""]
 C. [""She decides to leave Textopolis as well""]
-D. [""She blames Gene for Alex's phone issues""]","[""She sends more bots to look for Gene""]"
-"[""In the 2017 film 'The Emoji Movie', who does the character Gene come across during his adventure who wants to reach Dropbox and live in the cloud?""]
+D. [""She blames Gene for Alex's phone issues",She sends more bots to look for Gene
+"In the 2017 film 'The Emoji Movie', who does the character Gene come across during his adventure who wants to reach Dropbox and live in the cloud?""]
 Options:
 A. [""Hi-5""]
 B. [""Smiler""]
 C. [""Poop""]
-D. [""Jailbreak""]","[""Jailbreak""]"
-"[""In the 2017 movie 'The Emoji Movie', who reveals that Gene can be fixed in the cloud?""]
+D. [""Jailbreak",Jailbreak
+"In the 2017 movie 'The Emoji Movie', who reveals that Gene can be fixed in the cloud?""]
 Options:
 A. [""Hi-5""]
 B. [""Smiler""]
 C. [""Jailbreak""]
-D. [""Poop""]","[""Jailbreak""]"
-"""In the 2017 movie 'The Emoji Movie', which character escapes into the game Candy Crush and is revealed to be a princess emoji who fled home?""
+D. [""Poop",Jailbreak
+"In the 2017 movie 'The Emoji Movie', which character escapes into the game Candy Crush and is revealed to be a princess emoji who fled home?""
 Options:
 A. [""Gene""]
 B. [""Smiler""]
 C. [""Jailbreak""]
-D. [""Hi-5""]","[""Jailbreak""]"
-"""In the 2017 movie 'The Emoji Movie', which character goes off into the 'Just Dance' app?""
+D. [""Hi-5",Jailbreak
+"In the 2017 movie 'The Emoji Movie', which character goes off into the 'Just Dance' app?""
 Options:
 A. [""Smiler""]
 B. [""Hi-5""]
 C. [""Jailbreak""]
-D. [""Gene""]","[""Gene""]"
-"""In the 2017 movie 'The Emoji Movie', what does the character Jailbreak escape from being stereotyped as in the Just Dance app?""
+D. [""Gene",Gene
+"In the 2017 movie 'The Emoji Movie', what does the character Jailbreak escape from being stereotyped as in the Just Dance app?""
 Options:
 A. [""A princess emoji""]
 B. [""A smiley emoji""]
 C. [""A dancer emoji""]
-D. [""A hacker emoji""]","[""A princess emoji""]"
-"[""In the 2017 film 'The Emoji Movie', why are Gene and Smiler considered enemies?""]
+D. [""A hacker emoji",A princess emoji
+"In the 2017 film 'The Emoji Movie', why are Gene and Smiler considered enemies?""]
 Options:
 A. [""Because Smiler is in love with Gene""]
 B. [""Because Smiler is jealous of Gene's popularity""]
 C. [""Because Smiler threatened to delete Gene""]
-D. [""Because Smiler stole something from Gene""]","[""Because Smiler threatened to delete Gene""]"
-"""In the 2017 film 'The Emoji Movie', why are the characters Mel and Smiler considered enemies?""
+D. [""Because Smiler stole something from Gene",Because Smiler threatened to delete Gene
+"In the 2017 film 'The Emoji Movie', why are the characters Mel and Smiler considered enemies?""
 Options:
 A. [""Mel is jealous of Smiler's popularity""]
 B. [""Smiler stole something important from Mel""]
 C. [""Smiler threatened to delete Mel""]
-D. [""Mel and Smiler are competing for the same love interest""]","[""Smiler threatened to delete Mel""]"
-"[""In the 2017 movie 'The Emoji Movie', what is the nature of the relationship between Alex and Addie?""]
+D. [""Mel and Smiler are competing for the same love interest",Smiler threatened to delete Mel
+"In the 2017 movie 'The Emoji Movie', what is the nature of the relationship between Alex and Addie?""]
 Options:
 A. [""They are siblings""]
 B. [""They are enemies""]
 C. [""They communicate through text message""]
-D. [""They are parents and child""]","[""They communicate through text message""]"
+D. [""They are parents and child",They communicate through text message

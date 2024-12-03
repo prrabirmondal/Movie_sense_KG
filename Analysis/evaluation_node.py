@@ -50,5 +50,5 @@ def eval_nodes(node_file, triplet_eval):
             else: triplet_eval["relation_irrelevant"] += 1
             
         else: triplet_eval["triplet_irrelevant"] += 1
-        
+        # break
     return triplet_eval

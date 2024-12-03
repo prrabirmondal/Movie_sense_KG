@@ -114,14 +114,17 @@ def eval_question(yes_no_questions, MCQ_S_questions, MCQ_M_questions, eval_dataf
     for index, row in yes_no_questions.iterrows():
         question_col, answer_col = "Question", "Answer"
         eval_dataframe_yes_no = single_question_eval(row, question_col, answer_col, eval_dataframe_yes_no)
+        # break
     
     for index, row in MCQ_S_questions.iterrows():
         question_col, answer_col = "Question & Options", "Correct Answer"
         eval_dataframe_MCQ_S = single_question_eval(row, question_col, answer_col, eval_dataframe_MCQ_S)
+        # break
     
     for index, row in MCQ_M_questions.iterrows():
         question_col, answer_col = "Question & Options", "Correct Answer"
         eval_dataframe_MCQ_M = single_question_eval(row, question_col, answer_col, eval_dataframe_MCQ_M)
+        # break
     
     
     return eval_dataframe_yes_no, eval_dataframe_MCQ_S, eval_dataframe_MCQ_M

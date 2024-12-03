@@ -195,6 +195,7 @@ def human_eval(movie_links, filmIndustry, nodeFile_root):
                         total_movie += 1
                         process_kg.clear_terminal()
                         print(f"CONGRATULATIONS!!, total {total_movie} movie(s) of {aspect} aspect done. Keep doing. Thanks.\n Press Enter for the next movie.")
+                        input()
                         if total_movie == 30:
                             break
                             

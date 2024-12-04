@@ -1,0 +1,7 @@
+Question,Answer
+"Does the movie ""Fitoor"" released in 2016 lack a summary that provides an overview of its plot?",NO
+"Is the summary an essential part of the movie ""Fitoor"" released in 2016?",YES
+Is the message displayed in the movie Fitoor from 2016 due to a user request for details about its summary?,NO
+Is the message in Fitoor from 2016 displayed for some other issue with the system?,YES
+"Did the user not request the details of the movie summary for ""Fitoor"" released in 2016?",NO
+"Did the user request the details of the movie summary for ""Fitoor"" released in 2016?",YES

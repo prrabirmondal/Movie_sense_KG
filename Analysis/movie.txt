@@ -1,18 +1,25 @@
-Movie_name = Anacondas: The Hunt for the Blood Orchid, Year or release = 2004.
+Movie_name = The Fog, Year or release = 2005.
  HERE IS THE DETAILS OF MOVIE'S CAST: 
 -----------------------------------------------------
- Morris Chestnut as Gordon Mitchell
-Salli Richardson-Whitfield as Gail Stern
-Matthew Marsden as Dr. Jack Byron
-Eugene Byrd as Cole Burris
-KaDee Strickland as Sam Rogers
-Johnny Messner as Bill Johnson
-Karl Yune as Tran Wu
-Nicholas Gonzalez as Dr. Ben Douglas
-Andy Anderson as John Livingston
-Nicholas Hope as Christian Van Dyke
-Peter Curtin as Lawyer
-Denis Arndt as CEO
-Andre Tandjung as Bartender
-Khoa Do as Lead Lopak Hunter
-Aireti as Lopak Hunter
+ 
+Tom Welling as Nicholas "Nick" Castle
+Maggie Grace as Elizabeth Williams
+Selma Blair as Stevie Wayne
+DeRay Davis as Spooner
+Kenneth Welsh as Mayor Tom Malone
+Adrian Hough as Father Robert Malone
+Sara Botsford as Kathy Williams
+Cole Heppell as Andy Wayne
+Mary Black as Aunt Connie
+Jonathon Young as Dan the Weatherman
+R. Nelson Brown as Machen
+Christian Bocher as Founding Father Malone
+Douglas H. Arthurs as Founding Father Williams
+Yves Cameron as Founding Father Wayne
+Charles André as Founding Father Castle
+Rade Šerbedžija as Captain Blake
+Matthew Currie Holmes as Sean Castle
+Sonja Bennett as Mandi
+Meghan Heffern as Brandi/Jennifer
+Alex Bruhanski as Uncle Hank Castle
+Dan Shea and Rick Pearce as Fishermen

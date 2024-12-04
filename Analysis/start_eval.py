@@ -2,7 +2,8 @@ import pandas as pd
 import evaluation
 
 
-#*********** change one path at process_kg.py (questionFile_root)
+#*********** change two paths at process_kg.py (questionFile_root) and
+# *********** at scrape.py (save_file_path)
 
 
 movie_links = pd.read_excel("/mnt/Data/prabirmondal/prabir/python_program/movie_sense/SRI_KG/Movie_sense_KG/Movie_sense_KG/aspect_wise_knowledge_graph/workspace/Movie_list.xlsx", sheet_name = "hollywood", engine='openpyxl')

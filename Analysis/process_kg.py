@@ -28,8 +28,10 @@ def randomPick_question(df):
     random_row = pd.DataFrame(columns=['Column1', 'Column2', 'Column3'])
     
     total_question = len(df)
-    if total_question >= 10:
+    if total_question >= 7:
         sample_30_count = int(0.3*total_question)
+        # print(f"total question to evaluate = {sample_30_count}")
+        # input()
         # Randomly select a single row
         random_row = df.sample(n=sample_30_count, random_state=seed_value)
         # random_rows = df.sample(n=n, random_state=seed_value)

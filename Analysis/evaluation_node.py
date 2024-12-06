@@ -40,12 +40,13 @@ def eval_nodes(node_file, triplet_eval):
         
 
     
-    for index, row in node_file.iterrows():        
-        triplet_eval_response = triplet_eval_response(row)
-        if triplet_eval_response == 1:
+    for index, row in node_file.iterrows():  
+        # print(f"node = {index}/{len(node_file)}"); input()      
+        triplet_eval_response_1 = triplet_eval_response(row)
+        if triplet_eval_response_1 == 1:
             triplet_eval["triplet_relevant"] += 1           
-            triplet_relation_eval_response = triplet_relation_eval_response(row)
-            if triplet_relation_eval_response == 1:
+            triplet_relation_eval_response_1 = triplet_relation_eval_response(row)
+            if triplet_relation_eval_response_1 == 1:
                 triplet_eval["relation_relevant"] += 1
             else: triplet_eval["relation_irrelevant"] += 1
             
